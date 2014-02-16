@@ -44,7 +44,14 @@ class SubtitleSplitter:
 	def trimLine(self, line):
 		return re.sub(r'\A(\s*-?\s+)', r'', line)
 
-os.chdir("subtitles")
+class CharacterGraphMaker:
+	def __init__(self, episodeLines):
+		self.episodeLines = episodeLines
+
+	def getConversationSpeakers(self, line):
+		return None
+		
+os.chdir("Subtitles")
 for episode in glob.glob("*.srt"):
 	#print episode
 	episodeSplitter = SubtitleSplitter(episode)
