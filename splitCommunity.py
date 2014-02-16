@@ -45,16 +45,31 @@ class SubtitleSplitter:
 		return re.sub(r'\A(\s*-?\s+)', r'', line)
 
 class CharacterGraphMaker:
-	def __init__(self, episodeLines):
-		self.episodeLines = episodeLines
+	def __init__(self, episodeName, episodeLines):
+		self.episodeName = episodeName
+		for line in episodeLines:
+			self.getConversationSpeakers(line)
 
 	def getConversationSpeakers(self, line):
-		return None
-		
+		spoken, characters = line.split("\t|")
+		print self.getSpeakerListeners(characters.split(" "))
+
+
+	def getSpeakerListeners(self, characterList):
+		speaker = characterList[0]
+		group = ["Jeff", "Britta", "Abed", "Troy", "Pierce", "Shirley", "Annie"]
+		if len(characterList) == 1:
+			return speaker, ""
+		if len(characterList[1:]) != 1:
+			listeners = characterList[1:]
+			return speaker, listeners
+		if characterList[1] == "Group":
+			listeners = [character for character in group if character != speaker]
+			return speaker, listeners
+		else:
+			return speaker, characterList[1]
+
 os.chdir("Subtitles")
 for episode in glob.glob("*.srt"):
-	#print episode
 	episodeSplitter = SubtitleSplitter(episode)
-	#episodeSplitter.returnLines()
-	for line in episodeSplitter.returnLines():
-			print line
+	characterGraph = CharacterGraphMaker(episode, episodeSplitter.returnLines())
