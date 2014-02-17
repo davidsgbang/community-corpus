@@ -1,6 +1,7 @@
 import glob
 import os
 import re
+import pprint
 
 class SubtitleSplitter:
 	def __init__(self, file):
@@ -35,8 +36,9 @@ class SubtitleSplitter:
 		
 
 	def process2Lines(self, dupleLines):
+		# if the first line is the end of the line, then return two as separate lines
 		if len(dupleLines) == 2:
-			if dupleLines[1][0] == "-":
+			if dupleLines[0].find("|") > -1:
 				return dupleLines
 		return " ".join(dupleLines)
 
@@ -47,29 +49,60 @@ class SubtitleSplitter:
 class CharacterGraphMaker:
 	def __init__(self, episodeName, episodeLines):
 		self.episodeName = episodeName
+		self.characterList = {}
 		for line in episodeLines:
 			self.getConversationSpeakers(line)
 
 	def getConversationSpeakers(self, line):
 		spoken, characters = line.split("\t|")
-		print self.getSpeakerListeners(characters.split(" "))
-
-
+		speaker, listeners = self.getSpeakerListeners(characters.split(" "))	
+		if speaker not in self.characterList:
+			self.characterList[speaker] = Character(speaker)
+		for listener in listeners:
+			self.characterList[speaker].spokenTo(listener, spoken)
+		
 	def getSpeakerListeners(self, characterList):
 		speaker = characterList[0]
 		group = ["Jeff", "Britta", "Abed", "Troy", "Pierce", "Shirley", "Annie"]
+		#monologue
 		if len(characterList) == 1:
 			return speaker, ""
+		# more than one
 		if len(characterList[1:]) != 1:
 			listeners = characterList[1:]
 			return speaker, listeners
+		# spoken to the group
 		if characterList[1] == "Group":
 			listeners = [character for character in group if character != speaker]
 			return speaker, listeners
+		#dialogue
 		else:
-			return speaker, characterList[1]
+			return speaker, [characterList[1]]
+
+	def getGraph(self):
+		return self.characterList
+
+class Character:
+	def __init__(self, name):
+		self.name = name
+		self.interactions = {}
+
+	def spokenTo(self, listener, line):
+		#print listener
+		if listener in self.interactions:
+			self.interactions[listener].append(line)
+		else:
+			self.interactions[listener] = [line]
+
+	def printChar(self):
+		print "\n"
+		print self.name + "\n"
+		print self.interactions
 
 os.chdir("Subtitles")
+pp = pprint.PrettyPrinter(indent = 4)
 for episode in glob.glob("*.srt"):
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph = CharacterGraphMaker(episode, episodeSplitter.returnLines())
+	graph = characterGraph.getGraph()
+	pp.pprint(graph["Jeff"].interactions["Britta"])
