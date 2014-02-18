@@ -739,8 +739,8 @@ Cool, cool, cool.
 
 161
 00:07:13,507 --> 00:07:15,237
-<i>hey, this is kind of like
-breakfast club, huh?</i>	|Abed Jeff Britta
+hey, this is kind of like
+breakfast club, huh?	|Abed Jeff Britta
 
 162
 00:07:15,238 --> 00:07:16,868
@@ -1205,7 +1205,7 @@ About this group on accident?	|Annie Group
 
 260
 00:11:23,759 --> 00:11:26,143
-- <i>- this is getting way more like breakfast club now.</i>	|Abed Group
+- - this is getting way more like breakfast club now.	|Abed Group
 - there's breakfast?	|Pierce Abed
 
 261
@@ -1447,8 +1447,8 @@ that--
 
 310
 00:13:47,062 --> 00:13:49,970
-<i>That actually was from
-The Breakfast Club.</i>	|Jeff Abed
+That actually was from
+The Breakfast Club.	|Jeff Abed
 
 311
 00:13:51,068 --> 00:13:53,040
@@ -1457,7 +1457,7 @@ in the corner.	|Abed Jeff
 
 312
 00:13:53,897 --> 00:13:55,462
-<i>Dirty Dancing.</i>
+Dirty Dancing.
 
 313
 00:13:55,463 --> 00:13:57,180
@@ -1466,7 +1466,7 @@ It's Professor Duncan.
 
 314
 00:13:57,181 --> 00:13:59,276
-<i>Come to the parking lot now.</i>	|Duncan Jeff
+Come to the parking lot now.	|Duncan Jeff
 
 315
 00:13:59,403 --> 00:14:00,990
@@ -1647,8 +1647,8 @@ to go in there and clean up your mess.	|Britta Jeff
 
 352
 00:16:00,343 --> 00:16:03,459
-<i>Okay, I am the Barack Obama
-of this room.</i>	|Troy Group
+Okay, I am the Barack Obama
+of this room.	|Troy Group
 
 353
 00:16:03,755 --> 00:16:06,655

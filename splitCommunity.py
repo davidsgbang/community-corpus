@@ -66,7 +66,7 @@ class CharacterGraphMaker:
 		group = ["Jeff", "Britta", "Abed", "Troy", "Pierce", "Shirley", "Annie"]
 		#monologue
 		if len(characterList) == 1:
-			return speaker, ""
+			return speaker, ["self"]
 		# more than one
 		if len(characterList[1:]) != 1:
 			listeners = characterList[1:]
@@ -95,14 +95,21 @@ class Character:
 			self.interactions[listener] = [line]
 
 	def printChar(self):
-		print "\n"
 		print self.name + "\n"
 		print self.interactions
+		print "\n"
 
 os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
+'''
 for episode in glob.glob("*.srt"):
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph = CharacterGraphMaker(episode, episodeSplitter.returnLines())
 	graph = characterGraph.getGraph()
-	pp.pprint(graph["Jeff"].interactions["Britta"])
+	graph["Troy"].printChar()
+'''
+episodeSplitter = SubtitleSplitter("Community - 1x01 - Pilot.HDTV.FQM.en.srt")	
+characterGraph = CharacterGraphMaker("Community - 1x01 - Pilot.HDTV.FQM.en.srt", episodeSplitter.returnLines())
+graph = characterGraph.getGraph()
+for char in graph:
+	graph[char].printChar()
