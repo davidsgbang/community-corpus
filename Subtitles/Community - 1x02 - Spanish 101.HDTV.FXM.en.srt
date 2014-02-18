@@ -944,7 +944,7 @@ Poignant.	|Annie Shirley
 
 204
 00:11:47,813 --> 00:11:50,481
-- Tell me what I've got so far.
+- Tell me what I've got so far.	|Pierce Jeff
 - What we have so far?
 
 205
@@ -982,27 +982,27 @@ the only thing not included in this epic
 212
 00:12:09,310 --> 00:12:12,689
 are the five phrases required
-to get me a passing grade.
+to get me a passing grade.	|Jeff Pierce
 
 213
 00:12:14,267 --> 00:12:15,901
 You're right.
-Needs more work.
+Needs more work.	|Pierce Jeff
 
 214
 00:12:16,170 --> 00:12:18,320
-- What are you guys doing?
-- I have no idea.
+- What are you guys doing?	|Abed Jeff Pierce
+- I have no idea.	|Jeff Abed
 
 215
 00:12:18,704 --> 00:12:20,697
-- Well, we're headed to the demonstration.
-- What, Hippies?
+- Well, we're headed to the demonstration.	|Abed Jeff Pierce
+- What, Hippies?	|Pierce Abed
 
 216
 00:12:20,866 --> 00:12:23,954
-- Some cause Britta's into.
-- It's a silent protest. Lots of candles.
+- Some cause Britta's into.	|Troy Pierce Jeff
+- It's a silent protest. Lots of candles.	|Abed Pierce Jeff
 
 217
 00:12:24,079 --> 00:12:26,638
@@ -1028,12 +1028,11 @@ What do you want to do?
 
 222
 00:12:47,642 --> 00:12:48,642
-Hacks.
+Hacks.	|Pierce Abed Troy
 
 223
 00:12:49,894 --> 00:12:52,646
-What do we do
-about the ending of act two?
+What do we do about the ending of act two?	|Pierce Jeff
 
 224
 00:12:53,023 --> 00:12:54,548
@@ -1055,18 +1054,16 @@ tomorrow morning before class.
 
 228
 00:13:05,145 --> 00:13:07,195
-- Good night.
+- Good night.	|Jeff Pierce
 - Wait a minute.
 
 229
 00:13:07,320 --> 00:13:09,456
-You're bailing on our
- first sausage fest?
+You're bailing on our first sausage fest?
 
 230
 00:13:09,581 --> 00:13:11,772
-This is your definition
-  of friendship?
+This is your definition of friendship?	|Pierce Jeff
 
 231
 00:13:11,897 --> 00:13:14,989
@@ -1095,21 +1092,21 @@ caring about something stupid,
 236
 00:13:25,854 --> 00:13:29,858
 and this is my chance to show her that 
-I care enough to act like I care about it too.
+I care enough to act like I care about it too.	|Jeff Pierce
 
 237
 00:13:30,644 --> 00:13:32,897
-- That's all you had to say, Jeff.
+- That's all you had to say, Jeff.	|Pierce Jeff
 - That was it?
 
 238
 00:13:33,022 --> 00:13:35,814
 That would've been great
-if I had done that two hours ago!
+if I had done that two hours ago!	|Jeff Pierce
 
 239
 00:14:18,712 --> 00:14:19,566
-Nice sign.
+Nice sign.	|Britta Jeff
 
 240
 00:14:19,567 --> 00:14:20,567
@@ -1118,7 +1115,7 @@ Thanks.
 241
 00:14:21,649 --> 00:14:23,442
 I like what you've done
-with the place.
+with the place.	|Jeff Britta
 
 242
 00:14:25,328 --> 00:14:27,329
@@ -1127,12 +1124,12 @@ too harsh on you.
 
 243
 00:14:27,454 --> 00:14:28,754
-I'm not perfect.
+I'm not perfect.	|Britta Jeff
 
 244
 00:14:29,704 --> 00:14:32,162
 I am.
-I'd be happy to show you the ropes.
+I'd be happy to show you the ropes.	|Jeff Britta
 
 245
 00:14:32,620 --> 00:14:33,620
@@ -1160,16 +1157,16 @@ and your cool
 
 251
 00:14:46,613 --> 00:14:48,163
-tape over your mouth.
+tape over your mouth.	|Pierce Jeff
 
 252
 00:14:49,414 --> 00:14:51,389
 Why is everybody wearing
-tape over their mouth?
+tape over their mouth?	|Pierce All
 
 253
 00:14:51,894 --> 00:14:53,099
-It's a protest, Pierce.
+It's a protest, Pierce.	|Jeff Pierce
 
 254
 00:14:53,581 --> 00:14:54,377
@@ -1182,16 +1179,16 @@ what I'd like to protest...
 
 256
 00:14:57,016 --> 00:14:58,327
-How much you hurt me.
+How much you hurt me.	|Pierce Jeff
 
 257
 00:14:58,452 --> 00:15:02,016
 Conflicts like these will ultimately
-bring us together as an unlikely family.
+bring us together as an unlikely family.	|Abed Troy
 
 258
 00:15:02,141 --> 00:15:05,899
-- You have horrible breath right now.
+- You have horrible breath right now.	|Troy Abed
 - First, you constantly blow me off,
 
 259
@@ -1210,12 +1207,12 @@ You have to come out here to pretend
 262
 00:15:14,222 --> 00:15:17,415
 to care about the stupid
-stuff she cares about.
+stuff she cares about.	|Pierce Jeff
 
 263
 00:15:17,728 --> 00:15:20,502
-- His words, not mine.
-- He is paraphrasing.
+- His words, not mine.	|Pierce Britta
+- He is paraphrasing.	|Jeff Britta
 
 264
 00:15:21,066 --> 00:15:22,391
@@ -1229,7 +1226,7 @@ get a cup of coffee,
 266
 00:15:23,818 --> 00:15:26,633
 and hold some waitress hostage
-with a monologue about your sperm.
+with a monologue about your sperm.	|Jeff Pierce
 
 267
 00:15:27,002 --> 00:15:29,104
@@ -1238,11 +1235,11 @@ I'll show you some sperm, buddy.
 268
 00:15:29,505 --> 00:15:32,514
 Was this your idea?
-What the hell? Fire.
+What the hell? Fire.	|Pierce Jeff
 
 269
 00:15:34,100 --> 00:15:35,393
-I'm not ready to die.
+I'm not ready to die.	|Pierce All
 
 270
 00:15:39,233 --> 00:15:41,250
@@ -1250,12 +1247,12 @@ He's jumped in the fountain.
 
 271
 00:15:41,954 --> 00:15:42,954
-He's fine.
+He's fine.	|Jeff Britta
 
 272
 00:15:48,782 --> 00:15:51,453
-- Have you seen it?
-- We did it, girl... Page three.
+- Have you seen it?	|Annie Britta
+- We did it, girl... Page three.	|Shirley Britta
 
 273
 00:15:51,578 --> 00:15:53,765
@@ -1269,31 +1266,31 @@ regarding events in Guatemala."
 
 275
 00:15:57,266 --> 00:15:59,142
-- Awareness!
+- Awareness!	|Annie Britta
 - And this isn't the school paper, by the way.
 
 276
 00:15:59,267 --> 00:16:01,418
 This is a real damn paper,
-there's a marmaduke in there.
+there's a marmaduke in there.	|Shirley Britta
 
 277
 00:16:01,586 --> 00:16:03,461
 Well, it's more than 
-I ever accomplished.
+I ever accomplished.	|Britta Shirley Annie
 
 278
 00:16:03,630 --> 00:16:05,505
 Did you guys know about 
-the ethnic cleansing in Burma?
+the ethnic cleansing in Burma?	|Annie Shirley
 
 279
 00:16:05,674 --> 00:16:07,624
-Need to bust out that brownie mix.
+Need to bust out that brownie mix.	|Shirley Annie
 
 280
 00:16:12,518 --> 00:16:13,518
-Morning.
+Morning.	|Jeff Britta
 
 281
 00:16:16,359 --> 00:16:18,762
@@ -1302,7 +1299,7 @@ Garfield's wishing me a happy Arbor Day,
 
 282
 00:16:18,887 --> 00:16:20,729
-- And you'd like a fresh start.
+- And you'd like a fresh start.	|Britta Jeff
 - Nice try.
 
 283
@@ -1363,7 +1360,7 @@ looking out for himself
 294
 00:16:55,306 --> 00:16:58,849
 and he would trade it all
-for a shot at some kind of family.
+for a shot at some kind of family.	|Britta Group
 
 295
 00:17:08,218 --> 00:17:09,694
@@ -1381,7 +1378,7 @@ but Pierce explained the situation.
 298
 00:17:14,841 --> 00:17:18,702
 Apparently there was a falling out,
-things were said, people were betrayed.
+things were said, people were betrayed.	|Chang All
 
 299
 00:17:20,418 --> 00:17:22,540
@@ -1396,12 +1393,12 @@ would be to give you a "C"
 301
 00:17:26,003 --> 00:17:29,058
 and let Pierce do his presentation alone,
-if that sounds fair to you.
+if that sounds fair to you.	|Chang Jeff
 
 302
 00:17:34,953 --> 00:17:36,861
 That doesn't sound fair
-to me at all.
+to me at all.	|Jeff Chang
 
 303
 00:17:37,598 --> 00:17:39,808
@@ -1418,11 +1415,11 @@ It is bigger than the both of us,
 
 306
 00:17:44,384 --> 00:17:47,049
-and it deserves to be done right.
+and it deserves to be done right.	|Jeff Pierce
 
 307
 00:17:49,755 --> 00:17:50,755
-All right.
+All right.	|Pierce Jeff
 
 308
 00:17:54,389 --> 00:17:57,164
@@ -1431,32 +1428,32 @@ These are short conversations,
 
 309
 00:17:57,289 --> 00:17:59,619
-- they're not supposed to take...
+- they're not supposed to take...	|Chang Jeff
 - Your breath away?
 
 310
 00:18:01,122 --> 00:18:02,080
-Well, tough.
+Well, tough.	|Jeff Chang
 
 311
 00:18:03,078 --> 00:18:04,266
-You ready, amigo?
+You ready, amigo?	|Jeff Pierce
 
 312
 00:19:27,705 --> 00:19:28,513
-F.
+F.	|Chang Pierce
 
 313
 00:19:29,113 --> 00:19:29,918
-F-minus.
+F-minus.	|Chang Jeff
 
 314
 00:19:30,744 --> 00:19:31,744
-What?
+What?	|Jeff Chang
 
 315
 00:19:33,261 --> 00:19:34,589
-Did you say S?
+Did you say S?	|Pierce Chang
 
 316
 00:19:38,939 --> 00:19:39,680
@@ -1474,12 +1471,12 @@ of it, a pretty selfless act,
 
 319
 00:19:47,573 --> 00:19:49,027
-so I'm impressed.
+so I'm impressed.	|Britta Jeff
 
 320
 00:19:49,272 --> 00:19:52,353
 Well, how do you know I didn't do it
-just to get another shot at you?
+just to get another shot at you?	|Jeff Britta
 
 321
 00:19:52,478 --> 00:19:54,367
@@ -1493,7 +1490,7 @@ to look at you as a sexually viable candidate
 
 323
 00:19:58,082 --> 00:19:59,072
-ever again.
+ever again.	|Britta Jeff
 
 324
 00:20:01,508 --> 00:20:02,450
@@ -1501,11 +1498,11 @@ No, I know.
 
 325
 00:20:02,618 --> 00:20:03,861
-I thought of that.
+I thought of that.	|Jeff Britta
 
 326
 00:20:05,199 --> 00:20:06,499
-She looked back.
+She looked back.	|Jeff
 
 327
 00:20:09,995 --> 00:20:12,795
@@ -1520,16 +1517,12 @@ when you're trying to be funny
 329
 00:20:17,397 --> 00:20:20,997
 that forces people to think
-about how cool you think you are.
+about how cool you think you are.	|Pierce Jeff
 
 330
 00:21:03,449 --> 00:21:04,397
-It's 2009.
+It's 2009.	|Jeff Pierce
 
 331
 00:21:04,803 --> 00:21:05,635
-Word.
-
-9999
-00:00:0,500 --> 00:00:2,00
-<font color="#ffff00" size=14>www.tvsubtitles.net</font>
+Word.	|Pierce Jeff

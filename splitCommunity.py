@@ -47,9 +47,11 @@ class SubtitleSplitter:
 		return re.sub(r'\A(\s*-?\s+)', r'', line)
 
 class CharacterGraphMaker:
-	def __init__(self, episodeName, episodeLines):
-		self.episodeName = episodeName
+	def __init__(self):
 		self.characterList = {}
+
+	def addEpisode(self, episode, episodeLines):
+		self.episodeName = episode
 		for line in episodeLines:
 			self.getConversationSpeakers(line)
 
@@ -101,15 +103,10 @@ class Character:
 
 os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
-'''
+characterGraph = CharacterGraphMaker()
 for episode in glob.glob("*.srt"):
+	print episode
 	episodeSplitter = SubtitleSplitter(episode)
-	characterGraph = CharacterGraphMaker(episode, episodeSplitter.returnLines())
+	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 	graph = characterGraph.getGraph()
 	graph["Troy"].printChar()
-'''
-episodeSplitter = SubtitleSplitter("Community - 1x01 - Pilot.HDTV.FQM.en.srt")	
-characterGraph = CharacterGraphMaker("Community - 1x01 - Pilot.HDTV.FQM.en.srt", episodeSplitter.returnLines())
-graph = characterGraph.getGraph()
-for char in graph:
-	graph[char].printChar()
