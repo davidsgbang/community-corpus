@@ -944,7 +944,7 @@ Poignant.	|Annie Shirley
 
 204
 00:11:47,813 --> 00:11:50,481
-- Tell me what I've got so far.	|Pierce Jeff
+- Alright, tell me what I've got so far.	|Pierce Jeff
 - What we have so far?
 
 205
@@ -996,13 +996,13 @@ Needs more work.	|Pierce Jeff
 
 215
 00:12:18,704 --> 00:12:20,697
-- Well, we're headed to the demonstration.	|Abed Jeff Pierce
+- Well, we're headed to the demonstration.	|Troy Jeff Pierce
 - What, Hippies?	|Pierce Abed
 
 216
 00:12:20,866 --> 00:12:23,954
 - Some cause Britta's into.	|Troy Pierce Jeff
-- It's a silent protest. Lots of candles.	|Abed Pierce Jeff
+- It's a silent protest. Lots of candles.
 
 217
 00:12:24,079 --> 00:12:26,638
@@ -1011,12 +1011,12 @@ change. If you know what I mean.
 
 218
 00:12:26,763 --> 00:12:30,613
-- Good chance to put some miles on this shirt.
+- Good chance to put some miles on this shirt.	|Abed Pierce Jeff
 - You realize these conversations are due in the morning.
 
 219
 00:12:30,614 --> 00:12:31,614
- - Don't you?
+ - Don't you?	|Pierce Troy Abed
 
 220
 00:12:32,978 --> 00:12:33,829
@@ -1024,7 +1024,27 @@ Right.
 
 221
 00:12:36,079 --> 00:12:37,323
-What do you want to do?
+What do you want to do?	|Troy Abed
+
+221
+00:12:36,079 --> 00:12:37,323
+Hola, mi llamo Abed	|Abed Troy
+
+221
+00:12:36,079 --> 00:12:37,323
+Hola, mi llamo Troy	|Troy Abed
+
+221
+00:12:36,079 --> 00:12:37,323
+Donde esta la biblioteca?	|Abed Troy
+
+221
+00:12:36,079 --> 00:12:37,323
+La biblioteca esta en la ciudad	|Troy Abed
+
+221
+00:12:36,079 --> 00:12:37,323
+Gracias	|Abed Troy
 
 222
 00:12:47,642 --> 00:12:48,642
@@ -1032,11 +1052,11 @@ Hacks.	|Pierce Abed Troy
 
 223
 00:12:49,894 --> 00:12:52,646
-What do we do about the ending of act two?	|Pierce Jeff
+Okay What do we do about the ending of act two?	|Pierce Jeff
 
 224
 00:12:53,023 --> 00:12:54,548
-I tell you what we're gonna do.
+I'll tell you what we're gonna do.
 
 225
 00:12:54,979 --> 00:12:58,777
@@ -1055,7 +1075,7 @@ tomorrow morning before class.
 228
 00:13:05,145 --> 00:13:07,195
 - Good night.	|Jeff Pierce
-- Wait a minute.
+- Wait a minute, Wait a minute, Wait a minute.
 
 229
 00:13:07,320 --> 00:13:09,456
@@ -1170,7 +1190,7 @@ It's a protest, Pierce.	|Jeff Pierce
 
 254
 00:14:53,581 --> 00:14:54,377
-Good.
+Oh, good.
 
 255
 00:14:54,890 --> 00:14:56,891
@@ -1252,12 +1272,12 @@ He's fine.	|Jeff Britta
 272
 00:15:48,782 --> 00:15:51,453
 - Have you seen it?	|Annie Britta
-- We did it, girl... Page three.	|Shirley Britta
+- We did it, girl... Page three.
 
 273
 00:15:51,578 --> 00:15:53,765
 Its uh, mostly about Pierce,
-but listen to that last paragraph.
+but listen to that last paragraph.	|Shirley Britta
 
 274
 00:15:53,890 --> 00:15:57,141
@@ -1291,10 +1311,11 @@ Need to bust out that brownie mix.	|Shirley Annie
 280
 00:16:12,518 --> 00:16:13,518
 Morning.	|Jeff Britta
+Morning.	|Britta Jeff
 
 281
 00:16:16,359 --> 00:16:18,762
-I get it.
+Oh. no, I get it.
 Garfield's wishing me a happy Arbor Day,
 
 282
@@ -1310,17 +1331,17 @@ that I'm sorry about crashing your protest
 284
 00:16:24,503 --> 00:16:26,735
 with that drunken,
-self-immolating baby boomer.
+self-immolating baby boomer.	|Jeff Britta
 
 285
 00:16:26,903 --> 00:16:29,267
 We don't blame you, sweetie.
-Pierce has always been on my watch list.
+Pierce has always been on my watch list.	|Shirley Jeff
 
 286
 00:16:29,392 --> 00:16:31,894
 That dude is crazy...
-He told me girls have two pee holes.
+He told me girls have two pee holes.	|Troy Jeff
 
 287
 00:16:32,019 --> 00:16:34,201
@@ -1330,7 +1351,7 @@ at a nursing home once.
 288
 00:16:34,326 --> 00:16:37,454
 I've seen the face of dementia,
-and last night I saw it again.
+and last night I saw it again.	|Annie Jeff
 
 289
 00:16:37,579 --> 00:16:40,660
@@ -1364,6 +1385,7 @@ for a shot at some kind of family.	|Britta Group
 
 295
 00:17:08,218 --> 00:17:09,694
+Hola, class.
 Time for our presentations.
 
 296
@@ -1423,7 +1445,7 @@ All right.	|Pierce Jeff
 
 308
 00:17:54,389 --> 00:17:57,164
-Why are there costumes involved?
+Okay, guys? Why are there costumes involved?
 These are short conversations,
 
 309
@@ -1438,18 +1460,19 @@ Well, tough.	|Jeff Chang
 311
 00:18:03,078 --> 00:18:04,266
 You ready, amigo?	|Jeff Pierce
+Si.	|Pierce Jeff
 
 312
 00:19:27,705 --> 00:19:28,513
-F.	|Chang Pierce
+F.	|Chang Jeff
 
 313
 00:19:29,113 --> 00:19:29,918
-F-minus.	|Chang Jeff
+F-minus.	|Chang Pierce
 
 314
 00:19:30,744 --> 00:19:31,744
-What?	|Jeff Chang
+What?
 
 315
 00:19:33,261 --> 00:19:34,589
@@ -1511,6 +1534,11 @@ up there, my friend.
 
 328
 00:20:13,457 --> 00:20:17,272
+Thanks Pierce	|Jeff Pierce
+A couple of notes
+
+328
+00:20:13,457 --> 00:20:17,272
 You got this thing you do with your face
 when you're trying to be funny
 
@@ -1521,8 +1549,32 @@ about how cool you think you are.	|Pierce Jeff
 
 330
 00:21:03,449 --> 00:21:04,397
-It's 2009.	|Jeff Pierce
+Donde, está, la biblioteca. Me llamo T-Bone, la araña discoteca.	|Troy
+
+330
+00:21:03,449 --> 00:21:04,397
+Discoteca, muñeca, la biblioteca. Está en bigotes grandes, el perro, manteca	|Abed
+
+330
+00:21:03,449 --> 00:21:04,397
+Manteca, bigotes, gigante, pequeño, la cabeza es nieve, cerveza es bueno.	|Troy
+
+330
+00:21:03,449 --> 00:21:04,397
+Buenos dias, me gusta papas frías, los bigotes de la cabra es Cameron Diaz!	|Abed
+
+330
+00:21:03,449 --> 00:21:04,397
+Yeah boy. Boy.	|Abed
+
+330
+00:21:03,449 --> 00:21:04,397
+Yeah	|Troy
+
+330
+00:21:03,449 --> 00:21:04,397
+What? It's 2009.	|Abed
 
 331
 00:21:04,803 --> 00:21:05,635
-Word.	|Pierce Jeff
+Word.	|Troy

@@ -36,15 +36,20 @@ class SubtitleSplitter:
 		
 
 	def process2Lines(self, dupleLines):
+		if dupleLines == []:
+			return ""
+
+		dupleLines[0] = self.trimLine(dupleLines[0])
 		# if the first line is the end of the line, then return two as separate lines
 		if len(dupleLines) == 2:
+			dupleLines[1] = self.trimLine(dupleLines[1])
 			if dupleLines[0].find("|") > -1:
 				return dupleLines
 		return " ".join(dupleLines)
 
 	# trim the part where it's space and dash at the beginning
 	def trimLine(self, line):
-		return re.sub(r'\A(\s*-?\s+)', r'', line)
+		return re.sub(r'\A(\s*-?\s*)', r'', line)
 
 class CharacterGraphMaker:
 	def __init__(self):
@@ -57,25 +62,21 @@ class CharacterGraphMaker:
 
 	def getConversationSpeakers(self, line):
 		spoken, characters = line.split("\t|")
-		speaker, listeners = self.getSpeakerListeners(characters.split(" "))	
+		speaker, listeners = self.getSpeakerListeners(characters.lower().split(" "))	
 		if speaker not in self.characterList:
 			self.characterList[speaker] = Character(speaker)
 		for listener in listeners:
 			self.characterList[speaker].spokenTo(listener, spoken)
 		
 	def getSpeakerListeners(self, characterList):
-		speaker = characterList[0]
-		group = ["Jeff", "Britta", "Abed", "Troy", "Pierce", "Shirley", "Annie"]
+		speaker = characterList[0].lower()
+		group = ["jeff", "britta", "abed", "troy", "pierce", "shirley", "annie"]
 		#monologue
 		if len(characterList) == 1:
 			return speaker, ["self"]
 		# more than one
 		if len(characterList[1:]) != 1:
 			listeners = characterList[1:]
-			return speaker, listeners
-		# spoken to the group
-		if characterList[1] == "Group":
-			listeners = [character for character in group if character != speaker]
 			return speaker, listeners
 		#dialogue
 		else:
@@ -105,8 +106,8 @@ os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
 characterGraph = CharacterGraphMaker()
 for episode in glob.glob("*.srt"):
-	print episode
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
-	graph = characterGraph.getGraph()
-	graph["Troy"].printChar()
+graph = characterGraph.getGraph()
+for character in graph:
+	graph[character].printChar()
