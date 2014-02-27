@@ -554,7 +554,7 @@ Ya bit!
 
 120
 00:06:45,139 --> 00:06:48,573
-Friday Mañana, we'll be having conversations
+Friday Manana, we'll be having conversations
 with the rest of the class
 
 121
@@ -1549,19 +1549,19 @@ about how cool you think you are.	|Pierce Jeff
 
 330
 00:21:03,449 --> 00:21:04,397
-Donde, está, la biblioteca. Me llamo T-Bone, la araña discoteca.	|Troy
+Donde, esta, la biblioteca. Me llamo T-Bone, la arana discoteca.	|Troy
 
 330
 00:21:03,449 --> 00:21:04,397
-Discoteca, muñeca, la biblioteca. Está en bigotes grandes, el perro, manteca	|Abed
+Discoteca, muneca, la biblioteca. Esta en bigotes grandes, el perro, manteca	|Abed
 
 330
 00:21:03,449 --> 00:21:04,397
-Manteca, bigotes, gigante, pequeño, la cabeza es nieve, cerveza es bueno.	|Troy
+Manteca, bigotes, gigante, pequeno, la cabeza es nieve, cerveza es bueno.	|Troy
 
 330
 00:21:03,449 --> 00:21:04,397
-Buenos dias, me gusta papas frías, los bigotes de la cabra es Cameron Diaz!	|Abed
+Buenos dias, me gusta papas frias, los bigotes de la cabra es Cameron Diaz!	|Abed
 
 330
 00:21:03,449 --> 00:21:04,397
