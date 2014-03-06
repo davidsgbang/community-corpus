@@ -111,8 +111,5 @@ for episode in glob.glob("*.srt"):
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 graph = characterGraph.getGraph()
 for character in graph:
-	print character
-	#graph[character].printChar()
-
-test = CommunityMarkov("Dean", "Self", graph["jeff"].interactions["abed"])
-print test.generate_markov_text()
+	#print character
+	graph[character].printChar()

@@ -1,12 +1,12 @@
 1
 00:00:00,933 --> 00:00:03,434
 - a small fading remnant
-of a star.
+of a star.	|Annie Troy
 
 2
 00:00:03,501 --> 00:00:05,501
-- a white dwarf.
-- that's right!
+- a white dwarf.	|Troy Annie
+- that's right!	|Annie Troy
 
 3
 00:00:05,567 --> 00:00:07,501
@@ -19,7 +19,7 @@ midgets,
 
 5
 00:00:08,967 --> 00:00:11,234
-and midgets are small.
+and midgets are small.	|Troy Annie
 
 6
 00:00:11,300 --> 00:00:12,667
@@ -28,21 +28,21 @@ and midgets are small.
 7
 00:00:12,734 --> 00:00:15,134
 what does a star turn into
-after it collapses?
+after it collapses?	|Annie Troy
 
 8
 00:00:15,200 --> 00:00:16,768
-- a movie of the week.
+- a movie of the week.	|Jeff Troy
 
 9
 00:00:16,834 --> 00:00:18,567
-- black hole.
+- black hole.	|Troy Annie
 - right!
 
 10
 00:00:18,634 --> 00:00:20,634
 troy! you could be
-an astronomer.
+an astronomer.	|Annie Troy
 
 11
 00:00:20,701 --> 00:00:22,234
@@ -69,13 +69,13 @@ of 40 suns.
 
 16
 00:00:34,200 --> 00:00:36,334
-just like my weiner.
+just like my weiner.	|Pierce Group
 - ha ha.
 
 17
 00:00:36,401 --> 00:00:38,501
 you said weiner.
-that's funny.
+that's funny.	|Troy Pierce
 
 18
 00:00:38,567 --> 00:00:40,200
@@ -85,17 +85,16 @@ didn't get along at first,
 19
 00:00:40,267 --> 00:00:42,200
 but now they're bonding
-through mutual adolescence.
+through mutual adolescence.	|Abed Group
 
 20
 00:00:42,267 --> 00:00:44,534
-- shut up, boo-boo head.
-- will you shut up, fart head?
+- shut up, boo-boo head.	|Pierce Abed
+- will you shut up, fart head?	|Troy Abed
 
 21
 00:00:44,601 --> 00:00:46,000
 - hi, everybody.
-[chuckles]
 
 22
 00:00:46,067 --> 00:00:48,601
@@ -113,7 +112,7 @@ there is just--boy!
 25
 00:00:51,868 --> 00:00:54,267
 there is just one of
-every kind of you, isn't there?
+every kind of you, isn't there?	|Dean Group
 
 26
 00:00:54,334 --> 00:00:55,634
@@ -123,21 +122,21 @@ a pipsqueak,
 27
 00:00:55,701 --> 00:00:57,134
 but we don't want one,
-so beat it.
+so beat it.	|Pierce Dean
 
 28
 00:00:57,200 --> 00:00:59,000
-- um, pierce, that's the dean.
+- um, pierce, that's the dean.	|Britta Pierce
 
 29
 00:00:59,067 --> 00:01:01,434
-- are you kidding?
-- mm-mm.
+- are you kidding?	|Pierce Britta
+- mm-mm.	|Britta Pierce
 
 30
 00:01:01,501 --> 00:01:03,033
 - sorry.
-just my luck.
+just my luck.	|Pierce Dean
 
 31
 00:01:03,100 --> 00:01:04,601
@@ -166,21 +165,21 @@ to troy barnes,
 36
 00:01:15,134 --> 00:01:18,234
 star quarterback
-from riverside high...whoa.
+from riverside high...whoa.	|Dean Group
 
 37
 00:01:18,300 --> 00:01:20,868
 troy, did you know that
-greendale has a football team?
+greendale has a football team?	|Dean Troy
 
 38
 00:01:20,933 --> 00:01:22,734
 - did you know
-they had a football?
+they had a football?	|Jeff Troy
 
 39
 00:01:22,801 --> 00:01:24,701
-- ha. that's very funny.
+- ha. that's very funny.	|Dean Jeff
 
 40
 00:01:24,768 --> 00:01:27,300
@@ -195,12 +194,12 @@ recovered,
 42
 00:01:28,933 --> 00:01:31,534
 we would love for you to play
-for the human beings.
+for the human beings.	|Dean Troy
 
 43
 00:01:31,601 --> 00:01:33,768
 - the team's name
-is the human beings?
+is the human beings?	|Shirley Dean
 
 44
 00:01:33,834 --> 00:01:35,200
@@ -217,7 +216,6 @@ but i thought that, um...
 
 47
 00:01:38,267 --> 00:01:39,634
-[softly]
 well, a lot of these students
 
 48
@@ -228,7 +226,7 @@ their whole lives.
 49
 00:01:41,634 --> 00:01:44,367
 unfortunately, i don't know
-what to do about the mascot.
+what to do about the mascot.	|Dean Shirley
 
 50
 00:01:44,434 --> 00:01:46,033
@@ -247,7 +245,11 @@ icon development,
 
 53
 00:01:50,267 --> 00:01:54,033
-and y2k preparedness.
+and y2k preparedness.	|Pierce Dean
+
+54
+00:01:54,100 --> 00:01:55,701
+well, aren't you found money	|Dean Pierce
 
 54
 00:01:54,100 --> 00:01:55,701
@@ -260,7 +262,7 @@ to turn greendale around.
 
 56
 00:01:57,267 --> 00:01:58,534
-how about you?
+how about you?	|Dean Troy
 
 57
 00:01:58,601 --> 00:02:00,367
@@ -275,19 +277,18 @@ in that keg stand
 59
 00:02:01,900 --> 00:02:03,134
 was the best thing
-that ever happened to him.
+that ever happened to him.	|Annie Dean
 
 60
 00:02:03,200 --> 00:02:05,334
-- whoa! yoko ono much?
+- whoa! yoko ono much?	|Dean Annie
 
 61
 00:02:06,567 --> 00:02:08,967
-bros before hoes, troy.
+bros before hoes, troy.	|Dean Troy
 
 62
 00:02:09,033 --> 00:02:10,467
-- [chuckles]
 listen, man.
 
 63
@@ -302,7 +303,7 @@ and i finished on top.
 65
 00:02:13,834 --> 00:02:15,467
 i wouldn't play for this school
-with a 10-foot pole.
+with a 10-foot pole.	|Troy Dean
 
 66
 00:02:15,534 --> 00:02:18,033
@@ -321,7 +322,7 @@ that feels pride.
 69
 00:02:22,900 --> 00:02:24,234
 until then,
-would you excuse us?
+would you excuse us?	|Jeff Dean
 
 70
 00:02:24,300 --> 00:02:26,601
@@ -348,8 +349,7 @@ for the mega-church.
 
 75
 00:02:33,634 --> 00:02:35,067
-okay.
-[chuckles]
+okay.	|Dean Troy
 
 76
 00:02:35,134 --> 00:02:36,900
@@ -359,26 +359,26 @@ the minimum requirements
 77
 00:02:36,967 --> 00:02:38,667
 for a language credit,
-shall we?
+shall we?	|Jeff Group
 
 78
 00:02:38,734 --> 00:02:40,734
 - yes, but i need to go
-to the bathroom first.
+to the bathroom first.	|Shirley Group
 
 79
 00:02:40,801 --> 00:02:44,601
-uh, britta?
-- oh, no, i don't have to go.
+uh, britta?	|Shirley Britta
+- oh, no, i don't have to go.	|Britta Shirley
 
 80
 00:02:44,667 --> 00:02:47,267
-- i'll go with you.
+- i'll go with you.	|Annie Shirley
 
 81
 00:02:50,267 --> 00:02:51,933
 - what?
-she's offended?
+she's offended?	|Britta Jeff
 
 82
 00:02:52,000 --> 00:02:53,768
@@ -387,12 +387,12 @@ she's offended?
 83
 00:02:53,834 --> 00:02:56,434
 did you learn nothing from
-stand-up comedy in the '90s?
+stand-up comedy in the '90s?	|Jeff Britta
 
 84
 00:02:56,501 --> 00:02:58,434
 - i'm familiar with the concept.
-i'm just--[stammers] fine.
+i'm just-- fine.
 
 85
 00:02:58,501 --> 00:03:01,200
@@ -402,7 +402,7 @@ i'll go with her next time.
 86
 00:03:01,267 --> 00:03:04,434
 i'm willing to try some more
-mainstream feminine stuff.
+mainstream feminine stuff.	|Britta Jeff
 
 87
 00:03:04,501 --> 00:03:07,801
@@ -411,17 +411,17 @@ that nothing says "i'm a woman"
 
 88
 00:03:07,868 --> 00:03:09,801
-like doing it with me.
+like doing it with me.	|Jeff Britta
 
 89
 00:03:09,868 --> 00:03:12,267
 - nothing says, "i'm a pig"
-like you.
+like you.	|Britta Jeff
 
 90
 00:03:12,334 --> 00:03:15,033
 - will they or won't they?
-sexual tension.
+sexual tension.	|Abed Group
 
 91
 00:03:15,100 --> 00:03:16,768
@@ -435,7 +435,7 @@ when you talk about us
 93
 00:03:18,367 --> 00:03:20,534
 like we're characters
-in a show you're watching.
+in a show you're watching.	|Jeff Abed
 
 94
 00:03:20,601 --> 00:03:22,033
@@ -450,20 +450,7 @@ pretty hard last week.
 96
 00:03:23,701 --> 00:03:25,367
 i can lay low
-for an episode.
-
-97
-00:03:27,067 --> 00:03:28,367
-- * i can't count *
-
-98
-00:03:28,434 --> 00:03:31,300
-* the reasons i should stay *
-
-99
-00:03:31,301 --> 00:03:34,553
-Sync By YesCool
-www.addic7ed.com
+for an episode.	|Abed Jeff
 
 100
 00:03:34,734 --> 00:03:37,167
@@ -478,7 +465,7 @@ they won something once.
 102
 00:03:39,933 --> 00:03:44,501
 "most valued customer.
-henderson trophy cases."
+henderson trophy cases."	|Jeff Troy
 
 103
 00:03:44,567 --> 00:03:45,868
@@ -492,11 +479,11 @@ later, right?
 105
 00:03:47,667 --> 00:03:50,467
 maybe over some milky ways
-or some mars bars.
+or some mars bars.	|Annie Troy
 
 106
 00:03:50,534 --> 00:03:53,134
-- or pancakes!
+- or pancakes!	|Troy Annie
 
 107
 00:03:53,200 --> 00:03:56,801
@@ -505,7 +492,7 @@ at greendale."
 
 108
 00:03:56,868 --> 00:03:59,200
-that's not good.
+that's not good.	|Jeff
 
 109
 00:03:59,267 --> 00:04:02,200
@@ -530,21 +517,16 @@ your cell--
 113
 00:04:12,501 --> 00:04:13,701
 that's mine.
-my bad.
+my bad.	|Extra All
 
 114
 00:04:13,768 --> 00:04:15,334
-- [whispers]
 i'm going to the bathroom.
-
-115
-00:04:15,401 --> 00:04:16,534
-- hi!
 
 116
 00:04:16,601 --> 00:04:17,667
 - would you like
-to come with me?
+to come with me?	|Britta Shirley
 
 117
 00:04:17,734 --> 00:04:19,834
@@ -552,7 +534,7 @@ to come with me?
 
 118
 00:04:19,900 --> 00:04:21,501
-oh, that's nice!
+oh, that's nice!	|Shirley Britta
 
 119
 00:04:21,567 --> 00:04:23,334
@@ -565,7 +547,7 @@ antoni--an--hold on.
 121
 00:04:25,234 --> 00:04:27,667
 does anyone have a pen?
-pen?
+pen?	|Extra Extra
 
 122
 00:04:27,734 --> 00:04:29,167
@@ -578,12 +560,11 @@ a pen to class?
 
 124
 00:04:31,134 --> 00:04:32,367
-idiot.
+idiot.	|Extra All
 
 125
 00:04:32,434 --> 00:04:33,801
-no, you're not an idiot.
-[loud laugh]
+no, you're not an idiot.	|Extra Extra
 
 126
 00:04:33,868 --> 00:04:36,000
@@ -603,26 +584,26 @@ with a bandana loser
 129
 00:04:39,000 --> 00:04:41,000
 swooped right in.
-i couldn't believe it.
+i couldn't believe it.	|Shirley Britta
 
 130
 00:04:41,067 --> 00:04:43,033
-- maybe he didn't see you.
-- he saw me!
+- maybe he didn't see you.	|Britta Shirley
+- he saw me!	|Shirley Britta
 
 131
 00:04:43,100 --> 00:04:45,200
 - maybe he had
-his blinker on too.
+his blinker on too.	|Britta Shirley
 
 132
 00:04:45,267 --> 00:04:48,267
 - maybe. so you...
-got any family, britta?
+got any family, britta?	|Shirley Britta
 
 133
 00:04:48,334 --> 00:04:50,234
-- yeah, whatever.
+- yeah, whatever.	|Britta Shirley
 
 134
 00:04:50,300 --> 00:04:52,567
@@ -632,7 +613,7 @@ this weekend.
 135
 00:04:52,634 --> 00:04:54,467
 she and i are gonna get
-makeovers at that spa--
+makeovers at that spa--	|Shirley Britta
 
 136
 00:04:54,534 --> 00:04:55,667
@@ -645,18 +626,17 @@ right?
 
 138
 00:04:57,801 --> 00:04:59,900
-[robotic voice]
 i am a female pleasure unit.
 
 139
 00:04:59,967 --> 00:05:02,567
 i require a new
-coat of paint.
+coat of paint.	|Britta Shirley
 
 140
 00:05:02,634 --> 00:05:04,601
 - just something
-i thought might be fun.
+i thought might be fun.	|Shirley Britta
 
 141
 00:05:04,667 --> 00:05:06,267
@@ -699,11 +679,7 @@ and pull over for cops,
 149
 00:05:21,701 --> 00:05:23,134
 but that doesn't mean
-i support--
-
-150
-00:05:23,200 --> 00:05:26,200
-[hand dryer whirs loudly]
+i support--	|Britta Shirley
 
 151
 00:05:26,267 --> 00:05:28,701
@@ -713,7 +689,7 @@ design the new mascot.
 152
 00:05:28,768 --> 00:05:30,534
 i, uh, have been
-a little stumped.
+a little stumped.	|Dean Pierce
 
 153
 00:05:30,601 --> 00:05:32,200
@@ -737,7 +713,7 @@ vitruvian man.
 157
 00:05:41,000 --> 00:05:42,534
 - the penis is a little
-small, i think.
+small, i think.	|Pierce Dean
 
 158
 00:05:42,601 --> 00:05:44,167
@@ -773,11 +749,11 @@ the diversity of our school
 
 165
 00:05:57,267 --> 00:05:58,868
-and our species.
+and our species.	|Dean Pierce
 
 166
 00:05:58,933 --> 00:06:00,634
-- so...black?
+- so...black?	|Pierce Dean
 
 167
 00:06:00,701 --> 00:06:02,967
@@ -796,12 +772,7 @@ or any other creed.
 170
 00:06:06,234 --> 00:06:08,267
 we are the greendale
-human beings.
-
-171
-00:06:08,334 --> 00:06:10,000
-[knock on door]
-yeah.
+human beings.	|Dean Pierce
 
 172
 00:06:10,067 --> 00:06:11,768
@@ -815,17 +786,17 @@ at a naked drawing
 174
 00:06:14,167 --> 00:06:16,234
 of pierce
-doing jumping jacks.
+doing jumping jacks.	|Jeff Pierce Dean
 
 175
 00:06:16,300 --> 00:06:18,367
-dean, a quick download, please?
-- uh, absolutely.
+dean, a quick download, please?	|Jeff Dean
+- uh, absolutely.	|Dean Jeff
 
 176
 00:06:18,434 --> 00:06:21,801
-excuse me.
-- okay. fill me in later.
+excuse me.	|Dean Pierce
+- okay. fill me in later.	|Pierce Dean
 
 177
 00:06:21,868 --> 00:06:24,100
@@ -837,16 +808,16 @@ whoa-oh.
 
 179
 00:06:26,033 --> 00:06:28,300
-i'll go with a pencil.
+i'll go with a pencil.	|Pierce
 
 180
 00:06:28,367 --> 00:06:30,033
-- first of all...
-- mm-hmm.
+- first of all...	|Jeff Dean
+- mm-hmm.	|Dean Jeff
 
 181
 00:06:30,100 --> 00:06:31,534
-- i'm flattered.
+- i'm flattered.	|Jeff Dean
 - oh, well.
 
 182
@@ -861,7 +832,7 @@ put something in there?
 184
 00:06:35,134 --> 00:06:37,000
 can i?
-oh, it's crispy.
+oh, it's crispy.	|Dean Jeff
 
 185
 00:06:37,067 --> 00:06:39,134
@@ -880,7 +851,7 @@ where's the soul?
 188
 00:06:41,868 --> 00:06:44,334
 where's the different
-poster design?
+poster design?	|Jeff Dean
 
 189
 00:06:44,401 --> 00:06:46,334
@@ -895,12 +866,12 @@ the full bodies
 191
 00:06:49,234 --> 00:06:50,967
 in these mailers
-we have going out.
+we have going out.	|Dean Jeff
 
 192
 00:06:52,567 --> 00:06:55,701
 - mailers? i didn't give
-permission for this.
+permission for this.	|Jeff Dean
 
 193
 00:06:55,768 --> 00:06:58,033
@@ -914,12 +885,12 @@ of your registration form?
 
 195
 00:07:01,100 --> 00:07:03,567
-<i>i'm starting to see why
-someone used to be a lawyer.</i>
+i'm starting to see why
+someone used to be a lawyer.
 
 196
 00:07:03,634 --> 00:07:04,900
-ha ha! up top!
+ha ha! up top!	|Dean Jeff
 
 197
 00:07:04,967 --> 00:07:07,200
@@ -939,7 +910,7 @@ at a community college,
 200
 00:07:12,200 --> 00:07:15,334
 that could have a negative
-impact on my future career.
+impact on my future career.	|Jeff Dean
 
 201
 00:07:15,401 --> 00:07:18,834
@@ -968,7 +939,7 @@ to the press
 206
 00:07:27,501 --> 00:07:29,367
 that troy barnes
-is playing football here.
+is playing football here.	|Dean Jeff
 
 207
 00:07:29,434 --> 00:07:31,033
@@ -977,7 +948,7 @@ pretty clear
 
 208
 00:07:31,100 --> 00:07:32,734
-about declining that offer.
+about declining that offer.	|Jeff Dean
 
 209
 00:07:32,801 --> 00:07:34,734
@@ -992,11 +963,11 @@ he'd say, "hammertime."
 211
 00:07:37,000 --> 00:07:38,467
 you starting to get
-what i mean?
+what i mean?	|Dean Jeff
 
 212
 00:07:38,534 --> 00:07:41,000
-- no. i need another example.
+- no. i need another example.	|Jeff Dean
 
 213
 00:07:41,067 --> 00:07:43,067
@@ -1030,16 +1001,16 @@ legal...
 
 220
 00:07:56,801 --> 00:07:58,401
-gatherings?
+gatherings?	|Dean Jeff
 
 221
 00:07:58,467 --> 00:07:59,300
 - are you trying to
-blackmail me?
+blackmail me?	|Jeff Dean
 
 222
 00:07:59,367 --> 00:08:00,300
-- i think so.
+- i think so.	|Dean Jeff
 
 223
 00:08:00,367 --> 00:08:01,967
@@ -1048,7 +1019,7 @@ blackmail me?
 224
 00:08:02,033 --> 00:08:05,701
 i present to you
-the greendale human being.
+the greendale human being.	|Pierce Jeff Dean
 
 225
 00:08:05,768 --> 00:08:08,933
@@ -1057,17 +1028,22 @@ the greendale human being.
 226
 00:08:09,000 --> 00:08:10,401
 now it's a falcon
-with an erection.
+with an erection.	|Jeff Pierce
 
 227
 00:09:04,768 --> 00:09:07,900
-man, that backcountry today
-was epic!
+Hi Abed		|Shirley Abed
+hi	|Britta Abed
+
+227
+00:09:04,768 --> 00:09:07,900
+He's just laying low	|Britta Troy Annie
+Wait, are you going to the bathroom?	|Britta Shirley
 
 228
 00:09:07,900 --> 00:09:09,534
-well worth
-the jellybeaning.
+uh, yes	|Shirley Britta
+I'll go with you	|Britta Shirley
 
 229
 00:09:09,534 --> 00:09:11,534
@@ -1076,28 +1052,58 @@ to shred some pow.
 
 230
 00:09:11,534 --> 00:09:14,834
-you remember that freshie pillow
-line that we barged?
+you know what? I'm good	|Shirley Britta
+She probably just... you know... had to go number two	|Britta Annie Troy
 
 231
 00:09:14,834 --> 00:09:16,534
-i thought i was gonna squirrel
-out for sure!
+Ok, what's the closest planet to Earth?	|Annie Troy
+Planet Hollywood	|Troy Annie
 
 232
 00:09:16,534 --> 00:09:18,534
-you were squirrelly
-all over the place.
+That's not the right answer, but it shows how fun the astronomy can be!	|Annie Troy
+Hey Troy, can I talk to you for a second?	|Jeff Troy
 
 233
 00:09:18,534 --> 00:09:21,300
-plus, you didn't even see
-my switch back side rodeo.
+We are studying, so Troy is busy	|Annie Jeff
+Well the galaxy is not going anywhere, I'll bring him back	|Jeff Annie
 
-234
+123
 00:09:21,300 --> 00:09:23,967
-chill out knuckle dragger,
-it's not all about you.
+Do you ever miss being a quarterback, Troy?	|Jeff Troy
+I miss being the best at something, miss having a coach
+
+123
+00:09:21,300 --> 00:09:23,967
+I miss knowing what to think	|Troy Jeff
+You still know what to think, Troy	|Jeff Troy
+
+123
+00:09:21,300 --> 00:09:23,967
+Oh good	|Troy Jeff
+For instance, after Dean talked about you playing football, you and I were thinking the same thing	|Jeff Troy
+
+123
+00:09:21,300 --> 00:09:23,967
+That dude looks like Moby	|Troy Jeff
+You were thinking, what if Troy did play for Greendale
+
+123
+00:09:21,300 --> 00:09:23,967
+You'd be surprised how many of your favorite football players got started
+at community college	|Jeff Troy
+
+123
+00:09:21,300 --> 00:09:23,967
+Oh really? Name one	|Troy Jeff
+Who's your favorite player?	|Jeff Troy
+
+123
+00:09:21,300 --> 00:09:23,967
+Me. Woah	|Troy Jeff
+Maybe you and I should checkout the Greendale Thunderdome	|Jeff Troy
 
 235
 00:09:34,701 --> 00:09:38,467
@@ -1150,12 +1156,12 @@ my old kingdom.
 245
 00:09:57,134 --> 00:09:59,601
 you're not.
-you see what i'm saying?
+you see what i'm saying?	|Jeff Troy
 
 246
 00:09:59,667 --> 00:10:02,067
 - you're saying
-i could be a lawyer.
+i could be a lawyer.	|Troy Jeff
 
 247
 00:10:02,134 --> 00:10:03,900
@@ -1164,28 +1170,28 @@ you're a football player!
 
 248
 00:10:03,967 --> 00:10:05,567
-it's in your blood!
-- that's racist!
+it's in your blood!	|Jeff Troy
+- that's racist!	|Troy Jeff
 
 249
 00:10:05,634 --> 00:10:07,134
-- your soul.
-- that's racist.
+- your soul.	|Jeff Troy
+- that's racist.	|Troy Jeff
 
 250
 00:10:07,200 --> 00:10:08,401
-- your eyes?
-- that's gay?
+- your eyes?	|Jeff Troy
+- that's gay?	|Troy Jeff
 
 251
 00:10:08,467 --> 00:10:09,967
-- that's homophobic.
-- that's black.
+- that's homophobic.	|Jeff Troy
+- that's black.	|Troy Jeff
 
 252
 00:10:10,033 --> 00:10:11,734
-- that's racist!
-- damn.
+- that's racist!	|Jeff Troy
+- damn.	|Troy Jeff
 
 253
 00:10:11,801 --> 00:10:13,933
@@ -1205,25 +1211,25 @@ but math isn't important.
 256
 00:10:18,367 --> 00:10:20,401
 the only thing that's important
-is this.
+is this.	|Jeff Troy
 
 257
 00:10:20,467 --> 00:10:22,100
-- yeah, but annie said--
+- yeah, but annie said--	|Troy Jeff
 
 258
 00:10:22,167 --> 00:10:24,200
-<i>- annie said that
-benjamin button was compelling.</i>
+- annie said that
+benjamin button was compelling.
 
 259
 00:10:24,267 --> 00:10:26,501
 look, she's a smart girl,
-but sometimes she's just wrong.
+but sometimes she's just wrong.	|Jeff Troy
 
 260
 00:10:26,567 --> 00:10:28,300
-85--go long!
+85--go long!	|Jeff Extra
 
 261
 00:10:28,367 --> 00:10:30,367
@@ -1245,8 +1251,8 @@ there.
 
 265
 00:10:37,200 --> 00:10:39,734
-it's complete!
-nice catch!
+it's complete!	|Jeff Troy
+nice catch!	|Jeff Extra
 
 266
 00:10:39,801 --> 00:10:43,200
@@ -1256,12 +1262,12 @@ the scouts, the career!
 267
 00:10:43,267 --> 00:10:45,868
 it starts
-when you join this team.
+when you join this team.	|Jeff Troy
 
 268
 00:10:45,933 --> 00:10:47,567
 - is that linebacker
-a pregnant woman?
+a pregnant woman?	|Troy Jeff
 
 269
 00:10:47,634 --> 00:10:49,033
@@ -1276,12 +1282,12 @@ has to be yours, t-bone.
 271
 00:10:52,067 --> 00:10:54,667
 and this decision
-has to be yes.
+has to be yes.	|Jeff Troy
 
 272
 00:10:54,734 --> 00:10:56,267
 - how did you know
-my nickname's t-bone?
+my nickname's t-bone?	|Troy Jeff
 
 273
 00:10:56,334 --> 00:10:58,134
@@ -1295,15 +1301,15 @@ begins with "t."
 
 275
 00:11:01,634 --> 00:11:04,334
-your name...begins...
+your name begins
 
 276
 00:11:04,401 --> 00:11:06,701
-with "t."
+with "t."	|Jeff Troy
 
 277
 00:11:09,768 --> 00:11:11,834
-- britta?
+- britta?	|Shirley Britta
 
 278
 00:11:11,900 --> 00:11:13,967
@@ -1321,12 +1327,12 @@ i failed yesterday's tryouts
 281
 00:11:17,834 --> 00:11:20,000
 for the position
-of bathroom companion.
+of bathroom companion.	|Britta Shirley
 
 282
 00:11:20,067 --> 00:11:21,900
 - oh, britta, i wasn't trying
-to hurt your feelings.
+to hurt your feelings.	|Shirley Britta
 
 283
 00:11:21,967 --> 00:11:24,267
@@ -1341,7 +1347,7 @@ the bathroom with other people.
 285
 00:11:26,501 --> 00:11:28,601
 i was just trying to throw you
-a bone because i like you.
+a bone because i like you.	|Britta SHirley
 
 286
 00:11:28,667 --> 00:11:31,167
@@ -1403,7 +1409,7 @@ to be soft in there,
 
 298
 00:11:53,434 --> 00:11:57,033
-you need to pee alone.
+you need to pee alone.	|Shirley Britta
 
 299
 00:11:57,100 --> 00:12:01,634
@@ -1422,7 +1428,7 @@ how it started.
 302
 00:12:06,234 --> 00:12:08,567
 maybe it was when i got boobs
-before everyb--
+before everyb--	|Britta Shirley
 
 303
 00:12:08,634 --> 00:12:10,868
@@ -1434,7 +1440,7 @@ not out here.
 
 305
 00:12:13,300 --> 00:12:15,768
-in there.
+in there.	|Shirley Britta
 
 306
 00:12:15,834 --> 00:12:16,900
@@ -1448,17 +1454,17 @@ troy, troy, the wonder boy!
 308
 00:12:18,701 --> 00:12:21,434
 you dropped your books,
-poindexter. yeah!
+poindexter. yeah!	|Troy Extra
 
 309
 00:12:21,501 --> 00:12:23,967
 - troy, i've been waiting
-for an hour.
+for an hour.	|Annie Troy
 
 310
 00:12:24,033 --> 00:12:27,267
 - it's all right, i'm worth it.
-* hip, hop, body don't stop *
+* hip, hop, body don't stop *	|Troy Annie
 
 311
 00:12:33,300 --> 00:12:34,567
@@ -1477,7 +1483,7 @@ outdated fight rap?
 314
 00:12:38,701 --> 00:12:40,701
 have you been playing
-football?
+football?	|Annie Troy
 
 315
 00:12:40,768 --> 00:12:42,134
@@ -1494,12 +1500,12 @@ eh...eh...eh...eh...
 
 318
 00:12:44,367 --> 00:12:45,734
-doosh!
+doosh!	|Troy Annie
 
 319
 00:12:45,801 --> 00:12:48,868
 - but you knew we had
-an astronomy test tomorrow.
+an astronomy test tomorrow.	|Annie Troy
 
 320
 00:12:48,933 --> 00:12:50,267
@@ -1513,7 +1519,7 @@ about the universe
 322
 00:12:51,834 --> 00:12:54,000
 is that i'm at the center
-of it.
+of it.	|Troy Annie
 
 323
 00:12:58,601 --> 00:13:01,100
@@ -1553,16 +1559,16 @@ are bigots!
 
 331
 00:13:15,567 --> 00:13:19,634
-- football is bad for you,
-troy.
+football is bad for you,
+troy.	|Annie Troy
 
 332
 00:13:19,701 --> 00:13:21,334
-- jeff said you'd say that.
+- jeff said you'd say that.	|Troy Annie
 
 333
 00:13:21,401 --> 00:13:24,100
-- jeff...what now?
+- jeff...what now?	|Annie Troy
 
 334
 00:13:24,167 --> 00:13:26,367
@@ -1571,7 +1577,7 @@ troy, troy, troy.
 
 335
 00:13:26,434 --> 00:13:28,267
-that's my name.
+that's my name.	|Troy
 
 336
 00:13:28,334 --> 00:13:32,134
@@ -1580,16 +1586,16 @@ a little bit of phylicia rashad
 
 337
 00:13:32,200 --> 00:13:33,567
-we'll be in better shape.
+we'll be in better shape.	|Pierce Dean
 - yeah, you're right.
 
 338
 00:13:33,634 --> 00:13:34,834
-that beige is a little light.
+that beige is a little light.	|Dean Pierce
 
 339
 00:13:37,267 --> 00:13:38,267
-wow.
+wow.	|Jeff Dean Pierce
 
 340
 00:13:38,334 --> 00:13:39,701
@@ -1603,7 +1609,7 @@ the perfect mascot.
 342
 00:13:42,401 --> 00:13:46,234
 no stereotypical identifiers
-from any race or gender.
+from any race or gender.	|Dean Jeff
 
 343
 00:13:46,300 --> 00:13:48,300
@@ -1618,11 +1624,11 @@ pan-asian eye folds,
 345
 00:13:50,667 --> 00:13:53,334
 irish chins,
-women's breasts.
+women's breasts.	|Pierce Jeff
 
 346
 00:13:53,401 --> 00:13:56,634
-- is that seal?
+- is that seal?	|Jeff Dean Pierce
 - that is our human color wheel.
 
 347
@@ -1632,36 +1638,36 @@ to seal's teeth.
 
 348
 00:13:59,267 --> 00:14:00,967
-- what do you think?
+- what do you think?	|Dean Jeff
 
 349
 00:14:01,033 --> 00:14:03,467
 - i think not being racist
-is the new racism.
+is the new racism.	|Jeff Dean
 
 350
 00:14:03,534 --> 00:14:06,134
 - whoa, whoa, whoa--
-what happened to the prototype?
+what happened to the prototype?	|Dean Pierce
 
 351
 00:14:06,200 --> 00:14:09,300
 - ooh! i left the nose
-in the kiln.
+in the kiln.	|Pierce Dean
 
 352
 00:14:09,367 --> 00:14:12,234
 - so...troy is gonna
-play football.
+play football.	|Jeff Dean
 
 353
 00:14:12,300 --> 00:14:13,701
-- yes!
+- yes!	|Dean Jeff
 
 354
 00:14:13,768 --> 00:14:15,367
 - which means i'll be getting
-rid of these.
+rid of these.	|Jeff Dean
 
 355
 00:14:15,434 --> 00:14:18,167
@@ -1699,16 +1705,16 @@ oh, and...my ex-therapist
 362
 00:14:32,434 --> 00:14:35,667
 is gonna think twice
-before he makes fun of my job!
+before he makes fun of my job!	|Dean Jeff
 
 363
 00:14:35,734 --> 00:14:37,067
 - here it is.
-still hot.
+still hot.	|Pierce Dean
 
 364
 00:14:37,134 --> 00:14:38,734
-- ooh. ow.
+- ooh. ow.	|Dean Pierce
 
 365
 00:14:38,801 --> 00:14:40,434
@@ -1717,18 +1723,18 @@ some more coffee.
 
 366
 00:14:40,501 --> 00:14:41,933
-you want anything?
+you want anything?	|Pierce Dean
 - oh, yeah, a desmond tutu
 
 367
 00:14:42,000 --> 00:14:43,801
 with just enough cream to
-make it a lou diamond phillips.
+make it a lou diamond phillips.	|Dean Pierce
 
 368
 00:14:43,868 --> 00:14:45,634
-<i>- la bamba.
-got it.</i>
+- la bamba.
+got it.	|Pierce Dean
 
 369
 00:14:52,467 --> 00:14:53,967
@@ -1737,7 +1743,7 @@ i've been following you.
 370
 00:14:54,033 --> 00:14:55,868
 how much did the dean pay you
-to make troy play football?
+to make troy play football?	|Annie jeff
 
 371
 00:14:55,933 --> 00:14:57,100
@@ -1746,11 +1752,11 @@ with someone
 
 372
 00:14:57,167 --> 00:14:58,100
-who emerges from a bush.
+who emerges from a bush.	|Jeff Annie
 
 373
 00:14:58,167 --> 00:14:59,634
-- because i'm right?
+- because i'm right?	|Annie Jeff
 
 374
 00:14:59,701 --> 00:15:01,834
@@ -1768,7 +1774,7 @@ horrible pictures of me...
 
 377
 00:15:07,567 --> 00:15:09,734
-attending his school.
+attending his school.	|Jeff Annie
 
 378
 00:15:09,801 --> 00:15:11,634
@@ -1793,7 +1799,7 @@ is gonna end right now.
 382
 00:15:18,567 --> 00:15:20,567
 because i'm telling him what
-kind of friend you really are.
+kind of friend you really are.	|Annie Jeff
 
 383
 00:15:20,634 --> 00:15:21,900
@@ -1866,7 +1872,7 @@ just as selfish as i am.
 397
 00:15:51,033 --> 00:15:54,200
 you're just not
-as good at it yet.
+as good at it yet.	|Jeff Annie
 
 398
 00:15:54,267 --> 00:15:56,434
@@ -1880,7 +1886,7 @@ as good as you.
 400
 00:15:58,801 --> 00:16:00,801
 probably because
-i actually care.
+i actually care.	|Annie Jeff
 
 401
 00:16:00,868 --> 00:16:04,834
@@ -1903,20 +1909,20 @@ because it won't happen!
 
 405
 00:16:12,134 --> 00:16:14,100
-yeah!
+yeah!	|Jeff Annie
 
 406
 00:16:15,900 --> 00:16:18,401
-damn it.
+damn it.	|Jeff
 
 407
 00:16:20,701 --> 00:16:23,334
 - shirley, will you please come
-to the bathroom with me?
+to the bathroom with me?	|Annie Shirley
 
 408
 00:16:31,067 --> 00:16:32,534
-where's shirley?
+where's shirley?	|Annie Britta
 
 409
 00:16:32,601 --> 00:16:34,267
@@ -1928,7 +1934,7 @@ but i'm here...
 
 411
 00:16:35,967 --> 00:16:40,634
-to listen...girl.
+to listen...girl.	|Britta Annie
 
 412
 00:16:40,701 --> 00:16:43,534
@@ -1937,7 +1943,7 @@ so much pain on ourselves
 
 413
 00:16:43,601 --> 00:16:45,601
-for men?
+for men?	|Annie Britta
 - i don't--
 
 414
@@ -1951,7 +1957,7 @@ make the world go round?
 
 416
 00:16:53,534 --> 00:16:56,200
-kleenex?
+kleenex?	|Britta Annie
 
 417
 00:16:59,933 --> 00:17:01,701
@@ -1973,7 +1979,7 @@ his pick of the litter and...
 421
 00:17:09,467 --> 00:17:11,634
 i'll never get
-to be with him! [sobbing]
+to be with him!	|Annie Britta
 
 422
 00:17:11,701 --> 00:17:13,734
@@ -1996,7 +2002,7 @@ your standards.
 
 426
 00:17:20,100 --> 00:17:22,701
-you got that?
+you got that?	|Britta Annie
 
 427
 00:17:22,768 --> 00:17:24,367
@@ -2022,32 +2028,22 @@ britta.
 
 432
 00:17:34,734 --> 00:17:37,267
-it really helped.
-- seriously?
+it really helped.	|Annie Britta
+- seriously?	|Britta Annie
 
 433
 00:17:37,334 --> 00:17:40,467
-- yes.
-- who's my girl?
+- yes.	|Annie Britta
+- who's my girl?	|Shirley Britta
 
 434
 00:17:42,567 --> 00:17:45,134
-'scuse me!
-- i did it, i did it!
+'scuse me!	|Shirley Annie
+- i did it, i did it!	|Britta Shirley
 
 435
 00:17:45,200 --> 00:17:47,601
-- oh, yes, you did!
-
-436
-00:17:54,501 --> 00:17:56,367
-men chanting:
-human beings, human beings!
-
-437
-00:17:56,434 --> 00:17:59,067
-human beings,
-human beings!
+- oh, yes, you did!	|Shirley Britta
 
 438
 00:17:59,134 --> 00:18:01,467
@@ -2055,8 +2051,8 @@ human beings!
 
 439
 00:18:01,534 --> 00:18:03,868
-don't go in there, man.
-- what?
+don't go in there, man.	|Troy Jeff
+- what?	|Jeff Troy
 
 440
 00:18:03,933 --> 00:18:05,834
@@ -2075,12 +2071,12 @@ and depression
 443
 00:18:09,000 --> 00:18:10,634
 begins on the other side
-of that door.
+of that door.	|Jeff Troy
 
 444
 00:18:10,701 --> 00:18:13,334
 - hey, man...is this your
-first pep rally or something?
+first pep rally or something?	|Extra Jeff
 
 445
 00:18:13,401 --> 00:18:15,067
@@ -2089,7 +2085,7 @@ first pep rally or something?
 446
 00:18:15,134 --> 00:18:18,334
 football was the most important
-thing in the world.
+thing in the world.	|Troy Jeff
 
 447
 00:18:18,401 --> 00:18:20,801
@@ -2099,7 +2095,7 @@ i was exaggerating.
 448
 00:18:20,868 --> 00:18:22,900
 it's kinda my gimmick.
-let me tell you something--
+let me tell you something--	|Jeff Troy
 
 449
 00:18:22,967 --> 00:18:24,367
@@ -2109,16 +2105,16 @@ something.
 450
 00:18:24,434 --> 00:18:26,667
 you know that keg flip
-that cost me my scholarship?
+that cost me my scholarship?	|Troy Jeff
 
 451
 00:18:26,734 --> 00:18:28,601
-- yeah.
+- yeah.	|Jeff Troy
 
 452
 00:18:28,667 --> 00:18:31,467
-- i hurt myself on purpose.
-- what?
+- i hurt myself on purpose.	|Troy Jeff
+- what?	|Jeff Troy
 
 453
 00:18:31,534 --> 00:18:33,634
@@ -2157,11 +2153,11 @@ have you seen these guys?
 460
 00:18:45,234 --> 00:18:47,067
 there is nowhere
-to go but up.
+to go but up.	|Troy Jeff
 
 461
 00:18:47,134 --> 00:18:49,000
-- dude, we have feelings.
+- dude, we have feelings.	|Extra Troy
 
 462
 00:18:49,067 --> 00:18:51,868
@@ -2181,7 +2177,7 @@ where you're at, man.
 465
 00:18:58,467 --> 00:19:02,967
 take a pottery class
-or something.
+or something.	|Troy Jeff
 
 466
 00:19:03,033 --> 00:19:04,601
@@ -2189,11 +2185,11 @@ greendale, we're number one!
 
 467
 00:19:04,667 --> 00:19:07,434
-nancy pelosi is no fun!
+nancy pelosi is no fun!	|Troy All
 
 468
 00:19:11,801 --> 00:19:14,868
-- hey.
+- hey.	|Jeff Annie
 - hey.
 
 469
@@ -2209,7 +2205,7 @@ in football, right?
 471
 00:19:21,200 --> 00:19:22,534
 i went for rhyme
-over clarity.
+over clarity.	|Annie Jeff
 
 472
 00:19:22,601 --> 00:19:25,868
@@ -2219,7 +2215,7 @@ sorry about before.
 473
 00:19:25,967 --> 00:19:27,701
 i just think
-we were both wrong.
+we were both wrong.	|Jeff Annie
 
 474
 00:19:27,768 --> 00:19:30,167
@@ -2229,7 +2225,7 @@ i'm an 18-year-old girl,
 475
 00:19:30,234 --> 00:19:31,868
 and you made me cry
-in public.
+in public.	|Annie Jeff
 
 476
 00:19:31,933 --> 00:19:34,334
@@ -2248,16 +2244,15 @@ i mean, it's not like
 479
 00:19:39,667 --> 00:19:40,967
 greendale's gonna kill me
-or anything.
+or anything.	|Jeff Annie
 
 480
 00:19:41,033 --> 00:19:42,667
-- bluuulll...
-- holy crap!
+- holy crap!	|Jeff HumanBeing
 
 481
 00:19:42,734 --> 00:19:44,434
-- aah!
+- aah!	|Annie HumanBeing
 - oh, sorry.
 
 482
@@ -2272,7 +2267,7 @@ the greendale human being.
 484
 00:19:49,834 --> 00:19:52,100
 the costume makes it
-difficult for him to see.
+difficult for him to see.	|Pierce Jeff Annie
 
 485
 00:19:53,801 --> 00:19:55,501
@@ -2282,22 +2277,22 @@ either.
 486
 00:19:55,567 --> 00:19:58,300
 but take it from me,
-that's human for "hello."
+that's human for "hello."	|Dean Jeff Annie
 
 487
 00:19:58,367 --> 00:20:00,534
-[yelling] let's get you
-into the pep rally!
+let's get you
+into the pep rally!	|Dean HumanBeing
 
 488
 00:20:00,601 --> 00:20:03,567
 - great idea.
-let's do it!
+let's do it!	|Pierce HumanBeing
 
 489
 00:20:03,634 --> 00:20:05,100
 we've solved racism.
-what's next?
+what's next?	|Pierce Dean
 
 490
 00:20:05,167 --> 00:20:07,300
@@ -2306,8 +2301,8 @@ for little people.
 
 491
 00:20:07,367 --> 00:20:09,634
-ooh! or albinos!
-- little albinos.
+ooh! or albinos!	|Dean Pierce
+- little albinos.	|Pierce Dean
 
 492
 00:20:09,701 --> 00:20:11,200
@@ -2320,17 +2315,8 @@ greendale experience.
 
 494
 00:20:13,667 --> 00:20:16,200
-milady.
+milady.	|Jeff Annie
 
 495
 00:20:16,267 --> 00:20:18,401
-- milord.
-
-496
-00:20:18,402 --> 00:20:29,753
-<b>Sync by YesCool
-www.addic7ed.com</b>
-
-9999
-00:00:0,500 --> 00:00:2,00
-<font color="#ffff00" size=14>www.tvsubtitles.net</font>
+- milord.	|Annie Jeff
