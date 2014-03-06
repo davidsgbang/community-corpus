@@ -153,12 +153,12 @@ because she's american.
 
 33
 00:01:27,184 --> 00:01:28,884
-My name's abed,
+My name's Abed,
 by the way.	|Abed Jeff
 
 34
 00:01:28,951 --> 00:01:32,151
-- abed, nice to know you and
+- Abed, nice to know you and
 then meet you in that order.
 
 35
@@ -168,7 +168,7 @@ that i had--	|Jeff Abed
 
 36
 00:01:33,917 --> 00:01:35,318
-- oh, uh...
+- oh, uh,
 
 37
 00:01:35,383 --> 00:01:37,051
@@ -177,7 +177,7 @@ when you asked.	|Abed Jeff
 
 38
 00:01:37,117 --> 00:01:38,450
-- abed?	|Jeff Abed
+- Abed?	|Jeff Abed
 - yeah?	|Abed Jeff
 
 39
@@ -198,11 +198,11 @@ to her once
 42
 00:01:44,017 --> 00:01:45,984
 While she was borrowing
-a pencil, but...
+a pencil, but,
 
 43
 00:01:46,051 --> 00:01:47,750
-Her name is britta, she's 28,
+Her name is Britta, she's 28,
 birthday in october,
 
 44
@@ -240,7 +240,7 @@ if that makes her seem cold.	|Abed Jeff
 
 51
 00:01:57,550 --> 00:01:58,211
-Abed...
+Abed,
 
 52
 00:01:58,718 --> 00:02:01,784
@@ -262,7 +262,7 @@ they would have given you a small office.	|Jeff Duncan
 
 56
 00:02:13,584 --> 00:02:14,817
-- jeff winger!
+- Jeff Winger!
 
 57
 00:02:14,884 --> 00:02:16,684
@@ -350,7 +350,7 @@ Will yield certain advantages.
 
 75
 00:02:57,862 --> 00:02:59,484
-You know, academic guidance...	|Jeff Duncan
+You know, academic guidance,	|Jeff Duncan
 - yes.	|Duncan Jeff
 
 76
@@ -370,7 +370,7 @@ that i'm taking.
 79
 00:03:05,713 --> 00:03:08,243
 Here's my schedule.	|Jeff Duncan
-- no. Now, jeff, just by asking that,
+- no. Now, Jeff, just by asking that,
 
 80
 00:03:08,244 --> 00:03:12,001
@@ -385,7 +385,7 @@ not a bathroom!
 82
 00:03:14,639 --> 00:03:17,281
 Not a bathroom.	|Duncan Extra
-- okay. Duncan, you...
+- okay. Duncan, you,
 
 83
 00:03:17,282 --> 00:03:20,727
@@ -418,7 +418,7 @@ I love chalupas.
 
 89
 00:03:35,577 --> 00:03:36,742
-But...
+But,
 
 90
 00:03:36,916 --> 00:03:38,538
@@ -431,12 +431,12 @@ Duncan, you are a good man.	|Jeff Duncan
 
 92
 00:03:41,186 --> 00:03:45,032
-- jeff, are you familiar with the adage,
+- Jeff, are you familiar with the adage,
 "cheaters never prosper"?	|Duncan Jeff
 
 93
 00:03:45,033 --> 00:03:46,110
-No...
+No,
 
 94
 00:03:46,111 --> 00:03:49,400
@@ -483,7 +483,7 @@ I'm actually a spanish tutor.	|Jeff Britta
 106
 00:04:52,607 --> 00:04:56,107
 - i really need help with spanish.	|Britta Jeff
-- yeah, i was willing to bet.. i'm jeff.
+- yeah, i was willing to bet, i'm Jeff.
 
 107
 00:04:56,108 --> 00:04:57,108
@@ -492,7 +492,7 @@ Or "Jefe".
 109
 00:04:57,976 --> 00:05:00,956
 - We meet at the library at 4:00.	|Jeff Britta
-- yeah, britta. thanks.	|Britta Jeff
+- yeah, Britta. thanks.	|Britta Jeff
 
 110
 00:05:03,199 --> 00:05:04,445
@@ -513,16 +513,16 @@ a study group, right?
 
 114
 00:05:13,609 --> 00:05:15,715
-Oh, geez, I'm sorry... I...
+Oh, geez, I'm sorry, I,
 
 115
 00:05:15,908 --> 00:05:19,227
 I was raised on TV and I was conditioned
-to believe that every...
+to believe that every,
 
 116
 00:05:19,228 --> 00:05:22,128
-Black woman over 50 is a cosmic mentor..	|Jeff Extra
+Black woman over 50 is a cosmic mentor,	|Jeff Extra
 
 117
 00:05:22,389 --> 00:05:25,818
@@ -558,7 +558,7 @@ come on in.
 125
 00:05:42,428 --> 00:05:44,704
 - We have the whole room.	|Britta Jeff
-- Yeah, here's the, uh...
+- Yeah, here's the, uh,
 
 126
 00:05:45,901 --> 00:05:48,111
@@ -623,7 +623,7 @@ I did a little foot modelling,
 
 139
 00:06:15,696 --> 00:06:17,869
-I got tear gased in a World Trade Rally...	|Britta Jeff
+I got tear gased in a World Trade Rally,	|Britta Jeff
 
 140
 00:06:17,870 --> 00:06:19,089
@@ -665,7 +665,7 @@ um, honesty,
 
 148
 00:06:38,008 --> 00:06:39,131
-Because...
+Because,
 
 149
 00:06:39,288 --> 00:06:42,434
@@ -675,7 +675,7 @@ to get what i want.
 150
 00:06:42,435 --> 00:06:44,414
 And i want you
-to like me. So, uh..	|Jeff Britta
+to like me. So, uh,	|Jeff Britta
 
 151
 00:06:45,550 --> 00:06:47,750
@@ -699,7 +699,7 @@ Abed in the house!	|Britta Abed
 155
 00:06:58,418 --> 00:07:00,808
 - why?	|Jeff Abed
-- britta invited me. is that cool?	|Abed Jeff
+- Britta invited me. is that cool?	|Abed Jeff
 
 156
 00:07:01,000 --> 00:07:03,805
@@ -763,7 +763,7 @@ hey, text message.
 168
 00:07:32,205 --> 00:07:34,963
 - I've never got one of these	|Abed Jeff Britta
-- Well, it's jut.. You probably... 
+- Well, it's just, You probably, 
 
 169
 00:07:34,964 --> 00:07:37,953
@@ -814,11 +814,11 @@ So go ahead and study
 
 180
 00:07:59,581 --> 00:08:01,345
-all the verbs...in spanish.	|Jeff Abed Britta
+all the verbs,in spanish.	|Jeff Abed Britta
 
 181
 00:08:01,984 --> 00:08:03,176
-- Abed...	|Britta Abed
+- Abed,	|Britta Abed
 - Yeah?	|Abed Britta
 
 182
@@ -957,7 +957,7 @@ to myself.	|Duncan Jeff
 210
 00:09:17,090 --> 00:09:20,195
 - you guys aren't gonna believe this,
-But the rest of the group...
+But the rest of the group,
 
 211
 00:09:21,411 --> 00:09:22,556
@@ -985,7 +985,7 @@ a tutor?	|Annie Jeff
 
 216
 00:09:30,800 --> 00:09:32,017
-- where's britta?	|Jeff Abed
+- where's Britta?	|Jeff Abed
 - not sure.
 
 217
@@ -1051,7 +1051,7 @@ Looks like the rest of your group showed up.	|Britta Jeff
 230
 00:10:08,225 --> 00:10:11,553
 - yeah, not mine, actually.
-I think abed took out a page on craigslist.
+I think Abed took out a page on craigslist.
 
 231
 00:10:11,554 --> 00:10:13,431
@@ -1094,7 +1094,7 @@ to be untutorable, we'll slip out early.	|Britta Jeff
 
 239
 00:10:33,945 --> 00:10:35,095
-- oh...they will be...
+- oh,they will be,
 
 240
 00:10:35,643 --> 00:10:36,793
@@ -1124,20 +1124,20 @@ with strangers, right?
 
 246
 00:10:53,896 --> 00:10:55,146
-My name is jeff.	|Jeff Group
+My name is Jeff.	|Jeff Group
 
 247
 00:10:55,395 --> 00:10:56,635
-- jeff, it's a pleasure.
+- Jeff, it's a pleasure.
 
 248
 00:10:56,765 --> 00:10:58,600
-My name is pierce hawthorne
+My name is Pierce Hawthorne
 and, yes,
 
 249
 00:10:58,601 --> 00:11:02,047
-That is hawthorne as in hawthorne wipes,
+That is Hawthorne as in Hawthorne wipes,
 The award-winning moist towellete.	|Pierce Jeff
 
 250
@@ -1156,8 +1156,8 @@ I should do the introductions.	|Pierce Group
 
 253
 00:11:07,615 --> 00:11:09,919
-- britta.	|Britta Pierce
-- abed. Abed the arab.
+- Britta.	|Britta Pierce
+- Abed. Abed the arab.
 
 254
 00:11:09,954 --> 00:11:11,267
@@ -1177,7 +1177,7 @@ Is that inappropriate?	|Pierce Jeff
 257
 00:11:15,727 --> 00:11:18,803
 - and finally, this beautiful
-creature is named shirley.	|Pierce Jeff
+creature is named Shirley.	|Pierce Jeff
 
 258
 00:11:19,496 --> 00:11:20,712
@@ -1215,12 +1215,12 @@ Did we not invite her?	|Jeff Group
 
 265
 00:11:35,062 --> 00:11:36,832
-- well, annie, sweetie,
+- well, Annie, sweetie,
 it's not behind your back.
 
 266
 00:11:36,833 --> 00:11:39,884
-- We just didn't think about...	|Shirley Jeff
+- We just didn't think about,	|Shirley Jeff
 - can we stop with the "pumpkins" and the "sweeties"?
 
 267
@@ -1235,13 +1235,13 @@ That you've made bad life decisions.	|Annie Shirley
 
 269
 00:11:45,794 --> 00:11:47,782
-- shirley has a response to that.	|Jeff Shirley
+- Shirley has a response to that.	|Jeff Shirley
 - no, no, no. i don't.	|Shirley Jeff
 
 270
 00:11:47,783 --> 00:11:50,589
 - you should. it looks like you do.	|Troy Shirley
-- please, shirley.	|Jeff Shirley
+- please, Shirley.	|Jeff Shirley
 
 271
 00:11:50,590 --> 00:11:52,246
@@ -1254,7 +1254,7 @@ some bad life decisions
 
 273
 00:11:55,628 --> 00:11:58,299
-And maybe annie's decisions
+And maybe Annie's decisions
 will be better.
 
 274
@@ -1288,7 +1288,7 @@ Why don't we try learning
 280
 00:12:14,081 --> 00:12:16,081
 - what are you doing?	|Shirley Pierce
-- pierce!
+- Pierce!
 
 281
 00:12:16,082 --> 00:12:18,161
@@ -1302,7 +1302,7 @@ Why don't we try learning
 
 283
 00:12:20,261 --> 00:12:24,014
-Are you unaware that shirley
+Are you unaware that Shirley
 Finds your advances inappropriate?	|Jeff Pierce
 
 284
@@ -1353,7 +1353,7 @@ is a quarterback and a prom king.	|Troy Pierce
 
 294
 00:12:53,197 --> 00:12:56,573
-- you're not prom king anymore, troy.
+- you're not prom king anymore, Troy.
 This isn't riverside high.	|Annie Troy
 
 295
@@ -1427,7 +1427,7 @@ What about you?"	|Abed Group
 
 309
 00:13:45,680 --> 00:13:46,823
-Well, uh...
+Well, uh,
 that--
 
 310
@@ -1478,11 +1478,11 @@ No stone unturned.
 320
 00:14:11,133 --> 00:14:12,817
 - Go!	|Jeff Group
-- What does that...	|Pierce Group
+- What does that,	|Pierce Group
 
 321
 00:14:12,818 --> 00:14:16,105
-- I can't feel my...	|Abed Group
+- I can't feel my,	|Abed Group
 
 322
 00:14:21,051 --> 00:14:22,490
@@ -1578,11 +1578,11 @@ A golf kart!	|Jeff
 341
 00:15:31,716 --> 00:15:34,318
 - You like Thai food? I love Thai food.	|Jeff Britta
-- Wait...
+- Wait,
 
 342
 00:15:34,319 --> 00:15:35,874
-so... this
+so, this
 is a game to you?
 
 343
@@ -1613,7 +1613,7 @@ to get close to you.
 348
 00:15:49,925 --> 00:15:52,833
 But how was I suppose to know
-that you were smart and cool...
+that you were smart and cool,
 
 349
 00:15:52,834 --> 00:15:54,643
@@ -1924,7 +1924,7 @@ a study group.
 
 414
 00:18:45,576 --> 00:18:47,125
-You have become something...
+You have become something,
 
 415
 00:18:47,186 --> 00:18:48,536
@@ -1932,7 +1932,7 @@ unstoppable.
 
 416
 00:18:49,260 --> 00:18:50,973
-I hereby pronounce you...
+I hereby pronounce you,
 
 417
 00:18:51,241 --> 00:18:52,534
@@ -2251,7 +2251,7 @@ It's for them.
 
 487
 00:22:18,157 --> 00:22:19,610
-That's what's weak..	|Jeff Troy
+That's what's weak,	|Jeff Troy
 
 488
 00:22:20,455 --> 00:22:21,631
@@ -2293,7 +2293,7 @@ You got a sports coat.	|Troy Jeff
 
 496
 00:22:42,679 --> 00:22:43,829
-I am me...
+I am me,
 
 497
 00:22:44,102 --> 00:22:45,620
@@ -2307,7 +2307,7 @@ without ever having to do any work.
 
 499
 00:22:48,910 --> 00:22:50,079
-So, uh...
+So, uh,
 
 500
 00:22:50,887 --> 00:22:52,868

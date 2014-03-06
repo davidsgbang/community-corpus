@@ -2,6 +2,7 @@ import glob
 import os
 import re
 import pprint
+from communityMarkov import CommunityMarkov
 
 class SubtitleSplitter:
 	def __init__(self, file):
@@ -110,4 +111,8 @@ for episode in glob.glob("*.srt"):
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 graph = characterGraph.getGraph()
 for character in graph:
-	graph[character].printChar()
+	print character
+	#graph[character].printChar()
+
+test = CommunityMarkov("Dean", "Self", graph["jeff"].interactions["abed"])
+print test.generate_markov_text()
