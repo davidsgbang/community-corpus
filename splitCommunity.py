@@ -11,15 +11,17 @@ class SubtitleSplitter:
 	def returnLines(self):
 		with open(self.file, 'r') as fileText:
 			rawData = fileText.read()
-		rawData = re.sub(r'\r\n\r\n\r\n', r'\r\n\r\n', rawData)
+		rawData = re.sub(r'\r', r'', rawData)
+		rawData = re.sub(r'\n\n\n', r'\n\n', rawData)
+		#rawData = re.sub(r'\r+\n\r+\n(\r\n)*', r'\r\n\r\n', rawData)
 		return self.extractLines(rawData)
 
 	def extractLines(self, rawData):
-		lines = rawData.split("\r\n\r\n")
+		lines = rawData.split("\n\n")
 		spokenLines = []
 		monologue = ""
 		for line in lines:
-			processedLines = self.process2Lines(line.split("\r\n")[2:])
+			processedLines = self.process2Lines(line.split("\n")[2:])
 			if len(processedLines) == 2:
 				spokenLines.append(self.trimLine(monologue + " " + processedLines[0]))
 				monologue = ""
@@ -107,9 +109,9 @@ os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
 characterGraph = CharacterGraphMaker()
 for episode in glob.glob("*.srt"):
+	print episode
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 graph = characterGraph.getGraph()
 for character in graph:
-	#print character
 	graph[character].printChar()
