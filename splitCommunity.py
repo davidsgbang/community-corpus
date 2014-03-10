@@ -41,7 +41,6 @@ class SubtitleSplitter:
 	def process2Lines(self, dupleLines):
 		if dupleLines == []:
 			return ""
-
 		dupleLines[0] = self.trimLine(dupleLines[0])
 		# if the first line is the end of the line, then return two as separate lines
 		if len(dupleLines) == 2:
@@ -64,6 +63,7 @@ class CharacterGraphMaker:
 			self.getConversationSpeakers(line)
 
 	def getConversationSpeakers(self, line):
+		print line
 		spoken, characters = line.split("\t|")
 		speaker, listeners = self.getSpeakerListeners(characters.lower().split(" "))	
 		if speaker not in self.characterList:
