@@ -256,33 +256,33 @@ double-dating tonight
 
 61
 00:02:20,826 --> 00:02:22,559
-with my new girlfriend.
+with my new girlfriend.	|Pierce Group
 
 62
 00:02:22,625 --> 00:02:24,058
-Ooh...
+Ooh...	|Shirley Pierce
 
 63
 00:02:24,125 --> 00:02:26,125
-You got that from "I doubt it"?
+You got that from "I doubt it"?	|Jeff Pierce
 
 64
 00:02:26,192 --> 00:02:27,925
-Pierce has got a girlfriend!
+Pierce has got a girlfriend!	|Shirley Pierce
 
 65
 00:02:27,991 --> 00:02:30,058
-That's great. What does she do?
+That's great. What does she do?	|Britta Pierce
 
 66
 00:02:30,125 --> 00:02:32,991
-- She's an escort.
-- Oh...
+- She's an escort.	|	Pierce Group
+- Oh...	|Shirley Pierce
 
 67
 00:02:33,058 --> 00:02:34,925
 Some mysteries solve
-themselves, don't they?
+themselves, don't they?	|Jeff Group
 
 68
 00:02:34,991 --> 00:02:36,625
@@ -299,12 +299,12 @@ I met her in my marketing class.
 71
 00:02:40,858 --> 00:02:43,891
 And I'm taking Doreen
-to Annie's mixer tonight.
+to Annie's mixer tonight.	|Pierce Group
 
 72
 00:02:43,958 --> 00:02:46,392
 You mean the STD fair.
-Catch knowledge.
+Catch knowledge.	|Pierce
 
 73
 00:02:46,459 --> 00:02:48,726
@@ -312,7 +312,7 @@ Taking a call girl to an STD fair.
 
 74
 00:02:48,792 --> 00:02:50,292
-There's a joke here.
+There's a joke here.	|Troy
 
 75
 00:02:50,359 --> 00:02:51,958
@@ -320,12 +320,12 @@ So, Jeff, dust off that black book
 
 76
 00:02:52,025 --> 00:02:53,392
-and rustle up a honey, huh?
+and rustle up a honey, huh?	|Pierce Jeff
 
 77
 00:02:53,459 --> 00:02:57,025
 Is there a pill that makes
-the word "no" clearer?
+the word "no" clearer?	|Jeff Pierce
 
 78
 00:02:57,092 --> 00:02:58,592
@@ -333,16 +333,16 @@ Well, I guess it is pretty short notice.
 
 79
 00:02:58,659 --> 00:02:59,826
-Probably couldn't get a date anyway.
+Probably couldn't get a date anyway.	|Pierce Jeff
 
 80
 00:02:59,891 --> 00:03:03,392
-- Oooohh...
-- I'm sure you're right.
+- Oooohh...	|Group
+- I'm sure you're right.	|Jeff Pierce
 
 81
 00:03:03,459 --> 00:03:05,826
-Oooohh...
+Oooohh...	|Group
 
 82
 00:03:05,891 --> 00:03:07,258
@@ -351,7 +351,7 @@ Maybe it has something to do with crabs.
 83
 00:03:07,325 --> 00:03:09,392
 They're like a food,
-but they're also a disease.
+but they're also a disease.	|Troy
 
 84
 00:03:09,459 --> 00:03:11,292
@@ -361,7 +361,7 @@ for all your feather flashing,
 85
 00:03:11,359 --> 00:03:13,325
 when was the last time
-you actually scored?
+you actually scored?	|Pierce Jff
 
 86
 00:03:13,392 --> 00:03:14,891
@@ -371,19 +371,19 @@ precise date, Pierce,
 87
 00:03:14,958 --> 00:03:17,625
 because I'm not you,
-so there's no receipt.
+so there's no receipt.	|Jeff Pierce
 
 88
 00:03:17,692 --> 00:03:19,092
-Ooohh...
+Ooohh...	|Jeff Group
 
 89
 00:03:19,158 --> 00:03:20,058
-Meh...
+Meh...	|Group Jeff
 
 90
 00:03:20,125 --> 00:03:21,559
-Oh, come on.
+Oh, come on.	|Jeff Group
 
 91
 00:03:21,625 --> 00:03:23,525
@@ -392,7 +392,7 @@ potshots at some poor woman
 
 92
 00:03:23,592 --> 00:03:25,092
-just because you can't get a date.
+just because you can't get a date.	|Shirley Jeff
 
 93
 00:03:25,158 --> 00:03:27,991
