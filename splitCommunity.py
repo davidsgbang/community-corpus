@@ -63,7 +63,7 @@ class CharacterGraphMaker:
 			self.getConversationSpeakers(line)
 
 	def getConversationSpeakers(self, line):
-		print line
+		#print line
 		spoken, characters = line.split("\t|")
 		speaker, listeners = self.getSpeakerListeners(characters.lower().split(" "))	
 		if speaker not in self.characterList:

@@ -1872,6 +1872,7 @@ you love life.	|Shirley All
 433
 00:17:23,000 --> 00:17:25,667
 - * somewhere out there *	|Troy Fievel
+
 434
 00:17:27,134 --> 00:17:29,501
 * and even though i know *	|Troy Fievel
