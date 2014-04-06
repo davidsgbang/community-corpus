@@ -101,15 +101,18 @@ class Character:
 			self.interactions[listener] = [line]
 
 	def printChar(self):
-		print self.name + "\n"
-		print self.interactions
+		print "Speaker: " + self.name + "\n"
+		#print self.interactions
+		for char in self.interactions:
+				print "\t" + char + "\n"
+				for line in self.interactions[char]:
+					print "\t\t" + line + "\n"
 		print "\n"
 
 os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
 characterGraph = CharacterGraphMaker()
 for episode in glob.glob("*.srt"):
-	print episode
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 graph = characterGraph.getGraph()
