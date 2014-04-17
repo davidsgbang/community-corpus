@@ -21,6 +21,8 @@ class SubtitleSplitter:
 		spokenLines = []
 		monologue = ""
 		for line in lines:
+			if len(line.split("\n")) <= 2:
+				continue
 			processedLines = self.process2Lines(line.split("\n")[2:])
 			if len(processedLines) == 2:
 				spokenLines.append(self.trimLine(monologue + " " + processedLines[0]))
@@ -56,18 +58,26 @@ class SubtitleSplitter:
 class CharacterGraphMaker:
 	def __init__(self):
 		self.characterList = {}
+		self.convoList = []
 
 	def addEpisode(self, episode, episodeLines):
 		self.episodeName = episode
+		self.convoInEpisode = {}
 		for line in episodeLines:
 			self.getConversationSpeakers(line)
+		for convo in sorted(self.convoInEpisode):
+			self.convoList.append(self.convoInEpisode[convo])
+		self.convoInEpisode = {}
 
 	def getConversationSpeakers(self, line):
-		#print line
-		spoken, characters = line.split("\t|")
+		spoken, characters, convoMarker = line.split("\t|")
 		speaker, listeners = self.getSpeakerListeners(characters.lower().split(" "))	
 		if speaker not in self.characterList:
 			self.characterList[speaker] = Character(speaker)
+		if convoMarker not in self.convoInEpisode:
+			self.convoInEpisode[convoMarker] = ["\tSpeaker: " + speaker + "\tListeners: " + " ".join(listeners) + "\n" + spoken]
+		else:
+			self.convoInEpisode[convoMarker].append("\tSpeaker: " + speaker + "\tListeners: " + " ".join(listeners) + "\n" + spoken)
 		for listener in listeners:
 			self.characterList[speaker].spokenTo(listener, spoken)
 		
@@ -86,7 +96,7 @@ class CharacterGraphMaker:
 			return speaker, [characterList[1]]
 
 	def getGraph(self):
-		return self.characterList
+		return self.characterList, self.convoList
 
 class Character:
 	def __init__(self, name):
@@ -112,9 +122,15 @@ class Character:
 os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
 characterGraph = CharacterGraphMaker()
-for episode in glob.glob("*.srt"):
-	episodeSplitter = SubtitleSplitter(episode)
-	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
-graph = characterGraph.getGraph()
+#for episode in glob.glob("*.srt"):
+#	episodeSplitter = SubtitleSplitter(episode)
+#	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
+episodeSplitter = SubtitleSplitter("Community - 1x01 - Pilot.HDTV.FQM.en.srt")
+characterGraph.addEpisode("ep 1", episodeSplitter.returnLines())
+graph, convoGraph = characterGraph.getGraph()
 for character in graph:
 	graph[character].printChar()
+for convo in convoGraph:
+	for line in convo:
+		print line
+	print "\n\n"
