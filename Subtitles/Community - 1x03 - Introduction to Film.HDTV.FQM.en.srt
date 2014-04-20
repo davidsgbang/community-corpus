@@ -23,15 +23,15 @@ Are you passing it?
 
 6
 00:00:22,901 --> 00:00:24,400
-Do you like dane cook?	|Jeff Extra
+Do you like dane cook?	|Jeff Extra	|99
 
 7
 00:00:24,434 --> 00:00:25,701
-- yeah, he's awesome.	|Extra Jeff
+- yeah, he's awesome.	|Extra Jeff	|99
 
 8
 00:00:25,734 --> 00:00:28,133
-- so far so good.	|Jeff Extra
+- so far so good.	|Jeff Extra	|99
 
 9
 00:00:28,167 --> 00:00:29,801
@@ -101,11 +101,11 @@ Live in...
 
 24
 00:01:10,834 --> 00:01:13,968
-The moment.	|Whitman All
+The moment.	|Whitman All	|01
 
 25
 00:01:14,000 --> 00:01:16,200
-- jackpot.	|Jeff
+- jackpot.	|Jeff	|01
 - take off your shoes.
 
 26
@@ -132,28 +132,28 @@ Get up and walk out the door!
 
 31
 00:01:24,267 --> 00:01:26,400
-This day could be your last!	|Whitman All
+This day could be your last!	|Whitman All	|01
 
 32
 00:01:26,434 --> 00:01:27,667
-You could die in your sleep.	|Whitman Extra
+You could die in your sleep.	|Whitman Extra	|01
 
 33
 00:01:27,701 --> 00:01:29,267
-You could get hit by a bus.	|Whitman Extra
+You could get hit by a bus.	|Whitman Extra	|01
 
 34
 00:01:29,300 --> 00:01:30,567
 You, that mole is raised
-and dark.	|Whitman Extra
+and dark.	|Whitman Extra	|01
 
 35
 00:01:30,601 --> 00:01:32,067
-It's not a good combo.	|Whitman Extra
+It's not a good combo.	|Whitman Extra	|01
 
 36
 00:01:32,100 --> 00:01:33,968
-You are new.	|Whitman Jeff
+You are new.	|Whitman Jeff	|01
 - yes, i'm new.
 
 37
@@ -163,11 +163,11 @@ But i'll be old too soon.
 38
 00:01:35,400 --> 00:01:38,000
 Carpe diem, sir.
-carpe diem!	|Jeff Whitman
+carpe diem!	|Jeff Whitman	|01
 
 39
 00:01:38,033 --> 00:01:40,567
-- i like it!	|Whitman Jeff
+- i like it!	|Whitman Jeff	|01
 
 40
 00:01:40,601 --> 00:01:44,267
@@ -190,24 +190,24 @@ Voice command.
 Voice command!
 
 00:01:55,267 --> 00:01:58,167
-Voice com--	|Pierce
+Voice com--	|Pierce	|02
 
 47
 00:01:58,200 --> 00:02:00,133
 - would you please use
-the buttons?	|Britta Pierce
+the buttons?	|Britta Pierce	|02
 
 48
 00:02:00,167 --> 00:02:03,634
-- okay, grandpa.	|Pierce Britta
+- okay, grandpa.	|Pierce Britta	|02
 
 50
 00:02:04,934 --> 00:02:07,000
-- oh, god bless you, dear.	|Shirley Troy
+- oh, god bless you, dear.	|Shirley Troy	|02
 
 51
 00:02:07,033 --> 00:02:09,534
-- what's so funny?	|Troy Group
+- what's so funny?	|Troy Group	|02
 
 52
 00:02:09,567 --> 00:02:12,834
@@ -239,26 +239,26 @@ is tomorrow.
 
 58
 00:02:22,701 --> 00:02:24,133
-I suggest you all do it.	|Jeff Group
+I suggest you all do it.	|Jeff Group	|02
 
 59
 00:02:24,167 --> 00:02:26,767
 - well, some of us are here
-to actually learn things.	|Annie Jeff
+to actually learn things.	|Annie Jeff	|02
 
 60
 00:02:26,801 --> 00:02:30,033
-- i'm in.	|Troy Jeff
-- me too. it sounds educational.	|Annie Troy
+- i'm in.	|Troy Jeff	|02
+- me too. it sounds educational.	|Annie Troy	|02
 
 61
 00:02:30,067 --> 00:02:31,801
 - i'll do it.
-i love robin williams.	|Shirley Annie Jeff
+i love robin williams.	|Shirley Annie Jeff	|02
 
 62
 00:02:31,834 --> 00:02:33,000
-- abed?	|Jeff Abed
+- abed?	|Jeff Abed	|02
 - not a fan.
 
 63
@@ -269,16 +269,16 @@ there's an authority figure
 64
 00:02:34,367 --> 00:02:35,634
 That gets mad at him
-for making people laugh.	|Abed Jeff
+for making people laugh.	|Abed Jeff	|02
 
 65
 00:02:35,667 --> 00:02:37,367
 - no, are--are you going
-to take the class?	|Jeff Abed
+to take the class?	|Jeff Abed	|02
 
 66
 00:02:37,400 --> 00:02:38,701
-- oh, can't.	|Abed Jeff
+- oh, can't.	|Abed Jeff	|02
 
 67
 00:02:38,734 --> 00:02:39,901
@@ -298,7 +298,7 @@ since 2001.
 70
 00:02:43,067 --> 00:02:45,334
 9/11 was pretty much the 9/11
-of the falafel business.	|Abed Group
+of the falafel business.	|Abed Group	|02
 
 71
 00:02:45,367 --> 00:02:48,667
@@ -308,7 +308,7 @@ life planned out for you?
 72
 00:02:48,701 --> 00:02:50,667
 Are you even interested
-in falafel?	|Britta Abed
+in falafel?	|Britta Abed	|02
 
 73
 00:02:50,701 --> 00:02:52,133
@@ -323,39 +323,39 @@ all media's western propaganda
 75
 00:02:53,868 --> 00:02:55,234
 That negatively stereotypes
-arabs.	|Abed Britta
+arabs.	|Abed Britta	|02
 
 76
 00:02:55,267 --> 00:02:57,801
 - then he should see aladdin.
-jafar was a bad-ass.	|Troy Group
+jafar was a bad-ass.	|Troy Group	|02
 
 77
 00:02:57,834 --> 00:02:59,234
-- yes, he was.	|Abed Troy
+- yes, he was.	|Abed Troy	|02
 
 78
 00:03:00,567 --> 00:03:01,534
-- abed.	|Britta Abed
-- mm.	|Abed Britta
+- abed.	|Britta Abed	|02
+- mm.	|Abed Britta	|02
 
 79
 00:03:01,567 --> 00:03:02,868
 - how much
-does a film class cost?	|Britta Abed
+does a film class cost?	|Britta Abed	|02
 
 80
 00:03:02,901 --> 00:03:05,834
-- $70.	|Abed Britta
+- $70.	|Abed Britta	|02
 
 81
 00:03:05,868 --> 00:03:09,033
-- Britta.	|Jeff Britta
-- Jeff.	|Britta Jeff
+- Britta.	|Jeff Britta	|02
+- Jeff.	|Britta Jeff	|02
 
 82
 00:03:09,067 --> 00:03:10,334
-- Britta.	|Jeff Britta
+- Britta.	|Jeff Britta	|02
 
 83
 00:03:10,367 --> 00:03:13,267
@@ -370,7 +370,7 @@ as christians.
 85
 00:03:14,868 --> 00:03:16,467
 You can get your head cut off
-with a salami sword.	|Shirley Britta
+with a salami sword.	|Shirley Britta	|02
 
 86
 00:03:16,501 --> 00:03:18,000
@@ -379,21 +379,21 @@ with a salami sword.	|Shirley Britta
 87
 00:03:18,033 --> 00:03:19,834
 That's the most racist thing
-i've ever heard.	|Annie Shirley
+i've ever heard.	|Annie Shirley	|02
 
 88
 00:03:19,868 --> 00:03:21,567
 - Pierce will beat that
-in one minute.	|Jeff Annie
+in one minute.	|Jeff Annie	|02
 
 90
 00:03:26,200 --> 00:03:29,868
-- this is really nice of you.	|Abed Britta
-the memo says "for dreams."	|Abed Group
+- this is really nice of you.	|Abed Britta	|02
+the memo says "for dreams."	|Abed Group	|02
 
 91
 00:03:29,901 --> 00:03:31,400
-- oh!	|Group Abed
+- oh!	|Group Abed	|02
 
 92
 00:03:31,434 --> 00:03:33,367
@@ -403,11 +403,11 @@ to study spanish
 93
 00:03:33,400 --> 00:03:35,734
 Or keep getting involved
-in each other's personal lives?	|Jeff Group
+in each other's personal lives?	|Jeff Group	|02
 
 94
 00:03:35,767 --> 00:03:38,634
-- hey, Troy sneezes like a girl.	|Jeff Troy
+- hey, Troy sneezes like a girl.	|Jeff Troy	|02
 
 95
 00:03:38,667 --> 00:03:40,400
@@ -416,7 +416,7 @@ like a boy?
 
 96
 00:03:40,434 --> 00:03:41,701
-That didn't come out right.	|Troy Jeff
+That didn't come out right.	|Troy Jeff	|02
 
 97
 00:03:41,734 --> 00:03:43,100
@@ -426,31 +426,31 @@ just leave him alone
 98
 00:03:43,133 --> 00:03:44,634
 With his cute little
-baby sneezes.	|Shirley Group
+baby sneezes.	|Shirley Group	|02
 
 99
 00:03:44,667 --> 00:03:47,367
-- you're not my mother.	|Troy Shirley
-- she's not?	|Pierce Troy
+- you're not my mother.	|Troy Shirley	|02
+- she's not?	|Pierce Troy	|02
 
 100
 00:03:47,400 --> 00:03:49,267
-- 29 seconds.	|Jeff Group
+- 29 seconds.	|Jeff Group	|02
 
 107
 00:04:18,634 --> 00:04:20,667
-- what's your name?	|Whitman Shirley
-- my name is Shirley Bennett.	|Shirley Whitman
+- what's your name?	|Whitman Shirley	|03
+- my name is Shirley Bennett.	|Shirley Whitman	|03
 
 108
 00:04:20,701 --> 00:04:22,634
-- Shirley, you get an "a"...	|Whitman Shirley
-- oh.	|Shirley Whitman
+- Shirley, you get an "a"...	|Whitman Shirley	|03
+- oh.	|Shirley Whitman	|03
 
 109
 00:04:22,667 --> 00:04:26,167
 - if you can tell me
-why you are here at greendale.	|Whitman Shirley
+why you are here at greendale.	|Whitman Shirley	|03
 
 110
 00:04:26,200 --> 00:04:28,767
@@ -459,11 +459,11 @@ why you are here at greendale.	|Whitman Shirley
 111
 00:04:28,801 --> 00:04:31,000
 Okay, but, uh,
-never again.	|Jeff Troy
+never again.	|Jeff Troy	|04
 
 112
 00:04:31,033 --> 00:04:32,300
-- Shirley?	|Whitman Shirley
+- Shirley?	|Whitman Shirley	|03
 
 113
 00:04:32,334 --> 00:04:33,934
@@ -472,11 +472,11 @@ never again.	|Jeff Troy
 114
 00:04:33,968 --> 00:04:37,133
 So i can sell my baked goods
-and whatnot on the internet.	|Shirley Whitman
+and whatnot on the internet.	|Shirley Whitman	|03
 
 115
 00:04:37,167 --> 00:04:39,234
-- why...are you here?	|Whitman Shirley
+- why...are you here?	|Whitman Shirley	|03
 
 116
 00:04:39,267 --> 00:04:41,100
@@ -486,11 +486,11 @@ in business
 117
 00:04:41,133 --> 00:04:43,100
 So i can sell my baked goods
-and whatnot on the internet.	|Shirley Whitman
+and whatnot on the internet.	|Shirley Whitman	|03
 
 118
 00:04:43,133 --> 00:04:46,267
-- why are you here?	|Whitman Shirley
+- why are you here?	|Whitman Shirley	|03
 
 119
 00:04:46,300 --> 00:04:48,601
@@ -510,7 +510,7 @@ of two bland orgasms.
 122
 00:04:52,000 --> 00:04:54,434
 And now it's time to get
-what's mine.	|Shirley Whitman
+what's mine.	|Shirley Whitman	|03
 
 123
 00:04:54,467 --> 00:04:56,601
@@ -539,12 +539,12 @@ to other people
 129
 00:05:08,534 --> 00:05:10,934
 Than live
-what is happening to her.	|Whitman All
+what is happening to her.	|Whitman All	|03
 
 130
 00:05:10,968 --> 00:05:12,767
 - i thought there might be
-a quiz.	|Annie Whitman
+a quiz.	|Annie Whitman	|05
 
 131
 00:05:12,801 --> 00:05:14,467
@@ -563,7 +563,7 @@ by sweater-wearing cats
 134
 00:05:19,767 --> 00:05:23,167
 Who are trained to use
-human toilets?	|Whitman Annie
+human toilets?	|Whitman Annie	|05
 
 135
 00:05:23,200 --> 00:05:26,801
@@ -605,7 +605,7 @@ don't stand on your desks.
 
 143
 00:05:42,901 --> 00:05:44,267
-Well, why not?	|Whitman All
+Well, why not?	|Whitman All	|05
 
 144
 00:05:44,300 --> 00:05:46,734
@@ -613,13 +613,13 @@ Well, why not?	|Whitman All
 
 145
 00:05:46,767 --> 00:05:49,300
-My.	|Shirley Extra
+My.	|Shirley Extra	|05
 - she's okay.
 
 146
 00:05:49,334 --> 00:05:52,167
 Go to the nurse.
-seize the day.	|Whitman All
+seize the day.	|Whitman All	|05
 
 147
 00:05:52,200 --> 00:05:55,601
@@ -634,7 +634,7 @@ about your husband
 149
 00:05:58,167 --> 00:05:59,767
 Not being able,
-you know...	|Pierce Shirley
+you know...	|Pierce Shirley	|06
 
 150
 00:05:59,801 --> 00:06:03,033
@@ -647,17 +647,17 @@ I want you to swim in a lake
 152
 00:06:05,167 --> 00:06:08,234
 And tell ten people
-that you love them.	|Whitman All
+that you love them.	|Whitman All	|05
 
 153
 00:06:08,267 --> 00:06:11,400
 Mr. winger,
-can i have a word, please?	|Whitman Jeff
+can i have a word, please?	|Whitman Jeff	|05
 
 154
 00:06:11,434 --> 00:06:14,334
-- are you okay.	|Annie Extra
-- oh, maybe i'm not.	|Extra Annie
+- are you okay.	|Annie Extra	|05
+- oh, maybe i'm not.	|Extra Annie	|05
 
 155
 00:06:14,367 --> 00:06:15,801
@@ -681,7 +681,7 @@ one cocky opportunist
 159
 00:06:23,200 --> 00:06:25,567
 Who's just here to coast
-and grab an easy "a."	|Whitman Jeff
+and grab an easy "a."	|Whitman Jeff	|07
 
 160
 00:06:25,601 --> 00:06:28,701
@@ -691,7 +691,7 @@ his name's Pierce.
 161
 00:06:28,734 --> 00:06:29,868
 I-i can talk to him
-for you.	|Jeff Whitman
+for you.	|Jeff Whitman	|07
 
 162
 00:06:29,901 --> 00:06:32,200
@@ -701,7 +701,7 @@ mr. winger.
 163
 00:06:32,234 --> 00:06:34,634
 You have no intention
-of seizing the day.	|Whitman Jeff
+of seizing the day.	|Whitman Jeff	|07
 
 164
 00:06:34,667 --> 00:06:37,067
@@ -724,7 +724,7 @@ nine to go.
 168
 00:06:42,734 --> 00:06:44,367
 Not that i need the grade
-or even want it!	|Jeff Whitman
+or even want it!	|Jeff Whitman	|07
 
 169
 00:06:44,400 --> 00:06:45,701
@@ -742,7 +742,7 @@ Before the end of the week,
 172
 00:06:50,000 --> 00:06:52,367
 Then you will be seizing an "f"
-for the semester.	|Whitman Jeff
+for the semester.	|Whitman Jeff	|07
 
 173
 00:06:52,400 --> 00:06:55,100
@@ -751,7 +751,7 @@ for the semester.	|Whitman Jeff
 174
 00:06:55,133 --> 00:06:58,601
 This is no way
-to teach accounting!	|Jeff Whitman
+to teach accounting!	|Jeff Whitman	|07
 
 175
 00:06:58,634 --> 00:07:00,400
@@ -771,12 +771,12 @@ an actual class,
 178
 00:07:04,634 --> 00:07:05,901
 But now it's too late
-to drop or add.	|Jeff Britta
+to drop or add.	|Jeff Britta	|08
 
 179
 00:07:05,934 --> 00:07:10,834
 - it is not fair how hard it is
-for you to cheat here.	|Britta Jeff
+for you to cheat here.	|Britta Jeff	|08
 
 180
 00:07:10,868 --> 00:07:12,734
@@ -785,7 +785,7 @@ hey, how's it going?
 181
 00:07:12,767 --> 00:07:14,133
 How's your film class,
-buddy?	|Britta Abed
+buddy?	|Britta Abed	|09
 
 182
 00:07:14,167 --> 00:07:16,267
@@ -799,7 +799,7 @@ but with ugly people.
 
 184
 00:07:18,167 --> 00:07:19,601
-I'm learning a lot.	|Abed Britta
+I'm learning a lot.	|Abed Britta	|09
 - that is so wonderful.
 
 185
@@ -813,7 +813,7 @@ In other's lives.
 
 187
 00:07:22,167 --> 00:07:23,234
-I think it's great.	|Britta Abed Jeff
+I think it's great.	|Britta Abed Jeff	|09
 
 188
 00:07:23,267 --> 00:07:24,634
@@ -828,12 +828,12 @@ on the back,
 190
 00:07:26,767 --> 00:07:28,133
 You're gonna need
-a backup battery.	|Jeff Abed Britta
+a backup battery.	|Jeff Abed Britta	|09
 
 191
 00:07:28,167 --> 00:07:29,567
 - actually, i'm doing a movie
-about my dad.	|Abed Jeff
+about my dad.	|Abed Jeff	|09
 
 192
 00:07:29,601 --> 00:07:30,901
@@ -847,20 +847,20 @@ signing up for the film class?
 194
 00:07:32,801 --> 00:07:34,767
 - that part hasn't happened yet.
-here he comes.	|Britta Jeff
+here he comes.	|Britta Jeff	|09
 
 195
 00:07:34,801 --> 00:07:38,033
 - hey! you want to get involved
-in my family's business?	|AbedDAD
+in my family's business?	|AbedDAD	|09
 
 196
 00:07:38,067 --> 00:07:40,167
-- holy...war.	|Jeff
+- holy...war.	|Jeff	|09
 
 197
 00:07:40,200 --> 00:07:44,000
-- where do i find mr. Britta?	|AbedDAD Jeff
+- where do i find mr. Britta?	|AbedDAD Jeff	|09
 - i'm mr. Britta.
 
 198
@@ -871,7 +871,7 @@ i'm a woman with rights.
 199
 00:07:46,868 --> 00:07:49,100
 And you can see
-my whole face.	|Britta AbedDAD
+my whole face.	|Britta AbedDAD	|09
 
 200
 00:07:49,133 --> 00:07:50,934
@@ -890,7 +890,7 @@ i love women.
 203
 00:07:55,400 --> 00:07:58,000
 But i'm getting a major
-b-word vibe from you.	|AbedDAD Britta
+b-word vibe from you.	|AbedDAD Britta	|09
 
 204
 00:07:58,033 --> 00:07:59,801
@@ -900,7 +900,7 @@ i missed out
 205
 00:07:59,834 --> 00:08:01,467
 On getting involved
-in this.	|Jeff AbedDAD
+in this.	|Jeff AbedDAD	|09
 
 206
 00:08:01,501 --> 00:08:02,834
@@ -918,45 +918,45 @@ He's a special boy.
 209
 00:08:05,834 --> 00:08:07,834
 I raise him, okay?
-you don't raise him.	|AbedDAD Britta
+you don't raise him.	|AbedDAD Britta	|09
 
 210
 00:08:07,868 --> 00:08:10,200
 - raising him means letting him
-follow his dreams.	|Britta AbedDAD
+follow his dreams.	|Britta AbedDAD	|09
 
 211
 00:08:10,234 --> 00:08:11,901
-- dreams are for sleeping.	|AbedDAD Britta
-- you don't know that.	|Britta AbedDAD
+- dreams are for sleeping.	|AbedDAD Britta	|09
+- you don't know that.	|Britta AbedDAD	|09
 
 212
 00:08:11,934 --> 00:08:13,734
-- it's clinically proven.	|AbedDAD Britta
-- so's polio.	|Britta AbedDAD
+- it's clinically proven.	|AbedDAD Britta	|09
+- so's polio.	|Britta AbedDAD	|09
 
 213
 00:08:13,767 --> 00:08:15,634
-- you lost me!	|AbedDAD Britta
+- you lost me!	|AbedDAD Britta	|09
 
 214
 00:08:15,667 --> 00:08:17,701
-- abed wants to study film.	|Britta AbedDAD
+- abed wants to study film.	|Britta AbedDAD	|09
 
 216
 00:08:19,767 --> 00:08:21,868
-- wait, what is he saying?	|Britta Abed
-- he says "we're leaving."	|Abed Britta
+- wait, what is he saying?	|Britta Abed	|09
+- he says "we're leaving."	|Abed Britta	|09
 
 217
 00:08:21,901 --> 00:08:23,734
 - tell him that you want
-to stay and study film.	|Britta Abed
+to stay and study film.	|Britta Abed	|09
 
 218
 00:08:23,767 --> 00:08:25,133
 - i don't think i'm really
-in the scene.	|Abed Britta
+in the scene.	|Abed Britta	|09
 
 219
 00:08:25,167 --> 00:08:27,033
@@ -965,26 +965,26 @@ to talk to him before.
 
 220
 00:08:27,067 --> 00:08:29,033
-Now we have this between us!	|AbedDAD Britta Jeff Abed
+Now we have this between us!	|AbedDAD Britta Jeff Abed	|09
 
 221
 00:08:29,067 --> 00:08:30,367
-Let's go!	|AbedDAD Abed
-- hey! hey!	|Britta AbedDAD
+Let's go!	|AbedDAD Abed	|09
+- hey! hey!	|Britta AbedDAD	|09
 
 222
 00:08:30,400 --> 00:08:31,367
-- hey, don't touch me!	|AbedDAD Britta
+- hey, don't touch me!	|AbedDAD Britta	|09
 
 223
 00:08:31,400 --> 00:08:32,634
 - guys, guys, stop it.
-stop it.	|Jeff Britta AbedDAD
+stop it.	|Jeff Britta AbedDAD	|09
 
 224
 00:08:32,667 --> 00:08:34,667
-- you don't touch me!	|AbedDAD Britta
-- Britta back up. stop.	|Jeff Britta
+- you don't touch me!	|AbedDAD Britta	|09
+- Britta back up. stop.	|Jeff Britta	|09
 
 225
 00:08:34,701 --> 00:08:37,167
@@ -998,17 +998,17 @@ And your family's privacy.
 227
 00:08:38,767 --> 00:08:41,934
 But abed is an adult
-and a u.s. citizen.	|Jeff AbedDAD
+and a u.s. citizen.	|Jeff AbedDAD	|09
 
 228
 00:08:41,968 --> 00:08:43,734
-Right?	|Jeff Abed
-- yeah.	|Abed Jeff
+Right?	|Jeff Abed	|09
+- yeah.	|Abed Jeff	|09
 
 229
 00:08:43,767 --> 00:08:45,534
 - and he has the right
-to stay.	|Jeff AbedDAD
+to stay.	|Jeff AbedDAD	|09
 
 230
 00:08:45,567 --> 00:08:49,968
@@ -1017,8 +1017,8 @@ you raise him.
 
 231
 00:08:50,000 --> 00:08:52,234
-I'm out!	|AbedDAD Jeff
-- wait, what?	|Jeff AbedDAD
+I'm out!	|AbedDAD Jeff	|09
+- wait, what?	|Jeff AbedDAD	|09
 
 232
 00:08:52,267 --> 00:08:54,534
@@ -1033,11 +1033,11 @@ cut myself loose
 234
 00:08:56,734 --> 00:09:01,901
 is the day
-i finally started being happy.	|Britta AbedDAD
+i finally started being happy.	|Britta AbedDAD	|09
 
 235
 00:09:01,934 --> 00:09:03,901
-- well, that went well.	|Jeff Abed
+- well, that went well.	|Jeff Abed	|09
 
 236
 00:09:03,934 --> 00:09:05,634
@@ -1047,17 +1047,17 @@ some adjustments to my film.
 237
 00:09:05,667 --> 00:09:08,100
 Jeff, i think you should play
-the role of my father.	|Abed Jeff
+the role of my father.	|Abed Jeff	|09
 
 238
 00:09:08,133 --> 00:09:09,567
 - i don't want to be
-your father.	|Jeff Abed
+your father.	|Jeff Abed	|09
 
 239
 00:09:09,601 --> 00:09:11,234
 - that's perfect.
-you already know your lines.	|Abed Jeff
+you already know your lines.	|Abed Jeff	|09
 
 240
 00:09:16,118 --> 00:09:18,283
@@ -1066,7 +1066,7 @@ What?
 241
 00:09:18,317 --> 00:09:21,250
 Why are you dressed
-like an '80s rapist?	|Jeff Britta
+like an '80s rapist?	|Britta Jeff	|10
 
 242
 00:09:21,283 --> 00:09:23,283
@@ -1080,7 +1080,7 @@ celebrating life.
 
 244
 00:09:27,584 --> 00:09:28,584
-What's all that?	|Jeff Britta
+What's all that?	|Jeff Britta	|10
 
 245
 00:09:28,617 --> 00:09:30,417
@@ -1103,12 +1103,12 @@ He's renting that camera.
 249
 00:09:34,184 --> 00:09:36,118
 And, you know, he needs
-a little spending money.	|Britta Jeff
+a little spending money.	|Britta Jeff	|10
 
 250
 00:09:36,151 --> 00:09:38,250
 - um, all money
-is spending money.	|Jeff Britta
+is spending money.	|Jeff Britta	|10
 
 251
 00:09:38,283 --> 00:09:41,317
@@ -1123,7 +1123,7 @@ a good game.
 253
 00:09:42,784 --> 00:09:46,450
 But you, you follow through.
-love you.	|Shirley Britta
+love you.	|Shirley Britta	|10
 
 254
 00:09:46,484 --> 00:09:49,151
@@ -1132,7 +1132,7 @@ love you.	|Shirley Britta
 255
 00:09:49,184 --> 00:09:50,917
 Bet that doesn't happen
-to you a lot.	|Britta Shirley
+to you a lot.	|Britta Shirley	|10
 
 256
 00:09:50,951 --> 00:09:52,017
@@ -1141,7 +1141,7 @@ to you a lot.	|Britta Shirley
 257
 00:09:52,051 --> 00:09:53,350
 Shirley's just doing
-her homework.	|Jeff Britta
+her homework.	|Jeff Britta	|10
 
 258
 00:09:53,383 --> 00:09:55,784
@@ -1150,17 +1150,17 @@ for getting people coffee.
 
 259
 00:09:55,817 --> 00:09:57,317
-I love you.	|Britta Extra
+I love you.	|Shirley Extra	|10
 
 260
 00:10:00,184 --> 00:10:02,350
 - abed,
-how's it going, buddy?	|Britta Abed
+how's it going, buddy?	|Britta Abed	|11
 
 261
 00:10:02,383 --> 00:10:03,951
 - good. my film
-is coming together.	|Abed Britta
+is coming together.	|Abed Britta	|11
 
 262
 00:10:03,984 --> 00:10:04,951
@@ -1177,16 +1177,16 @@ the role of my dad,
 
 265
 00:10:07,617 --> 00:10:08,584
-Or is it really christmas?	|Abed Britta
+Or is it really christmas?	|Abed Jeff	|11
 
 266
 00:10:08,617 --> 00:10:09,584
-- definitely christmas.	|Jeff Abed
+- definitely christmas.	|Jeff Abed	|11
 
 267
 00:10:09,617 --> 00:10:10,751
-- is that a new camera?	|Britta Abed
-- yeah.	|Abed Britta
+- is that a new camera?	|Britta Abed	|11
+- yeah.	|Abed Britta	|11
 
 268
 00:10:10,784 --> 00:10:11,917
@@ -1198,24 +1198,24 @@ But it lets me adjust really specific settings
 
 270
 00:10:13,617 --> 00:10:15,283
-That most people don't notice or think about.	|Abed Britta
+That most people don't notice or think about.	|Abed Britta	|11
 
 271
 00:10:15,317 --> 00:10:17,350
-Hi, i would like a latte.	|Abed Extra
+Hi, i would like a latte.	|Abed Extra	|11
 
 272
 00:10:17,383 --> 00:10:18,684
-And, Jeff, let me get you something.	|Abed Jeff
+And, Jeff, let me get you something.	|Abed Jeff	|11
 
 273
 00:10:18,717 --> 00:10:20,017
-- i'm okay.	|Jeff Abed
-- oh, come on. i got you.	|Abed Jeff
+- i'm okay.	|Jeff Abed	|11
+- oh, come on. i got you.	|Abed Jeff	|11
 
 274
 00:10:20,051 --> 00:10:21,450
-- no, really. i don't need anything.	|Jeff Abed
+- no, really. i don't need anything.	|Jeff Abed	|11
 
 275
 00:10:21,484 --> 00:10:22,817
@@ -1223,32 +1223,32 @@ And, Jeff, let me get you something.	|Abed Jeff
 
 276
 00:10:22,851 --> 00:10:23,984
-Look at all this cash.	|Abed Jeff
+Look at all this cash.	|Abed Jeff	|11
 
 277
 00:10:24,017 --> 00:10:26,784
-- okay, i will get a small, black coffee.	|Jeff Abed
+- okay, i will get a small, black coffee.	|Jeff Abed	|12
 
 278
 00:10:26,817 --> 00:10:31,350
-- boo. an ordinary coffee for an ordinary life.	|Whitman Jeff
+- boo. an ordinary coffee for an ordinary life.	|Whitman Jeff	|12
 
 279
 00:10:31,383 --> 00:10:34,450
-- good morning, professor Whitman.	|Jeff Whitman
+- good morning, professor Whitman.	|Jeff Whitman	|12
 
 280
 00:10:34,484 --> 00:10:38,283
-- sorry, mr. winger, these won't cut it.	|Whitman Jeff
+- sorry, mr. winger, these won't cut it.	|Whitman Jeff	|12
 
 281
 00:10:38,317 --> 00:10:41,017
-- shazbot!	|Jeff
+- shazbot!	|Jeff	|12
 - i shall have...
 
 282
 00:10:44,851 --> 00:10:46,984
-A birthday cake!	|Whitman Extra
+A birthday cake!	|Whitman Extra	|12
 
 285
 00:10:55,584 --> 00:10:58,517
@@ -1341,15 +1341,15 @@ this year.
 
 308
 00:11:46,684 --> 00:11:48,817
-What do you think?	|Pierce Troy
+What do you think?	|Pierce Troy	|13
 
 309
 00:11:48,851 --> 00:11:50,584
-- tell me more.	|Troy Pierce
+- tell me more.	|Troy Pierce	|13
 
 310
 00:12:00,617 --> 00:12:03,118
-- it's showtime.	|Jeff
+- it's showtime.	|Jeff	|14
 
 311
 00:12:05,684 --> 00:12:07,184
@@ -1392,7 +1392,7 @@ you guys.
 
 320
 00:12:25,817 --> 00:12:29,417
-That was really fun.	|Jeff All
+That was really fun.	|Jeff All	|14
 
 321
 00:12:29,450 --> 00:12:30,584
@@ -1405,15 +1405,15 @@ of these girls,
 
 323
 00:12:32,517 --> 00:12:33,817
-Unwittingly creepy.	|Whitman Jeff
+Unwittingly creepy.	|Whitman Jeff	|14
 
 324
 00:12:33,851 --> 00:12:37,051
-- damn it.	|Jeff Whitman
+- damn it.	|Jeff Whitman	|14
 
 325
 00:12:37,084 --> 00:12:38,218
-Beat it.	|Jeff Extra
+Beat it.	|Jeff Extra	|14
 
 326
 00:12:38,250 --> 00:12:39,817
@@ -1426,7 +1426,7 @@ That i'm putting into this?
 
 328
 00:12:40,984 --> 00:12:42,383
-I mean, throw me a bone!	|Jeff Whitman
+I mean, throw me a bone!	|Jeff Whitman	|14
 
 329
 00:12:42,417 --> 00:12:45,383
@@ -1435,11 +1435,11 @@ at the sunrise this morning,
 
 330
 00:12:45,417 --> 00:12:47,751
-I would be weeping right now.	|Whitman Jeff
+I would be weeping right now.	|Whitman Jeff	|14
 
 331
 00:12:47,784 --> 00:12:51,283
-- what does that mean?	|Jeff Whitman
+- what does that mean?	|Jeff Whitman	|14
 - what do you mean, Jeff?
 
 332
@@ -1493,20 +1493,20 @@ my class,
 
 342
 00:13:14,617 --> 00:13:18,851
-You'll fail life.	|Whitman Jeff
+You'll fail life.	|Whitman Jeff	|14
 
 343
 00:13:23,084 --> 00:13:25,650
-- thank you.	|Britta Whitman
+- thank you.	|Britta Whitman	|14
 
 344
 00:13:25,684 --> 00:13:27,517
 That guy's
-really got your number.	|Britta Jeff
+really got your number.	|Britta Jeff	|15
 
 345
 00:13:27,550 --> 00:13:28,851
-- drop the flower.	|Jeff Britta
+- drop the flower.	|Jeff Britta	|15
 
 346
 00:13:28,884 --> 00:13:30,517
@@ -1525,11 +1525,11 @@ He's cutting.
 349
 00:13:33,684 --> 00:13:36,151
 I want to know why he would do
-something like that.	|Britta Jeff
+something like that.	|Britta Jeff	|15
 
 350
 00:13:36,184 --> 00:13:37,484
-- ask him.	|Jeff Britta
+- ask him.	|Jeff Britta	|15
 
 351
 00:13:37,517 --> 00:13:38,817
@@ -1544,7 +1544,7 @@ and telling me
 353
 00:13:41,118 --> 00:13:43,017
 That i'm playing the role
-of his mother.	|Britta Jeff
+of his mother.	|Britta Jeff	|15
 
 354
 00:13:43,051 --> 00:13:45,517
@@ -1557,12 +1557,12 @@ That's what you bought
 356
 00:13:47,450 --> 00:13:51,184
 When you intentionally tangled
-yourself in his life.	|Jeff Britta
+yourself in his life.	|Jeff Britta	|15
 
 357
 00:13:51,218 --> 00:13:53,917
 - look, will you just--
-will you please talk to him?	|Britta Jeff
+will you please talk to him?	|Britta Jeff	|15
 
 358
 00:13:53,951 --> 00:13:55,250
@@ -1571,7 +1571,7 @@ will you please talk to him?	|Britta Jeff
 359
 00:13:55,283 --> 00:13:56,684
 I'm out here trying
-to seize a day!	|Jeff Britta
+to seize a day!	|Jeff Britta	|15
 
 360
 00:14:00,951 --> 00:14:04,550
@@ -1579,21 +1579,21 @@ What in the hell?
 
 361
 00:14:04,584 --> 00:14:08,051
-Is he gonna kill us?	|Jeff Britta
+Is he gonna kill us?	|Jeff Britta	|15
 
 362
 00:14:08,084 --> 00:14:12,184
 - thanks for the pizza, abed.
-i was starving.	|Troy Abed
+i was starving.	|Troy Abed	|16
 
 363
 00:14:12,218 --> 00:14:14,184
 - yeah, it's nice.
-like a--like a picnic.	|Shirley Abed
+like a--like a picnic.	|Shirley Abed	|16
 
 364
 00:14:14,218 --> 00:14:15,751
-- or a family dinner.	|Pierce Abed
+- or a family dinner.	|Pierce Abed	|16
 
 365
 00:14:15,784 --> 00:14:16,917
@@ -1602,25 +1602,25 @@ and a pizza.
 
 366
 00:14:16,951 --> 00:14:19,684
-Let's not get carried away.	|Jeff Group
+Let's not get carried away.	|Jeff Group	|16
 
 369
 00:14:25,350 --> 00:14:28,317
 - so, abed,
-how's film class?	|Jeff Abed
+how's film class?	|Jeff Abed	|16
 
 370
 00:14:28,350 --> 00:14:30,250
-- good.	|Abed Jeff
+- good.	|Abed Jeff	|16
 
 371
 00:14:30,283 --> 00:14:32,084
 - yeah? did you go
-to class today?	|Jeff Abed
+to class today?	|Jeff Abed	|16
 
 372
 00:14:32,118 --> 00:14:33,484
-- not really.	|Abed Jeff
+- not really.	|Abed Jeff	|16
 - not really.
 
 373
@@ -1631,30 +1631,30 @@ for those classes.
 374
 00:14:35,184 --> 00:14:36,550
 Don't you think
-maybe you should go?	|Jeff Abed
+maybe you should go?	|Jeff Abed	|16
 
 375
 00:14:36,584 --> 00:14:37,884
-- i was shooting my movie.	|Abed Jeff
+- i was shooting my movie.	|Abed Jeff	|16
 
 376
 00:14:37,917 --> 00:14:39,350
 - yeah, but your movie's
-for class.	|Britta Abed
+for class.	|Britta Abed	|16
 
 377
 00:14:39,383 --> 00:14:42,250
-- my movie's more important.	|Abed Britta
-- well, ooh la la.	|Britta Abed
+- my movie's more important.	|Abed Britta	|16
+- well, ooh la la.	|Britta Abed	|16
 
 378
 00:14:42,283 --> 00:14:44,218
 - someone order
-seven lattes?	|Extra Group
+seven lattes?	|Extra Group	|16
 
 379
 00:14:44,250 --> 00:14:47,051
-- i got that.	|Abed Extra
+- i got that.	|Abed Extra	|16
 - no, you don't got it.
 
 380
@@ -1678,24 +1678,24 @@ are you doing this on purpose?
 
 384
 00:14:59,417 --> 00:15:01,084
-Why won't you answer me?	|Britta Extra
+Why won't you answer me?	|Britta Extra	|16
 
 385
 00:15:01,118 --> 00:15:02,250
 - 'cause this is the scene
-where you leave.	|Abed Britta
+where you leave.	|Abed Britta	|16
 
 386
 00:15:02,283 --> 00:15:04,650
-- you better believe it.	|Britta Abed
+- you better believe it.	|Britta Abed	|16
 
 387
 00:15:04,684 --> 00:15:07,317
-- Britta.	|Jeff Abed
+- Britta.	|Jeff Abed	|16
 
 388
 00:15:11,151 --> 00:15:12,283
-- what do you think, dad?	|Abed Jeff
+- what do you think, dad?	|Abed Jeff	|16
 
 389
 00:15:12,317 --> 00:15:16,317
@@ -1705,26 +1705,26 @@ really weird, abed.
 390
 00:15:16,350 --> 00:15:17,751
 And i think the wrong person
-just left.	|Jeff Abed
+just left.	|Jeff Abed	|16
 
 391
 00:15:23,051 --> 00:15:24,684
 - perfect.
-that's a wrap.	|Abed Group
+that's a wrap.	|Abed Group	|16
 
 392
 00:15:27,784 --> 00:15:29,784
-- that guy was your dad?	|Extra Abed
+- that guy was your dad?	|Extra Abed	|16
 
 393
 00:15:34,084 --> 00:15:35,518
-- hey.	|Jeff Britta
+- hey.	|Jeff Britta	|17
 - hey.
 
 394
 00:15:35,550 --> 00:15:37,884
 You don't really have tickets
-for ravi shankar, do you?	|Britta Jeff
+for ravi shankar, do you?	|Britta Jeff	|17
 
 395
 00:15:37,917 --> 00:15:39,750
@@ -1733,26 +1733,26 @@ for ravi shankar, do you?	|Britta Jeff
 396
 00:15:39,784 --> 00:15:41,550
 Because it's time
-to communicate.	|Jeff Britta
+to communicate.	|Jeff Britta	|17
 
 397
 00:15:41,583 --> 00:15:44,284
 - communicate.
-have you met abed?	|Britta Jeff
+have you met abed?	|Britta Jeff	|17
 
 398
 00:15:44,317 --> 00:15:45,950
 - it's not the two of you
-that need to talk.	|Jeff Britta
+that need to talk.	|Jeff Britta	|17
 
 399
 00:15:45,984 --> 00:15:48,351
 - hey, wait a minute,
-where's weezer?	|AbedDAD Jeff
+where's weezer?	|AbedDAD Jeff	|17
 
 400
 00:15:48,384 --> 00:15:49,351
-- they're coming.	|Jeff AbedDAD
+- they're coming.	|Jeff AbedDAD	|17
 
 401
 00:15:49,384 --> 00:15:50,451
@@ -1782,7 +1782,7 @@ should always do
 406
 00:16:00,384 --> 00:16:05,117
 Whatever they want
-and leave each other out of it.	|Jeff AbedDAD Britta
+and leave each other out of it.	|Jeff AbedDAD Britta	|17
 
 407
 00:16:05,151 --> 00:16:08,184
@@ -1807,12 +1807,12 @@ when you found out
 411
 00:16:14,583 --> 00:16:17,550
 It will take more than speeches
-and guided missiles.	|AbedDAD Jeff Britta
+and guided missiles.	|AbedDAD Jeff Britta	|17
 
 412
 00:16:17,583 --> 00:16:20,317
 - interesting. hadn't seen
-the iraq metaphor, but--	|Jeff AbedDAD
+the iraq metaphor, but--	|Jeff AbedDAD	|17
 
 413
 00:16:20,351 --> 00:16:21,484
@@ -1825,18 +1825,18 @@ about your speeches
 
 415
 00:16:23,017 --> 00:16:24,984
-And her guided--	|AbedDAD Jeff
-- got it!	|Jeff AbedDAD
+And her guided--	|AbedDAD Jeff	|17
+- got it!	|Jeff AbedDAD	|17
 
 416
 00:16:25,017 --> 00:16:27,550
 The point is is that Britta
-is sorry, right?	|Jeff Britta
+is sorry, right?	|Jeff Britta	|17
 
 417
 00:16:27,583 --> 00:16:28,984
-- wrong.	|Britta Jeff
-- crap.	|Jeff
+- wrong.	|Britta Jeff	|17
+- crap.	|Jeff	|17
 
 418
 00:16:29,017 --> 00:16:30,784
@@ -1851,7 +1851,7 @@ that he wants to make falafel.
 420
 00:16:33,051 --> 00:16:35,084
 You need to let him make
-his own decisions.	|Britta AbedDAD
+his own decisions.	|Britta AbedDAD	|17
 
 421
 00:16:35,117 --> 00:16:36,184
@@ -1860,29 +1860,29 @@ his own decisions.	|Britta AbedDAD
 422
 00:16:36,217 --> 00:16:38,251
 Have you met abed?
-you know who he is?	|AbedDAD Britta
+you know who he is?	|AbedDAD Britta	|17
 
 423
 00:16:38,284 --> 00:16:39,518
-- guys.	|Jeff Britta AbedDAD
-- yes.	|Britta AbedDAD
+- guys.	|Jeff Britta AbedDAD	|17
+- yes.	|Britta AbedDAD	|17
 
 424
 00:16:39,550 --> 00:16:41,017
-- guys!	|Jeff Britta AbedDAD
-- he loves--	|AbedDAD Britta
+- guys!	|Jeff Britta AbedDAD	|17
+- he loves--	|AbedDAD Britta	|17
 
 425
 00:16:41,051 --> 00:16:42,784
-- i'm finished.	|Abed Jeff Britta AbedDAD
+- i'm finished.	|Abed Jeff Britta AbedDAD	|18
 
 426
 00:16:44,117 --> 00:16:46,084
-Britta, Jeff, dad.	|Abed Jeff Britta AbedDAD
+Britta, Jeff, dad.	|Abed Jeff Britta AbedDAD	|18
 
 431
 00:17:09,550 --> 00:17:11,550
-- how's it going, buddy?	|Britta Abed
+- how's it going, buddy?	|Britta Abed	|18
 
 432
 00:17:11,583 --> 00:17:13,117
@@ -1892,16 +1892,16 @@ your father.
 434
 00:17:17,518 --> 00:17:19,284
 I think
-you are weird, abed.	|Abed Jeff
+you are weird, abed.	|Jeff Abed	|18
 
 435
 00:17:19,317 --> 00:17:21,617
 - okay, look, i need to talk
-to you about abed.	|Britta Jeff
+to you about abed.	|Britta Jeff	|18
 
 436
 00:17:21,650 --> 00:17:23,217
-- he's not normal.	|Jeff Britta
+- he's not normal.	|Jeff Britta	|18
 
 438
 00:17:26,317 --> 00:17:27,683
@@ -1914,11 +1914,11 @@ is take care of you.
 
 440
 00:17:30,950 --> 00:17:32,917
-Why will you not answer me?	|Britta Abed
+Why will you not answer me?	|Britta Abed	|18
 
 444
 00:17:41,418 --> 00:17:43,817
-- what do you think, dad?	|Abed Jeff
+- what do you think, dad?	|Abed Jeff	|18
 
 445
 00:17:43,850 --> 00:17:46,217
@@ -1928,22 +1928,22 @@ abed.
 446
 00:17:46,251 --> 00:17:48,351
 And i think the wrong person
-just left.	|Jeff Abed
+just left.	|Jeff Abed	|18
 
 447
 00:17:55,583 --> 00:17:57,418
 - it's not exactly
-citizen kane.	|Jeff Britta
+citizen kane.	|Jeff Britta	|18
 
 449
 00:18:22,518 --> 00:18:24,984
 - i feel a little out
-of the loop here.	|Britta Jeff
+of the loop here.	|Britta Jeff	|18
 
 450
 00:18:25,017 --> 00:18:27,884
 - that feeling is called
-the joy of freedom.	|Jeff Britta
+the joy of freedom.	|Jeff Britta	|18
 
 451
 00:18:33,484 --> 00:18:36,051
@@ -1957,20 +1957,20 @@ be understood,
 
 453
 00:18:40,351 --> 00:18:42,051
-Then i pay for the class.	|AbedDAD Jeff Britta
+Then i pay for the class.	|AbedDAD Jeff Britta	|18
 
 454
 00:18:50,683 --> 00:18:52,017
-i made this all happen.	|Britta Jeff
+i made this all happen.	|Britta Jeff	|18
 
 455
 00:18:52,051 --> 00:18:55,184
-- with falafel as a fallback.	|AbedDAD Jeff Britta
+- with falafel as a fallback.	|AbedDAD Jeff Britta	|18
 
 456
 00:18:59,284 --> 00:19:00,750
-- abed.	|Britta Abed
-- yeah.	|Abed Britta
+- abed.	|Britta Abed	|19
+- yeah.	|Abed Britta	|19
 
 457
 00:19:00,784 --> 00:19:05,184
@@ -1980,7 +1980,7 @@ to me on purpose?
 458
 00:19:05,217 --> 00:19:07,917
 That's not a very nice way
-to treat your friends.	|Britta Abed
+to treat your friends.	|Britta Abed	|19
 
 459
 00:19:07,950 --> 00:19:10,917
@@ -1989,30 +1989,30 @@ friend business,
 
 460
 00:19:10,950 --> 00:19:13,650
-It's called show business.	|Abed Britta
+It's called show business.	|Abed Britta	|19
 
 461
 00:19:13,683 --> 00:19:14,750
-- he's smoking.	|Britta Jeff
+- he's smoking.	|Britta Jeff	|19
 
 462
 00:19:14,784 --> 00:19:17,583
 - honey, let him leave
-the nest.	|Jeff Britta
+the nest.	|Jeff Britta	|19
 
 463
 00:19:20,617 --> 00:19:25,251
-- get your hand off my knee.	|Britta Jeff
-- sorry.	|Jeff Britta
+- get your hand off my knee.	|Britta Jeff	|19
+- sorry.	|Jeff Britta	|19
 
 465
 00:19:30,583 --> 00:19:33,117
 - god--god bless you.
-god bless you.	|Shirley Troy
+god bless you.	|Shirley Troy	|20
 
 466
 00:19:33,151 --> 00:19:35,717
-- thank you.	|Troy Shirley
+- thank you.	|Troy Shirley	|20
 
 467
 00:19:35,750 --> 00:19:37,583
@@ -2021,7 +2021,7 @@ getting involved,
 
 468
 00:19:37,617 --> 00:19:40,650
-Well, i owe you.	|Britta Jeff
+Well, i owe you.	|Britta Jeff	|21
 
 469
 00:19:40,683 --> 00:19:42,617
@@ -2030,17 +2030,17 @@ Well, i owe you.	|Britta Jeff
 470
 00:19:42,650 --> 00:19:45,117
 That cannot be comfortable
-for you.	|Jeff Britta
+for you.	|Jeff Britta	|21
 
 471
 00:19:45,151 --> 00:19:50,550
 - hey, um, you should kiss me
-right now.	|Britta Jeff
+right now.	|Britta Jeff	|21
 
 472
 00:20:01,550 --> 00:20:04,518
-- day seized!	|Whitman Jeff
-- we're even.	|Britta Jeff
+- day seized!	|Whitman Jeff	|21
+- we're even.	|Britta Jeff	|21
 
 473
 00:20:04,550 --> 00:20:07,284
@@ -2053,49 +2053,49 @@ when i see one.
 
 475
 00:20:09,784 --> 00:20:14,518
-Wowee! ha ha!	|Whitman Jeff
+Wowee! ha ha!	|Whitman Jeff	|21
 
 476
 00:20:14,550 --> 00:20:18,317
-- yeah. fooled you.	|Jeff Britta
+- yeah. fooled you.	|Jeff Britta	|21
 
 476
 00:20:14,550 --> 00:20:18,317
-- am I krumping?	|Abed Troy
+- am I krumping?	|Abed Troy	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-- no.	|Troy Abed
+- no.	|Troy Abed	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-- am I krumping?	|Abed Troy
+- am I krumping?	|Abed Troy	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-- no.	|Troy Abed
+- no.	|Troy Abed	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-- am I krumping now?	|Abed Troy
+- am I krumping now?	|Abed Troy	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-- no.	|Troy Abed
+- no.	|Troy Abed	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-- am I krumping now?	|Abed Troy
+- am I krumping now?	|Abed Troy	|22
 
 476
 00:20:14,550 --> 00:20:18,317
 No!
-This is krumping.	|Abed Troy
+This is krumping.	|Abed Troy	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-We are krumping.	|Troy Jeff
+We are krumping.	|Troy Jeff	|22
 
 476
 00:20:14,550 --> 00:20:18,317
-No you are not	|Jeff Troy
+No you are not	|Jeff Troy	|22

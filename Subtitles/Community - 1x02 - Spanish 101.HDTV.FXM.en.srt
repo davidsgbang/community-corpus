@@ -70,11 +70,11 @@ question its very purpose.
 
 16
 00:00:41,536 --> 00:00:43,780
-More on that story as it unfolds.	|Dean
+More on that story as it unfolds.	|Dean	|01
 
 17
 00:00:44,379 --> 00:00:46,587
-- That dude makes a lot of announcements.	|Troy Group
+- That dude makes a lot of announcements.	|Troy Group	|02
 - I like it,
 
 18
@@ -90,21 +90,21 @@ something they'd never say on tv
 20
 00:00:53,069 --> 00:00:55,388
 like, how much their life is like tv.
-There, it's gone.	|Abed Group
+There, it's gone.	|Abed Group	|02
 
 21
 00:00:55,566 --> 00:00:57,390
-I guess Jeff's running late again.	|Annie Group
+I guess Jeff's running late again.	|Annie Group	|02
 
 22
 00:00:57,558 --> 00:00:59,350
 Oh, What a shame.
-Maybe we should get started...	|Britta Group
+Maybe we should get started...	|Britta Group	|02
 
 23
 00:01:00,222 --> 00:01:02,353
 I think we should wait for Jeff
-before we start studying.	|Shirley Group
+before we start studying.	|Shirley Group	|02
 
 24
 00:01:04,770 --> 00:01:06,095
@@ -113,7 +113,7 @@ But maybe when Jeff gets here,
 25
 00:01:06,220 --> 00:01:08,275
 we could talk to him as a group
-about his tardiness.	|Annie Britta
+about his tardiness.	|Annie Britta	|02
 
 26
 00:01:09,063 --> 00:01:10,611
@@ -127,12 +127,12 @@ I'd be happy to do it.
 28
 00:01:14,378 --> 00:01:17,066
 We've got a bond going, kind of.
-Sorta like brothers.	|Pierce Group
+Sorta like brothers.	|Pierce Group	|02
 
 29
 00:01:17,369 --> 00:01:20,287
 I hope your mom didn't make you take baths together
-'cause one of you would've been like, 30.	|Troy Pierce
+'cause one of you would've been like, 30.	|Troy Pierce	|02
 
 30
 00:01:20,667 --> 00:01:21,664
@@ -141,11 +141,11 @@ That's funny.
 31
 00:01:21,832 --> 00:01:24,961
 You know, Jeff probably comes late
-so he doesn't have to sit through all of your tardiness.	|Pierce Troy
+so he doesn't have to sit through all of your tardiness.	|Pierce Troy	|02
 
 32
 00:01:25,689 --> 00:01:26,689
-Sorry, Abed.	|Pierce Abed
+Sorry, Abed.	|Pierce Abed	|02
 
 33
 00:01:28,356 --> 00:01:30,190
@@ -159,17 +159,17 @@ who does not give you a second thought.
 35
 00:01:33,698 --> 00:01:37,012
 Meanwhile, in Guatemala, journalists are being killed
-by their own government.	|Britta Group
+by their own government.	|Britta Group	|03
 
 36
 00:01:37,181 --> 00:01:39,014
 Baby, you, uh, jumped a column there.
-What's happening in Guatemala?	|Shirley Britta
+What's happening in Guatemala?	|Shirley Britta	|03
 
 37
 00:01:39,816 --> 00:01:42,435
-- Nothing.	|Britta Shirley
-- Journalists are being murdered?	|Annie Britta
+- Nothing.	|Britta Shirley	|03
+- Journalists are being murdered?	|Annie Britta	|03
 
 38
 00:01:43,354 --> 00:01:46,748
@@ -179,12 +179,12 @@ people are being killed for speaking out.
 39
 00:01:46,873 --> 00:01:48,733
 and the worst part of it is,
-when it's all over...	|Britta Annie Shirley
+when it's all over...	|Britta Annie Shirley	|03
 
 40
 00:01:49,006 --> 00:01:51,193
-- Spoilers.	|Abed Britta
-- It's gonna be as if it never even happened.	|Britta Annie Shirley
+- Spoilers.	|Abed Britta	|02
+- It's gonna be as if it never even happened.	|Britta Annie Shirley	|03
 
 41
 00:01:53,690 --> 00:01:56,519
@@ -194,50 +194,50 @@ They don't have spoilers.
 42
 00:01:56,644 --> 00:01:59,493
 You understand that TV and life
-are different, right?	|Britta Annie
+are different, right?	|Britta Annie	|02
 
 43
 00:02:04,027 --> 00:02:05,708
-- My Lady.	|Jeff Annie
-- My Lord.	|Annie Jeff
+- My Lady.	|Jeff Annie	|02
+- My Lord.	|Annie Jeff	|02
 
 44
 00:02:06,774 --> 00:02:08,457
-- Hey, Baby.	|Jeff Shirley
-- Hi, Sweetie.	|Shirley Jeff
+- Hey, Baby.	|Jeff Shirley	|02
+- Hi, Sweetie.	|Shirley Jeff	|02
 
 45
 00:02:08,582 --> 00:02:10,946
-- You smell nice. Vitamin P.	|Jeff Pierce
+- You smell nice. Vitamin P.	|Jeff Pierce	|02
 - Morning, Jeffrey.
 
 46
 00:02:11,323 --> 00:02:13,039
-People were jazzed to see me too.	|Pierce Jeff
+People were jazzed to see me too.	|Pierce Jeff	|02
 
 47
 00:02:13,164 --> 00:02:14,956
-- Word 'em up.	|Troy Jeff
-- Word 'em everywhere.	|Jeff Troy
+- Word 'em up.	|Troy Jeff	|02
+- Word 'em everywhere.	|Jeff Troy	|02
 
 48
 00:02:15,081 --> 00:02:17,172
-- Good entrance.	|Abed Jeff
-- That was for you.	|Jeff Abed
+- Good entrance.	|Abed Jeff	|02
+- That was for you.	|Jeff Abed	|02
 
 49
 00:02:24,843 --> 00:02:27,438
 I think there's something that the 
- group would like to talk to you about.	|Britta Jeff
+ group would like to talk to you about.	|Britta Jeff	|02
 
 50
 00:02:27,606 --> 00:02:29,506
-Actually, there's nothing...	|Abed Jeff
+Actually, there's nothing...	|Abed Jeff	|02
 
 51
 00:02:31,143 --> 00:02:34,181
 If you're gonna study with people,
-it would be cool of you to show up on time.	|Britta Jeff
+it would be cool of you to show up on time.	|Britta Jeff	|02
 
 52
 00:02:34,306 --> 00:02:35,756
@@ -256,7 +256,7 @@ have anything to offer.
 55
 00:02:47,530 --> 00:02:51,220
 Truth is my life is emptier
-than this three-ring binder.	|Jeff Group
+than this three-ring binder.	|Jeff Group	|02
 
 56
 00:02:51,866 --> 00:02:54,048
@@ -265,21 +265,21 @@ that might fit in there?
 
 57
 00:02:55,597 --> 00:02:57,051
-Double-spaced. Thank you.	|Jeff Annie
+Double-spaced. Thank you.	|Jeff Annie	|02
 
 58
 00:02:57,657 --> 00:03:00,060
 So what's a guy got to do
-to get a "C" around here?	|Jeff Group
+to get a "C" around here?	|Jeff Group	|02
 
 59
 00:03:02,599 --> 00:03:03,641
-One-liner.	|Troy Group
+One-liner.	|Troy Group	|02
 
 60
 00:03:33,330 --> 00:03:35,139
 Good studying.
-See you later. Bye.	|Abed Group
+See you later. Bye.	|Abed Group	|02
 
 61
 00:03:37,045 --> 00:03:38,482
@@ -288,11 +288,11 @@ You know what today is?
 62
 00:03:39,059 --> 00:03:41,512
 The two-week anniversary
-of my horrible first impression.	|Jeff Britta
+of my horrible first impression.	|Jeff Britta	|04
 
 63
 00:03:41,680 --> 00:03:43,597
-- There's a card for that?	|Britta Jeff
+- There's a card for that?	|Britta Jeff	|04
 - Not specifically,
 
 64
@@ -312,7 +312,7 @@ to become a man.
 
 67
 00:03:50,871 --> 00:03:52,273
-By reading from the Torah.	|Jeff Britta
+By reading from the Torah.	|Jeff Britta	|04
 
 68
 00:03:52,739 --> 00:03:55,236
@@ -327,12 +327,12 @@ but those are good people in there,
 70
 00:03:58,985 --> 00:04:02,241
 and they trust and respect you.
-Watching you exploit them, kinda bums me out.	|Britta Jeff
+Watching you exploit them, kinda bums me out.	|Britta Jeff	|04
 
 71
 00:04:02,409 --> 00:04:05,669
-- Exploit them? They're my friends.	|Jeff Britta
-- You want me to bring your car around, Jeff?	|Abed Jeff
+- Exploit them? They're my friends.	|Jeff Britta	|04
+- You want me to bring your car around, Jeff?	|Abed Jeff	|04
 
 72
 00:04:07,634 --> 00:04:09,918
@@ -342,7 +342,7 @@ to bring my car around.
 73
 00:04:10,043 --> 00:04:12,808
 I'll bring yours around, good guy.
-You get going, all right.	|Jeff Abed
+You get going, all right.	|Jeff Abed	|04
 
 74
 00:04:13,657 --> 00:04:14,588
@@ -351,11 +351,11 @@ You're cute,
 75
 00:04:14,713 --> 00:04:17,923
 but selfish and narcissistic
-to the point of near delusion.	|Britta Jeff
+to the point of near delusion.	|Britta Jeff	|04
 
 76
 00:04:20,630 --> 00:04:21,792
-She said I was cute.	|Jeff Britta
+She said I was cute.	|Jeff Britta	|04
 
 77
 00:04:21,917 --> 00:04:24,096
@@ -379,26 +379,26 @@ I'll give you some advice,
 81
 00:04:32,215 --> 00:04:34,690
 and we can have what the 
-kids are calling a sausage fest.	|Pierce Jeff
+kids are calling a sausage fest.	|Pierce Jeff	|05
 
 82
 00:04:35,371 --> 00:04:38,360
 I'm not much of a sausage guy, Pierce.
-Maybe next time.	|Jeff Pierce
+Maybe next time.	|Jeff Pierce	|05
 
 83
 00:04:39,663 --> 00:04:40,963
-Next time, then.	|Pierce Jeff
+Next time, then.	|Pierce Jeff	|05
 
 84
 00:04:45,307 --> 00:04:48,743
-- Will you tell us more about Guatemala?	|Annie Britta
-- I never went to a real college.	|Shirley Britta
+- Will you tell us more about Guatemala?	|Annie Britta	|06
+- I never went to a real college.	|Shirley Britta	|06
 
 85
 00:04:48,868 --> 00:04:51,502
 You should discover that stuff
-on your own.	|Britta Annie Shirley
+on your own.	|Britta Annie Shirley	|06
 
 86
 00:04:51,627 --> 00:04:52,850
@@ -416,8 +416,8 @@ or Susan Sarandon.
 
 89
 00:04:58,051 --> 00:05:01,383
-- You'd rather keep it real than be likeable.	|Annie Britta
-- Can you at least tell us what to google?	|Shirley Britta
+- You'd rather keep it real than be likeable.	|Annie Britta	|06
+- Can you at least tell us what to google?	|Shirley Britta	|06
 
 90
 00:05:01,552 --> 00:05:04,063
@@ -427,26 +427,26 @@ with this journalist Chacata-Panecos.
 91
 00:05:04,188 --> 00:05:07,671
 He wrote an article critical
-of the government, and they killed him.	|Britta Annie Shirley
+of the government, and they killed him.	|Britta Annie Shirley	|06
 
 92
 00:05:07,796 --> 00:05:09,727
-- That's horrible.	|Annie Britta
+- That's horrible.	|Annie Britta	|06
 - Can we have a protest?
 
 93
 00:05:09,852 --> 00:05:12,322
-- I want to protest the hell out of something.	|Shirley Britta
+- I want to protest the hell out of something.	|Shirley Britta	|06
 - We could have a candlelight vigil
 
 94
 00:05:12,447 --> 00:05:15,147
-- like lesbians have on the news.	|Annie Shirley
-- I could make brownies.	|Shirley Annie
+- like lesbians have on the news.	|Annie Shirley	|06
+- I could make brownies.	|Shirley Annie	|06
 
 95
 00:05:17,057 --> 00:05:18,057
-Brownies?	|Britta Shirley
+Brownies?	|Britta Shirley	|06
 
 96
 00:05:18,917 --> 00:05:21,236
@@ -607,7 +607,7 @@ at the end of every class?
 131
 00:07:25,962 --> 00:07:28,210
 Come on, hands...
-90 percent of Spanish.	|Chang All
+90 percent of Spanish.	|Chang All	|07
 
 132
 00:07:35,933 --> 00:07:37,498
@@ -615,27 +615,27 @@ You want to trade cards?
 
 133
 00:07:37,894 --> 00:07:39,427
-- I'll give you 20 bucks.	|Jeff Abed
-- No.	|Abed Jeff
+- I'll give you 20 bucks.	|Jeff Abed	|08
+- No.	|Abed Jeff	|08
 
 134
 00:07:41,804 --> 00:07:44,505
-- 50 bucks.	|Jeff Abed
-- I don't want your money. I want your shirt.	|Abed Jeff
+- 50 bucks.	|Jeff Abed	|08
+- I don't want your money. I want your shirt.	|Abed Jeff	|08
 
 135
 00:07:45,269 --> 00:07:47,716
-- What?	|Jeff Abed
-- I've had my eye on it since registration day.	|Abed Jeff
+- What?	|Jeff Abed	|08
+- I've had my eye on it since registration day.	|Abed Jeff	|08
 
 136
 00:07:48,957 --> 00:07:52,096
-- All right, fine. Give me your card.	|Jeff Abed
--  I don't think you understand. I want to wear it out of here.	|Abed Jeff
+- All right, fine. Give me your card.	|Jeff Abed	|08
+-  I don't think you understand. I want to wear it out of here.	|Abed Jeff	|08
 
 137
 00:07:56,333 --> 00:07:57,996
-What are the odds?	|Jeff Britta
+What are the odds?	|Jeff Britta	|09
 
 138
 00:07:58,121 --> 00:08:00,311
@@ -650,7 +650,7 @@ for three weeks.
 140
 00:08:03,195 --> 00:08:05,958
 It's almost like you gave it to him
-so he would switch cards.	|Britta Jeff
+so he would switch cards.	|Britta Jeff	|09
 
 141
 00:08:06,083 --> 00:08:09,139
@@ -665,7 +665,7 @@ discover while we are working on this.
 143
 00:08:13,478 --> 00:08:15,432
 Tomorrow night?
-Dinner, drinks.	|Jeff Britta
+Dinner, drinks.	|Jeff Britta	|09
 
 144
 00:08:15,557 --> 00:08:18,378
@@ -674,17 +674,17 @@ we should discuss with our partners.
 
 145
 00:08:19,091 --> 00:08:21,166
-Oh, see, I did switch cards.	|Britta Jeff
+Oh, see, I did switch cards.	|Britta Jeff	|09
 
 146
 00:08:24,807 --> 00:08:26,981
 Can you believe this?
-What are the odds?	|Pierce Jeff
+What are the odds?	|Pierce Jeff	|09
 
 147
 00:08:28,080 --> 00:08:30,480
--That's a nice shirt. Want to sell it?	|Pierce Jeff
--Yes.	|Jeff Pierce
+-That's a nice shirt. Want to sell it?	|Pierce Jeff	|09
+-Yes.	|Jeff Pierce	|09
 
 148
 00:08:33,176 --> 00:08:35,055
@@ -721,7 +721,7 @@ shoot through the egg like bullets.
 
 155
 00:08:53,887 --> 00:08:55,767
-- Can you believe that?	|Pierce Jeff
+- Can you believe that?	|Pierce Jeff	|10
 - I can't.
 
 156
@@ -735,20 +735,20 @@ So, the assignment is
 158
 00:08:59,317 --> 00:09:02,374
 to,uh, write a Spanish conversation
-using those five phrases.	|Jeff Pierce
+using those five phrases.	|Jeff Pierce	|10
 
 159
 00:09:04,712 --> 00:09:06,253
-Hemingway's Lemonade.	|Pierce Jeff
+Hemingway's Lemonade.	|Pierce Jeff	|10
 
 160
 00:09:07,393 --> 00:09:10,465
-- We don't need to make this a long evening. We can just..	|Jeff Pierce
-- Am I a piece of garbage to you?	|Pierce Jeff
+- We don't need to make this a long evening. We can just..	|Jeff Pierce	|10
+- Am I a piece of garbage to you?	|Pierce Jeff	|10
 
 161
 00:09:11,267 --> 00:09:12,035
-What? No!	|Jeff Pierce
+What? No!	|Jeff Pierce	|10
 
 162
 00:09:15,979 --> 00:09:16,979
@@ -760,16 +760,16 @@ Let's have one drink before we work.
 
 164
 00:09:27,409 --> 00:09:28,901
-To the "empowerage" of words.	|Pierce Jeff
+To the "empowerage" of words.	|Pierce Jeff	|10
 
 165
 00:09:29,403 --> 00:09:31,403
-To the irony of that sentence.	|Jeff Pierce
+To the irony of that sentence.	|Jeff Pierce	|10
 
 166
 00:09:34,208 --> 00:09:37,075
 So what's up with you, Jeffrey?
-It seems like you got a burr up your ass or something.	|Pierce Jeff
+It seems like you got a burr up your ass or something.	|Pierce Jeff	|10
 
 167
 00:09:40,270 --> 00:09:41,970
@@ -777,7 +777,7 @@ Well, I guess that it's...
 
 168
 00:09:42,095 --> 00:09:43,624
-- I think it's Britta.	|Jeff Pierce
+- I think it's Britta.	|Jeff Pierce	|10
 - Forget Britta.
 
 169
@@ -787,16 +787,16 @@ What is she, a water filter?
 
 170
 00:09:47,430 --> 00:09:48,378
-She's ugly.	|Pierce Jeff
+She's ugly.	|Pierce Jeff	|10
 
 171
 00:09:51,519 --> 00:09:54,009
-- Why don't we start with me saying...	|Jeff Pierce
-- What are you doing?	|Pierce Jeff
+- Why don't we start with me saying...	|Jeff Pierce	|10
+- What are you doing?	|Pierce Jeff	|10
 
 172
 00:09:55,445 --> 00:09:56,695
-Our assignment.	|Jeff Pierce
+Our assignment.	|Jeff Pierce	|10
 
 173
 00:09:58,080 --> 00:10:01,016
@@ -820,8 +820,8 @@ let's ask ourselves...
 
 177
 00:10:13,924 --> 00:10:16,374
-- What is a story?	|Pierce Jeff
-- Oh, My God in heaven.	|Jeff Pierce
+- What is a story?	|Pierce Jeff	|10
+- Oh, My God in heaven.	|Jeff Pierce	|10
 
 178
 00:10:25,818 --> 00:10:28,210
@@ -830,11 +830,11 @@ you'll gonna hate what's going up on in Guatemala.
 
 179
 00:10:28,655 --> 00:10:29,655
-Google it.	|Shirley Extra
+Google it.	|Shirley Extra	|11
 
 180
 00:10:31,339 --> 00:10:32,404
-Raise the truth.	|Shirley Britta
+Raise the truth.	|Shirley Britta	|11
 
 181
 00:10:33,398 --> 00:10:34,519
@@ -852,21 +852,21 @@ We put the tape over our mouths,
 184
 00:10:39,358 --> 00:10:42,432
 and gather hand-in-hand
-in a sea of outraged silence.	|Annie Britta
+in a sea of outraged silence.	|Annie Britta	|11
 
 184.5
 00:10:39,358 --> 00:10:42,432
-Starburns, no.	|Britta Starburns
+Starburns, no.	|Britta Starburns	|11
 
 185
 00:10:51,766 --> 00:10:54,069
-- What's gotten into you?	|Annie Britta
-- This is not how you do this.	|Britta Annie Shirley
+- What's gotten into you?	|Annie Britta	|11
+- This is not how you do this.	|Britta Annie Shirley	|11
 
 186
 00:10:54,237 --> 00:10:56,613
 We know it's not how you do it
-cause we're doing everything.	|Annie Britta
+cause we're doing everything.	|Annie Britta	|11
 
 187
 00:10:56,781 --> 00:10:58,431
@@ -887,7 +887,7 @@ What I meant to say
 191
 00:11:04,437 --> 00:11:06,819
 is that this cause
-is really personal to me.	|Britta Annie Shirley
+is really personal to me.	|Britta Annie Shirley	|11
 
 192
 00:11:07,167 --> 00:11:10,460
@@ -896,7 +896,7 @@ that we're not allowed to protest?
 
 193
 00:11:12,369 --> 00:11:15,381
-- Britta, you sound like Guatemala.	|Annie Britta
+- Britta, you sound like Guatemala.	|Annie Britta	|11
 - Sounds like somebody has the case of
 
 194
@@ -907,7 +907,7 @@ to make themselves special,
 195
 00:11:18,054 --> 00:11:20,429
 "but doesn't actually ever want to do
-anything-itis."	|Shirley Britta
+anything-itis."	|Shirley Britta	|11
 
 196
 00:11:20,597 --> 00:11:21,697
@@ -923,28 +923,28 @@ I don't do anything.
 
 199
 00:11:30,482 --> 00:11:31,565
-What can I do?	|Britta Shirley Annie
+What can I do?	|Britta Shirley Annie	|11
 
 200
 00:11:33,532 --> 00:11:35,319
-You can hang the Chacata-Panecos pinata.	|Annie Britta
+You can hang the Chacata-Panecos pinata.	|Annie Britta	|11
 
 201
 00:11:35,899 --> 00:11:38,196
 You guys realize
-he was beaten to death, right?	|Britta Shirley Annie
+he was beaten to death, right?	|Britta Shirley Annie	|11
 
 202
 00:11:38,364 --> 00:11:40,138
-That's where we got the idea from.	|Shirley Britta
+That's where we got the idea from.	|Shirley Britta	|11
 
 203
 00:11:40,263 --> 00:11:41,263
-Poignant.	|Annie Shirley
+Poignant.	|Annie Shirley	|11
 
 204
 00:11:47,813 --> 00:11:50,481
-- Alright, tell me what I've got so far.	|Pierce Jeff
+- Alright, tell me what I've got so far.	|Pierce Jeff	|12
 - What we have so far?
 
 205
@@ -982,26 +982,26 @@ the only thing not included in this epic
 212
 00:12:09,310 --> 00:12:12,689
 are the five phrases required
-to get me a passing grade.	|Jeff Pierce
+to get me a passing grade.	|Jeff Pierce	|12
 
 213
 00:12:14,267 --> 00:12:15,901
 You're right.
-Needs more work.	|Pierce Jeff
+Needs more work.	|Pierce Jeff	|12
 
 214
 00:12:16,170 --> 00:12:18,320
-- What are you guys doing?	|Abed Jeff Pierce
-- I have no idea.	|Jeff Abed
+- What are you guys doing?	|Abed Jeff Pierce	|13
+- I have no idea.	|Jeff Abed	|13
 
 215
 00:12:18,704 --> 00:12:20,697
-- Well, we're headed to the demonstration.	|Troy Jeff Pierce
-- What, Hippies?	|Pierce Abed
+- Well, we're headed to the demonstration.	|Troy Jeff Pierce	|13
+- What, Hippies?	|Pierce Abed	|13
 
 216
 00:12:20,866 --> 00:12:23,954
-- Some cause Britta's into.	|Troy Pierce Jeff
+- Some cause Britta's into.	|Troy Pierce Jeff	|13
 - It's a silent protest. Lots of candles.
 
 217
@@ -1011,12 +1011,12 @@ change. If you know what I mean.
 
 218
 00:12:26,763 --> 00:12:30,613
-- Good chance to put some miles on this shirt.	|Abed Pierce Jeff
+- Good chance to put some miles on this shirt.	|Abed Pierce Jeff	|13
 - You realize these conversations are due in the morning.
 
 219
 00:12:30,614 --> 00:12:31,614
- - Don't you?	|Pierce Troy Abed
+ - Don't you?	|Pierce Troy Abed	|13
 
 220
 00:12:32,978 --> 00:12:33,829
@@ -1024,35 +1024,35 @@ Right.
 
 221
 00:12:36,079 --> 00:12:37,323
-What do you want to do?	|Troy Abed
+What do you want to do?	|Troy Abed	|13
 
 221
 00:12:36,079 --> 00:12:37,323
-Hola, mi llamo Abed	|Abed Troy
+Hola, mi llamo Abed	|Abed Troy	|13
 
 221
 00:12:36,079 --> 00:12:37,323
-Hola, mi llamo Troy	|Troy Abed
+Hola, mi llamo Troy	|Troy Abed	|13
 
 221
 00:12:36,079 --> 00:12:37,323
-Donde esta la biblioteca?	|Abed Troy
+Donde esta la biblioteca?	|Abed Troy	|13
 
 221
 00:12:36,079 --> 00:12:37,323
-La biblioteca esta en la ciudad	|Troy Abed
+La biblioteca esta en la ciudad	|Troy Abed	|13
 
 221
 00:12:36,079 --> 00:12:37,323
-Gracias	|Abed Troy
+Gracias	|Abed Troy	|13
 
 222
 00:12:47,642 --> 00:12:48,642
-Hacks.	|Pierce Abed Troy
+Hacks.	|Pierce Abed Troy	|13
 
 223
 00:12:49,894 --> 00:12:52,646
-Okay What do we do about the ending of act two?	|Pierce Jeff
+Okay What do we do about the ending of act two?	|Pierce Jeff	|12
 
 224
 00:12:53,023 --> 00:12:54,548
@@ -1074,7 +1074,7 @@ tomorrow morning before class.
 
 228
 00:13:05,145 --> 00:13:07,195
-- Good night.	|Jeff Pierce
+- Good night.	|Jeff Pierce	|14
 - Wait a minute, Wait a minute, Wait a minute.
 
 229
@@ -1083,7 +1083,7 @@ You're bailing on our first sausage fest?
 
 230
 00:13:09,581 --> 00:13:11,772
-This is your definition of friendship?	|Pierce Jeff
+This is your definition of friendship?	|Pierce Jeff	|14
 
 231
 00:13:11,897 --> 00:13:14,989
@@ -1112,21 +1112,21 @@ caring about something stupid,
 236
 00:13:25,854 --> 00:13:29,858
 and this is my chance to show her that 
-I care enough to act like I care about it too.	|Jeff Pierce
+I care enough to act like I care about it too.	|Jeff Pierce	|14
 
 237
 00:13:30,644 --> 00:13:32,897
-- That's all you had to say, Jeff.	|Pierce Jeff
+- That's all you had to say, Jeff.	|Pierce Jeff	|14
 - That was it?
 
 238
 00:13:33,022 --> 00:13:35,814
 That would've been great
-if I had done that two hours ago!	|Jeff Pierce
+if I had done that two hours ago!	|Jeff Pierce	|14
 
 239
 00:14:18,712 --> 00:14:19,566
-Nice sign.	|Britta Jeff
+Nice sign.	|Britta Jeff	|15
 
 240
 00:14:19,567 --> 00:14:20,567
@@ -1135,7 +1135,7 @@ Thanks.
 241
 00:14:21,649 --> 00:14:23,442
 I like what you've done
-with the place.	|Jeff Britta
+with the place.	|Jeff Britta	|15
 
 242
 00:14:25,328 --> 00:14:27,329
@@ -1144,12 +1144,12 @@ too harsh on you.
 
 243
 00:14:27,454 --> 00:14:28,754
-I'm not perfect.	|Britta Jeff
+I'm not perfect.	|Britta Jeff	|15
 
 244
 00:14:29,704 --> 00:14:32,162
 I am.
-I'd be happy to show you the ropes.	|Jeff Britta
+I'd be happy to show you the ropes.	|Jeff Britta	|15
 
 245
 00:14:32,620 --> 00:14:33,620
@@ -1177,16 +1177,16 @@ and your cool
 
 251
 00:14:46,613 --> 00:14:48,163
-tape over your mouth.	|Pierce Jeff
+tape over your mouth.	|Pierce Jeff	|15
 
 252
 00:14:49,414 --> 00:14:51,389
 Why is everybody wearing
-tape over their mouth?	|Pierce All
+tape over their mouth?	|Pierce All	|15
 
 253
 00:14:51,894 --> 00:14:53,099
-It's a protest, Pierce.	|Jeff Pierce
+It's a protest, Pierce.	|Jeff Pierce	|15
 
 254
 00:14:53,581 --> 00:14:54,377
@@ -1199,16 +1199,16 @@ what I'd like to protest...
 
 256
 00:14:57,016 --> 00:14:58,327
-How much you hurt me.	|Pierce Jeff
+How much you hurt me.	|Pierce Jeff	|15
 
 257
 00:14:58,452 --> 00:15:02,016
 Conflicts like these will ultimately
-bring us together as an unlikely family.	|Abed Troy
+bring us together as an unlikely family.	|Abed Troy	|16
 
 258
 00:15:02,141 --> 00:15:05,899
-- You have horrible breath right now.	|Troy Abed
+- You have horrible breath right now.	|Troy Abed	|16
 - First, you constantly blow me off,
 
 259
@@ -1227,12 +1227,12 @@ You have to come out here to pretend
 262
 00:15:14,222 --> 00:15:17,415
 to care about the stupid
-stuff she cares about.	|Pierce Jeff
+stuff she cares about.	|Pierce Jeff	|15
 
 263
 00:15:17,728 --> 00:15:20,502
-- His words, not mine.	|Pierce Britta
-- He is paraphrasing.	|Jeff Britta
+- His words, not mine.	|Pierce Britta	|15
+- He is paraphrasing.	|Jeff Britta	|15
 
 264
 00:15:21,066 --> 00:15:22,391
@@ -1246,7 +1246,7 @@ get a cup of coffee,
 266
 00:15:23,818 --> 00:15:26,633
 and hold some waitress hostage
-with a monologue about your sperm.	|Jeff Pierce
+with a monologue about your sperm.	|Jeff Pierce	|15
 
 267
 00:15:27,002 --> 00:15:29,104
@@ -1255,11 +1255,11 @@ I'll show you some sperm, buddy.
 268
 00:15:29,505 --> 00:15:32,514
 Was this your idea?
-What the hell? Fire.	|Pierce Jeff
+What the hell? Fire.	|Pierce Jeff	|15
 
 269
 00:15:34,100 --> 00:15:35,393
-I'm not ready to die.	|Pierce All
+I'm not ready to die.	|Pierce All	|15
 
 270
 00:15:39,233 --> 00:15:41,250
@@ -1267,17 +1267,17 @@ He's jumped in the fountain.
 
 271
 00:15:41,954 --> 00:15:42,954
-He's fine.	|Jeff Britta
+He's fine.	|Jeff Britta	|15
 
 272
 00:15:48,782 --> 00:15:51,453
-- Have you seen it?	|Annie Britta
+- Have you seen it?	|Annie Britta	|16
 - We did it, girl... Page three.
 
 273
 00:15:51,578 --> 00:15:53,765
 Its uh, mostly about Pierce,
-but listen to that last paragraph.	|Shirley Britta
+but listen to that last paragraph.	|Shirley Britta	|16
 
 274
 00:15:53,890 --> 00:15:57,141
@@ -1286,32 +1286,32 @@ regarding events in Guatemala."
 
 275
 00:15:57,266 --> 00:15:59,142
-- Awareness!	|Annie Britta
+- Awareness!	|Annie Britta	|16
 - And this isn't the school paper, by the way.
 
 276
 00:15:59,267 --> 00:16:01,418
 This is a real damn paper,
-there's a marmaduke in there.	|Shirley Britta
+there's a marmaduke in there.	|Shirley Britta	|16
 
 277
 00:16:01,586 --> 00:16:03,461
 Well, it's more than 
-I ever accomplished.	|Britta Shirley Annie
+I ever accomplished.	|Britta Shirley Annie	|16
 
 278
 00:16:03,630 --> 00:16:05,505
 Did you guys know about 
-the ethnic cleansing in Burma?	|Annie Shirley
+the ethnic cleansing in Burma?	|Annie Shirley	|16
 
 279
 00:16:05,674 --> 00:16:07,624
-Need to bust out that brownie mix.	|Shirley Annie
+Need to bust out that brownie mix.	|Shirley Annie	|16
 
 280
 00:16:12,518 --> 00:16:13,518
-Morning.	|Jeff Britta
-Morning.	|Britta Jeff
+Morning.	|Jeff Britta	|17
+Morning.	|Britta Jeff	|17
 
 281
 00:16:16,359 --> 00:16:18,762
@@ -1320,7 +1320,7 @@ Garfield's wishing me a happy Arbor Day,
 
 282
 00:16:18,887 --> 00:16:20,729
-- And you'd like a fresh start.	|Britta Jeff
+- And you'd like a fresh start.	|Britta Jeff	|17
 - Nice try.
 
 283
@@ -1331,17 +1331,17 @@ that I'm sorry about crashing your protest
 284
 00:16:24,503 --> 00:16:26,735
 with that drunken,
-self-immolating baby boomer.	|Jeff Britta
+self-immolating baby boomer.	|Jeff Britta	|17
 
 285
 00:16:26,903 --> 00:16:29,267
 We don't blame you, sweetie.
-Pierce has always been on my watch list.	|Shirley Jeff
+Pierce has always been on my watch list.	|Shirley Jeff	|17
 
 286
 00:16:29,392 --> 00:16:31,894
 That dude is crazy...
-He told me girls have two pee holes.	|Troy Jeff
+He told me girls have two pee holes.	|Troy Jeff	|17
 
 287
 00:16:32,019 --> 00:16:34,201
@@ -1351,7 +1351,7 @@ at a nursing home once.
 288
 00:16:34,326 --> 00:16:37,454
 I've seen the face of dementia,
-and last night I saw it again.	|Annie Jeff
+and last night I saw it again.	|Annie Jeff	|17
 
 289
 00:16:37,579 --> 00:16:40,660
@@ -1381,7 +1381,7 @@ looking out for himself
 294
 00:16:55,306 --> 00:16:58,849
 and he would trade it all
-for a shot at some kind of family.	|Britta Group
+for a shot at some kind of family.	|Britta Group	|17
 
 295
 00:17:08,218 --> 00:17:09,694
@@ -1400,7 +1400,7 @@ but Pierce explained the situation.
 298
 00:17:14,841 --> 00:17:18,702
 Apparently there was a falling out,
-things were said, people were betrayed.	|Chang All
+things were said, people were betrayed.	|Chang All	|18
 
 299
 00:17:20,418 --> 00:17:22,540
@@ -1415,12 +1415,12 @@ would be to give you a "C"
 301
 00:17:26,003 --> 00:17:29,058
 and let Pierce do his presentation alone,
-if that sounds fair to you.	|Chang Jeff
+if that sounds fair to you.	|Chang Jeff	|18
 
 302
 00:17:34,953 --> 00:17:36,861
 That doesn't sound fair
-to me at all.	|Jeff Chang
+to me at all.	|Jeff Chang	|18
 
 303
 00:17:37,598 --> 00:17:39,808
@@ -1437,11 +1437,11 @@ It is bigger than the both of us,
 
 306
 00:17:44,384 --> 00:17:47,049
-and it deserves to be done right.	|Jeff Pierce
+and it deserves to be done right.	|Jeff Pierce	|18
 
 307
 00:17:49,755 --> 00:17:50,755
-All right.	|Pierce Jeff
+All right.	|Pierce Jeff	|18
 
 308
 00:17:54,389 --> 00:17:57,164
@@ -1450,25 +1450,25 @@ These are short conversations,
 
 309
 00:17:57,289 --> 00:17:59,619
-- they're not supposed to take...	|Chang Jeff
+- they're not supposed to take...	|Chang Jeff	|18
 - Your breath away?
 
 310
 00:18:01,122 --> 00:18:02,080
-Well, tough.	|Jeff Chang
+Well, tough.	|Jeff Chang	|18
 
 311
 00:18:03,078 --> 00:18:04,266
-You ready, amigo?	|Jeff Pierce
-Si.	|Pierce Jeff
+You ready, amigo?	|Jeff Pierce	|18
+Si.	|Pierce Jeff	|18
 
 312
 00:19:27,705 --> 00:19:28,513
-F.	|Chang Jeff
+F.	|Chang Jeff	|18
 
 313
 00:19:29,113 --> 00:19:29,918
-F-minus.	|Chang Pierce
+F-minus.	|Chang Pierce	|18
 
 314
 00:19:30,744 --> 00:19:31,744
@@ -1476,7 +1476,7 @@ What?
 
 315
 00:19:33,261 --> 00:19:34,589
-Did you say S?	|Pierce Chang
+Did you say S?	|Pierce Chang	|18
 
 316
 00:19:38,939 --> 00:19:39,680
@@ -1494,12 +1494,12 @@ of it, a pretty selfless act,
 
 319
 00:19:47,573 --> 00:19:49,027
-so I'm impressed.	|Britta Jeff
+so I'm impressed.	|Britta Jeff	|19
 
 320
 00:19:49,272 --> 00:19:52,353
 Well, how do you know I didn't do it
-just to get another shot at you?	|Jeff Britta
+just to get another shot at you?	|Jeff Britta	|19
 
 321
 00:19:52,478 --> 00:19:54,367
@@ -1513,7 +1513,7 @@ to look at you as a sexually viable candidate
 
 323
 00:19:58,082 --> 00:19:59,072
-ever again.	|Britta Jeff
+ever again.	|Britta Jeff	|19
 
 324
 00:20:01,508 --> 00:20:02,450
@@ -1521,20 +1521,20 @@ No, I know.
 
 325
 00:20:02,618 --> 00:20:03,861
-I thought of that.	|Jeff Britta
+I thought of that.	|Jeff Britta	|19
 
 326
 00:20:05,199 --> 00:20:06,499
-She looked back.	|Jeff
+She looked back.	|Jeff	|19
 
 327
 00:20:09,995 --> 00:20:12,795
 - You did an all right job 
-up there, my friend.	|Pierce Jeff
+up there, my friend.	|Pierce Jeff	|20
 
 328
 00:20:13,457 --> 00:20:17,272
-Thanks Pierce	|Jeff Pierce
+Thanks Pierce	|Jeff Pierce	|20
 A couple of notes
 
 328
@@ -1545,36 +1545,36 @@ when you're trying to be funny
 329
 00:20:17,397 --> 00:20:20,997
 that forces people to think
-about how cool you think you are.	|Pierce Jeff
+about how cool you think you are.	|Pierce Jeff	|20
 
 330
 00:21:03,449 --> 00:21:04,397
-Donde, esta, la biblioteca. Me llamo T-Bone, la arana discoteca.	|Troy
+Donde, esta, la biblioteca. Me llamo T-Bone, la arana discoteca.	|Troy	|21
 
 330
 00:21:03,449 --> 00:21:04,397
-Discoteca, muneca, la biblioteca. Esta en bigotes grandes, el perro, manteca	|Abed
+Discoteca, muneca, la biblioteca. Esta en bigotes grandes, el perro, manteca	|Abed	|21
 
 330
 00:21:03,449 --> 00:21:04,397
-Manteca, bigotes, gigante, pequeno, la cabeza es nieve, cerveza es bueno.	|Troy
+Manteca, bigotes, gigante, pequeno, la cabeza es nieve, cerveza es bueno.	|Troy	|21
 
 330
 00:21:03,449 --> 00:21:04,397
-Buenos dias, me gusta papas frias, los bigotes de la cabra es Cameron Diaz!	|Abed
+Buenos dias, me gusta papas frias, los bigotes de la cabra es Cameron Diaz!	|Abed	|21
 
 330
 00:21:03,449 --> 00:21:04,397
-Yeah boy. Boy.	|Abed
+Yeah boy. Boy.	|Abed	|21
 
 330
 00:21:03,449 --> 00:21:04,397
-Yeah	|Troy
+Yeah	|Troy	|21
 
 330
 00:21:03,449 --> 00:21:04,397
-What? It's 2009.	|Abed
+What? It's 2009.	|Abed	|21
 
 331
 00:21:04,803 --> 00:21:05,635
-Word.	|Troy
+Word.	|Troy	|21
