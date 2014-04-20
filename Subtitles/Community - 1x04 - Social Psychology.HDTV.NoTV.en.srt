@@ -219,7 +219,7 @@ Professor duncan!	|Annie Duncan	|05
 
 49
 00:01:54,200 --> 00:01:56,133
-- What?	|Duncan Annie
+- What?	|Duncan Annie	|05
 - Excuse me. Annie edison.
 
 50
@@ -1919,23 +1919,23 @@ He wrote a poem!	|Shirley Group	|27
 
 423
 00:16:14,490 --> 00:16:16,016
-- We shouldn't show that.	|Jeff Shirley
-- Oh, no, it's fine.	|Shirley Jeff
+- We shouldn't show that.	|Jeff Shirley	|27
+- Oh, no, it's fine.	|Shirley Jeff	|27
 
 424
 00:16:16,101 --> 00:16:17,359
 - So i'll be done in,
-like, an hour.	|Britta Vaughan
+like, an hour.	|Britta Vaughan	|28
 
 425
 00:16:17,436 --> 00:16:19,719
-- Yeah. No worries.	|Vaughan Britta
-- He just said it!	|Troy Group
+- Yeah. No worries.	|Vaughan Britta	|28
+- He just said it!	|Troy Group	|28
 
 426
 00:16:19,792 --> 00:16:22,145
 - Guys,
-you've met vaughn, right?	|Britta Group
+you've met vaughn, right?	|Britta Group	|28
 
 427
 00:16:22,390 --> 00:16:23,348
@@ -1948,26 +1948,26 @@ of the giggles, huh?
 
 430
 00:16:35,516 --> 00:16:36,225
-Is that--?	|Vaughan Group
+Is that--?	|Vaughan Group	|28
 
 431
 00:16:37,457 --> 00:16:38,981
 Did you give them
-my poem?	|Vaughan Britta
+my poem?	|Vaughan Britta	|28
 
 432
 00:16:39,108 --> 00:16:40,851
-- No.	|Britta Vaughan
+- No.	|Britta Vaughan	|28
 - Okay, well,
 
 433
 00:16:40,913 --> 00:16:42,875
 Why is the dinosaur rocking
-a picture of my poem?	|Vaughan Britta
+a picture of my poem?	|Vaughan Britta	|28
 
 434
 00:16:42,952 --> 00:16:44,079
-- Here, read it.	|Pierce Vaughan
+- Here, read it.	|Pierce Vaughan	|28
 
 435
 00:16:47,366 --> 00:16:50,537
@@ -1977,12 +1977,12 @@ Right?
 436
 00:16:50,644 --> 00:16:52,029
 You guys are laughing at me,
-aren't you?	|Vaughan Group
+aren't you?	|Vaughan Group	|28
 
 437
 00:16:52,073 --> 00:16:53,148
-- Yeah.	|Abed Vaughan
-- No.	|Shirley Vaughan
+- Yeah.	|Abed Vaughan	|28
+- No.	|Shirley Vaughan	|28
 
 438
 00:16:53,225 --> 00:16:54,852
@@ -1991,16 +1991,16 @@ aren't you?	|Vaughan Group
 439
 00:16:58,901 --> 00:17:00,855
 This is the least tight thing
-that's ever happened to me.	|Vaughan Britta
+that's ever happened to me.	|Vaughan Britta	|28
 
 440
 00:17:05,354 --> 00:17:06,592
-- I can't believe you.	|Britta Jeff
+- I can't believe you.	|Britta Jeff	|28
 
 441
 00:17:07,368 --> 00:17:08,929
 - Honestly, jeff,
-how dare you?	|Shirley Jeff
+how dare you?	|Shirley Jeff	|28
 
 442
 00:17:14,275 --> 00:17:15,029
@@ -2008,12 +2008,12 @@ how dare you?	|Shirley Jeff
 
 443
 00:17:16,704 --> 00:17:18,357
-Now he's barking.	|Pierce Group
+Now he's barking.	|Pierce Group	|28
 
 444
 00:17:20,764 --> 00:17:22,052
 - Jeff, wait!
-I am sorry i sold you out.	|Shirley Jeff
+I am sorry i sold you out.	|Shirley Jeff	|29
 
 445
 00:17:22,126 --> 00:17:23,733
@@ -2028,7 +2028,7 @@ i showed you that poem.
 447
 00:17:25,492 --> 00:17:27,504
 Oh, my god, my life
-is degrassi high.	|Jeff Shirley
+is degrassi high.	|Jeff Shirley	|29
 
 448
 00:17:27,614 --> 00:17:30,005
@@ -2063,7 +2063,7 @@ It's a bumblebee nickname.
 454
 00:17:42,974 --> 00:17:44,958
 It's--It's cute,
-but it stings.	|Shirley Jeff
+but it stings.	|Shirley Jeff	|29
 
 455
 00:17:45,054 --> 00:17:46,715
@@ -2073,21 +2073,21 @@ of that woman's earrings.
 456
 00:17:46,791 --> 00:17:49,400
 It's like little dogs
-should be jumping through them.	|Jeff Shirley
+should be jumping through them.	|Jeff Shirley	|29
 
 457
 00:17:49,477 --> 00:17:51,101
-- Mmmmmmm!
+- Mmmmmmm!	|Shirley Jeff	|29
 
 458
 00:17:51,152 --> 00:17:52,838
-- This is never going to work.	|Shirley Jeff
-- Look at them.	|Jeff Shirley
+- This is never going to work.	|Shirley Jeff	|29
+- Look at them.	|Jeff Shirley	|29
 
 459
 00:17:52,895 --> 00:17:54,350
 - This has to end.
-Mm-Mm, mm-Mm.	|Shirley Jeff
+Mm-Mm, mm-Mm.	|Shirley Jeff	|29
 
 460
 00:17:54,419 --> 00:17:57,783
@@ -2097,7 +2097,7 @@ Look, we can still hang out.
 461
 00:17:57,878 --> 00:18:00,731
 It's just, you know,
-we won't bag on people.	|Jeff Shirley
+we won't bag on people.	|Jeff Shirley	|29
 
 462
 00:18:00,838 --> 00:18:02,382
@@ -2107,12 +2107,12 @@ What are we gonna talk about?
 463
 00:18:02,518 --> 00:18:03,917
 My kids?
-Your--Your doctor career?	|Shirley Jeff
+Your--Your doctor career?	|Shirley Jeff	|29
 
 464
 00:18:04,001 --> 00:18:06,288
-- I was a lawyer.	|Jeff Shirley
-- See? I am already bored.	|Shirley Jeff
+- I was a lawyer.	|Jeff Shirley	|29
+- See? I am already bored.	|Shirley Jeff	|29
 
 465
 00:18:07,046 --> 00:18:07,979
@@ -2120,7 +2120,7 @@ Your--Your doctor career?	|Shirley Jeff
 466
 00:18:09,121 --> 00:18:12,580
 Well, we'll always have
-"tiny nipples."	|Jeff Shirley
+"tiny nipples."	|Jeff Shirley	|29
 
 467
 00:18:12,686 --> 00:18:13,979
@@ -2147,25 +2147,25 @@ a sex dream about you.
 
 472
 00:18:25,772 --> 00:18:27,711
-You still have a chance.
+You still have a chance.	|Shirley Jeff	|29
 
 473
 00:18:27,805 --> 00:18:29,591
-mm-Hmm. Mm-Mm.	|Shirley Jeff
+mm-Hmm. Mm-Mm.	|Shirley Jeff	|29
 
 474
 00:18:29,669 --> 00:18:31,512
-- Details.	|Jeff Shirley
-- Mmmmmm! Mm-Mmm.	|Shirley Jeff
+- Details.	|Jeff Shirley	|29
+- Mmmmmm! Mm-Mmm.	|Shirley Jeff	|29
 
 475
 00:18:31,625 --> 00:18:32,896
-- Details!	|Jeff Shirley
-- Mm-Mmm!	|Shirley Jeff
+- Details!	|Jeff Shirley	|29
+- Mm-Mmm!	|Shirley Jeff	|29
 
 476
 00:18:32,977 --> 00:18:34,244
-- Details!	|Jeff Shirley
+- Details!	|Jeff Shirley	|29
 
 477
 00:18:37,534 --> 00:18:38,977
@@ -2174,12 +2174,12 @@ mm-Hmm. Mm-Mm.	|Shirley Jeff
 478
 00:18:40,072 --> 00:18:42,212
 I wanted to say sorry
-for yelling at you.	|Annie Abed
+for yelling at you.	|Annie Abed	|30
 
 479
 00:18:46,333 --> 00:18:47,409
 - Indiana jones.
-Cool.	|Abed Annie
+Cool.	|Abed Annie	|30
 
 480
 00:18:47,472 --> 00:18:48,628
@@ -2188,17 +2188,17 @@ because...
 
 481
 00:18:48,698 --> 00:18:50,347
-the fourth one blows.	|Annie Abed
-the fourth one blows.	|Abed Annie
+the fourth one blows.	|Annie Abed	|30
+the fourth one blows.	|Abed Annie	|30
 
 482
 00:18:51,987 --> 00:18:52,974
-- We're cool.	|Abed Annie
+- We're cool.	|Abed Annie	|30
 
 483
 00:18:53,092 --> 00:18:54,938
 - I do not
-want to talk to you.	|Britta Jeff
+want to talk to you.	|Britta Jeff	|31
 
 484
 00:18:55,019 --> 00:18:56,194
@@ -2213,21 +2213,21 @@ I am really, really sorry,
 486
 00:18:59,130 --> 00:19:01,296
 And i will go talk to vaughn
-if you want me to.	|Jeff Britta
+if you want me to.	|Jeff Britta	|31
 
 487
 00:19:01,368 --> 00:19:02,613
-Vaughan broke up with me.	|Britta Jeff
+Vaughan broke up with me.	|Britta Jeff	|31
 - Oh.
 
 488
 00:19:02,663 --> 00:19:03,398
-Oh.	|Jeff Britta
+Oh.	|Jeff Britta	|31
 
 489
 00:19:03,492 --> 00:19:05,514
 - You broke my trust.
-You suck.	|Britta Jeff
+You suck.	|Britta Jeff	|31
 
 490
 00:19:05,588 --> 00:19:06,732
@@ -2241,11 +2241,11 @@ in a tough position.
 492
 00:19:08,053 --> 00:19:10,143
 I couldn't handle
-just being one of the girls.	|Jeff Britta
+just being one of the girls.	|Jeff Britta	|31
 
 493
 00:19:14,443 --> 00:19:15,526
-- What do you want to be?	|Britta Jeff
+- What do you want to be?	|Britta Jeff	|31
 
 494
 00:19:15,739 --> 00:19:20,101
@@ -2269,7 +2269,7 @@ just a notch underneath
 498
 00:19:26,250 --> 00:19:28,392
 Driving you to the airport
-and painting your kitchen?	|Jeff Britta
+and painting your kitchen?	|Jeff Britta	|31
 
 499
 00:19:28,482 --> 00:19:29,561
@@ -2278,7 +2278,7 @@ and painting your kitchen?	|Jeff Britta
 500
 00:19:29,625 --> 00:19:31,231
 Where you sometimes
-have to cat-Sit?	|Britta Jeff
+have to cat-Sit?	|Britta Jeff	|31
 
 501
 00:19:31,346 --> 00:19:32,823
@@ -2291,11 +2291,11 @@ in your dreams,
 
 503
 00:19:35,599 --> 00:19:36,897
-I won't complain.	|Jeff Britta
+I won't complain.	|Jeff Britta	|31
 
 504
 00:19:37,017 --> 00:19:38,033
-- Shirley.	|Britta Shirley
+- Shirley.	|Britta Shirley	|31
 - I know.
 
 505
@@ -2305,20 +2305,20 @@ She stirs the pot.
 
 506
 00:19:39,787 --> 00:19:41,144
-She's a pot stirrer.	|Jeff Britta
+She's a pot stirrer.	|Jeff Britta	|31
 
 507
 00:19:42,243 --> 00:19:43,290
-- Sorry, dudes.	|Vaughan Extra
+- Sorry, dudes.	|Vaughan Extra	|32
 
 508
 00:19:44,081 --> 00:19:45,209
-- No worries, man.	|Extra Vaughan
+- No worries, man.	|Extra Vaughan	|32
 
 509
 00:19:45,428 --> 00:19:48,628
 - Yeah, some worries, man.
-Some worries.	|Vaughan Extra
+Some worries.	|Vaughan Extra	|32
 
 511
 00:19:51,734 --> 00:19:52,642
@@ -2327,7 +2327,7 @@ Some worries.	|Vaughan Extra
 514
 00:20:00,304 --> 00:20:01,896
 - Shirley would have said
-something funny about that guy.	|Jeff
+something funny about that guy.	|Jeff	|33
 
 516
 00:20:03,251 --> 00:20:05,617
@@ -2335,20 +2335,21 @@ something funny about that guy.	|Jeff
 
 517
 00:20:05,760 --> 00:20:07,307
-Oh, hey--Hey, jeff.	|Shirley Jeff
+Oh, hey--Hey, jeff.	|Shirley Jeff	|34
 
 518
 00:20:07,432 --> 00:20:09,094
-- Shh shh shh shh.	|Britta Shirley
+- Shh shh shh shh.	|Britta Shirley	|34
 
 519
 00:20:09,223 --> 00:20:10,446
-- Oh, no.	|Jeff
+- Oh, no.	|Jeff	|35
+
 
 520
 00:20:10,719 --> 00:20:12,649
 Pierce! Pierce,
-give me your ear-Thing.	|Jeff Pierce
+give me your ear-Thing.	|Jeff Pierce	|35
 
 521
 00:20:12,726 --> 00:20:14,014
@@ -2386,12 +2387,12 @@ talking to us in this range?
 
 528
 00:20:34,006 --> 00:20:35,543
-The people we love.	|Pierce Jeff
+The people we love.	|Pierce Jeff	|35
 
 531
 00:20:43,605 --> 00:20:45,689
 - He must have heard us
-call him inspector gadget.	|Jeff
+call him inspector gadget.	|Jeff	|35
 
 532
 00:20:50,872 --> 00:20:51,964
@@ -2400,23 +2401,23 @@ call him inspector gadget.	|Jeff
 
 533
 00:20:52,032 --> 00:20:53,180
-For burning man.	|Abed Troy
+For burning man.	|Abed Troy	|36
 
 534
 00:20:53,253 --> 00:20:55,848
 [Dorky voice]
-- Ew, i'm saddam hussein. Ew.	|Troy Abed
+- Ew, i'm saddam hussein. Ew.	|Troy Abed	|36
 
 535
 00:20:55,918 --> 00:20:57,736
 [Imitates a stoner]
-- Nice to meet you, dude.	|Abed Troy
+- Nice to meet you, dude.	|Abed Troy	|36
 
 536
 00:20:57,798 --> 00:21:00,899
 [Imitates woman]
 - Ooh, wow. I love reading and
-being a desperate housewife.	|Abed Troy
+being a desperate housewife.	|Abed Troy	|36
 
 537
 00:21:01,008 --> 00:21:02,808
@@ -2426,7 +2427,7 @@ being a desperate housewife.	|Abed Troy
 538
 00:21:02,871 --> 00:21:04,271
 I love
-de desperate housewives.	|Troy Abed
+de desperate housewives.	|Troy Abed	|36
 
 539
 00:21:04,339 --> 00:21:08,347
@@ -2436,7 +2437,7 @@ de desperate housewives.	|Troy Abed
 540
 00:21:08,383 --> 00:21:11,238
 I think i'm better than
-everyone else because i'm 40.	|Troy Abed
+everyone else because i'm 40.	|Troy Abed	|36
 
 541
 00:21:11,305 --> 00:21:12,268
@@ -2445,9 +2446,9 @@ everyone else because i'm 40.	|Troy Abed
 542
 00:21:13,250 --> 00:21:15,288
 I can hear you through
-the window, morons.	|Jeff Abed Troy
+the window, morons.	|Jeff Abed Troy	|36
 
 543
 00:21:19,135 --> 00:21:20,542
 - Just pretend
-like you're asleep.	|Troy Abed
+like you're asleep.	|Troy Abed	|36

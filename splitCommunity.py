@@ -128,7 +128,7 @@ characterGraph = CharacterGraphMaker()
 #for episode in glob.glob("*.srt"):
 #	episodeSplitter = SubtitleSplitter(episode)
 #	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
-episodeSplitter = SubtitleSplitter("Community - 1x03 - Introduction to Film.HDTV.FQM.en.srt")
+episodeSplitter = SubtitleSplitter("Community - 1x04 - Social Psychology.HDTV.NoTV.en.srt")
 characterGraph.addEpisode("ep 3", episodeSplitter.returnLines())
 graph, convoGraph = characterGraph.getGraph()
 for character in graph:
