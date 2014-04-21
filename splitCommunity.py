@@ -61,17 +61,21 @@ class CharacterGraphMaker:
 		self.convoList = []
 
 	def addEpisode(self, episode, episodeLines):
+		print episode + "\n"
 		self.episodeName = episode
 		self.convoInEpisode = {}
 		for line in episodeLines:
 			self.getConversationSpeakers(line)
 		for convo in sorted(self.convoInEpisode):
-			self.convoList.append(self.convoInEpisode[convo])
-		self.convoInEpisode = {}
+			for line in self.convoInEpisode[convo]:
+				print line
+			print "\n"
+		print "\n"
+		#self.convoInEpisode = {}
 
 	def getConversationSpeakers(self, line):
 		# debug line
-		print line
+		#print line
 
 		spoken, characters, convoMarker = line.split("\t|")
 		speaker, listeners = self.getSpeakerListeners(characters.lower().split(" "))	
@@ -125,15 +129,11 @@ class Character:
 os.chdir("Subtitles")
 pp = pprint.PrettyPrinter(indent = 4)
 characterGraph = CharacterGraphMaker()
-#for episode in glob.glob("*.srt"):
-#	episodeSplitter = SubtitleSplitter(episode)
-#	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
-episodeSplitter = SubtitleSplitter("Community - 1x12 - Comparative Religion.HDTV.2HD.en.srt")
-characterGraph.addEpisode("ep 3", episodeSplitter.returnLines())
+for episode in sorted(glob.glob("*.srt")):
+	episodeSplitter = SubtitleSplitter(episode)
+	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
+#episodeSplitter = SubtitleSplitter("Community - 1x13 - Investigative Journalism.HDTV.LOL.en.srt")
+#characterGraph.addEpisode("ep 3", episodeSplitter.returnLines())
 graph, convoGraph = characterGraph.getGraph()
 for character in graph:
 	graph[character].printChar()
-for convo in convoGraph:
-	for line in convo:
-		print line
-	print "\n\n"

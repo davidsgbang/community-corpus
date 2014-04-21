@@ -139,12 +139,12 @@ last semester,
 30
 00:01:01,804 --> 00:01:04,604
 And I realized
-that guy was a drag.	|Jeff Group
+that guy was a drag.	|Jeff Group	|02
 
 32
 00:01:06,006 --> 00:01:07,439
 - Good to hear you
-admit it, jeff.	|Pierce Jeff
+admit it, jeff.	|Pierce Jeff	|02
 
 33
 00:01:07,507 --> 00:01:09,040
@@ -162,11 +162,11 @@ Greendale is where I am,
 36
 00:01:11,975 --> 00:01:13,708
 And I am gonna make
-the best of it.	|Jeff Group
+the best of it.	|Jeff Group	|02
 
 37
 00:01:13,776 --> 00:01:14,808
-- That is nice.	|Shirley Jeff
+- That is nice.	|Shirley Jeff	|02
 
 38
 00:01:14,876 --> 00:01:15,943
@@ -181,7 +181,7 @@ and charm
 40
 00:01:17,178 --> 00:01:19,544
 Even in the 11th year
-of the korean war.	|Abed Jeff
+of the korean war.	|Abed Jeff	|02
 
 41
 00:01:19,612 --> 00:01:20,945
@@ -191,7 +191,7 @@ too much, jeff.
 42
 00:01:21,012 --> 00:01:23,647
 I think we all like you
-just the way you were.	|Buddy Jeff
+just the way you were.	|Buddy Jeff	|03
 
 43
 00:01:23,714 --> 00:01:26,648
@@ -200,12 +200,12 @@ but--
 
 44
 00:01:26,716 --> 00:01:27,882
-Did you just teleport here?	|Jeff Buddy
+Did you just teleport here?	|Jeff Buddy	|03
 
 45
 00:01:27,950 --> 00:01:32,318
 - No, I snuck in
-during the group hug.	|Buddy Jeff
+during the group hug.	|Buddy Jeff	|03
 
 46
 00:01:32,386 --> 00:01:34,219
@@ -214,12 +214,12 @@ remember me?
 
 47
 00:01:34,287 --> 00:01:36,654
-Buddy...From spanish class?	|Buddy Group
+Buddy...From spanish class?	|Buddy Group	|03
 
 48
 00:01:38,556 --> 00:01:40,222
 - I've never seen you before
-in my life.	|Pierce Buddy
+in my life.	|Pierce Buddy	|03
 
 49
 00:01:42,224 --> 00:01:43,691
@@ -228,7 +228,7 @@ in my life.	|Pierce Buddy
 50
 00:01:43,758 --> 00:01:45,324
 He sits in the corner
-next to the dead plant.	|Abed Group
+next to the dead plant.	|Abed Group	|03
 
 51
 00:01:45,392 --> 00:01:46,825
@@ -251,48 +251,48 @@ you guys
 55
 00:01:52,563 --> 00:01:55,797
 From watching you all
-last semester grow together.	|Buddy Group
+last semester grow together.	|Buddy Group	|03
 
 56
 00:01:57,699 --> 00:01:59,832
-- "f." "f"-minus.	|Chang Jeff Pierce
+- "f." "f"-minus.	|Chang Jeff Pierce	|04
 
 57
 00:01:59,900 --> 00:02:01,900
-- Did you say "s"?	|Pierce Chang
+- Did you say "s"?	|Pierce Chang	|04
 
 58
 00:02:01,968 --> 00:02:03,702
-- He said "f."	|Buddy Pierce
+- He said "f."	|Buddy Pierce	|04
 
 59
 00:02:03,769 --> 00:02:07,071
-- Who cheated?	|Chang All
-- I did it.	|Britta Chang
+- Who cheated?	|Chang All	|05
+- I did it.	|Britta Chang	|05
 
 60
 00:02:07,138 --> 00:02:11,007
 - Britta cheated?
-But why?	|Buddy
+But why?	|Buddy	|05
 
 61
 00:02:11,074 --> 00:02:13,308
 - Gimme back my bra,
-annie.	|Britta Annie
+annie.	|Britta Annie	|06
 
 62
 00:02:13,376 --> 00:02:16,211
-- I'm not even wearing a bra.	|Annie Britta
-- Oh!	|Britta Annie
+- I'm not even wearing a bra.	|Annie Britta	|06
+- Oh!	|Britta Annie	|06
 
 63
 00:02:19,715 --> 00:02:21,880
 - I don't even care
-who wins.	|Buddy
+who wins.	|Buddy	|06
 
 64
 00:02:21,948 --> 00:02:23,348
-- What?	|Britta Buddy
+- What?	|Britta Buddy	|07
 
 65
 00:02:23,416 --> 00:02:24,616
@@ -301,7 +301,7 @@ who wins.	|Buddy
 66
 00:02:24,683 --> 00:02:25,750
 That one might have been
-a dream.	|Buddy Britta
+a dream.	|Buddy Britta	|07
 
 67
 00:02:25,818 --> 00:02:27,851
@@ -320,16 +320,16 @@ just for catching up...
 
 70
 00:02:31,121 --> 00:02:32,388
-Between friends.	|Annie Buddy
+Between friends.	|Annie Buddy	|07
 
 71
 00:02:32,455 --> 00:02:36,657
 - I heard that.
-Let's do it!	|Buddy Group
+Let's do it!	|Buddy Group	|07
 
 72
 00:02:36,725 --> 00:02:39,625
-- Well--	|Britta Buddy
+- Well--	|Britta Buddy	|07
 - so--sorry, britta.
 
 73
@@ -363,7 +363,7 @@ Just tell me the rules,
 
 81
 00:03:03,341 --> 00:03:04,841
-And I will follow.	|Buddy Group
+And I will follow.	|Buddy Group	|07
 
 82
 00:03:04,908 --> 00:03:07,242
@@ -373,11 +373,11 @@ the only rule I have.
 83
 00:03:07,310 --> 00:03:09,210
 The rule about worrying
-about rules.	|Jeff Buddy
+about rules.	|Jeff Buddy	|07
 
 84
 00:03:09,278 --> 00:03:12,079
-- That's what I'm saying too!	|Buddy Jeff
+- That's what I'm saying too!	|Buddy Jeff	|07
 
 85
 00:03:12,147 --> 00:03:13,346
@@ -393,7 +393,7 @@ when you're buddyin'
 
 88
 00:03:17,517 --> 00:03:25,322
-around, yeah"	|Buddy Group
+around, yeah"	|Buddy Group	|07
 
 89
 00:03:31,427 --> 00:03:33,695
@@ -402,7 +402,7 @@ I received a text message
 
 90
 00:03:33,762 --> 00:03:35,429
-About free sephora samples.	|Jeff Extra
+About free sephora samples.	|Jeff Extra	|08
 
 91
 00:03:35,497 --> 00:03:37,664
@@ -446,7 +446,7 @@ world savvy
 99
 00:03:55,178 --> 00:03:56,912
 That extends beyond
-how to huff the ink.	|Dean Jeff
+how to huff the ink.	|Dean Jeff	|08
 
 100
 00:03:56,979 --> 00:03:59,046
@@ -455,11 +455,11 @@ to spend this semester
 
 101
 00:03:59,114 --> 00:04:00,214
-Being more...	|Jeff Dean
+Being more...	|Jeff Dean	|08
 
 102
 00:04:00,282 --> 00:04:02,482
-- This would be your office.	|Dean Jeff
+- This would be your office.	|Dean Jeff	|08
 
 103
 00:04:02,550 --> 00:04:07,085
@@ -473,17 +473,17 @@ I've seen in six months
 105
 00:04:08,621 --> 00:04:10,388
 That doesn't have
-"zeppelin rules" carved into it.	|Jeff Dean
+"zeppelin rules" carved into it.	|Jeff Dean	|08
 
 106
 00:04:10,455 --> 00:04:12,056
 - And you get
-an english credit.	|Dean Jeff
+an english credit.	|Dean Jeff	|08
 
 107
 00:04:12,123 --> 00:04:14,391
 - Well, that ain't bad neither.
-I'm in.	|Jeff Dean
+I'm in.	|Jeff Dean	|08
 
 108
 00:04:14,459 --> 00:04:18,261
@@ -496,7 +496,7 @@ to help you bring a voice
 
 110
 00:04:20,330 --> 00:04:21,597
-Back to the campus.	|Dean All
+Back to the campus.	|Dean All	|09
 
 111
 00:04:21,665 --> 00:04:24,566
@@ -505,17 +505,17 @@ to take your picture.
 
 112
 00:04:24,634 --> 00:04:26,101
-We got it.	|Abed Jeff
+We got it.	|Abed Jeff	|09
 - Okay.
 
 113
 00:04:26,168 --> 00:04:28,669
-You guys knock yourselves out!	|Dean All
+You guys knock yourselves out!	|Dean All	|09
 
 114
 00:04:28,737 --> 00:04:30,838
 - Welcome aboard, Jeff. This is my article on
-the school's new water heater.	|Reporter1 Jeff
+the school's new water heater.	|Reporter1 Jeff	|10
 
 115
 00:04:30,906 --> 00:04:33,307
@@ -534,7 +534,7 @@ the best slice in town?
 118
 00:04:37,945 --> 00:04:40,112
 Start with big nick's.
-Bring us a large, with sausage.	|Jeff Reporter1
+Bring us a large, with sausage.	|Jeff Reporter1	|10
 
 119
 00:04:40,180 --> 00:04:43,115
@@ -557,7 +557,7 @@ they'll sell you
 123
 00:04:48,187 --> 00:04:49,420
 Of anything cold
-and imported.	|Jeff Reporter2
+and imported.	|Jeff Reporter2	|10
 
 124
 00:04:49,488 --> 00:04:52,123
@@ -566,7 +566,7 @@ to watch you do that
 
 125
 00:04:52,191 --> 00:04:53,324
-Without telling on you?	|Annie Jeff
+Without telling on you?	|Annie Jeff	|11
 
 126
 00:04:53,392 --> 00:04:55,359
@@ -575,7 +575,7 @@ question, annie.
 
 127
 00:04:55,427 --> 00:04:56,627
-Are you a reporter?	|Jeff Annie
+Are you a reporter?	|Jeff Annie	|11
 
 128
 00:04:56,695 --> 00:04:58,428
@@ -588,7 +588,7 @@ Because I'm a girl.
 
 130
 00:04:59,764 --> 00:05:01,031
-And because I love crosswords.	|Annie Jeff
+And because I love crosswords.	|Annie Jeff	|11
 
 131
 00:05:01,098 --> 00:05:02,866
@@ -597,11 +597,11 @@ the streets.
 
 132
 00:05:02,934 --> 00:05:04,434
-You're my ace news hound.	|Jeff Annie
+You're my ace news hound.	|Jeff Annie	|11
 
 133
 00:05:04,502 --> 00:05:05,802
-- Ace? You can do that?	|Annie Jeff
+- Ace? You can do that?	|Annie Jeff	|11
 
 134
 00:05:05,870 --> 00:05:08,271
@@ -610,7 +610,7 @@ It's greendale.
 
 135
 00:05:08,339 --> 00:05:11,307
-Now go find me that story.	|Jeff Annie
+Now go find me that story.	|Jeff Annie	|11
 
 136
 00:05:11,375 --> 00:05:14,009
@@ -638,7 +638,7 @@ Of annie "hot lips" edison.
 141
 00:05:20,983 --> 00:05:23,317
 I should build you a still
-for making hawkeye martinis.	|Abed Jeff
+for making hawkeye martinis.	|Abed Jeff	|12
 
 142
 00:05:23,384 --> 00:05:25,652
@@ -648,12 +648,12 @@ fixations,
 143
 00:05:25,720 --> 00:05:27,621
 This is one I can
-work with, abed.	|Jeff Abed
+work with, abed.	|Jeff Abed	|12
 
 144
 00:05:27,688 --> 00:05:30,523
-- Call me radar.	|Abed Jeff
-- When you've earned it.	|Jeff Abed
+- Call me radar.	|Abed Jeff	|12
+- When you've earned it.	|Jeff Abed	|12
 
 145
 00:05:30,591 --> 00:05:33,993
@@ -677,7 +677,7 @@ That he did not suffer
 149
 00:05:41,134 --> 00:05:43,135
 When his moped hit the side
-of that arby's.	|Extra All
+of that arby's.	|Extra All	|13
 
 150
 00:05:43,202 --> 00:05:45,003
@@ -685,15 +685,15 @@ of that arby's.	|Extra All
 
 151
 00:05:45,071 --> 00:05:47,706
-But best semester ever.	|Shirley Group
+But best semester ever.	|Shirley Group	|13
 
 152
 00:05:50,576 --> 00:05:53,243
-Feliz ano nueva, chicas!	|Chang All
+Feliz ano nueva, chicas!	|Chang All	|13
 
 153
 00:05:53,311 --> 00:05:57,012
-beat it. All right.	|Chang Extra
+beat it. All right.	|Chang Extra	|13
 
 154
 00:05:57,080 --> 00:05:58,247
@@ -717,11 +717,11 @@ Of spanish 1-0- dos--
 158
 00:06:05,987 --> 00:06:10,657
 The semester I get inside
-your cabesas!	|Chang All
+your cabesas!	|Chang All	|13
 
 160
 00:06:29,806 --> 00:06:32,174
-- I saw that coming.	|Abed Group
+- I saw that coming.	|Abed Group	|13
 
 161
 00:06:32,242 --> 00:06:34,743
@@ -730,12 +730,12 @@ see you in study group.
 
 162
 00:06:34,810 --> 00:06:36,911
-Hoo-ah!	|buddy Group
+Hoo-ah!	|Buddy Group	|14
 
 164
 00:06:38,447 --> 00:06:42,384
 - Uh, jeff, can he really
-just decide he's one of us?	|Shirley Jeff
+just decide he's one of us?	|Shirley Jeff	|14
 
 165
 00:06:42,452 --> 00:06:44,119
@@ -748,11 +748,11 @@ three dudes,
 
 167
 00:06:46,122 --> 00:06:47,722
-And now two weirdos.	|Pierce Jeff
+And now two weirdos.	|Pierce Jeff	|14
 
 168
 00:06:47,790 --> 00:06:49,156
-Sorry, abed.	|Pierce Abed
+Sorry, abed.	|Pierce Abed	|14
 
 169
 00:06:49,224 --> 00:06:50,491
@@ -770,7 +770,7 @@ for the better
 
 172
 00:06:52,960 --> 00:06:53,893
-Through a musical montage.	|Abed Jeff
+Through a musical montage.	|Abed Jeff	|14
 
 173
 00:06:53,961 --> 00:06:55,361
@@ -779,11 +779,11 @@ a row of jars
 
 174
 00:06:55,429 --> 00:06:56,596
-Waiting for our genitals.	|Britta Jeff
+Waiting for our genitals.	|Britta Jeff	|14
 
 175
 00:06:56,663 --> 00:06:58,263
-- Yo, I need my genitals.	|Troy Jeff
+- Yo, I need my genitals.	|Troy Jeff	|14
 
 176
 00:06:58,331 --> 00:07:00,432
@@ -800,8 +800,8 @@ Cynical, elitist,
 
 179
 00:07:04,370 --> 00:07:06,170
-Rakishly good-looking.	|Jeff Group
-- Thank you.	|Abed Jeff
+Rakishly good-looking.	|Jeff Group	|14
+- Thank you.	|Abed Jeff	|14
 
 180
 00:07:06,238 --> 00:07:07,605
@@ -811,7 +811,7 @@ get together
 181
 00:07:07,673 --> 00:07:09,606
 To talk about
-membership policies, right?	|Shirley Jeff
+membership policies, right?	|Shirley Jeff	|14
 
 182
 00:07:09,674 --> 00:07:11,008
@@ -829,7 +829,7 @@ having fun,
 
 185
 00:07:16,379 --> 00:07:17,613
-And cracking wise.	|Jeff Group
+And cracking wise.	|Jeff Group	|14
 
 186
 00:07:17,680 --> 00:07:18,780
@@ -838,7 +838,7 @@ And cracking wise.	|Jeff Group
 187
 00:07:18,848 --> 00:07:20,282
 Suppose I decide
-that's my job.	|Britta Jeff
+that's my job.	|Britta Jeff	|14
 
 189
 00:07:28,156 --> 00:07:30,757
@@ -857,12 +857,12 @@ In October,
 192
 00:07:34,928 --> 00:07:36,795
 There was a free toni braxton
-concert on the quad.	|Annie Jeff
+concert on the quad.	|Annie Jeff	|15
 
 193
 00:07:36,863 --> 00:07:37,863
 - You don't need
-to remind me.	|Jeff Annie
+to remind me.	|Jeff Annie	|15
 
 194
 00:07:37,930 --> 00:07:38,897
@@ -881,11 +881,11 @@ went out
 197
 00:07:41,934 --> 00:07:43,267
 Alerting students
-of the change.	|Annie Jeff
+of the change.	|Annie Jeff	|15
 
 198
 00:07:43,335 --> 00:07:45,669
-- Okay.	|Jeff Annie
+- Okay.	|Jeff Annie	|15
 - Not okay.
 
 199
@@ -909,17 +909,17 @@ This is front-page juice.
 203
 00:07:53,543 --> 00:07:55,544
 Just gotta find out
-who sent the text.	|Annie Jeff
+who sent the text.	|Annie Jeff	|15
 
 204
 00:07:55,612 --> 00:07:57,212
 - Have you called the number
-that sent it?	|Jeff Annie
+that sent it?	|Jeff Annie	|15
 
 205
 00:07:57,280 --> 00:08:01,883
 - Well...Nobody's that stupid,
-right?	|Annie Jeff
+right?	|Annie Jeff	|15
 
 206
 00:08:01,950 --> 00:08:05,919
@@ -931,12 +931,12 @@ Hello? Um...
 
 208
 00:08:09,657 --> 00:08:13,527
-wrong number.	|Dean Phone
+wrong number.	|Dean Phone	|16
 
 209
 00:08:16,663 --> 00:08:18,998
 No, that--
-that was a good cover.	|Dean
+that was a good cover.	|Dean	|16
 
 210
 00:08:19,066 --> 00:08:21,567
@@ -945,12 +945,12 @@ keeps hanging up,
 
 211
 00:08:21,635 --> 00:08:23,669
-But he can't hide forever.	|Annie Group
+But he can't hide forever.	|Annie Group	|17
 
 212
 00:08:23,736 --> 00:08:27,672
 - Annie the reporter.
-Good times.	|Buddy Annie
+Good times.	|Buddy Annie	|17
 
 213
 00:08:27,739 --> 00:08:30,874
@@ -974,17 +974,17 @@ It's a dream come true.
 218
 00:08:41,051 --> 00:08:42,051
 - Now let's study
-some spanish.	|Buddy Group
+some spanish.	|Buddy Group	|17
 
 219
 00:08:42,118 --> 00:08:45,753
 - So for the essay,
-we conjugate...	|Britta Buddy
+we conjugate...	|Britta Buddy	|17
 
 220
 00:08:45,821 --> 00:08:50,191
 - Conjugate.
-Conjugal visit!	|Buddy Britta
+Conjugal visit!	|Buddy Britta	|17
 
 221
 00:08:50,258 --> 00:08:51,892
@@ -993,12 +993,12 @@ lame.
 222
 00:08:51,960 --> 00:08:54,327
 Okay, stick and move.
-Stick and move.	|Buddy Group
+Stick and move.	|Buddy Group	|17
 
 223
 00:08:54,395 --> 00:08:58,431
 - Okay, so for the essay
-portion...	|Annie Group
+portion...	|Annie Group	|17
 
 224
 00:08:58,499 --> 00:09:01,000
@@ -1011,7 +1011,7 @@ her luscious fanny
 
 226
 00:09:03,637 --> 00:09:05,671
-all day long	|Buddy Annie
+all day long	|Buddy Annie	|17
 
 227
 00:09:05,739 --> 00:09:07,807
@@ -1020,12 +1020,12 @@ you guys.
 
 228
 00:09:07,875 --> 00:09:09,175
-Wow, that's great.	|Jeff Group
+Wow, that's great.	|Jeff Group	|17
 
 229
 00:09:09,243 --> 00:09:13,280
 Annie's pretty young.
-We try not to sexualize her.	|Jeff Buddy
+We try not to sexualize her.	|Jeff Buddy	|17
 
 230
 00:09:13,347 --> 00:09:16,016
@@ -1105,7 +1105,7 @@ Physical, okay?
 246
 00:09:47,601 --> 00:09:49,402
 And I'm strong. Hmm?
-And I can kick.	|Buddy Group
+And I can kick.	|Buddy Group	|17
 
 247
 00:09:49,470 --> 00:09:51,037
@@ -1113,7 +1113,7 @@ And I can kick.	|Buddy Group
 
 249
 00:09:53,306 --> 00:09:55,708
-Jeff	|Buddy Jeff
+Jeff	|Buddy Jeff	|17
 - no, no, it's fine, it's fine.
 
 250
@@ -1127,11 +1127,11 @@ I get 'em when it's dry
 252
 00:09:58,611 --> 00:10:00,245
 And when my face
-gets kicked.	|Jeff Buddy
+gets kicked.	|Jeff Buddy	|17
 
 253
 00:10:00,313 --> 00:10:01,980
-- I'll get some paper towels.	|Buddy Jeff
+- I'll get some paper towels.	|Buddy Jeff	|17
 
 254
 00:10:05,450 --> 00:10:07,118
@@ -1140,7 +1140,7 @@ about a meeting
 
 255
 00:10:07,185 --> 00:10:09,653
-To discuss member policy?	|Jeff Group
+To discuss member policy?	|Jeff Group	|17
 
 256
 00:10:13,947 --> 00:10:15,180
@@ -1160,16 +1160,16 @@ what we do,
 259
 00:10:18,684 --> 00:10:20,918
 We gotta do it with grace
-and caution.	|Britta Group
+and caution.	|Britta Group	|18
 
 260
 00:10:20,986 --> 00:10:22,719
 - I say we keep buddy
-in the group.	|Pierce Group
+in the group.	|Pierce Group	|18
 
 261
 00:10:22,787 --> 00:10:24,387
-- What?	|Annie Pierce
+- What?	|Annie Pierce	|18
 
 262
 00:10:24,455 --> 00:10:25,521
@@ -1179,7 +1179,7 @@ thought, and frankly
 263
 00:10:25,589 --> 00:10:27,456
 I like his
-in-your-face style.	|Pierce Group
+in-your-face style.	|Pierce Group	|18
 
 264
 00:10:27,524 --> 00:10:29,124
@@ -1193,22 +1193,22 @@ to hip flexibility
 
 266
 00:10:31,393 --> 00:10:32,926
-Is mesmerizing.	|Troy Group
+Is mesmerizing.	|Troy Group	|18
 
 267
 00:10:32,994 --> 00:10:35,161
 - I like his idea of ironically
-saying "you go, girl."	|Abed Group
+saying "you go, girl."	|Abed Group	|18
 
 268
 00:10:35,229 --> 00:10:36,695
-- You go, girl.	|Troy Abed
-- You go, girl.	|Abed Troy
+- You go, girl.	|Troy Abed	|18
+- You go, girl.	|Abed Troy	|18
 
 269
 00:10:36,763 --> 00:10:38,896
 - Wait, so you kick high enough
-and you get in the group?	|Britta Group
+and you get in the group?	|Britta Group	|18
 
 270
 00:10:38,964 --> 00:10:40,164
@@ -1218,7 +1218,7 @@ people,
 271
 00:10:40,232 --> 00:10:41,898
 I really think we should
-consider my friend gary.	|Shirley Group
+consider my friend gary.	|Shirley Group	|18
 
 272
 00:10:41,966 --> 00:10:42,999
@@ -1227,7 +1227,7 @@ consider my friend gary.	|Shirley Group
 273
 00:10:43,067 --> 00:10:45,234
 Your friend gary is
-so boring.	|Britta Shirley
+so boring.	|Britta Shirley	|18
 
 274
 00:10:45,302 --> 00:10:46,870
@@ -1235,7 +1235,7 @@ so boring.	|Britta Shirley
 
 275
 00:10:46,938 --> 00:10:48,339
-He doesn't get our humor.	|Shirley Britta
+He doesn't get our humor.	|Shirley Britta	|18
 
 276
 00:10:48,406 --> 00:10:49,473
@@ -1253,12 +1253,12 @@ With a song in his heart,
 
 279
 00:10:53,782 --> 00:10:55,316
-I move we institute hazing.	|Annie Group
+I move we institute hazing.	|Annie Group	|18
 
 280
 00:10:55,384 --> 00:10:57,484
 - Well, in the right stuff,
-the novel by tom wolfe--	|Abed Group
+the novel by tom wolfe--	|Abed Group	|18
 
 281
 00:10:57,552 --> 00:10:58,718
@@ -1273,63 +1273,63 @@ pop culture references
 283
 00:11:00,454 --> 00:11:01,854
 And your cigarette-legged
-jeans.	|Pierce Group
+jeans.	|Pierce Group	|18
 
 284
 00:11:01,922 --> 00:11:04,690
 - My friend gary wears nothing
-but loose-fitting jeans.	|Shirley Group
+but loose-fitting jeans.	|Shirley Group	|18
 
 285
 00:11:04,758 --> 00:11:07,025
 - Gary is off the table.
-He is a buzz kill.	|Britta Shirley
+He is a buzz kill.	|Britta Shirley	|18
 
 286
 00:11:07,093 --> 00:11:08,994
 - He grew up in a land
-without sun!	|Shirley Britta
+without sun!	|Shirley Britta	|18
 
 287
 00:11:10,829 --> 00:11:12,697
 - Why don't you like
-my tight jeans?	|Abed Pierce
+my tight jeans?	|Abed Pierce	|18
 
 288
 00:11:12,764 --> 00:11:14,331
-- Take a vote.	|Jeff Britta
+- Take a vote.	|Jeff Britta	|18
 
 289
 00:11:14,399 --> 00:11:15,332
 - They'll probably
-vote him in.	|Britta Jeff
+vote him in.	|Britta Jeff	|18
 
 290
 00:11:15,400 --> 00:11:16,700
-- They won't.	|Jeff Britta
+- They won't.	|Jeff Britta	|18
 
 291
 00:11:16,768 --> 00:11:19,670
 - Guys, guys,
-let's take a vote.	|Britta Group
+let's take a vote.	|Britta Group	|18
 
 292
 00:11:19,738 --> 00:11:21,805
 - Secret vote.
-Everybody cover your eyes.	|Abed Group
+Everybody cover your eyes.	|Abed Group	|18
 
 293
 00:11:23,674 --> 00:11:25,942
-- We won't know the result.	|Annie Group
-- Well, say your vote out loud.	|Pierce Group
+- We won't know the result.	|Annie Group	|18
+- Well, say your vote out loud.	|Pierce Group	|18
 
 294
 00:11:26,010 --> 00:11:27,443
-- We'll know each other's voices.	|Shirley Group
+- We'll know each other's voices.	|Shirley Group	|18
 
 295
 00:11:27,511 --> 00:11:28,845
-- Troy's got a point.	|Pierce Group
+- Troy's got a point.	|Pierce Group	|18
 
 296
 00:11:28,913 --> 00:11:30,380
@@ -1347,12 +1347,12 @@ driver's ed class
 
 299
 00:11:33,985 --> 00:11:35,852
-With a meat tenderizer.	|Jeff Group
+With a meat tenderizer.	|Jeff Group	|18
 
 300
 00:11:35,920 --> 00:11:40,223
 - Oh, no.
-We have to be careful.	|Shirley Group
+We have to be careful.	|Shirley Group	|18
 
 301
 00:11:40,291 --> 00:11:43,559
@@ -1366,7 +1366,7 @@ to keep buddy out,
 
 303
 00:11:45,696 --> 00:11:48,130
-Raise your hand.	|Britta Group
+Raise your hand.	|Britta Group	|18
 
 304
 00:11:54,938 --> 00:11:56,205
@@ -1393,7 +1393,7 @@ so you could keep smiling.
 
 309
 00:12:04,881 --> 00:12:05,814
-You're hawkeye.	|Abed Jeff
+You're hawkeye.	|Abed Jeff	|19
 
 310
 00:12:05,882 --> 00:12:07,883
@@ -1402,7 +1402,7 @@ You're hawkeye.	|Abed Jeff
 311
 00:12:07,951 --> 00:12:10,052
 Staying that way will be
-a lot easier.	|Jeff Abed
+a lot easier.	|Jeff Abed	|19
 
 312
 00:12:10,119 --> 00:12:12,054
@@ -1430,7 +1430,7 @@ may not be right,
 
 317
 00:12:21,564 --> 00:12:22,831
-But it can be economical.	|Dean Annie
+But it can be economical.	|Dean Annie	|20
 
 318
 00:12:22,899 --> 00:12:24,933
@@ -1440,12 +1440,12 @@ to you in my article,
 319
 00:12:25,001 --> 00:12:26,635
 Would you prefer "imbecile"
-or "incompetent?"	|Annie Dean
+or "incompetent?"	|Annie Dean	|20
 
 320
 00:12:26,702 --> 00:12:28,970
 - I prefer "incompetent,"
-but what I really want--	|Dean Annie
+but what I really want--	|Dean Annie	|20
 
 321
 00:12:29,038 --> 00:12:30,304
@@ -1464,12 +1464,12 @@ stand in my way.
 
 324
 00:12:36,711 --> 00:12:38,445
-- Excuse me.	|Annie Dean
+- Excuse me.	|Annie Dean	|20
 
 325
 00:12:38,513 --> 00:12:41,114
-- Okay.	|Dean Annie
-- Thank you.	|Annie Dean
+- Okay.	|Dean Annie	|20
+- Thank you.	|Annie Dean	|20
 
 326
 00:12:41,182 --> 00:12:42,816
@@ -1497,7 +1497,7 @@ And this job is my life.
 
 331
 00:12:54,660 --> 00:12:56,661
-She listens to you.	|Dean Jeff
+She listens to you.	|Dean Jeff	|21
 
 332
 00:12:56,729 --> 00:13:00,765
@@ -1507,17 +1507,17 @@ hanging out having fun
 333
 00:13:00,833 --> 00:13:04,701
 I could try cracking wise
-about it with her.	|Jeff Dean
+about it with her.	|Jeff Dean	|21
 
 334
 00:13:04,769 --> 00:13:05,869
 - You do what you think
-is right.	|Dean Jeff
+is right.	|Dean Jeff	|21
 
 336
 00:13:17,012 --> 00:13:18,312
-- That's enough.	|Jeff Abed
-- Okay.	|Abed Jeff
+- That's enough.	|Jeff Abed	|22
+- Okay.	|Abed Jeff	|22
 
 337
 00:13:18,379 --> 00:13:20,546
@@ -1531,7 +1531,7 @@ I mean, you like the dean.
 339
 00:13:22,215 --> 00:13:23,782
 He's trying to help you
-transfer.	|Jeff Annie
+transfer.	|Jeff Annie	|23
 
 340
 00:13:23,850 --> 00:13:25,717
@@ -1554,7 +1554,7 @@ my time in rehab
 
 344
 00:13:31,154 --> 00:13:32,154
-If they think I'm a writer.	|Annie Jeff
+If they think I'm a writer.	|Annie Jeff	|23
 
 345
 00:13:32,221 --> 00:13:34,121
@@ -1563,32 +1563,32 @@ as your upbeat friend,
 
 346
 00:13:34,189 --> 00:13:35,655
-I gotta say let this go.	|Jeff Annie
+I gotta say let this go.	|Jeff Annie	|23
 
 347
 00:13:35,723 --> 00:13:39,124
 - This is greendale, jeff.
-We can do whatever we want.	|Annie Jeff
+We can do whatever we want.	|Annie Jeff	|23
 
 348
 00:13:49,971 --> 00:13:53,106
 - Didn't anyone tell buddy
-he was out?	|Jeff Annie
+he was out?	|Jeff Annie	|23
 
 349
 00:13:53,174 --> 00:13:54,375
 - I guess we thought
-you would.	|Annie Jeff
+you would.	|Annie Jeff	|23
 
 350
 00:13:57,480 --> 00:14:00,515
 - Milord, milady.
-You missed my apology song.	|Buddy Jeff Annie
+You missed my apology song.	|Buddy Jeff Annie	|24
 
 351
 00:14:00,582 --> 00:14:02,916
 - Yeah, I'll tell 'em
-about it later.	|Britta Buddy
+about it later.	|Britta Buddy	|24
 
 352
 00:14:02,984 --> 00:14:05,217
@@ -1597,7 +1597,7 @@ about it later.	|Britta Buddy
 353
 00:14:05,285 --> 00:14:07,719
 I am so sorry about
-the other day.	|Buddy Jeff
+the other day.	|Buddy Jeff	|24
 
 354
 00:14:07,787 --> 00:14:12,624
@@ -1607,7 +1607,7 @@ the group took a vote.
 355
 00:14:15,328 --> 00:14:18,663
 - And you seem to have
-figured out the rest of it.	|Jeff Buddy
+figured out the rest of it.	|Jeff Buddy	|24
 
 356
 00:14:22,901 --> 00:14:25,969
@@ -1617,16 +1617,16 @@ Was it "you go, girl"?
 357
 00:14:26,037 --> 00:14:27,904
 Oh, you guys think
-you're so cool.	|Buddy Jeff
+you're so cool.	|Buddy Jeff	|24
 
 358
 00:14:27,971 --> 00:14:29,372
 - No, we don't think
-we're cool at all.	|Shirley Buddy
+we're cool at all.	|Shirley Buddy	|24
 
 359
 00:14:29,439 --> 00:14:30,439
-- A little bit.	|Troy Buddy
+- A little bit.	|Troy Buddy	|24
 
 360
 00:14:30,507 --> 00:14:32,775
@@ -1645,16 +1645,16 @@ with free-range eggs
 363
 00:14:40,249 --> 00:14:41,782
 That I baked
-with my own hands.	|Buddy Group
+with my own hands.	|Buddy Group	|24
 
 364
 00:14:41,850 --> 00:14:43,717
 - Maybe a little less sugar
-next time.	|Pierce Buddy
+next time.	|Pierce Buddy	|24
 
 365
 00:14:43,785 --> 00:14:45,886
-- Well, I'm not leaving.	|Buddy Group
+- Well, I'm not leaving.	|Buddy Group	|24
 
 366
 00:14:45,953 --> 00:14:50,123
@@ -1663,7 +1663,7 @@ Be relaxed, like me.
 
 367
 00:14:50,190 --> 00:14:52,291
-Leave.	|Jeff Buddy
+Leave.	|Jeff Buddy	|24
 - You're not relaxed.
 
 368
@@ -1674,16 +1674,16 @@ puppet master,
 369
 00:14:54,427 --> 00:14:55,360
 And these are all
-your little puppets.	|Buddy Group
+your little puppets.	|Buddy Group	|24
 
 370
 00:15:00,165 --> 00:15:03,600
 - Buddy, just be reasonable
-and go.	|Jeff Buddy
+and go.	|Jeff Buddy	|24
 
 371
 00:15:03,668 --> 00:15:06,236
-Make me...Hitler.	|Buddy Jeff
+Make me...Hitler.	|Buddy Jeff	|24
 
 372
 00:15:06,304 --> 00:15:08,805
@@ -1702,25 +1702,25 @@ While we study.
 375
 00:15:13,343 --> 00:15:16,077
 Try getting that deal
-from hitler. Shall we?	|Jeff Buddy
+from hitler. Shall we?	|Jeff Buddy	|24
 
 376
 00:15:18,547 --> 00:15:22,750
-- I'm studying with you.	|Buddy Jeff
-- No, you're not.	|Jeff Buddy
+- I'm studying with you.	|Buddy Jeff	|24
+- No, you're not.	|Jeff Buddy	|24
 
 377
 00:15:22,817 --> 00:15:24,651
-Everyone stop studying.	|Jeff Group
+Everyone stop studying.	|Jeff Group	|24
 
 379
 00:15:26,354 --> 00:15:29,188
-- You're not in the group.	|Jeff Buddy
+- You're not in the group.	|Jeff Buddy	|24
 
 380
 00:15:29,256 --> 00:15:32,657
 - Okay, then go study
-somewhere else.	|Buddy Jeff
+somewhere else.	|Buddy Jeff	|24
 
 381
 00:15:32,725 --> 00:15:35,326
@@ -1728,7 +1728,7 @@ Hola, mi amigo.
 
 382
 00:15:35,394 --> 00:15:38,462
-Donde estas la bibliota?	|Buddy
+Donde estas la bibliota?	|Buddy	|24
 
 383
 00:15:51,307 --> 00:15:54,075
@@ -1766,27 +1766,27 @@ You suck! Aah...
 
 391
 00:16:18,030 --> 00:16:19,698
-I hate you!	|Buddy Jeff
+I hate you!	|Buddy Jeff	|24
 
 392
 00:16:23,368 --> 00:16:24,969
 - And you are not running
-that story!	|Jeff Annie
+that story!	|Jeff Annie	|25
 
 393
 00:16:25,037 --> 00:16:28,172
-- Why not?	|Annie Jeff
-- Because I said so!	|Jeff Annie
+- Why not?	|Annie Jeff	|25
+- Because I said so!	|Jeff Annie	|25
 
 394
 00:16:28,240 --> 00:16:31,809
 Does anybody have a problem
-with how that was handled?	|Jeff Group
+with how that was handled?	|Jeff Group	|25
 
 395
 00:16:31,877 --> 00:16:33,411
 - It's exactly the way
-I would have done it, jeff.	|Pierce Jeff
+I would have done it, jeff.	|Pierce Jeff	|25
 
 396
 00:16:40,198 --> 00:16:42,365
@@ -1809,17 +1809,17 @@ No. Martinis are for hawkeyes.
 400
 00:16:50,840 --> 00:16:54,942
 I'm the same uptight jerk
-I was last semester.	|Jeff Abed
+I was last semester.	|Jeff Abed	|26
 
 401
 00:16:58,079 --> 00:17:00,580
 - Jeff, what's your favorite
-episode of m.A.S.H.?	|Abed Jeff
+episode of M.A.S.H.?	|Abed Jeff	|26
 
 402
 00:17:00,648 --> 00:17:03,616
 - The one with, uh,
-the army.	|Jeff Abed
+the army.	|Jeff Abed	|26
 
 403
 00:17:03,684 --> 00:17:05,551
@@ -1857,21 +1857,21 @@ people died.
 410
 00:17:15,695 --> 00:17:17,696
 He was a leader, jeff.
-That's your job.	|Abed Jeff
+That's your job.	|Abed Jeff	|26
 
 411
 00:17:17,764 --> 00:17:20,265
 - Ooh.
-What's in it for me?	|Jeff Abed
+What's in it for me?	|Jeff Abed	|26
 
 412
 00:17:20,333 --> 00:17:21,533
-- Hey...	|Annie Jeff
+- Hey...	|Annie Jeff	|27
 
 413
 00:17:21,601 --> 00:17:24,870
 - Annie, I'm sorry that
-I yelled.	|Jeff Annie
+I yelled.	|Jeff Annie	|27
 
 414
 00:17:24,937 --> 00:17:26,871
@@ -1900,11 +1900,11 @@ You're jeff winger.
 419
 00:17:39,519 --> 00:17:43,054
 So...Thanks...
-For getting mad.	|Annie Jeff
+For getting mad.	|Annie Jeff	|27
 
 420
 00:17:43,122 --> 00:17:46,524
-- Well, it was nothing.	|Jeff Annie
+- Well, it was nothing.	|Jeff Annie	|27
 
 421
 00:17:48,962 --> 00:17:50,629
@@ -1913,12 +1913,12 @@ the upside, isn't it?
 
 422
 00:17:58,907 --> 00:18:02,411
-Thank you...Radar.	|Jeff Abed
+Thank you...Radar.	|Jeff Abed	|28
 
 423
 00:18:02,479 --> 00:18:04,547
 - Ooh, you made me so happy
-I just peed a little.	|Abed Jeff
+I just peed a little.	|Abed Jeff	|28
 
 424
 00:18:07,284 --> 00:18:09,051
@@ -1928,25 +1928,25 @@ is the answer
 425
 00:18:09,119 --> 00:18:10,052
 When we make decisions
-about--	|Shirley Group
+about--	|Shirley Group	|29
 
 427
 00:18:11,221 --> 00:18:12,888
-- Hi, guys.	|Buddy Group
+- Hi, guys.	|Buddy Group	|29
 
 428
 00:18:12,955 --> 00:18:14,823
 - Hi, buddy.
-Can you, um...	|Britta Buddy
+Can you, um...	|Britta Buddy	|29
 
 429
 00:18:14,890 --> 00:18:17,192
-- Excuse us...	|Annie Buddy
+- Excuse us...	|Annie Buddy	|29
 
 430
 00:18:17,259 --> 00:18:20,130
 - For one...
-Crazy stalker?	|Troy Buddy
+Crazy stalker?	|Troy Buddy	|29
 
 431
 00:18:25,237 --> 00:18:26,404
@@ -1960,22 +1960,22 @@ six to one.
 433
 00:18:28,908 --> 00:18:32,077
 Annie, you flash your breasts
-as a decoy for the bum rush.	|Pierce Group
+as a decoy for the bum rush.	|Pierce Group	|29
 
 434
 00:18:32,145 --> 00:18:33,945
-- Pierce!	|Britta Pierce
+- Pierce!	|Britta Pierce	|29
 - Don't be upset.
 
 435
 00:18:34,013 --> 00:18:36,248
 I didn't pick you as a decoy
-'cause your breasts are so old.	|Pierce Britta
+'cause your breasts are so old.	|Pierce Britta	|29
 
 436
 00:18:36,315 --> 00:18:38,283
-- Why is he even here?	|Shirley Group
-Hello.	|Shirley Buddy
+- Why is he even here?	|Shirley Group	|29
+Hello.	|Shirley Buddy	|29
 
 437
 00:18:38,351 --> 00:18:40,118
@@ -2019,7 +2019,7 @@ That I'm so lucky to have?
 
 447
 00:19:03,177 --> 00:19:06,447
-- I say we let him in.	|Jeff Group
+- I say we let him in.	|Jeff Group	|29
 
 448
 00:19:08,516 --> 00:19:10,551
@@ -2027,7 +2027,7 @@ Hi, buddy.
 
 449
 00:19:10,618 --> 00:19:13,053
-Welcome to the group.	|Jeff Buddy
+Welcome to the group.	|Jeff Buddy	|29
 
 450
 00:19:13,120 --> 00:19:16,488
@@ -2035,7 +2035,7 @@ Welcome to the group.	|Jeff Buddy
 
 451
 00:19:16,556 --> 00:19:18,089
-You will not regret this.	|Buddy Group
+You will not regret this.	|Buddy Group	|29
 
 452
 00:19:20,459 --> 00:19:21,659
@@ -2044,12 +2044,12 @@ You will not regret this.	|Buddy Group
 453
 00:19:21,727 --> 00:19:23,894
 Speak of the devil,
-he's right there.	|Starburns OwenWilson
+he's right there.	|Starburns OwenWilson	|30
 
 454
 00:19:23,962 --> 00:19:26,964
-- Hey, buddy.	|OwenWilson Buddy
-- Hmm?	|Buddy OwenWilson
+- Hey, buddy.	|OwenWilson Buddy	|30
+- Hmm?	|Buddy OwenWilson	|30
 
 455
 00:19:27,031 --> 00:19:28,131
@@ -2058,12 +2058,12 @@ what you said.
 
 456
 00:19:28,199 --> 00:19:30,500
-We took a vote, and you're in.	|OwenWilson Buddy
+We took a vote, and you're in.	|OwenWilson Buddy	|30
 
 457
 00:19:30,568 --> 00:19:34,337
 - Oh ho, no way!
-I'm in the cool group?	|Buddy All
+I'm in the cool group?	|Buddy All	|30
 
 458
 00:19:34,404 --> 00:19:35,571
@@ -2076,7 +2076,7 @@ for the guy.
 
 460
 00:19:37,973 --> 00:19:39,340
-Welcome.	|OwenWilson Buddy
+Welcome.	|OwenWilson Buddy	|30
 
 461
 00:19:39,408 --> 00:19:42,075
@@ -2088,7 +2088,7 @@ Oh, this is awkward.
 
 463
 00:19:45,111 --> 00:19:47,446
-You guys were my safe date.	|Buddy Group
+You guys were my safe date.	|Buddy Group	|30
 
 464
 00:19:47,513 --> 00:19:49,547
@@ -2098,16 +2098,16 @@ to worry about them.
 465
 00:19:49,615 --> 00:19:51,082
 You're with us now.
-Come on.	|OwenWilson Buddy
+Come on.	|OwenWilson Buddy	|30
 
 466
 00:19:51,150 --> 00:19:53,451
-- Ha ha! Boom!	|Buddy
+- Ha ha! Boom!	|Buddy	|30
 
 467
 00:19:53,519 --> 00:19:56,353
-- I love the kicks.	|OwenWilson Starburns
-- He's amazing!	|Starburns OwenWilson
+- I love the kicks.	|OwenWilson Starburns	|30
+- He's amazing!	|Starburns OwenWilson	|30
 
 468
 00:19:56,421 --> 00:19:57,688
@@ -2120,7 +2120,7 @@ He's just got that kind of--
 470
 00:19:59,357 --> 00:20:01,825
 You know when
-some people have it...	|OwenWilson Starburns
+some people have it...	|OwenWilson Starburns	|30
 
 471
 00:20:05,027 --> 00:20:06,927
@@ -2129,7 +2129,7 @@ and gentlemen,
 
 472
 00:20:06,995 --> 00:20:08,495
-Is why I voted to keep him.	|Pierce Group
+Is why I voted to keep him.	|Pierce Group	|30
 
 473
 00:20:08,563 --> 00:20:10,096
@@ -2139,43 +2139,43 @@ to have
 474
 00:20:10,164 --> 00:20:11,497
 Another person
-in the group.	|Annie Group
+in the group.	|Annie Group	|30
 
 475
 00:20:11,564 --> 00:20:13,231
-- I'll call gary.	|Shirley Group
+- I'll call gary.	|Shirley Group	|30
 
 9999
 00:00:0,500 --> 00:00:2,00
-So, it says here that you want to join as two-some, I don't see it as a selling point.	|Starburns Troy Abed
-We work really well together	|Troy Starburns
+So, it says here that you want to join as two-some, I don't see it as a selling point.	|Starburns Troy Abed	|31
+We work really well together	|Troy Starburns	|31
 
 9999
 00:00:0,500 --> 00:00:2,00
-Yeah	|Abed Starburns
-Let me hear that rap thing of yours again.	|Starburns Abed Troy
+Yeah	|Abed Starburns	|31
+Let me hear that rap thing of yours again.	|Starburns Abed Troy	|31
 
 9999
 00:00:0,500 --> 00:00:2,00
-Me llamo T-Bone la arana discoteca	|Troy Starburns
-Discoteca, muneca, la biblioteca	|Abed Starburns
+Me llamo T-Bone la arana discoteca	|Troy Starburns	|31
+Discoteca, muneca, la biblioteca	|Abed Starburns	|31
 
 9999
 00:00:0,500 --> 00:00:2,00
-Alright, I'll talk it over with the others	|Starburns Abed Troy
-Thanks for your time	|Troy Starburns
+Alright, I'll talk it over with the others	|Starburns Abed Troy	|31
+Thanks for your time	|Troy Starburns	|31
 
 9999
 00:00:0,500 --> 00:00:2,00
-Alright	|Abed Starburns
-You traitors! I'm appalled that your lack of loyalty. Yeah, you better run	|Pierce Abed Troy
+Alright	|Abed Starburns	|31
+You traitors! I'm appalled that your lack of loyalty. Yeah, you better run	|Pierce Abed Troy	|32
 
 9999
 00:00:0,500 --> 00:00:2,00
-Have you decided?	|Pierce Starburns
-We saw your tape. We're passing	|Starburns Pierce
+Have you decided?	|Pierce Starburns	|33
+We saw your tape. We're passing	|Starburns Pierce	|33
 
 9999
 00:00:0,500 --> 00:00:2,00
 I don't pop in video. Let me do the song in person.
-Getting rid of Britta. Getting rid of the B. She's the GDB. She's a... no good B	|Pierce Starburns
+Getting rid of Britta. Getting rid of the B. She's the GDB. She's a... no good B	|Pierce Starburns	|33
