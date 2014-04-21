@@ -41,7 +41,7 @@ i don't know about you,
 9
 00:00:20,001 --> 00:00:22,867
 But this sure feels like
-a real college to me.	|Dean
+a real college to me.	|Dean	|01
 
 10
 00:00:22,934 --> 00:00:24,834
@@ -49,7 +49,7 @@ a real college to me.	|Dean
 
 11
 00:00:24,901 --> 00:00:26,267
-Greendale!	|DeanBot
+Greendale!	|DeanBot	|01
 
 13
 00:00:29,333 --> 00:00:30,667
@@ -62,7 +62,7 @@ Good morning!
 15
 00:00:32,168 --> 00:00:35,134
 How is student life,
-my dry-witted friend?	|Duncan Jeff
+my dry-witted friend?	|Duncan Jeff	|02
 
 16
 00:00:35,200 --> 00:00:36,567
@@ -72,7 +72,7 @@ as teacher life,
 17
 00:00:36,634 --> 00:00:38,367
 But less tragic,
-because i get to leave.	|Jeff Duncan
+because i get to leave.	|Jeff Duncan	|02
 
 18
 00:00:38,434 --> 00:00:40,001
@@ -100,11 +100,11 @@ with the pouty, strident
 23
 00:00:47,467 --> 00:00:50,200
 Cate blanchett sexuality
-and the ridiculous name?	|Duncan Jeff
+and the ridiculous name?	|Duncan Jeff	|02
 
 24
 00:00:50,267 --> 00:00:52,400
-- Britta?	|Jeff Duncan
+- Britta?	|Jeff Duncan	|02
 - that's it, that's it.
 
 25
@@ -124,7 +124,7 @@ and if so,
 28
 00:00:59,434 --> 00:01:01,867
 Would that item be
-impervious to sabotage?	|Duncan Jeff
+impervious to sabotage?	|Duncan Jeff	|02
 
 29
 00:01:01,934 --> 00:01:04,801
@@ -138,7 +138,7 @@ and james bond
 
 31
 00:01:06,300 --> 00:01:07,567
-Come from the same island?	|Jeff Duncan
+Come from the same island?	|Jeff Duncan	|02
 
 32
 00:01:07,634 --> 00:01:09,034
@@ -151,17 +151,17 @@ to finish striking out first.
 
 34
 00:01:11,200 --> 00:01:12,367
-- cheers.	|Duncan Jeff
-- m.a.s.h.	|Abed Duncan
+- cheers.	|Duncan Jeff	|02
+- m.a.s.h.	|Abed Duncan	|03
 
 35
 00:01:12,434 --> 00:01:13,300
 - fawlty towers.
-game over.	|Duncan Abed
+game over.	|Duncan Abed	|03
 
 36
 00:01:13,367 --> 00:01:16,168
-Have a nice day.	|Duncan Jeff
+Have a nice day.	|Duncan Jeff	|02
 
 37
 00:01:17,233 --> 00:01:18,333
@@ -184,7 +184,7 @@ the cowboy way, the hard way,
 
 41
 00:01:24,701 --> 00:01:26,134
-and q&a.	|Abed Troy
+and q&a.	|Abed Troy	|04
 
 42
 00:01:26,200 --> 00:01:28,434
@@ -194,35 +194,35 @@ on a private jet from hollywood,
 43
 00:01:28,500 --> 00:01:31,168
 Because he can't wait to have
-that conversation with you.	|Troy Abed
+that conversation with you.	|Troy Abed	|04
 
 44
 00:01:31,233 --> 00:01:32,667
 - really?
-how does he know about me?	|Abed Troy
+how does he know about me?	|Abed Troy	|04
 
 45
 00:01:32,734 --> 00:01:34,801
 - because he called me
-on my cell phone.	|Troy Abed
+on my cell phone.	|Troy Abed	|04
 
 46
 00:01:34,867 --> 00:01:38,934
 - why would a movie actor
-call you?	|Abed Troy
+call you?	|Abed Troy	|04
 
 47
 00:01:39,001 --> 00:01:41,567
-- you don't know?	|Troy Abed
-- no.	|Abed Troy
+- you don't know?	|Troy Abed	|04
+- no.	|Abed Troy	|04
 
 48
 00:01:41,634 --> 00:01:43,667
-- i'm president obama's nephew.	|Troy Abed
+- i'm president obama's nephew.	|Troy Abed	|04
 
 49
 00:01:43,734 --> 00:01:45,001
-- you never mentioned that.	|Abed Troy
+- you never mentioned that.	|Abed Troy	|04
 
 50
 00:01:45,068 --> 00:01:46,534
@@ -237,7 +237,7 @@ to tell you everything--
 52
 00:01:48,500 --> 00:01:50,101
 Starting with me
-inventing the ferrari.	|Troy Abed
+inventing the ferrari.	|Troy Abed	|04
 
 53
 00:01:50,168 --> 00:01:53,101
@@ -257,11 +257,11 @@ in the awkward conclusion
 56
 00:01:57,500 --> 00:02:00,434
 Of a month-long text message
-affair with a dude from boulder.	|Jeff Britta
+affair with a dude from boulder.	|Jeff Britta	|05
 
 57
 00:02:00,500 --> 00:02:02,068
-- sorry.	|Britta Jeff
+- sorry.	|Britta Jeff	|05
 - that's okay.
 
 58
@@ -272,7 +272,7 @@ your real number.
 59
 00:02:03,667 --> 00:02:05,734
 I'll cleanse my palate while
-kevin rethinks his marriage.	|Jeff Britta
+kevin rethinks his marriage.	|Jeff Britta	|05
 
 60
 00:02:05,801 --> 00:02:07,734
@@ -282,24 +282,24 @@ if you promise not to use it
 61
 00:02:07,801 --> 00:02:09,567
 In any other context
-than friendship.	|Britta Jeff
+than friendship.	|Britta Jeff	|05
 
 62
 00:02:09,634 --> 00:02:10,934
-- uh...pass.	|Jeff Britta
+- uh...pass.	|Jeff Britta	|05
 
 63
 00:02:11,001 --> 00:02:13,767
-- silencio, por favor.	|Chang All
+- silencio, por favor.	|Chang All	|06
 
 64
 00:02:13,834 --> 00:02:16,168
 Star burns--
-that means you.	|Chang Starburns
+that means you.	|Chang Starburns	|06
 
 65
 00:02:16,233 --> 00:02:18,134
-- my name's alex, dude.	|Starburns Chang
+- my name's alex, dude.	|Starburns Chang	|06
 
 66
 00:02:18,200 --> 00:02:19,267
@@ -309,7 +309,7 @@ spend five hours
 67
 00:02:19,333 --> 00:02:21,667
 Sculpting that
-in your face.	|Chang Starburns
+in your face.	|Chang Starburns	|06
 
 68
 00:02:21,734 --> 00:02:23,567
@@ -319,21 +319,21 @@ i graded your tests.
 69
 00:02:23,634 --> 00:02:24,967
 I'm sure you wanna know
-how you did, right?	|Chang All
+how you did, right?	|Chang All	|06
 
 70
 00:02:25,034 --> 00:02:27,168
-- yes, i would.	|All Chang
+- yes, i would.	|All Chang	|06
 - well, i'm not gonna tell you.
 
 71
 00:02:27,233 --> 00:02:31,701
 Until i find out
-who did...this!	|Chang All
+who did...this!	|Chang All	|06
 
 72
 00:02:31,767 --> 00:02:34,500
-- what is that?	|Shirley Chang
+- what is that?	|Shirley Chang	|06
 
 73
 00:02:34,567 --> 00:02:36,701
@@ -343,7 +343,7 @@ okay?
 74
 00:02:36,767 --> 00:02:38,901
 That's all it is.
-tiny piece of paper.	|Chang Shirley
+tiny piece of paper.	|Chang Shirley	|06
 
 75
 00:02:38,967 --> 00:02:42,467
@@ -357,23 +357,23 @@ as a crib sheet.
 
 77
 00:02:45,467 --> 00:02:47,267
-Who did it, huh?	|Chang All
+Who did it, huh?	|Chang All	|06
 
 78
 00:02:47,333 --> 00:02:50,068
-Marianne?	|Chang Annie
+Marianne?	|Chang Annie	|06
 
 79
 00:02:50,134 --> 00:02:52,034
-grandpa?	|Chang Pierce
+grandpa?	|Chang Pierce	|06
 
 80
 00:02:52,101 --> 00:02:53,634
-Jackee?	|Chang Shirley
+Jackee?	|Chang Shirley	|06
 
 81
 00:02:53,701 --> 00:02:55,134
-Kumar?	|Chang Abed
+Kumar?	|Chang Abed	|06
 
 82
 00:02:55,233 --> 00:02:57,300
@@ -398,11 +398,11 @@ will wax off everyone's score
 86
 00:03:06,400 --> 00:03:11,367
 and the whole class
-gets a cero!	|Chang All
+gets a cero!	|Chang All	|06
 
 87
 00:03:11,434 --> 00:03:14,834
-'cept you, toby.	|Chang Extra
+'cept you, toby.	|Chang Extra	|06
 
 89
 00:03:21,001 --> 00:03:23,534
@@ -412,7 +412,7 @@ senor chang and stalin
 90
 00:03:23,600 --> 00:03:25,767
 Is that i know
-who senor chang is.	|Troy Group
+who senor chang is.	|Troy Group	|07
 
 91
 00:03:25,834 --> 00:03:27,200
@@ -432,12 +432,12 @@ hadn't been watching,
 94
 00:03:30,233 --> 00:03:32,267
 I'd have slapped him
-upside the head.	|Shirley Group
+upside the head.	|Shirley Group	|07
 
 95
 00:03:32,333 --> 00:03:34,667
 - who do you guys think
-cheated?	|Pierce Group
+cheated?	|Pierce Group	|07
 
 96
 00:03:34,734 --> 00:03:35,634
@@ -468,12 +468,12 @@ wasn't a real cheater.
 
 102
 00:03:43,634 --> 00:03:47,233
-Just...insecure and naive.	|Jeff Group
+Just...insecure and naive.	|Jeff Group	|07
 
 103
 00:03:47,300 --> 00:03:50,200
 - i may be naive,
-but i'm not stupid.	|Annie Jeff
+but i'm not stupid.	|Annie Jeff	|07
 
 104
 00:03:50,267 --> 00:03:51,867
@@ -482,12 +482,12 @@ but i'm not stupid.	|Annie Jeff
 105
 00:03:51,934 --> 00:03:54,367
 But i'm not trying
-to look like i'm not.	|Troy Annie
+to look like i'm not.	|Troy Annie	|07
 
 106
 00:03:54,434 --> 00:03:57,200
 - well, i may be a genius,
-but i'm not a lesbian.	|Pierce Britta
+but i'm not a lesbian.	|Pierce Britta	|07
 
 108
 00:03:58,600 --> 00:03:59,734
@@ -501,7 +501,7 @@ The only real cheater
 110
 00:04:01,300 --> 00:04:03,233
 Is the guy who's threatening
-everyone with a zero.	|Britta Group
+everyone with a zero.	|Britta Group	|07
 
 111
 00:04:03,300 --> 00:04:05,101
@@ -511,7 +511,7 @@ it's so unfair.
 112
 00:04:05,168 --> 00:04:07,434
 And i can't handle
-this kind of stress right now.
+this kind of stress right now.	|Annie Group	|06
 
 113
 00:04:07,500 --> 00:04:09,168
@@ -520,8 +520,8 @@ by my duties
 
 114
 00:04:09,233 --> 00:04:10,701
-On the school song committee.	|Annie Group
-- are you a musician?	|Pierce Annie
+On the school song committee.	|Annie Group	|07
+- are you a musician?	|Pierce Annie	|07
 
 115
 00:04:10,767 --> 00:04:13,068
@@ -530,16 +530,16 @@ i hired a local composer.
 
 116
 00:04:13,134 --> 00:04:14,834
-But he's quite a handful.	|Annie Pierce
+But he's quite a handful.	|Annie Pierce	|07
 
 117
 00:04:14,901 --> 00:04:16,500
 - well, i guess that's
-your fault, isn't it?	|Pierce Annie
+your fault, isn't it?	|Pierce Annie	|07
 
 118
 00:04:16,567 --> 00:04:18,667
-- it is?	|Annie Pierce
+- it is?	|Annie Pierce	|07
 - you've got an accomplished
 
 119
@@ -563,7 +563,7 @@ your song for free.
 
 123
 00:04:25,667 --> 00:04:28,300
-Smooth move, metamucil.	|Pierce Annie
+Smooth move, metamucil.	|Pierce Annie	|07
 - troy could do the school song.
 
 124
@@ -573,7 +573,7 @@ Troy invited rap music,
 125
 00:04:29,967 --> 00:04:31,734
 And he's related to danny glover
-and president obama.	|Abed Group
+and president obama.	|Abed Group	|08
 
 126
 00:04:31,801 --> 00:04:33,767
@@ -588,7 +588,7 @@ everybody at church
 128
 00:04:35,300 --> 00:04:37,168
 What a sweet little
-caramel angel you are?	|Shirley Abed
+caramel angel you are?	|Shirley Abed	|08
 
 129
 00:04:37,233 --> 00:04:39,500
@@ -597,8 +597,8 @@ i said this morning wasn't true.
 
 130
 00:04:39,567 --> 00:04:41,567
-I was just messin' with you.	|Troy Abed
-- you were lying?	|Abed Troy
+I was just messin' with you.	|Troy Abed	|08
+- you were lying?	|Abed Troy	|08
 
 131
 00:04:41,634 --> 00:04:42,934
@@ -607,7 +607,7 @@ I was just messin' with you.	|Troy Abed
 132
 00:04:43,001 --> 00:04:44,434
 You've never had anybody
-mess with you before?	|Troy Abed
+mess with you before?	|Troy Abed	|08
 
 133
 00:04:44,500 --> 00:04:47,867
@@ -621,17 +621,17 @@ This isn't a table.
 135
 00:04:51,068 --> 00:04:53,101
 Ha ha!
-that's funny.	|Abed
+that's funny.	|Abed Troy	|08
 
 136
 00:04:53,168 --> 00:04:55,634
 - remember when we used to
-study spanish?	|Jeff Britta
+study spanish?	|Jeff Britta	|09
 
 137
 00:04:59,367 --> 00:05:00,500
-- pierce!	|Annie Pierce
-- yo.	|Pierce Annie
+- pierce!	|Annie Pierce	|10
+- yo.	|Pierce Annie	|10
 
 138
 00:05:00,567 --> 00:05:01,934
@@ -640,11 +640,11 @@ study spanish?	|Jeff Britta
 139
 00:05:02,001 --> 00:05:03,934
 And he said you can write
-greendale's school song.	|Annie Pierce
+greendale's school song.	|Annie Pierce	|10
 
 140
 00:05:04,001 --> 00:05:05,333
-- well, that's more like it.	|Pierce Annie
+- well, that's more like it.	|Pierce Annie	|10
 
 141
 00:05:05,400 --> 00:05:07,134
@@ -654,16 +654,16 @@ dedication is this friday.
 142
 00:05:07,200 --> 00:05:08,667
 So you have to have it done
-by then.	|Annie Pierce
+by then.	|Annie Pierce	|10
 
 143
 00:05:08,734 --> 00:05:10,434
 - this friday?
-this friday?	|Pierce Annie
+this friday?	|Pierce Annie	|10
 
 144
 00:05:10,500 --> 00:05:11,834
-- if that's not enough time--	|Annie Pierce
+- if that's not enough time--	|Annie Pierce	|10
 - no, no, no!
 
 145
@@ -673,7 +673,7 @@ about genius, do you?
 
 146
 00:05:13,967 --> 00:05:15,767
-Yes, i can do it by friday.	|Pierce Annie
+Yes, i can do it by friday.	|Pierce Annie	|10
 - great!
 
 147
@@ -689,11 +689,11 @@ however i can.
 149
 00:05:19,500 --> 00:05:21,333
 You're gonna do
-an awesome job!	|Annie Pierce
+an awesome job!	|Annie Pierce	|10
 
 150
 00:05:21,400 --> 00:05:22,467
-- i know!	|Pierce Annie
+- i know!	|Pierce Annie	|10
 
 151
 00:05:22,534 --> 00:05:26,001
@@ -710,8 +710,8 @@ and face la musica...
 
 154
 00:05:31,367 --> 00:05:33,801
-Or everyone fails.	|Chang All
-- no!	|Annie Chang
+Or everyone fails.	|Chang All	|11
+- no!	|Annie Chang	|11
 
 155
 00:05:33,867 --> 00:05:36,034
@@ -719,7 +719,7 @@ Or everyone fails.	|Chang All
 
 156
 00:05:36,101 --> 00:05:37,333
-Starting now.
+Starting now.	|Chang All	|11
 
 158
 00:05:45,267 --> 00:05:48,300
@@ -728,17 +728,17 @@ Starting now.
 159
 00:05:48,367 --> 00:05:51,300
 I've never...
-gotten a zero before.	|Annie All
+gotten a zero before.	|Annie All	|11
 
 160
 00:05:51,367 --> 00:05:53,001
-- i did it.	|Britta Chang
-- Britta!	|Shirley Britta
+- i did it.	|Britta Chang	|11
+- Britta!	|Shirley Britta	|11
 
 161
 00:05:53,068 --> 00:05:56,734
 - well, you really took your
-sweet time with that one, baby.	|Chang Britta
+sweet time with that one, baby.	|Chang Britta	|11
 
 162
 00:05:56,801 --> 00:05:59,300
@@ -748,11 +748,11 @@ by threatening their grades.
 163
 00:05:59,367 --> 00:06:02,001
 It's not that easy to get human
-beings to turn on each other.	|Britta Chang
+beings to turn on each other.	|Britta Chang	|11
 
 164
 00:06:02,068 --> 00:06:05,200
-- turn on her!	|Chang All
+- turn on her!	|Chang All	|11
 
 165
 00:06:05,267 --> 00:06:06,567
@@ -760,7 +760,7 @@ beings to turn on each other.	|Britta Chang
 
 166
 00:06:06,634 --> 00:06:08,867
-real mature!	|Britta All
+real mature!	|Britta All	|11
 
 167
 00:06:08,934 --> 00:06:11,901
@@ -775,12 +775,12 @@ to sit in a class
 169
 00:06:14,834 --> 00:06:18,701
 With a cheating,
-lying poop-face!	|Chang Britta
+lying poop-face!	|Chang Britta	|11
 
 170
 00:06:18,767 --> 00:06:21,967
 Okay. time to learn
-some formal greetings.	|Chang All
+some formal greetings.	|Chang All	|11
 
 171
 00:06:29,200 --> 00:06:31,168
@@ -788,12 +788,12 @@ some formal greetings.	|Chang All
 
 172
 00:06:31,233 --> 00:06:32,434
-Wow.	|Jeff Britta
+Wow.	|Jeff Britta	|12
 
 173
 00:06:32,500 --> 00:06:34,101
 - yeah, i bet
-you're enjoying this.	|Britta Jeff
+you're enjoying this.	|Britta Jeff	|12
 
 174
 00:06:34,168 --> 00:06:35,701
@@ -808,12 +808,12 @@ and i was here, and now...
 176
 00:06:38,534 --> 00:06:40,567
 Oh, wait, i gave a quarter
-to a dirty bum today.	|Jeff Britta
+to a dirty bum today.	|Jeff Britta	|12
 
 177
 00:06:40,634 --> 00:06:42,400
 - what do you think
-they're gonna do to me?	|Britta Jeff
+they're gonna do to me?	|Britta Jeff	|12
 
 178
 00:06:42,467 --> 00:06:44,267
@@ -844,11 +844,11 @@ takes this kinda thing
 
 184
 00:06:53,500 --> 00:06:54,701
-Very seriously.	|Dean Britta
+Very seriously.	|Dean Britta	|12
 
 185
 00:06:54,767 --> 00:06:55,934
-much like a university would!	|Dean All
+much like a university would!	|Dean All	|12
 
 186
 00:06:58,734 --> 00:07:01,200
@@ -866,17 +866,17 @@ In borchart hall.
 189
 00:07:04,101 --> 00:07:06,101
 You could be facing
-expulsion.	|Dean Britta
+expulsion.	|Dean Britta	|12
 
 190
 00:07:06,168 --> 00:07:07,600
 - isn't borchart hall
-the pool?	|Jeff Dean
+the pool?	|Jeff Dean	|12
 
 191
 00:07:07,667 --> 00:07:09,934
 - there is an olympic-sized
-pool there, yes,	|Dean Jeff
+pool there, yes,	|Dean Jeff	|12
 
 192
 00:07:10,001 --> 00:07:11,233
@@ -884,7 +884,7 @@ But we will be next to it,
 
 193
 00:07:11,300 --> 00:07:14,233
-using its $6,000 judge's table!	|Dean All
+using its $6,000 judge's table!	|Dean All	|12
 
 194
 00:07:14,300 --> 00:07:15,967
@@ -899,7 +899,7 @@ a practicing lawyer anymore,
 196
 00:07:18,367 --> 00:07:20,667
 But relative to this place,
-i'm alan dershowitz.	|Jeff Dean
+i'm alan dershowitz.	|Jeff Dean	|12
 
 197
 00:07:20,734 --> 00:07:22,801
@@ -913,7 +913,7 @@ you may represent her.
 
 199
 00:07:24,600 --> 00:07:25,967
-Dean you later.	|Dean Jeff
+Dean you later.	|Dean Jeff	|12
 
 200
 00:07:26,034 --> 00:07:28,233
@@ -922,7 +922,7 @@ while some hokey tribunal
 
 201
 00:07:28,300 --> 00:07:30,434
-Gets its jollies judging me.	|Britta Jeff
+Gets its jollies judging me.	|Britta Jeff	|13
 
 202
 00:07:30,500 --> 00:07:32,233
@@ -936,7 +936,7 @@ you'll walk.
 
 204
 00:07:34,434 --> 00:07:35,600
-That's the winger guarantee.	|Jeff Britta
+That's the winger guarantee.	|Jeff Britta	|13
 
 205
 00:07:35,667 --> 00:07:36,834
@@ -954,7 +954,7 @@ Using your lawyer powers
 208
 00:07:39,600 --> 00:07:41,734
 And send me into fits
-of grateful arousal.	|Britta Jeff
+of grateful arousal.	|Britta Jeff	|13
 
 209
 00:07:41,801 --> 00:07:44,068
@@ -963,7 +963,7 @@ nor deny that.
 
 210
 00:07:44,134 --> 00:07:46,200
-See how good i am?	|Jeff Britta
+See how good i am?	|Jeff Britta	|13
 
 211
 00:07:48,300 --> 00:07:49,834
@@ -981,7 +981,7 @@ in the world is blue.
 
 215
 00:07:58,200 --> 00:07:59,367
-I'm just messing with you.	|Abed Troy
+I'm just messing with you.	|Abed Troy	|14
 
 216
 00:07:59,434 --> 00:08:01,034
@@ -1015,8 +1015,8 @@ in your face, okay?
 
 222
 00:08:13,001 --> 00:08:15,400
-Your face? it's bad.	|Troy Abed
-- okay.	|Abed Troy
+Your face? it's bad.	|Troy Abed	|14
+- okay.	|Abed Troy	|14
 
 223
 00:08:15,467 --> 00:08:16,967
@@ -1029,20 +1029,20 @@ between believable and--
 
 226
 00:08:20,701 --> 00:08:22,300
-- what are you writing in?	|Troy Abed
+- what are you writing in?	|Troy Abed	|14
 
 227
 00:08:22,367 --> 00:08:23,534
-- it's a notepad.	|Abed Troy
+- it's a notepad.	|Abed Troy	|14
 
 228
 00:08:23,600 --> 00:08:24,967
 - yeah, but what are--
-what language?	|Troy Abed
+what language?	|Troy Abed	|14
 
 229
 00:08:25,034 --> 00:08:26,567
-- it's probably arabic.	|Abed Troy
+- it's probably arabic.	|Abed Troy	|14
 
 232
 00:08:35,801 --> 00:08:38,834
@@ -1066,25 +1066,25 @@ So take that yale.
 236
 00:08:45,567 --> 00:08:48,767
 Our judges include myself,
-uh, dean craig pelton.	|Dean All
+uh, dean craig pelton.	|Dean All	|15
 
 237
 00:08:48,834 --> 00:08:50,467
-- professor ian duncan.	|Duncan All
+- professor ian duncan.	|Duncan All	|15
 
 238
 00:08:50,534 --> 00:08:52,600
-- professor ben chang.	|Chang All
+- professor ben chang.	|Chang All	|15
 
 239
 00:08:52,667 --> 00:08:54,834
 - uh, no, you're a teacher.
-you're not a professor.	|Duncan Chang
+you're not a professor.	|Duncan Chang	|15
 
 240
 00:08:54,901 --> 00:08:57,200
 - maybe because
-i don't look like ron weasley.	|Chang Duncan
+i don't look like ron weasley.	|Chang Duncan	|15
 
 241
 00:08:57,267 --> 00:08:58,200
@@ -1096,7 +1096,7 @@ That's the qualifying factor.
 
 243
 00:08:59,901 --> 00:09:01,134
-- gentlemen, point of order.	|Duncan Chang
+- gentlemen, point of order.	|Duncan Chang	|15
 
 244
 00:09:01,200 --> 00:09:03,367
@@ -1106,7 +1106,7 @@ be one of the judges?
 245
 00:09:03,434 --> 00:09:04,901
 He's the one
-accusing my client.	|Jeff Duncan Dean Chang
+accusing my client.	|Jeff Duncan Dean Chang	|15
 
 246
 00:09:04,967 --> 00:09:06,767
@@ -1115,11 +1115,11 @@ prince charles over here,
 
 247
 00:09:06,834 --> 00:09:08,101
-Who's your drinking buddy.	|Chang Jeff Duncan
+Who's your drinking buddy.	|Chang Jeff Duncan	|15
 
 248
 00:09:08,168 --> 00:09:09,801
-- oh, got me.	|Duncan Chang
+- oh, got me.	|Duncan Chang	|15
 
 249
 00:09:09,867 --> 00:09:11,634
@@ -1133,12 +1133,12 @@ and i go both ways.
 
 251
 00:09:13,467 --> 00:09:14,801
-Oh, let's strike that.	|Dean Jeff
+Oh, let's strike that.	|Dean Jeff	|15
 
 252
 00:09:14,867 --> 00:09:17,300
 Lashonda, can we please
-strike that?	|Dean Extra
+strike that?	|Dean Extra	|15
 
 253
 00:09:17,367 --> 00:09:20,667
@@ -1147,17 +1147,17 @@ so it should all work out.
 
 254
 00:09:20,734 --> 00:09:22,367
-Okay. let's begin.	|Dean Jeff
+Okay. let's begin.	|Dean Jeff	|15
 
 255
 00:09:22,434 --> 00:09:26,233
 - fine. the tribunal calls
-teacher chang.	|Duncan Chang
+teacher chang.	|Duncan Chang	|15
 
 256
 00:09:26,300 --> 00:09:27,934
 - okay, just keep it up
-frost/nixon.	|Chang Duncan
+frost/nixon.	|Chang Duncan	|15
 
 257
 00:09:28,001 --> 00:09:29,367
@@ -1176,7 +1176,7 @@ could you remind us
 260
 00:09:34,068 --> 00:09:35,567
 Of the events
-of yesterday?	|Duncan Chang
+of yesterday?	|Duncan Chang	|15
 
 261
 00:09:35,634 --> 00:09:37,834
@@ -1196,7 +1196,7 @@ i took my morning deuce,
 264
 00:09:42,934 --> 00:09:44,267
 I made a breakfast
-consisting of..	|Chang All
+consisting of..	|Chang All	|15
 
 265
 00:09:47,101 --> 00:09:48,001
@@ -1225,15 +1225,15 @@ Mm, nah.
 271
 00:09:54,434 --> 00:09:57,934
 * greendale
-isn't a slop pail *	|Pierce
+isn't a slop pail *	|Pierce	|16
 
 272
 00:10:01,001 --> 00:10:02,734
-hi, almost done.	|Pierce Annie
+hi, almost done.	|Pierce Annie	|16
 
 273
 00:10:02,801 --> 00:10:04,400
-- oh, good.	|Annie Pierce
+- oh, good.	|Annie Pierce	|16
 
 274
 00:10:04,467 --> 00:10:05,767
@@ -1243,7 +1243,7 @@ i'll have a song
 275
 00:10:05,834 --> 00:10:07,534
 That'll make the devil
-poop god's pants.	|Pierce Annie
+poop god's pants.	|Pierce Annie	|16
 
 276
 00:10:07,600 --> 00:10:10,233
@@ -1252,7 +1252,7 @@ poop god's pants.	|Pierce Annie
 277
 00:10:10,300 --> 00:10:11,801
 Mind if i hear
-what you got so far?	|Annie Pierce
+what you got so far?	|Annie Pierce	|16
 
 278
 00:10:11,867 --> 00:10:13,734
@@ -1280,7 +1280,7 @@ i can't tell you.
 284
 00:10:25,134 --> 00:10:28,168
 You know, the rest
-is really a surprise.	|Pierce Annie
+is really a surprise.	|Pierce Annie	|16
 
 285
 00:10:28,233 --> 00:10:29,934
@@ -1298,7 +1298,7 @@ And your sheet music
 288
 00:10:33,667 --> 00:10:35,068
 Looks like
-a chinese takeout menu.	|Annie Pierce
+a chinese takeout menu.	|Annie Pierce	|16
 
 289
 00:10:35,134 --> 00:10:38,134
@@ -1325,11 +1325,11 @@ i mean, it just comes out.
 294
 00:10:47,634 --> 00:10:49,001
 You know what? you really
-shouldn't be here right now.	|Pierce Annie
+shouldn't be here right now.	|Pierce Annie	|16
 
 295
 00:10:49,068 --> 00:10:50,267
-- what?	|Annie Pierce
+- what?	|Annie Pierce	|16
 
 296
 00:10:50,333 --> 00:10:53,034
@@ -1372,7 +1372,7 @@ playing you out, okay?
 305
 00:11:09,667 --> 00:11:11,434
 Thanks for coming.
-bye-bye.	|Pierce Annie
+bye-bye.	|Pierce Annie	|16
 
 309
 00:11:22,534 --> 00:11:24,300
@@ -1396,12 +1396,12 @@ like it was tampon time...
 
 313
 00:11:30,001 --> 00:11:31,534
-If you know what i mean.	|Chang All
+If you know what i mean.	|Chang All	|17
 
 314
 00:11:31,600 --> 00:11:33,267
 - objection.
-i don't know what he means.	|Jeff All
+i don't know what he means.	|Jeff All	|17
 
 315
 00:11:33,333 --> 00:11:35,001
@@ -1411,12 +1411,12 @@ encourage him, winger.
 316
 00:11:35,068 --> 00:11:36,867
 Do you have
-any more questions?	|Duncan Jeff
+any more questions?	|Duncan Jeff	|17
 
 317
 00:11:36,934 --> 00:11:38,400
 - the defense calls
-Britta perry.	|Jeff All
+Britta perry.	|Jeff All	|17
 
 318
 00:11:38,467 --> 00:11:40,934
@@ -1425,36 +1425,36 @@ the high-heel boots
 
 319
 00:11:41,001 --> 00:11:42,400
-He was talking about?	|Dean Britta
-- yes.	|Britta Dean
+He was talking about?	|Dean Britta	|17
+- yes.	|Britta Dean	|17
 
 320
 00:11:42,467 --> 00:11:43,634
-- are they comfortable?	|Dean Britta
-- yeah.	|Britta Dean
+- are they comfortable?	|Dean Britta	|17
+- yeah.	|Britta Dean	|17
 
 321
 00:11:43,701 --> 00:11:44,967
 - i'm just curious.
-they're cute.	|Dean Britta
+they're cute.	|Dean Britta	|17
 
 322
 00:11:45,034 --> 00:11:46,434
-- thank you.	|Britta Dean
+- thank you.	|Britta Dean	|17
 - miss perry...
 
 323
 00:11:46,500 --> 00:11:48,134
 Did you make
-that crib sheet?	|Jeff Britta
+that crib sheet?	|Jeff Britta	|17
 
 324
 00:11:48,200 --> 00:11:49,801
-- no.	|Britta Jeff
+- no.	|Britta Jeff	|17
 
 325
 00:11:49,867 --> 00:11:51,333
-- she confessed!	|Chang Jeff
+- she confessed!	|Chang Jeff	|17
 
 326
 00:11:51,400 --> 00:11:53,300
@@ -1464,21 +1464,21 @@ her classmates,
 327
 00:11:53,367 --> 00:11:56,734
 Because you were threatening
-to flunk everyone!	|Jeff Chang
+to flunk everyone!	|Jeff Chang	|17
 
 328
 00:11:56,801 --> 00:11:58,168
-- you did what?	|Duncan Chang
+- you did what?	|Duncan Chang	|17
 
 329
 00:11:58,233 --> 00:12:01,367
 - oh, shut your pompous vortex
-of overlapping fangs!	|Chang Duncan
+of overlapping fangs!	|Chang Duncan	|17
 
 330
 00:12:01,434 --> 00:12:03,333
 - hey, british dentistry
-is not on trial.	|Duncan Chang
+is not on trial.	|Duncan Chang	|17
 
 331
 00:12:03,400 --> 00:12:05,001
@@ -1491,11 +1491,11 @@ Be thrown out of...
 
 333
 00:12:06,567 --> 00:12:07,600
-The pool area!	|Jeff Dean
+The pool area!	|Jeff Dean	|17
 
 334
 00:12:07,667 --> 00:12:08,634
-- well, it certainly--	|Dean All
+- well, it certainly--	|Dean All	|17
 
 336
 00:12:13,300 --> 00:12:14,767
@@ -1514,21 +1514,21 @@ and wanting to be taller.
 
 339
 00:12:19,200 --> 00:12:20,367
-This tribunal is adjourned.	|Dean All
+This tribunal is adjourned.	|Dean All	|17
 
 340
 00:12:20,434 --> 00:12:21,901
-- wait! i cheated!	|Britta All
-- and we're back.	|Dean All
+- wait! i cheated!	|Britta All	|17
+- and we're back.	|Dean All	|17
 
 341
 00:12:21,967 --> 00:12:24,500
 - objection. my client
-did not cheat.	|Jeff All
+did not cheat.	|Jeff All	|17
 
 342
 00:12:24,567 --> 00:12:25,667
-- yes, i did.	|Britta All
+- yes, i did.	|Britta All	|17
 
 343
 00:12:25,734 --> 00:12:28,500
@@ -1550,15 +1550,15 @@ the only thing that changed
 
 347
 00:12:39,068 --> 00:12:40,068
-On september 11th.	|Jeff All
+On september 11th.	|Jeff All	|17
 
 348
 00:12:40,134 --> 00:12:41,267
-- Jeff, come on.	|Britta Jeff
+- Jeff, come on.	|Britta Jeff	|17
 
 349
 00:12:41,333 --> 00:12:42,367
-- five-minute recess?	|Jeff All
+- five-minute recess?	|Jeff All	|17
 
 350
 00:12:42,434 --> 00:12:43,967
@@ -1585,7 +1585,7 @@ Time out! time out!
 355
 00:12:50,901 --> 00:12:52,634
 Save the table!
-save the table!	|Dean All
+save the table!	|Dean All	|17
 
 357
 00:12:55,500 --> 00:12:56,801
@@ -1609,11 +1609,11 @@ apparently of great importance.
 361
 00:13:02,600 --> 00:13:05,001
 The humanoid is approximately
-5'10" in height.	|Abed
+5'10" in height.	|Abed	|18
 
 362
 00:13:05,068 --> 00:13:06,467
-- what are you doing?	|Troy Abed
+- what are you doing?	|Troy Abed	|18
 
 363
 00:13:06,534 --> 00:13:08,300
@@ -1626,12 +1626,12 @@ I didn't see you.
 365
 00:13:09,701 --> 00:13:11,434
 Um, how long
-were you standing there?	|Abed Troy
+were you standing there?	|Abed Troy	|18
 
 366
 00:13:11,500 --> 00:13:14,034
 - you trying to mess
-with me?	|Troy Abed
+with me?	|Troy Abed	|18
 
 367
 00:13:14,101 --> 00:13:15,001
@@ -1645,7 +1645,7 @@ You got me.
 369
 00:13:16,600 --> 00:13:18,934
 I was just messing with you,
-but i guess i blew it again.	|Abed Troy
+but i guess i blew it again.	|Abed Troy	|18
 
 370
 00:13:19,001 --> 00:13:20,801
@@ -1653,12 +1653,12 @@ but i guess i blew it again.	|Abed Troy
 
 371
 00:13:20,867 --> 00:13:22,367
-You did.	|Troy Abed
+You did.	|Troy Abed	|18
 
 373
 00:13:31,534 --> 00:13:33,367
 - man, don't turn your back
-on me.	|Chang Duncan
+on me.	|Chang Duncan	|18
 
 374
 00:13:33,434 --> 00:13:34,701
@@ -1668,7 +1668,7 @@ like donkey kong!
 375
 00:13:34,767 --> 00:13:37,101
 Have you got
-a problem with me?	|Duncan Chang
+a problem with me?	|Duncan Chang	|19
 
 376
 00:13:37,168 --> 00:13:38,867
@@ -1678,7 +1678,7 @@ that you're walking around here
 377
 00:13:38,934 --> 00:13:41,233
 Like you're better than me
-in front of my students.	|Chang Duncan
+in front of my students.	|Chang Duncan	|19
 
 378
 00:13:41,300 --> 00:13:42,901
@@ -1687,26 +1687,26 @@ have this conversation
 
 379
 00:13:42,967 --> 00:13:44,834
-In a room with less balls?	|Duncan Chang
+In a room with less balls?	|Duncan Chang	|19
 
 380
 00:13:47,934 --> 00:13:51,500
 You're very confident,
-i'll say that.	|Duncan Extra
+i'll say that.	|Duncan Extra	|19
 
 381
 00:13:51,567 --> 00:13:53,367
-- but you shouldn't be.	|Chang Extra
+- but you shouldn't be.	|Chang Extra	|19
 
 382
 00:13:53,434 --> 00:13:54,767
 - what are you doing
-out there?	|Jeff Britta
+out there?	|Jeff Britta	|20
 
 383
 00:13:54,834 --> 00:13:56,867
 - you know i have a problem
-with dishonesty.	|Britta Jeff
+with dishonesty.	|Britta Jeff	|20
 
 384
 00:13:56,934 --> 00:13:59,400
@@ -1725,7 +1725,7 @@ go back out there
 387
 00:14:03,200 --> 00:14:05,034
 And make the case
-that you're a good person--	|Jeff Britta
+that you're a good person--	|Jeff Britta	|20
 
 388
 00:14:05,101 --> 00:14:06,467
@@ -1748,7 +1748,7 @@ you said it yourself.
 392
 00:14:09,967 --> 00:14:11,400
 You don't even want to
-be my friend.	|Britta Jeff
+be my friend.	|Britta Jeff	|20
 
 393
 00:14:11,467 --> 00:14:12,834
@@ -1765,8 +1765,8 @@ Britta, look at me.
 
 396
 00:14:16,534 --> 00:14:17,600
-Look at me!	|Jeff Britta
-- i am.	|Britta Jeff
+Look at me!	|Jeff Britta	|20
+- i am.	|Britta Jeff	|20
 
 397
 00:14:17,667 --> 00:14:19,701
@@ -1804,15 +1804,15 @@ sex off the table
 404
 00:14:31,500 --> 00:14:33,567
 Without doing
-my due diligence.	|Jeff Britta
+my due diligence.	|Jeff Britta	|20
 
 405
 00:14:33,634 --> 00:14:35,034
-- i actually believe you.	|Britta Jeff
+- i actually believe you.	|Britta Jeff	|20
 
 406
 00:14:35,101 --> 00:14:37,034
-- well, why wouldn't you?	|Jeff Britta
+- well, why wouldn't you?	|Jeff Britta	|20
 - i don't know.
 
 407
@@ -1843,12 +1843,12 @@ screwing everything up
 412
 00:14:48,267 --> 00:14:49,967
 I just wanted
-to get it over with.	|Britta Jeff
+to get it over with.	|Britta Jeff	|20
 
 413
 00:14:50,034 --> 00:14:53,634
 - wait.
-i think we have our defense.	|Jeff Britta
+i think we have our defense.	|Jeff Britta	|20
 
 414
 00:14:53,701 --> 00:14:55,467
@@ -1856,11 +1856,11 @@ Gentlemen...
 
 415
 00:14:55,534 --> 00:14:56,901
-My client is insane.	|Jeff All
+My client is insane.	|Jeff All	|21
 
 416
 00:14:56,967 --> 00:14:58,867
-- what?	|Britta Jeff
+- what?	|Britta Jeff	|21
 
 417
 00:15:03,184 --> 00:15:04,517
@@ -1949,21 +1949,21 @@ at risk of electrocution.
 435
 00:15:43,750 --> 00:15:46,650
 Everyone on this campus
-is nuts.	|Jeff All
+is nuts.	|Jeff All	|21
 
 436
 00:15:46,717 --> 00:15:49,117
-- not me!	|Leonard Jeff
+- not me!	|Leonard Jeff	|22
 - oh, come on, leonard.
 
 437
 00:15:49,184 --> 00:15:51,351
 If you're gonna argue with me,
-put on a bathing suit.	|Jeff Leonard
+put on a bathing suit.	|Jeff Leonard	|22
 
 438
 00:15:51,418 --> 00:15:53,750
-- busted.	|Leonard Jeff
+- busted.	|Leonard Jeff	|22
 
 439
 00:15:53,817 --> 00:15:57,318
@@ -1982,7 +1982,7 @@ can't be at greendale,
 
 442
 00:16:03,351 --> 00:16:05,517
-Where are we supposed to go?	|Jeff All
+Where are we supposed to go?	|Jeff All	|23
 
 443
 00:16:10,984 --> 00:16:12,483
@@ -2015,39 +2015,39 @@ mental health professional.
 449
 00:16:19,717 --> 00:16:21,884
 Thinking maybe fridays,
-nine-ish, something like that.	|Duncan All
+nine-ish, something like that.	|Duncan All	|23
 
 450
 00:16:21,951 --> 00:16:23,450
-All in favor say "aye."	|Duncan Dean Chang
+All in favor say "aye."	|Duncan Dean Chang	|23
 
 
 450
 00:16:21,951 --> 00:16:23,450
-aye.	|Dean Duncan
-aye.	|Chang Duncan
+aye.	|Dean Duncan	|23
+aye.	|Chang Duncan	|23
 
 451
 00:16:23,517 --> 00:16:25,084
-- yes!	|Jeff
-- wait, what?	|Britta Duncan
+- yes!	|Jeff	|23
+- wait, what?	|Britta Duncan	|23
 
 452
 00:16:25,151 --> 00:16:27,550
-- that just happened.	|Duncan Britta
+- that just happened.	|Duncan Britta	|23
 
 455
 00:16:43,617 --> 00:16:44,850
-- greetings, abed.	|AbedAlien Abed
+- greetings, abed.	|AbedAlien Abed	|24
 
 456
 00:16:44,917 --> 00:16:46,318
-- greetings, commander.	|Abed AbedAlien
+- greetings, commander.	|Abed AbedAlien	|24
 
 457
 00:16:46,384 --> 00:16:49,418
 - t-t-tell me
-about the one they call troy.	|AbedAlien Abed
+about the one they call troy.	|AbedAlien Abed	|24
 
 458
 00:16:49,483 --> 00:16:51,117
@@ -2057,12 +2057,12 @@ rather arrogant
 459
 00:16:51,184 --> 00:16:52,917
 And has no mercy
-for weaker beings.	|Abed AbedAlien
+for weaker beings.	|Abed AbedAlien	|24
 
 460
 00:16:52,984 --> 00:16:54,884
 - stop. stop doing this
-right now.	|Troy Abed
+right now.	|Troy Abed	|24
 
 461
 00:16:54,951 --> 00:16:56,184
@@ -2070,7 +2070,7 @@ right now.	|Troy Abed
 
 462
 00:16:56,251 --> 00:16:57,984
-I'm not an alien.	|Abed Troy
+I'm not an alien.	|Abed Troy	|24
 
 463
 00:16:58,051 --> 00:16:59,717
@@ -2094,11 +2094,11 @@ a whole language.
 467
 00:17:05,650 --> 00:17:07,184
 I'm pretty sure
-you rented a green screen.	|Troy Abed
+you rented a green screen.	|Troy Abed	|24
 
 468
 00:17:07,251 --> 00:17:08,583
-- yeah.	|Abed Troy
+- yeah.	|Abed Troy	|24
 
 469
 00:17:08,650 --> 00:17:09,784
@@ -2107,11 +2107,11 @@ you rented a green screen.	|Troy Abed
 470
 00:17:09,850 --> 00:17:11,251
 If you were
-actually an alien.	|Troy Abed
+actually an alien.	|Troy Abed	|24
 
 471
 00:17:11,318 --> 00:17:12,450
-- this is what friends do.	|Abed Troy
+- this is what friends do.	|Abed Troy	|24
 
 472
 00:17:12,517 --> 00:17:15,817
@@ -2128,33 +2128,33 @@ with each other.
 
 476
 00:17:21,617 --> 00:17:22,951
-- okay?	|Troy Abed
-- cool.	|Abed Troy
+- okay?	|Troy Abed	|24
+- cool.	|Abed Troy	|24
 
 477
 00:17:23,017 --> 00:17:24,117
-- cool?	|Troy Abed
-- cool. bam bam!	|Abed Troy
+- cool?	|Troy Abed	|24
+- cool. bam bam!	|Abed Troy	|24
 
 479
 00:17:26,550 --> 00:17:27,917
 - garrett, it's over.
-he knows.	|Abed Garrett
+he knows.	|Abed Garrett	|24
 
 480
 00:17:27,984 --> 00:17:29,217
 - we will stick things
-in his butt.	|AbedAlien Abed
+in his butt.	|AbedAlien Abed	|24
 
 482
 00:17:30,717 --> 00:17:32,251
 - you're getting
-a little sloppy.	|Troy Abed
+a little sloppy.	|Troy Abed	|24
 
 483
 00:17:32,318 --> 00:17:33,650
-- we went over-budget.	|Abed Troy
-- mm.	|Troy Abed
+- we went over-budget.	|Abed Troy	|24
+- mm.	|Troy Abed	|24
 
 485
 00:17:43,850 --> 00:17:46,951
@@ -2167,11 +2167,11 @@ little star-- *
 
 488
 00:17:53,384 --> 00:17:54,717
-Oh!	|Pierce
+Oh!	|Pierce	|25
 
 490
 00:18:04,951 --> 00:18:06,384
-I'm a fraud, annie.	|Pierce Annie
+I'm a fraud, annie.	|Pierce Annie	|25
 
 491
 00:18:06,450 --> 00:18:09,984
@@ -2181,7 +2181,7 @@ than you or billy joel.
 492
 00:18:10,051 --> 00:18:12,351
 - but what about
-the hawthorne wipes jingle?	|Annie Pierce
+the hawthorne wipes jingle?	|Annie Pierce	|25
 
 493
 00:18:12,418 --> 00:18:14,884
@@ -2211,12 +2211,12 @@ that mustard *
 499
 00:18:24,184 --> 00:18:26,450
 * with our wipes
-at the picnic! *	|Pierce Annie
+at the picnic! *	|Pierce Annie	|25
 
 500
 00:18:26,517 --> 00:18:28,617
 - that's she'll be coming
-around the mountain.	|Annie Pierce
+around the mountain.	|Annie Pierce	|25
 
 501
 00:18:28,684 --> 00:18:30,684
@@ -2226,7 +2226,7 @@ i steal everything.
 502
 00:18:30,750 --> 00:18:32,784
 You backed the wrong horse.
-i got nothing.	|Pierce Annie
+i got nothing.	|Pierce Annie	|25
 
 503
 00:18:32,850 --> 00:18:35,951
@@ -2236,12 +2236,12 @@ you're creative.
 504
 00:18:36,017 --> 00:18:38,051
 You can do this.
-i believe in you.	|Annie Pierce
+i believe in you.	|Annie Pierce	|25
 
 505
 00:18:38,117 --> 00:18:39,684
 - well, you shouldn't.
-i quit.	|Pierce Annie
+i quit.	|Pierce Annie	|25
 
 506
 00:18:39,750 --> 00:18:42,583
@@ -2297,7 +2297,7 @@ just the way it goes.
 
 517
 00:19:07,717 --> 00:19:10,550
-- gonna play myself out.	|Annie Pierce
+- gonna play myself out.	|Annie Pierce	|25
 
 518
 00:19:13,117 --> 00:19:15,051
@@ -2305,7 +2305,7 @@ just the way it goes.
 
 519
 00:19:15,117 --> 00:19:17,084
-That's it.	|Pierce Annie
+That's it.	|Pierce Annie	|25
 
 520
 00:19:17,151 --> 00:19:21,351
@@ -2318,17 +2318,17 @@ oh, oh!
 522
 00:19:23,984 --> 00:19:25,917
 You know, greendale
-may never be harvard	|Dean All
+may never be harvard	|Dean All	|26
 
 523
 00:19:25,984 --> 00:19:27,418
 - just don't talk to me
-for a while.	|Britta Jeff
+for a while.	|Britta Jeff	|277
 
 524
 00:19:27,483 --> 00:19:29,184
 - no problem.
-just glad you're here.	|Jeff Britta
+just glad you're here.	|Jeff Britta	|27
 
 525
 00:19:29,251 --> 00:19:32,051
@@ -2338,25 +2338,25 @@ our student, pierce hawthorne,
 526
 00:19:32,117 --> 00:19:35,384
 Who's written greendale
-its own school song.	|Dean All
+its own school song.	|Dean All	|28
 
 527
 00:19:35,450 --> 00:19:37,251
-Pierce, okay.	|Dean Pierce
+Pierce, okay.	|Dean Pierce	|28
 
 528
 00:19:37,318 --> 00:19:39,217
 - thank you, dean,
-thank you.	|Pierce Dean
+thank you.	|Pierce Dean	|28
 
 529
 00:19:39,284 --> 00:19:40,418
 This song goes out
-to annie.	|Pierce All
+to annie.	|Pierce All	|28
 
 530
 00:19:40,483 --> 00:19:42,117
-- oh.	|Annie
+- oh.	|Annie	|28
 
 531
 00:19:42,184 --> 00:19:44,084
@@ -2383,35 +2383,35 @@ to chime *
 537
 00:19:59,717 --> 00:20:01,418
 * taking
-air conditioner repair *	|Pierce All
+air conditioner repair *	|Pierce All	|28
 
 538
 00:20:01,483 --> 00:20:02,850
-- is this bruce hornsby?	|Abed Jeff
-- yep.	|Jeff Abed
+- is this bruce hornsby?	|Abed Jeff	|29
+- yep.	|Jeff Abed	|29
 
 539
 00:20:02,917 --> 00:20:04,117
-- does he know he stole it?	|Abed Jeff
+- does he know he stole it?	|Abed Jeff	|29
 
 540
 00:20:04,184 --> 00:20:05,617
 - i don't think so.
-let him enjoy it.	|Jeff Abed
+let him enjoy it.	|Jeff Abed	|29
 
 541
 00:20:05,684 --> 00:20:07,217
-- can we get sued?	|Abed Jeff
-- not sure.	|Jeff Abed
+- can we get sued?	|Abed Jeff	|29
+- not sure.	|Jeff Abed	|29
 
 542
 00:20:09,117 --> 00:20:11,017
 - * greendale's
-the way it goes *	|Pierce All
+the way it goes *	|Pierce All	|28
 
 543
 00:20:11,084 --> 00:20:12,750
-- yeah, they got us.	|Jeff Abed
+- yeah, they got us.	|Jeff Abed	|29
 
 544
 00:20:12,817 --> 00:20:18,084
@@ -2425,14 +2425,14 @@ are still the same *
 546
 00:20:21,318 --> 00:20:25,418
 * oh, annie believes
-in me *	|Pierce All
+in me *	|Pierce All	|28
 
 541
 00:20:05,684 --> 00:20:07,217
-- How many?	|Troy Abed
+- How many?	|Troy Abed	|30
 - 36, you win!
 
 541
 00:20:05,684 --> 00:20:07,217
-- Best of three	|Abed Troy
-- Yeah!	|Troy Abed
+- Best of three	|Abed Troy	|30
+- Yeah!	|Troy Abed	|30

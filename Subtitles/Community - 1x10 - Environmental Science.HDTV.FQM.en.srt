@@ -15,7 +15,7 @@ the first day of new tradition
 5
 00:00:07,984 --> 00:00:10,784
 At our school called
-"green week."	|Dean All
+"green week."	|Dean All	|01
 
 6
 00:00:10,851 --> 00:00:12,751
@@ -29,7 +29,7 @@ to black history,
 8
 00:00:14,350 --> 00:00:16,118
 Now we're blowing
-seven days on the irish.	|Pierce Group
+seven days on the irish.	|Pierce Group	|01
 
 9
 00:00:16,184 --> 00:00:18,484
@@ -43,12 +43,12 @@ Is becoming so earth-smart
 11
 00:00:20,951 --> 00:00:23,984
 That we're changing
-our name to envirodale!	|Dean All
+our name to envirodale!	|Dean All	|01
 
 13
 00:00:26,184 --> 00:00:29,051
 - but we were already
-called greendale.	|Starburns Dean
+called greendale.	|Starburns Dean	|01
 
 15
 00:00:32,218 --> 00:00:36,283
@@ -68,20 +68,20 @@ called green day.
 19
 00:00:44,584 --> 00:00:45,917
 Huh?
-that make you happy?	|Dean All
+that make you happy?	|Dean All	|01
 
 20
 00:00:45,984 --> 00:00:47,184
-- eh, no. not really.	|Starburns Dean
+- eh, no. not really.	|Starburns Dean	|01
 
 21
 00:00:47,250 --> 00:00:49,050
 - okay,
-we need to redo these.	|Dean Assistant
+we need to redo these.	|Dean Assistant	|01
 
 22
 00:00:49,117 --> 00:00:50,384
-- we printed 5,000.	|Assistant Dean
+- we printed 5,000.	|Assistant Dean	|01
 
 23
 00:00:50,451 --> 00:00:52,050
@@ -90,7 +90,7 @@ we need to redo these.	|Dean Assistant
 24
 00:00:52,117 --> 00:00:53,217
 I'm trying to save
-the planet, here.	|Dean Assistant
+the planet, here.	|Dean Assistant	|01
 
 25
 00:01:01,817 --> 00:01:03,750
@@ -104,12 +104,12 @@ a one-page essay,
 28
 00:01:40,367 --> 00:01:43,101
 in espanol, entitled,
-annie's mistake.	|Chang All
+annie's mistake.	|Chang All	|02
 
 29
 00:01:46,068 --> 00:01:48,600
 - why doesn't annie
-have to write it?	|Pierce Chang
+have to write it?	|Pierce Chang	|02
 
 30
 00:01:48,667 --> 00:01:52,534
@@ -119,7 +119,7 @@ entitled,
 31
 00:01:52,600 --> 00:01:54,967
 the consequences
-of questioning authority.	|Chang All
+of questioning authority.	|Chang All	|02
 
 32
 00:01:55,034 --> 00:01:56,801
@@ -138,26 +138,26 @@ are female.
 35
 00:01:59,134 --> 00:02:00,300
 That's the only spanish
-you taught us.	|Shirley Chang
+you taught us.	|Shirley Chang	|02
 
 36
 00:02:00,367 --> 00:02:04,967
 - oh, six pages
-on ignorance.	|Chang All
+on ignorance.	|Chang All	|02
 
 37
 00:02:05,034 --> 00:02:07,168
 - guys,
-put your hands down.	|Britta All
+put your hands down.	|Britta All	|02
 
 38
 00:02:07,233 --> 00:02:10,467
 Senor chang, please continue.
-we respect your authority.	|Britta Chang
+we respect your authority.	|Britta Chang	|02
 
 39
 00:02:10,534 --> 00:02:11,734
-- thank you, britta.	|Chang Britta
+- thank you, britta.	|Chang Britta	|02
 
 40
 00:02:11,801 --> 00:02:14,267
@@ -165,11 +165,11 @@ we respect your authority.	|Britta Chang
 
 41
 00:02:14,333 --> 00:02:16,101
-Due on monday.	|Chang All
+Due on monday.	|Chang All	|02
 
 42
 00:02:16,168 --> 00:02:17,600
-- this monday?	|Annie Chang
+- this monday?	|Annie Chang	|02
 
 44
 00:02:23,867 --> 00:02:26,034
@@ -179,7 +179,7 @@ gets any crazier,
 45
 00:02:26,101 --> 00:02:28,068
 He's gonna win
-one of those grammy awards.	|Pierce Group
+one of those grammy awards.	|Pierce Group	|03
 
 47
 00:02:32,068 --> 00:02:34,101
@@ -193,7 +193,7 @@ to fire him for three years,
 
 49
 00:02:35,667 --> 00:02:37,068
-But nobody wants his job.	|Annie Group
+But nobody wants his job.	|Annie Group	|03
 
 50
 00:02:37,134 --> 00:02:39,500
@@ -208,21 +208,21 @@ in my marketing class on friday
 52
 00:02:41,400 --> 00:02:44,101
 And public speaking gives me
-the nervous sweats.	|Shirley Group
+the nervous sweats.	|Shirley Group	|03
 
 53
 00:02:44,168 --> 00:02:45,500
 - i can help you
-with that.	|Pierce Shirley
+with that.	|Pierce Shirley	|03
 
 54
 00:02:45,567 --> 00:02:47,034
-- i accept.	|Shirley Pierce
+- i accept.	|Shirley Pierce	|03
 
 55
 00:02:47,101 --> 00:02:48,767
 That's how messed up
-things are.	|Shirley Group
+things are.	|Shirley Group	|03
 
 56
 00:02:48,834 --> 00:02:50,467
@@ -232,12 +232,12 @@ we're screwed too.
 57
 00:02:50,534 --> 00:02:52,734
 We're three days behind
-on our biology lab.	|Troy Group
+on our biology lab.	|Troy Group	|03
 
 58
 00:02:52,801 --> 00:02:54,034
 - the reason it's taking so long
-is because troy's afraid--	|Abed Group
+is because troy's afraid--	|Abed Group	|03
 
 59
 00:02:54,101 --> 00:02:56,333
@@ -251,7 +251,7 @@ because they are unpopular.
 61
 00:02:59,734 --> 00:03:01,467
 Same goes for centipedes
-and lakes.	|Troy Abed
+and lakes.	|Troy Abed	|03
 
 62
 00:03:01,534 --> 00:03:02,901
@@ -260,12 +260,12 @@ and lakes.	|Troy Abed
 63
 00:03:02,967 --> 00:03:05,300
 Someone has to go to chang
-and talk to him.	|Britta Group
+and talk to him.	|Britta Group	|03
 
 64
 00:03:05,367 --> 00:03:07,333
 - i vote we all look at jeff
-at the same time.	|Annie Group
+at the same time.	|Annie Group	|03
 
 65
 00:03:11,168 --> 00:03:14,068
@@ -275,7 +275,7 @@ all of you are right.
 66
 00:03:14,600 --> 00:03:16,034
 Okay, what
-was i tuning out?	|Jeff Group
+was i tuning out?	|Jeff Group	|03
 
 67
 00:03:16,101 --> 00:03:18,634
@@ -285,11 +285,11 @@ call off some of this homework.
 68
 00:03:18,701 --> 00:03:19,934
 You're the one
-with the silver tongue.	|Annie Jeff
+with the silver tongue.	|Annie Jeff	|03
 
 69
 00:03:20,001 --> 00:03:22,067
-- yeah, go tongue chang.	|Pierce Jeff
+- yeah, go tongue chang.	|Pierce Jeff	|03
 
 70
 00:03:22,134 --> 00:03:24,234
@@ -299,27 +299,27 @@ i can convince chang of anything
 71
 00:03:24,300 --> 00:03:26,900
 If i can't even convince you
-not to make me do it?	|Jeff Group
+not to make me do it?	|Jeff Group	|03
 
 72
 00:03:26,967 --> 00:03:28,267
-- i guess it sounds crazy.	|Britta Group 
-- oh...	|Annie Group
+- i guess it sounds crazy.	|Britta Group 	|03
+- oh...	|Annie Group	|03
 
 73
 00:03:28,334 --> 00:03:30,067
-- jeff does raise a good point.	|Troy Group
-- i don't get it.	|Pierce Group
+- jeff does raise a good point.	|Troy Group	|03
+- i don't get it.	|Pierce Group	|03
 
 74
 00:03:30,134 --> 00:03:31,868
 - wait,
-you are convincing!	|Troy Jeff
+you are convincing!	|Troy Jeff	|03
 
 76
 00:03:33,234 --> 00:03:34,634
 - you just made us change.
-you could do it.	|Shirley Jeff
+you could do it.	|Shirley Jeff	|03
 
 77
 00:03:34,701 --> 00:03:37,534
@@ -343,21 +343,21 @@ goes any more nuts,
 
 81
 00:03:41,868 --> 00:03:43,100
-He's gonna win a grammy.	|Jeff Group
+He's gonna win a grammy.	|Jeff Group	|03
 
 82
 00:03:43,167 --> 00:03:44,300
-- you are hilarious.	|Troy Jeff
+- you are hilarious.	|Troy Jeff	|03
 
 83
 00:03:44,367 --> 00:03:45,768
-- that's very funny.	|Abed Group
-- he's funny.	|Shirley Group
+- that's very funny.	|Abed Group	|03
+- he's funny.	|Shirley Group	|03
 
 84
 00:03:45,834 --> 00:03:46,967
 - what is it,
-the chair?	|Pierce Group
+the chair?	|Pierce Group	|03
 
 85
 00:03:47,033 --> 00:03:47,601
@@ -371,12 +371,12 @@ a "c" in that psycho's class
 87
 00:03:49,334 --> 00:03:51,000
 If he keeps assigning
-this much work?	|Britta Jeff
+this much work?	|Britta Jeff	|03
 
 88
 00:03:51,067 --> 00:03:55,300
 - because
-i have you guys.	|Jeff Group
+i have you guys.	|Jeff Group	|03
 
 89
 00:03:55,367 --> 00:03:57,768
@@ -386,12 +386,12 @@ handsome hobo.
 90
 00:03:57,834 --> 00:04:00,434
 Your gravy train's
-leavin' the station.	|Annie Jeff
+leavin' the station.	|Annie Jeff	|03
 
 92
 00:04:03,567 --> 00:04:05,634
 - ignore what she's doing.
-we are serious.	|Troy Jeff
+we are serious.	|Troy Jeff	|03
 
 93
 00:04:05,701 --> 00:04:08,267
@@ -400,16 +400,16 @@ we are serious.	|Troy Jeff
 94
 00:04:08,334 --> 00:04:11,601
 But when you find my body,
-don't believe the suicide note.	|Jeff Group
+don't believe the suicide note.	|Jeff Group	|03
 
 95
 00:04:16,933 --> 00:04:19,967
 - hmm. this better not
-awaken anything in me.	|Dean
+awaken anything in me.	|Dean	|04
 
 96
 00:04:20,033 --> 00:04:21,768
-- green day's here.	|Assistant Dean
+- green day's here.	|Assistant Dean	|05
 
 97
 00:04:21,834 --> 00:04:23,234
@@ -418,15 +418,15 @@ awaken anything in me.	|Dean
 98
 00:04:28,534 --> 00:04:30,768
 Okay,
-what's this about, now?	|Dean GreeneDaeye
+what's this about, now?	|Dean GreeneDaeye	|05
 
 99
 00:04:30,834 --> 00:04:34,367
-- we're greene daeye.	|GreeneDaeye Dean
+- we're greene daeye.	|GreeneDaeye Dean	|05
 
 100
 00:04:34,434 --> 00:04:35,601
-- oh.	|Dean
+- oh.	|Dean	|05
 
 102
 00:04:38,467 --> 00:04:39,667
@@ -440,12 +440,12 @@ about the homework
 
 104
 00:04:41,134 --> 00:04:43,801
-On behalf of the class?	|Chang Jeff
+On behalf of the class?	|Chang Jeff	|06
 
 105
 00:04:43,868 --> 00:04:45,801
 - can i ask you a personal
-question, senor chang?	|Jeff Chang
+question, senor chang?	|Jeff Chang	|06
 
 106
 00:04:45,868 --> 00:04:49,200
@@ -454,12 +454,12 @@ question, senor chang?	|Jeff Chang
 107
 00:04:49,267 --> 00:04:52,834
 Sure. you try to penetrate
-my psychological armor, and--	|Chang Jeff
+my psychological armor, and--	|Chang Jeff	|06
 
 108
 00:04:52,900 --> 00:04:53,967
 - did your wife
-leave you?	|Jeff Chang
+leave you?	|Jeff Chang	|06
 
 109
 00:04:54,033 --> 00:04:56,534
@@ -467,7 +467,7 @@ leave you?	|Jeff Chang
 
 110
 00:04:56,601 --> 00:04:58,567
-How did you know?	|Chang Jeff
+How did you know?	|Chang Jeff	|06
 
 111
 00:04:58,634 --> 00:05:00,100
@@ -502,15 +502,15 @@ dialogue balloon above her head
 117
 00:05:11,300 --> 00:05:14,134
 That says, "enjoy it
-while it lasts."	|Jeff Chang
+while it lasts."	|Jeff Chang	|06
 
 118
 00:05:15,200 --> 00:05:17,801
-- we met at a salsa club.	|Chang Jeff
+- we met at a salsa club.	|Chang Jeff	|06
 
 119
 00:05:17,868 --> 00:05:19,267
-- mm.	|Jeff Chang
+- mm.	|Jeff Chang	|06
 
 120
 00:05:19,334 --> 00:05:19,901
@@ -528,12 +528,12 @@ you know how it goes.
 
 123
 00:05:27,834 --> 00:05:29,268
-Just--get a job...	|Chang Jeff
+Just--get a job...	|Chang Jeff	|06
 
 124
 00:05:29,333 --> 00:05:31,567
 - stop salsa dancing.
-of course i know.	|Jeff Chang
+of course i know.	|Jeff Chang	|06
 
 125
 00:05:31,634 --> 00:05:34,333
@@ -543,7 +543,7 @@ about this, winger.
 126
 00:05:34,400 --> 00:05:36,001
 I pleasured
-that woman greatly.	|Chang Jeff
+that woman greatly.	|Chang Jeff	|06
 
 127
 00:05:36,067 --> 00:05:38,967
@@ -553,7 +553,7 @@ you would have to.
 128
 00:05:39,034 --> 00:05:40,667
 I'm not surprised
-you said that.	|Jeff Chang
+you said that.	|Jeff Chang	|06
 
 129
 00:05:46,967 --> 00:05:49,234
@@ -561,12 +561,12 @@ you said that.	|Jeff Chang
 
 130
 00:05:53,367 --> 00:05:55,567
-Pickled bull testicle?	|Chang Jeff
+Pickled bull testicle?	|Chang Jeff	|06
 
 131
 00:05:55,634 --> 00:05:59,168
 - uh, are you offering
-or collecting?	|Jeff Chang
+or collecting?	|Jeff Chang	|06
 
 133
 00:06:01,067 --> 00:06:05,734
@@ -575,16 +575,16 @@ or collecting?	|Jeff Chang
 134
 00:06:05,801 --> 00:06:08,400
 * little lamb,
-little lamb... **	|Extra Rat
+little lamb... **	|Extra Rat	|07
 
 135
 00:06:08,467 --> 00:06:11,534
 - * row, row,
-row your boat *	|Garrett Rat
+row your boat *	|Garrett Rat	|07
 
 136
 00:06:11,600 --> 00:06:15,300
-- * somewhere out there *	|Abed Rat
+- * somewhere out there *	|Abed Rat	|08
 
 137
 00:06:15,367 --> 00:06:16,801
@@ -593,7 +593,7 @@ Troy, sing.
 138
 00:06:16,867 --> 00:06:19,067
 The assignment is to train a rat
-to respond to a specific song.	|Abed Troy
+to respond to a specific song.	|Abed Troy	|08
 
 139
 00:06:19,134 --> 00:06:20,600
@@ -602,37 +602,37 @@ have to pick a duet?
 
 140
 00:06:20,667 --> 00:06:23,101
-Hmm?	|Troy Abed
-- hmm?	|Abed Troy
+Hmm?	|Troy Abed	|08
+- hmm?	|Abed Troy	|08
 
 141
 00:06:25,801 --> 00:06:30,367
 * somewhere out there *
-* beneath the pale moonlight *	|Troy Rat
+* beneath the pale moonlight *	|Troy Rat	|08
 
 142
 00:06:30,433 --> 00:06:33,534
 * somewhere out there *
-* beneath the pale moonlight *	|Abed Rat
+* beneath the pale moonlight *	|Abed Rat	|08
 
 143
 00:06:33,600 --> 00:06:35,567
-- he did it!	|Abed Troy
-good boy, fievel.	|Abed FievelRat
+- he did it!	|Abed Troy	|08
+good boy, fievel.	|Abed FievelRat	|08
 
 144
 00:06:35,634 --> 00:06:37,700
 Commencing reward.
-i have to open the cage.	|Abed Troy
+i have to open the cage.	|Abed Troy	|08
 
 145
 00:06:37,767 --> 00:06:39,201
 - yeah, you don't have
-to warn me; i'm not afrai--	|Troy Abed
+to warn me; i'm not afrai--	|Troy Abed	|08
 
 149
 00:06:45,700 --> 00:06:46,634
-- fievel.	|Abed
+- fievel.	|Abed	|08
 
 150
 00:06:46,700 --> 00:06:49,934
@@ -645,15 +645,15 @@ I'll kick all your asses!
 152
 00:06:51,734 --> 00:06:55,134
 But y'all have
-to come up here!	|Troy All
+to come up here!	|Troy All	|08
 
 153
 00:06:55,201 --> 00:06:58,400
-- dude, you are gonna be fine.	|Jeff Chang
+- dude, you are gonna be fine.	|Jeff Chang	|09
 
 154
 00:06:58,467 --> 00:07:00,834
-- ah. yeah.	|Chang Jeff
+- ah. yeah.	|Chang Jeff	|09
 - you just have to move on.
 
 155
@@ -664,16 +664,16 @@ with me sometime,
 156
 00:07:03,168 --> 00:07:05,667
 You will see how great
-single life can be.	|Jeff Chang
+single life can be.	|Jeff Chang	|09
 
 157
 00:07:05,734 --> 00:07:07,734
-- yeah?	|Chang Jeff
-- yeah.	|Jeff Chang
+- yeah?	|Chang Jeff	|09
+- yeah.	|Jeff Chang	|09
 
 158
 00:07:07,801 --> 00:07:08,667
-- what about tonight?	|Chang Jeff
+- what about tonight?	|Chang Jeff	|09
 
 159
 00:07:09,734 --> 00:07:11,567
@@ -696,16 +696,16 @@ you have been really
 163
 00:07:19,034 --> 00:07:20,333
 Letting us have it
-with this homework.	|Jeff Chang
+with this homework.	|Jeff Chang	|09
 
 164
 00:07:20,400 --> 00:07:21,534
 - i really have,
-haven't i?	|Chang Jeff
+haven't i?	|Chang Jeff	|09
 
 165
 00:07:21,600 --> 00:07:23,433
-- yeah.	|Jeff Chang
+- yeah.	|Jeff Chang	|09
 
 166
 00:07:23,500 --> 00:07:24,834
@@ -714,12 +714,12 @@ haven't i?	|Chang Jeff
 167
 00:07:24,901 --> 00:07:27,967
 For my new buddy jeff,
-essay canceled. sha-clackey.	|Chang Jeff
+essay canceled. sha-clackey.	|Chang Jeff	|09
 
 168
 00:07:28,034 --> 00:07:32,168
 - fantastic. that is fantastic.
-everybody will be so happy.	|Jeff Chang
+everybody will be so happy.	|Jeff Chang	|09
 
 169
 00:07:32,234 --> 00:07:35,101
@@ -734,11 +734,11 @@ my new friend jeff.
 171
 00:07:37,801 --> 00:07:39,168
 I mean, you're the one
-coming out with me, right?	|Chang Jeff
+coming out with me, right?	|Chang Jeff	|09
 
 172
 00:07:39,234 --> 00:07:41,201
-- right. yeah.	|Jeff Chang
+- right. yeah.	|Jeff Chang	|09
 
 173
 00:07:41,268 --> 00:07:44,201
@@ -748,31 +748,31 @@ in an unenviable
 174
 00:07:44,268 --> 00:07:45,967
 And uncomfortable
-position, and want to be--	|Chang Jeff
+position, and want to be--	|Chang Jeff	|09
 
 175
 00:07:46,034 --> 00:07:47,234
 - here's your jacket.
-let's do this.	|Jeff Chang
+let's do this.	|Jeff Chang	|09
 
 177
 00:07:48,400 --> 00:07:51,634
-- is there a rat in here?	|Abed Chang Jeff
+- is there a rat in here?	|Abed Chang Jeff	|10
 
 178
 00:07:51,700 --> 00:07:53,901
 - i have no idea
-what you're talking about.	|Jeff Abed
+what you're talking about.	|Jeff Abed	|10
 
 179
 00:07:53,967 --> 00:07:55,168
-- abed.	|Chang Abed
-- el tigre.	|Abed Chang
+- abed.	|Chang Abed	|10
+- el tigre.	|Abed Chang	|10
 
 180
 00:08:05,300 --> 00:08:06,634
 - well, did you
-talk to chang?	|Britta Jeff
+talk to chang?	|Britta Jeff	|11
 
 181
 00:08:06,701 --> 00:08:09,767
@@ -792,7 +792,7 @@ more sensitive to light
 184
 00:08:13,667 --> 00:08:15,133
 Because he yelled
-at me so much.	|Jeff Britta
+at me so much.	|Jeff Britta	|11
 
 185
 00:08:15,200 --> 00:08:18,033
@@ -802,7 +802,7 @@ that we made you do that.
 186
 00:08:18,100 --> 00:08:19,101
 Maybe we can help
-with your essay.	|Annie Jeff
+with your essay.	|Annie Jeff	|11
 
 187
 00:08:19,167 --> 00:08:23,468
@@ -816,25 +816,25 @@ my homework next time.
 
 189
 00:08:25,067 --> 00:08:27,733
-See you in class.	|Jeff Annie
+See you in class.	|Jeff Annie	|11
 
 190
 00:08:27,800 --> 00:08:28,734
-- he's hiding something.	|Britta Annie Troy
+- he's hiding something.	|Britta Annie Troy	|12
 
 191
 00:08:29,701 --> 00:08:31,667
 - britta, jeff suffered for us.
-give him a little credit.	|Annie Britta
+give him a little credit.	|Annie Britta	|12
 
 192
 00:08:31,734 --> 00:08:33,367
 - yeah. you can be
-pretty cold.	|Troy Britta
+pretty cold.	|Troy Britta	|12
 
 193
 00:08:33,434 --> 00:08:34,467
-- troy?	|Abed Troy
+- troy?	|Abed Troy	|13
 
 194
 00:08:34,534 --> 00:08:37,267
@@ -843,11 +843,11 @@ he needs my help.
 
 195
 00:08:37,334 --> 00:08:38,234
-I got to get out of here.	|Troy Abed
+I got to get out of here.	|Troy Abed	|13
 
 196
 00:08:38,500 --> 00:08:40,600
-- troy?	|Abed Troy
+- troy?	|Abed Troy	|13
 
 197
 00:08:40,667 --> 00:08:42,500
@@ -856,7 +856,7 @@ Have you guys seen a rat?
 198
 00:08:42,567 --> 00:08:45,300
 Troy knocked over
-fievel's cage and he escaped.	|Abed Britta Annie
+fievel's cage and he escaped.	|Abed Britta Annie	|13
 
 199
 00:08:45,367 --> 00:08:47,300
@@ -870,12 +870,12 @@ found more rats
 201
 00:08:49,667 --> 00:08:51,434
 And is very happy
-living with them.	|Britta Annie
+living with them.	|Britta Annie	|13
 
 202
 00:08:51,500 --> 00:08:54,634
 - try to join the rest of us
-in reality, britta.	|Abed Britta
+in reality, britta.	|Abed Britta	|13
 
 203
 00:08:56,001 --> 00:08:57,500
@@ -893,16 +893,16 @@ the next napster
 
 206
 00:09:02,600 --> 00:09:04,134
-for brownies.	|Shirley
+for brownies.	|Shirley	|14
 
 207
 00:09:04,200 --> 00:09:05,801
-- yawn!	|Pierce Shirley
+- yawn!	|Pierce Shirley	|14
 
 208
 00:09:05,867 --> 00:09:07,600
 - can't i just
-write it on cards?	|Shirley Pierce
+write it on cards?	|Shirley Pierce	|14
 
 209
 00:09:07,667 --> 00:09:09,834
@@ -921,11 +921,11 @@ and that's why.
 212
 00:09:16,434 --> 00:09:19,434
 Also you might
-consider a darker top.	|Pierce Shirley
+consider a darker top.	|Pierce Shirley	|14
 
 213
 00:09:19,500 --> 00:09:20,534
-- note taken.	|Shirley Pierce
+- note taken.	|Shirley Pierce	|14
 
 214
 00:09:20,600 --> 00:09:22,734
@@ -965,11 +965,11 @@ Hand them a sandwich.
 222
 00:09:33,267 --> 00:09:35,367
 Try it.
-hand them a sandwich.	|Pierce Shirley
+hand them a sandwich.	|Pierce Shirley	|14
 
 223
 00:09:35,434 --> 00:09:36,801
-- hand them a sandwich.	|Shirley Pierce
+- hand them a sandwich.	|Shirley Pierce	|14
 
 224
 00:09:36,867 --> 00:09:39,967
@@ -979,11 +979,11 @@ uh, the sandwich,
 225
 00:09:40,034 --> 00:09:41,100
 As opposed
-to handing it to them.	|Pierce Shirley
+to handing it to them.	|Pierce Shirley	|14
 
 226
 00:09:41,167 --> 00:09:42,801
-- hand them--oh, okay.	|Shirley Pierce
+- hand them--oh, okay.	|Shirley Pierce	|14
 - right. so yeah.
 
 227
@@ -994,7 +994,7 @@ to wake up the audience
 228
 00:09:45,967 --> 00:09:47,157
 Such as, uh,
-"multiple orgasm."	|Pierce Shirley
+"multiple orgasm."	|Pierce Shirley	|14
 
 229
 00:09:47,234 --> 00:09:49,367
@@ -1008,7 +1008,7 @@ Really fit into my message.
 231
 00:09:50,834 --> 00:09:53,567
 Maybe we should focus,
-uh, more on, um, uh...	|Shirley Pierce
+uh, more on, um, uh...	|Shirley Pierce	|14
 
 232
 00:09:53,634 --> 00:09:55,967
@@ -1027,7 +1027,7 @@ brownies from somebody who says,
 235
 00:10:01,200 --> 00:10:03,734
 I have a method for fixing that.
-start from the top.	|Pierce Shirley
+start from the top.	|Pierce Shirley	|14
 
 236
 00:10:03,801 --> 00:10:05,434
@@ -1035,19 +1035,19 @@ start from the top.	|Pierce Shirley
 
 237
 00:10:05,500 --> 00:10:07,101
-These brownies are, um--	|Shirley Pierce
+These brownies are, um--	|Shirley Pierce	|14
 
 238
 00:10:07,168 --> 00:10:08,934
-- uh!	|Pierce Shirley
+- uh!	|Pierce Shirley	|14
 
 239
 00:10:09,001 --> 00:10:10,101
-- they, um--	|Shirley Pierce
+- they, um--	|Shirley Pierce	|14
 
 240
 00:10:10,168 --> 00:10:12,267
-- uh!	|Pierce Shirley
+- uh!	|Pierce Shirley	|14
 
 241
 00:10:12,333 --> 00:10:14,233
@@ -1059,16 +1059,16 @@ Delicious.
 
 243
 00:10:16,333 --> 00:10:18,567
-They taste like--	|Shirley Pierce
-- like!	|Pierce Shirley
+They taste like--	|Shirley Pierce	|14
+- like!	|Pierce Shirley	|14
 
 244
 00:10:18,634 --> 00:10:19,767
-- that's not a filler word.	|Shirley Pierce
+- that's not a filler word.	|Shirley Pierce	|14
 
 245
 00:10:19,834 --> 00:10:21,434
-- whatever, valley girl.	|Pierce Shirley
+- whatever, valley girl.	|Pierce Shirley	|14
 
 246
 00:10:23,367 --> 00:10:26,934
@@ -1077,7 +1077,7 @@ between usted and tu
 
 247
 00:10:27,001 --> 00:10:28,734
-Is a matter of formality.	|Chang All
+Is a matter of formality.	|Chang All	|15
 
 248
 00:10:28,801 --> 00:10:32,667
@@ -1085,7 +1085,7 @@ pepe, usted es viejo.
 
 249
 00:10:32,734 --> 00:10:35,434
-"you are old."	|Chang Pierce
+"you are old."	|Chang Pierce	|15
 
 250
 00:10:35,500 --> 00:10:39,701
@@ -1093,12 +1093,12 @@ alberto, usted es feo.
 
 251
 00:10:39,767 --> 00:10:41,967
-"you are ugly."	|Chang Abed
+"you are ugly."	|Chang Abed	|15
 
 252
 00:10:42,034 --> 00:10:43,734
-- no, you're not, abed.	|Shirley Abed
-- thanks.	|Abed Shirley
+- no, you're not, abed.	|Shirley Abed	|15
+- thanks.	|Abed Shirley	|15
 
 253
 00:10:43,801 --> 00:10:45,400
@@ -1106,11 +1106,11 @@ Shakira...
 
 254
 00:10:45,467 --> 00:10:46,767
-Shakira...	|Chang Shirley
+Shakira...	|Chang Shirley	|15
 
 255
 00:10:46,834 --> 00:10:50,200
-y tupaco...	|Chang Troy
+y tupaco...	|Chang Troy	|15
 
 256
 00:10:50,267 --> 00:10:53,701
@@ -1118,12 +1118,12 @@ ustedes estan sucios.
 
 257
 00:10:53,767 --> 00:10:55,901
-"you are dirty."	|Chang Troy Shirley
+"you are dirty."	|Chang Troy Shirley	|15
 
 258
 00:10:55,967 --> 00:10:56,967
-- dirty?	|Shirley Chang
-- dude	|Troy Chang
+- dirty?	|Shirley Chang	|15
+- dude	|Troy Chang	|15
 
 259
 00:10:57,034 --> 00:10:58,901
@@ -1155,25 +1155,25 @@ on your essays.
 265
 00:11:08,001 --> 00:11:10,034
 Because that's gonna be
-30% of your grade.	|Chang All
+30% of your grade.	|Chang All	|15
 
 266
 00:11:10,101 --> 00:11:11,233
-- no.	|Annie Chang
-- no.	|Shirley Chang
+- no.	|Annie Chang	|15
+- no.	|Shirley Chang	|15
 
 267
 00:11:11,300 --> 00:11:14,567
 - jeff...already turned in
-his essay.	|Chang All
+his essay.	|Chang All	|15
 
 268
 00:11:14,634 --> 00:11:15,567
-Great job.	|Chang Jeff
+Great job.	|Chang Jeff	|15
 
 269
 00:11:15,634 --> 00:11:17,001
-- thanks.	|Jeff Chang
+- thanks.	|Jeff Chang	|15
 
 270
 00:11:17,068 --> 00:11:19,367
@@ -1188,11 +1188,11 @@ a big-ass quiz.
 272
 00:11:21,367 --> 00:11:23,967
 So study hard.
-class dismissed.	|Chang All
+class dismissed.	|Chang All	|15
 
 273
 00:11:26,067 --> 00:11:28,301
-Ahh.	|Chang
+Ahh.	|Chang	|15
 
 274
 00:11:28,368 --> 00:11:29,400
@@ -1201,7 +1201,7 @@ Ahh.	|Chang
 275
 00:11:29,467 --> 00:11:31,834
 crazy night
-last night, man.	|Chang Jeff
+last night, man.	|Chang Jeff	|16
 
 276
 00:11:31,901 --> 00:11:33,934
@@ -1211,11 +1211,11 @@ it gets crazy.
 277
 00:11:34,001 --> 00:11:36,067
 That's the winger guarantee,
-huh?	|Jeff Chang
+huh?	|Jeff Chang	|16
 
 278
 00:11:36,134 --> 00:11:38,034
-- dude, let's do it again.	|Chang Jeff
+- dude, let's do it again.	|Chang Jeff	|16
 
 279
 00:11:38,101 --> 00:11:39,734
@@ -1228,7 +1228,7 @@ you know?
 
 281
 00:11:41,634 --> 00:11:43,334
-Study, study.	|Jeff Chang
+Study, study.	|Jeff Chang	|16
 
 282
 00:11:43,400 --> 00:11:46,001
@@ -1244,32 +1244,32 @@ A-plus.
 
 285
 00:11:48,600 --> 00:11:49,967
-Nice work, winger!	|Chang Jeff
+Nice work, winger!	|Chang Jeff	|16
 
 286
 00:11:50,034 --> 00:11:52,034
 - you know, i knew i could do it
-if i applied myself.	|Jeff Chang
+if i applied myself.	|Jeff Chang	|16
 
 288
 00:11:53,301 --> 00:11:54,734
-- cher--cherry daiquiri.	|Jeff Chang
+- cher--cherry daiquiri.	|Jeff Chang	|17
 
 289
 00:11:54,800 --> 00:11:56,700
-- cherry daiquiri!	|Chang Jeff
+- cherry daiquiri!	|Chang Jeff	|17
 
 290
 00:11:56,767 --> 00:11:57,634
-- daiquiri.	|Jeff Chang
+- daiquiri.	|Jeff Chang	|17
 
 291
 00:11:59,667 --> 00:12:01,800
-- uh-huh.	|Jeff Group
+- uh-huh.	|Jeff Group	|17
 
 292
 00:12:01,867 --> 00:12:03,001
-- Later.	|Chang Jeff
+- Later.	|Chang Jeff	|17
 
 293
 00:12:03,067 --> 00:12:04,433
@@ -1278,7 +1278,7 @@ if i applied myself.	|Jeff Chang
 294
 00:12:04,500 --> 00:12:06,268
 Of overpriced fabric
-and hair product.	|Annie Jeff
+and hair product.	|Annie Jeff	|18
 
 295
 00:12:06,334 --> 00:12:07,634
@@ -1288,21 +1288,21 @@ as one of the meek,
 296
 00:12:07,700 --> 00:12:09,234
 As soon as i inherit
-the earth, you a dead man.	|Shirley Jeff
+the earth, you a dead man.	|Shirley Jeff	|18
 
 297
 00:12:09,301 --> 00:12:11,634
-- you got a weird forehead.	|Troy Jeff
+- you got a weird forehead.	|Troy Jeff	|18
 
 298
 00:12:11,700 --> 00:12:13,167
 - we're all
-very disappointed.	|Britta Jeff
+very disappointed.	|Britta Jeff	|18
 
 299
 00:12:13,234 --> 00:12:14,767
 - all right, dial it back
-a little, britta.	|Pierce Britta
+a little, britta.	|Pierce Britta	|18
 
 300
 00:12:14,834 --> 00:12:16,533
@@ -1316,7 +1316,7 @@ threatens to kick someone out
 
 302
 00:12:18,934 --> 00:12:20,301
-Unless he helps them?	|Jeff Group
+Unless he helps them?	|Jeff Group	|18
 
 303
 00:12:20,368 --> 00:12:22,433
@@ -1325,12 +1325,12 @@ is asked to help other people
 
 304
 00:12:22,500 --> 00:12:23,600
-And then helps himself!	|Pierce Jeff
+And then helps himself!	|Pierce Jeff	|18
 
 305
 00:12:23,667 --> 00:12:24,533
-- yeah.	|Annie
-- mm-hmm.	|Britta
+- yeah.	|Annie	|18
+- mm-hmm.	|Britta	|18
 
 306
 00:12:24,600 --> 00:12:26,167
@@ -1339,12 +1339,12 @@ And then helps himself!	|Pierce Jeff
 307
 00:12:26,234 --> 00:12:28,167
 I don't think i like
-being talked to that way!	|Jeff Group
+being talked to that way!	|Jeff Group	|18
 
 308
 00:12:28,234 --> 00:12:31,334
 - he's using fake outrage
-to justify leaving.	|Britta Group
+to justify leaving.	|Britta Group	|18
 
 309
 00:12:31,400 --> 00:12:33,634
@@ -1354,16 +1354,16 @@ justify my--
 310
 00:12:33,700 --> 00:12:35,334
 Yeah, that's it.
-i'm out of here.	|Jeff Britta
+i'm out of here.	|Jeff Britta	|18
 
 311
 00:12:35,400 --> 00:12:37,700
 - oh, you're breaking up
-with the group?	|Annie Jeff
+with the group?	|Annie Jeff	|18
 
 312
 00:12:37,767 --> 00:12:39,400
-- that's what you guys want.	|Jeff Group
+- that's what you guys want.	|Jeff Group	|18
 
 313
 00:12:39,467 --> 00:12:41,533
@@ -1377,7 +1377,7 @@ Don't answer your phones
 315
 00:12:42,867 --> 00:12:45,167
 And bury all your money
-in the backyard.	|Pierce Group
+in the backyard.	|Pierce Group	|18
 
 316
 00:12:45,234 --> 00:12:45,834
@@ -1386,7 +1386,7 @@ in the backyard.	|Pierce Group
 317
 00:12:45,901 --> 00:12:47,467
 Look at pierce's paragraph
-from unit two.	|Chang Jeff
+from unit two.	|Chang Jeff	|19
 
 318
 00:12:47,533 --> 00:12:52,400
@@ -1398,8 +1398,8 @@ The apple store.
 
 320
 00:12:53,667 --> 00:12:54,967
-Adorable.	|Jeff Chang
-- keep going, keep going.	|Chang Jeff
+Adorable.	|Jeff Chang	|19
+- keep going, keep going.	|Chang Jeff	|19
 
 321
 00:12:55,034 --> 00:12:59,734
@@ -1408,12 +1408,12 @@ had manzanas gigante.
 
 322
 00:12:59,800 --> 00:13:01,001
-Ruined it.	|Jeff Chang
+Ruined it.	|Jeff Chang	|19
 
 323
 00:13:01,067 --> 00:13:02,500
 - can you imagine
-being married to him?	|Chang jeff
+being married to him?	|Chang Jeff	|19
 
 324
 00:13:02,567 --> 00:13:03,901
@@ -1426,7 +1426,7 @@ agreed to marry that guy.
 
 326
 00:13:07,067 --> 00:13:08,400
-- it's cra--	|Jeff Chang
+- it's cra--	|Jeff Chang	|19
 
 00:13:13,201 --> 00:13:14,600
 I'm so alone.
@@ -1437,12 +1437,12 @@ I'm so lonely!
 
 330
 00:13:16,934 --> 00:13:17,467
-I want to die.	|Chang Jeff
+I want to die.	|Chang Jeff	|19
 
 331
 00:13:17,533 --> 00:13:19,734
 - come on man, it--
-come on, don't do that.	|Jeff Chang
+come on, don't do that.	|Jeff Chang	|19
 
 333
 00:13:22,467 --> 00:13:24,201
@@ -1450,8 +1450,8 @@ I...
 
 334
 00:13:24,268 --> 00:13:26,667
-Just miss her so much.	|Chang Jeff
-- yeah.	|Jeff Chang
+Just miss her so much.	|Chang Jeff	|19
+- yeah.	|Jeff Chang	|19
 
 335
 00:13:26,734 --> 00:13:28,334
@@ -1459,17 +1459,17 @@ Just miss her so much.	|Chang Jeff
 
 336
 00:13:28,400 --> 00:13:30,634
-This is so stupid.	|Chang Jeff
+This is so stupid.	|Chang Jeff	|19
 - no, no, it's fine.
 
 337
 00:13:30,700 --> 00:13:32,067
 It's just--buddy,
-you know...	|Jeff Chang
+you know...	|Jeff Chang	|19
 
 338
 00:13:32,134 --> 00:13:35,567
-- it's dumb!	|Chang Jeff
+- it's dumb!	|Chang Jeff	|19
 - i can see that you're hurting.
 
 339
@@ -1484,12 +1484,12 @@ strip clubs
 
 341
 00:13:38,368 --> 00:13:39,467
-With professor whitman.	|Jeff Chang
+With professor whitman.	|Jeff Chang	|19
 
 342
 00:13:39,533 --> 00:13:41,800
-- you better not be!	|Chang Jeff
-- what?	|Jeff Chang
+- you better not be!	|Chang Jeff	|19
+- what?	|Jeff Chang	|19
 
 343
 00:13:41,867 --> 00:13:43,901
@@ -1498,7 +1498,7 @@ With professor whitman.	|Jeff Chang
 344
 00:13:43,967 --> 00:13:46,467
 Is for you to keep
-filling the void in my soul.	|Chang Jeff
+filling the void in my soul.	|Chang Jeff	|19
 
 345
 00:13:46,533 --> 00:13:49,001
@@ -1507,7 +1507,7 @@ to think of something.
 
 346
 00:13:49,002 --> 00:13:52,002
-Let me rest gently on your pecs.	|Jeff Chang
+Let me rest gently on your pecs.	|Jeff Chang	|19
 
 347
 00:13:54,234 --> 00:13:56,401
@@ -1537,17 +1537,17 @@ you know?
 352
 00:14:04,600 --> 00:14:06,800
 But you can't use that one.
-that's--that's mine.	|Pierce Shirley
+that's--that's mine.	|Pierce Shirley	|20
 
 353
 00:14:06,867 --> 00:14:08,201
-- thanks, pierce.	|Shirley Pierce
-- sure.	|Pierce Shirley
+- thanks, pierce.	|Shirley Pierce	|20
+- sure.	|Pierce Shirley	|20
 
 354
 00:14:08,267 --> 00:14:10,000
 - i'm just gonna
-write it on some cards.	|Shirley Pierce
+write it on some cards.	|Shirley Pierce	|20
 
 355
 00:14:10,067 --> 00:14:11,367
@@ -1556,29 +1556,29 @@ write it on some cards.	|Shirley Pierce
 356
 00:14:11,434 --> 00:14:15,468
 Just don't let anybody know
-i was involved.	|Pierce Shirley
+i was involved.	|Pierce Shirley	|20
 
 357
 00:14:29,000 --> 00:14:31,000
-- why do you care so much?	|Troy Abed
+- why do you care so much?	|Troy Abed	|21
 
 358
 00:14:31,067 --> 00:14:32,234
-- i don't.	|Pierce Troy
+- i don't.	|Pierce Troy	|21
 
 359
 00:14:32,301 --> 00:14:33,501
 - because fievel's
-going to die.	|Abed Troy
+going to die.	|Abed Troy	|21
 
 360
 00:14:33,568 --> 00:14:35,568
-- i'd rather die than listen.	|Pierce Abed
+- i'd rather die than listen.	|Pierce Abed	|21
 
 361
 00:14:35,633 --> 00:14:37,000
-- who's going to die?	|Annie Abed
-- yeah.	|Shirley Abed
+- who's going to die?	|Annie Abed	|21
+- yeah.	|Shirley Abed	|21
 
 362
 00:14:37,067 --> 00:14:38,234
@@ -1587,16 +1587,16 @@ the exterminator is coming
 
 363
 00:14:38,301 --> 00:14:39,600
-Because of our rat.	|Abed Shirley Annie
+Because of our rat.	|Abed Shirley Annie	|21
 
 364
 00:14:39,667 --> 00:14:41,900
 - i'd like to exterminate
-this conversation.	|Pierce Abed
+this conversation.	|Pierce Abed	|21
 
 365
 00:14:41,967 --> 00:14:43,434
-- what are you doing?	|Britta Pierce
+- what are you doing?	|Britta Pierce	|21
 
 366
 00:14:43,501 --> 00:14:44,501
@@ -1606,7 +1606,7 @@ in jeff's chair,
 367
 00:14:44,568 --> 00:14:45,434
 So he's trying
-to act like jeff.	|Abed Britta
+to act like jeff.	|Abed Britta	|21
 
 368
 00:14:45,501 --> 00:14:47,568
@@ -1614,11 +1614,11 @@ oh!
 
 369
 00:14:47,633 --> 00:14:50,000
-ohh.	|All
+ohh.	|All	|21
 
 370
 00:14:50,067 --> 00:14:51,733
-- oh, an email.	|Pierce
+- oh, an email.	|Pierce	|21
 
 371
 00:14:51,800 --> 00:14:52,400
@@ -1627,7 +1627,7 @@ want to help me out
 
 372
 00:14:52,467 --> 00:14:54,001
-Because we are friends.	|Abed Troy
+Because we are friends.	|Abed Troy	|21
 
 373
 00:14:54,068 --> 00:14:55,801
@@ -1641,17 +1641,17 @@ help me with things.
 
 375
 00:14:58,634 --> 00:14:59,701
-Not vice versa.	|Troy Abed
+Not vice versa.	|Troy Abed	|21
 
 376
 00:14:59,767 --> 00:15:01,634
 - i would face my fears
-to help you.	|Abed Troy
+to help you.	|Abed Troy	|21
 
 377
 00:15:01,701 --> 00:15:04,567
 - exactly!
-'cause you're my friend.	|Troy Abed
+'cause you're my friend.	|Troy Abed	|21
 
 378
 00:15:04,634 --> 00:15:06,834
@@ -1663,15 +1663,15 @@ to help you.	|Abed Troy
 
 380
 00:15:08,901 --> 00:15:11,434
-* out there *	|Abed Troy
+* out there *	|Abed Troy	|21
 
 381
 00:15:11,500 --> 00:15:12,934
-- oh, abed.	|Troy Abed
+- oh, abed.	|Troy Abed	|21
 
 382
 00:15:13,001 --> 00:15:13,834
-- * beneath the pale... *	|Abed Troy
+- * beneath the pale... *	|Abed Troy	|21
 
 383
 00:15:13,901 --> 00:15:14,568
@@ -1680,20 +1680,20 @@ to help you.	|Abed Troy
 384
 00:15:14,633 --> 00:15:15,468
 they're gonna
-put him on the view.	|Pierce Group
+put him on the view.	|Pierce Group	|21
 
 386
 00:15:17,234 --> 00:15:18,501
-- that works, yeah.	|Troy Pierce
+- that works, yeah.	|Troy Pierce	|21
 
 387
 00:15:18,568 --> 00:15:20,633
 - what are we gonna do?
-we gonna study?	|Pierce Group
+we gonna study?	|Pierce Group	|21
 
 388
 00:15:20,700 --> 00:15:21,800
-- oh, my--	|Shirley
+- oh, my--	|Shirley	|21
 
 389
 00:15:21,867 --> 00:15:23,434
@@ -1709,7 +1709,7 @@ Fievel?
 
 392
 00:15:28,700 --> 00:15:29,867
-fievel.	|Abed Fiebel
+fievel.	|Abed Fiebel	|22
 
 393
 00:15:29,934 --> 00:15:31,867
@@ -1745,7 +1745,7 @@ rip that band-aid off quickly.
 
 400
 00:15:44,101 --> 00:15:45,867
-Okay!	|Dean All
+Okay!	|Dean All	|23
 
 402
 00:15:48,534 --> 00:15:50,167
@@ -1762,12 +1762,12 @@ Wanna hang out?
 405
 00:15:53,267 --> 00:15:55,201
 'cause if you don't,
-i will fail you.	|Chang Jeff
+i will fail you.	|Chang Jeff	|23
 
 406
 00:15:55,267 --> 00:15:58,633
 - actually, i had an idea
-for an extra credit project.	|Jeff Chang
+for an extra credit project.	|Jeff Chang	|23
 
 407
 00:15:58,700 --> 00:15:59,967
@@ -1780,17 +1780,17 @@ our first song
 
 409
 00:16:02,633 --> 00:16:06,367
-To senor and senora chang.	|GreeneDaeye All
+To senor and senora chang.	|GreeneDaeye All	|23
 
 411
 00:16:10,800 --> 00:16:12,367
 She said she didn't
-want to talk to me.	|Chang Jeff
+want to talk to me.	|Chang Jeff	|23
 
 412
 00:16:12,434 --> 00:16:14,934
 - i didn't tell her
-you wanted to talk.	|Jeff Chang
+you wanted to talk.	|Jeff Chang	|23
 
 413
 00:16:15,000 --> 00:16:18,301
@@ -1804,7 +1804,7 @@ Of--of--of brownies has--
 415
 00:16:20,867 --> 00:16:23,733
 Ahem! i, uh--
-target group--	|Shirley All
+target group--	|Shirley All	|24
 
 416
 00:16:23,800 --> 00:16:26,301
@@ -1813,7 +1813,7 @@ i have to ask you
 
 417
 00:16:26,367 --> 00:16:27,600
-To put down the cards.	|Professor Shirley
+To put down the cards.	|Professor Shirley	|24
 
 418
 00:16:30,301 --> 00:16:33,534
@@ -1825,7 +1825,7 @@ To put down the cards.	|Professor Shirley
 
 420
 00:16:35,733 --> 00:16:40,700
-* beneath the pale moonlight *	|Abed Fievel
+* beneath the pale moonlight *	|Abed Fievel	|22
 
 421
 00:16:40,767 --> 00:16:42,834
@@ -1833,7 +1833,7 @@ To put down the cards.	|Professor Shirley
 
 422
 00:16:42,900 --> 00:16:45,633
-I--i--	|Shirley All
+I--i--	|Shirley All	|24
 - * someone's *
 
 423
@@ -1842,7 +1842,7 @@ I--i--	|Shirley All
 
 424
 00:16:48,934 --> 00:16:55,568
-* and loving me tonight *	|Abed Fievel
+* and loving me tonight *	|Abed Fievel	|22
 
 426
 00:17:01,733 --> 00:17:05,134
@@ -1854,7 +1854,7 @@ I--i--	|Shirley All
 
 428
 00:17:07,967 --> 00:17:13,401
-* someone's saying a prayer *	|Troy Fievel
+* someone's saying a prayer *	|Troy Fievel	|22
 
 429
 00:17:13,468 --> 00:17:15,800
@@ -1867,87 +1867,87 @@ We all love...brownies.
 432
 00:17:21,000 --> 00:17:22,934
 - if you love brownies,
-you love life.	|Shirley All
+you love life.	|Shirley All	|24
 
 433
 00:17:23,000 --> 00:17:25,667
-- * somewhere out there *	|Troy Fievel
+- * somewhere out there *	|Troy Fievel	|22
 
 434
 00:17:27,134 --> 00:17:29,501
-* and even though i know *	|Troy Fievel
+* and even though i know *	|Troy Fievel	|22
 
 435
 00:17:29,568 --> 00:17:34,000
-* how very far apart we are *	|Troy Fievel
+* how very far apart we are *	|Troy Fievel	|22
 
 436
 00:17:34,067 --> 00:17:36,967
-* it helps to think we might be wishing *	|Abed Fievel
+* it helps to think we might be wishing *	|Abed Fievel	|22
 
 437
 00:17:37,034 --> 00:17:40,167
-* on the same bright star *	|Abed Fievel
+* on the same bright star *	|Abed Fievel	|22
 
 438
 00:17:40,234 --> 00:17:43,134
-* and when the night wind starts to sing *	|Abed Fievel
+* and when the night wind starts to sing *	|Abed Fievel	|22
 
 439
 00:17:43,201 --> 00:17:46,334
-* a lonesome lullaby *	|Abed Fievel
-* a lonesome lullaby *
+* a lonesome lullaby *	|Abed Fievel	|22
+* a lonesome lullaby *	|Troy Fievel	|22
 
 440
 00:17:46,401 --> 00:17:48,700
-* it helps to think we're sleeping *	|Abed Fievel
+* it helps to think we're sleeping *	|Abed Fievel	|22
 
 441
 00:17:48,767 --> 00:17:51,201
-* underneath that same big sky *	|Abed Fievel
+* underneath that same big sky *	|Abed Fievel	|22
 
 442
 00:17:51,267 --> 00:17:52,633
-- AAH!	|Chang
+- AAH!	|Chang	|23
 
 443
 00:17:55,201 --> 00:17:57,900
-- * somewhere *	|Troy Fievel
-- * somewhere *	|Abed Fievel
+- * somewhere *	|Troy Fievel	|22
+- * somewhere *	|Abed Fievel	|22
 
 444
 00:17:57,967 --> 00:18:00,201
-* out there *	|Troy Fievel
-* out there *	|Abed Fievel
+* out there *	|Troy Fievel	|22
+* out there *	|Abed Fievel	|22
 
 445
 00:18:00,267 --> 00:18:06,201
-* if love can see us through *	|Troy Fievel
-* if love can see us through *	|Abed Fievel
+* if love can see us through *	|Troy Fievel	|22
+* if love can see us through *	|Abed Fievel	|22
 
 446
 00:18:06,267 --> 00:18:08,534
-- here's brownie!	|Shirley All
+- here's brownie!	|Shirley All	|24
 
 447
 00:18:08,600 --> 00:18:13,034
-* then we'll be together *	|Troy Fievel
-* then we'll be together *	|Abed Fievel
+* then we'll be together *	|Troy Fievel	|22
+* then we'll be together *	|Abed Fievel	|22
 
 448
 00:18:13,101 --> 00:18:15,468
-* somewhere out there *	|Troy Fievel
-* somewhere out there *	|Abed Fievel
+* somewhere out there *	|Troy Fievel	|22
+* somewhere out there *	|Abed Fievel	|22
 
 449
 00:18:15,534 --> 00:18:19,301
-* out where dreams *	|Troy Fievel
-* out where dreams *	|Abed Fievel
+* out where dreams *	|Troy Fievel	|22
+* out where dreams *	|Abed Fievel	|22
 
 450
 00:18:19,367 --> 00:18:24,201
-* come true *	|Troy Fievel
-* come true *	|Abed Fievel
+* come true *	|Troy Fievel	|22
+* come true *	|Abed Fievel	|22
 
 451
 00:18:26,767 --> 00:18:28,401
@@ -1964,15 +1964,15 @@ Aaaaah!
 
 454
 00:18:35,501 --> 00:18:36,568
-Disgusting!	|Troy Abed
+Disgusting!	|Troy Abed	|22
 
 455
 00:18:38,867 --> 00:18:39,967
-- thank you.	|Abed Troy
+- thank you.	|Abed Troy	|22
 
 456
 00:18:40,034 --> 00:18:42,900
-- what's chang doing?	|Britta Jeff
+- what's chang doing?	|Britta Jeff	|25
 
 458
 00:18:44,301 --> 00:18:46,434
@@ -1981,7 +1981,7 @@ Disgusting!	|Troy Abed
 459
 00:18:46,501 --> 00:18:48,700
 He's getting a refill
-on his void.	|Jeff Britta
+on his void.	|Jeff Britta	|25
 
 460
 00:18:48,767 --> 00:18:51,000
@@ -1991,12 +1991,12 @@ on my presentation,
 461
 00:18:51,067 --> 00:18:52,633
 And a lot of the credit
-goes to pierce.	|Shirley Jeff
+goes to pierce.	|Shirley Jeff	|26
 
 462
 00:18:52,700 --> 00:18:54,934
 - heh.
-and i had a great sandwich.	|Pierce Jeff
+and i had a great sandwich.	|Pierce Jeff	|26
 
 463
 00:18:55,000 --> 00:18:56,468
@@ -2005,11 +2005,11 @@ and i had a great sandwich.	|Pierce Jeff
 464
 00:18:56,534 --> 00:18:58,067
 And abed's gonna
-shut up about it now.	|Troy Jeff
+shut up about it now.	|Troy Jeff	|27
 
 465
 00:18:58,134 --> 00:19:01,000
-- it's true.	|Abed Jeff
+- it's true.	|Abed Jeff	|27
 
 466
 00:19:01,067 --> 00:19:01,800
@@ -2042,12 +2042,12 @@ fix my marriage.
 472
 00:19:12,967 --> 00:19:16,401
 No more 20-page essays
-due on monday!	|Chang All
+due on monday!	|Chang All	|28
 
 473
 00:19:16,468 --> 00:19:18,201
-- oh, that's nice!	|Shirley
-- thank you.	|Jeff Chang
+- oh, that's nice!	|Shirley	|28
+- thank you.	|Jeff Chang	|28
 
 474
 00:19:18,267 --> 00:19:20,600
@@ -2065,15 +2065,15 @@ of the emotionally-vulnerable.
 
 477
 00:19:26,534 --> 00:19:27,401
-booyah.	|Chang Jeff
+booyah.	|Chang Jeff	|28
 
 478
 00:19:30,401 --> 00:19:33,201
-- you did that for us?	|Britta Jeff
+- you did that for us?	|Britta Jeff	|28
 
 479
 00:19:33,267 --> 00:19:35,267
-- mm, kinda.	|Jeff Britta
+- mm, kinda.	|Jeff Britta	|28
 
 481
 00:19:37,334 --> 00:19:39,201
@@ -2087,11 +2087,11 @@ to pass spanish.
 
 483
 00:19:40,867 --> 00:19:41,800
-I was wrong.	|Jeff Group
+I was wrong.	|Jeff Group	|28
 
 484
 00:19:41,867 --> 00:19:43,434
-- uh, we're the best.	|Pierce Jeff
+- uh, we're the best.	|Pierce Jeff	|28
 
 485
 00:19:43,501 --> 00:19:46,667
@@ -2105,7 +2105,7 @@ with that essay,
 
 487
 00:19:48,534 --> 00:19:50,301
-You can rejoin the group.	|Annie Jeff
+You can rejoin the group.	|Annie Jeff	|28
 
 488
 00:19:50,367 --> 00:19:51,600
@@ -2118,7 +2118,7 @@ talking to me for?
 
 490
 00:19:53,667 --> 00:19:54,667
-You go dance!	|Jeff Group
+You go dance!	|Jeff Group	|28
 
 492
 00:19:59,600 --> 00:20:02,434
@@ -2126,12 +2126,12 @@ You go dance!	|Jeff Group
 
 493
 00:20:02,501 --> 00:20:04,434
-I know about the chair.	|Pierce Jeff
+I know about the chair.	|Pierce Jeff	|28
 
 494
 00:20:18,984 --> 00:20:20,284
 - whoa, what model
-did you get?	|Troy Abed
+did you get?	|Troy Abed	|29
 
 495
 00:20:20,351 --> 00:20:22,184
@@ -2140,7 +2140,7 @@ anniversary edition.
 
 496
 00:20:22,251 --> 00:20:23,184
-You?	|Abed Troy
+You?	|Abed Troy	|29
 
 497
 00:20:23,251 --> 00:20:24,750
@@ -2158,7 +2158,7 @@ base camps.
 500
 00:20:27,550 --> 00:20:28,850
 What part of the library
-do you want?	|Troy Abed
+do you want?	|Troy Abed	|29
 
 501
 00:20:28,917 --> 00:20:30,217
@@ -2167,12 +2167,12 @@ do you want?	|Troy Abed
 502
 00:20:30,284 --> 00:20:31,784
 Northeast is closest
-to the drinking fountain--	|Abed Troy
+to the drinking fountain--	|Abed Troy	|29
 
 503
 00:20:31,850 --> 00:20:33,850
 - all right, guys,
-are we gonna do this thing?	|Pierce Abed Troy
+are we gonna do this thing?	|Pierce Abed Troy	|29
 
 504
 00:20:33,917 --> 00:20:35,784
@@ -2195,12 +2195,12 @@ the giant gun
 508
 00:20:40,117 --> 00:20:41,483
 That's duct-taped
-to your back.	|Troy Pierce
+to your back.	|Troy Pierce	|29
 
 509
 00:20:41,550 --> 00:20:42,717
 - seriously, this hardly
-seems like a fair fight.	|Abed Pierce
+seems like a fair fight.	|Abed Pierce	|29
 
 511
 00:20:45,351 --> 00:20:48,017
@@ -2209,4 +2209,4 @@ oh, it's pep--
 
 512
 00:20:48,084 --> 00:20:49,717
-Who puts pepper in water?	|Troy Pierce
+Who puts pepper in water?	|Troy Pierce	|29

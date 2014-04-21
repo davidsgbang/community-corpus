@@ -9,23 +9,23 @@ by our Spanish nombres.
 
 3
 00:00:06,889 --> 00:00:08,039
-It will be...	|Chang All
+It will be...	|Chang All	|01
 
 4
 00:00:23,051 --> 00:00:26,247
-Buenos dias, Winger.	|Chang Jeff
+Buenos dias, Winger.	|Chang Jeff	|01
 
 5
 00:00:30,629 --> 00:00:31,781
-Class dismissed.	|Chang All
+Class dismissed.	|Chang All	|01
 
 6
 00:00:38,677 --> 00:00:40,957
-Look, I'm Annie's backpack.	|Troy Annie
+Look, I'm Annie's backpack.	|Troy Annie	|02
 
 7
 00:00:41,657 --> 00:00:42,857
-Stop it, Troy.	|Annie Troy
+Stop it, Troy.	|Annie Troy	|02
 
 8
 00:00:47,498 --> 00:00:50,935
@@ -44,7 +44,7 @@ Like a grown-up date,
 11
 00:00:55,411 --> 00:00:58,411
 but within biking distance
-of his parents' house.	|Troy Annie
+of his parents' house.	|Troy Annie	|02
 
 12
 00:00:59,026 --> 00:01:00,975
@@ -58,12 +58,12 @@ with live music on the East lawn.
 14
 00:01:04,920 --> 00:01:07,720
 They're calling it
-"A night under the stars".	|Annie Troy
+"A night under the stars".	|Annie Troy	|02
 
 15
 00:01:08,164 --> 00:01:11,114
 Cool. I bet Randi
-would love that type of thing.	|Troy Annie
+would love that type of thing.	|Troy Annie	|02
 
 16
 00:01:11,322 --> 00:01:12,322
@@ -71,7 +71,7 @@ Randi?
 
 17
 00:01:12,948 --> 00:01:14,048
-I thought...	|Annie Troy
+I thought...	|Annie Troy	|02
 
 18
 00:01:15,535 --> 00:01:16,575
@@ -98,7 +98,7 @@ it is definitely a girl.
 
 23
 00:01:29,533 --> 00:01:30,798
-Thanks for your help.	|Troy Annie
+Thanks for your help.	|Troy Annie	|02
 
 24
 00:01:31,728 --> 00:01:32,894
@@ -110,7 +110,7 @@ And I hate you.
 
 26
 00:01:34,557 --> 00:01:36,317
-And I want to have your children.	|Annie Troy
+And I want to have your children.	|Annie Troy	|02
 
 27
 00:01:36,442 --> 00:01:38,931
@@ -119,22 +119,22 @@ to follow out of class this morning.
 
 28
 00:01:39,056 --> 00:01:41,006
-Jeff and Britta are dead air.	|Shirley
+Jeff and Britta are dead air.	|Shirley	|03
 
 29
 00:01:41,627 --> 00:01:45,040
 Are you okay? It looks like
-you have actual bed head this morning.	|Britta Jeff
+you have actual bed head this morning.	|Britta Jeff	|04
 
 30
 00:01:45,165 --> 00:01:47,413
 In fashion,
-I'm what's known as a tastemaker.	|Jeff Britta
+I'm what's known as a tastemaker.	|Jeff Britta	|04
 
 31
 00:01:47,538 --> 00:01:50,164
 And you missed an entire side
-of your face shaving.	|Britta Jeff
+of your face shaving.	|Britta Jeff	|04
 
 32
 00:01:50,289 --> 00:01:52,496
@@ -143,17 +143,17 @@ so will Gwen Stefani.
 
 33
 00:01:52,621 --> 00:01:54,238
-Here comes Vaughn. Bye.	|Jeff Britta
+Here comes Vaughn. Bye.	|Jeff Britta	|04
 
 34
 00:01:55,726 --> 00:01:57,074
-- Crap.	|Britta Jeff
+- Crap.	|Britta Jeff	|04
 - Vaughn?
 
 35
 00:01:58,132 --> 00:02:00,213
 The guy with the tiny nipples
-you did it with.	|Pierce Britta
+you did it with.	|Pierce Britta	|04
 
 36
 00:02:00,747 --> 00:02:02,580
@@ -162,7 +162,7 @@ Can we talk sometime?
 
 37
 00:02:02,748 --> 00:02:04,337
-I'm sorry about how things ended.	|Britta Vaughn
+I'm sorry about how things ended.	|Britta Vaughn	|05
 
 38
 00:02:04,462 --> 00:02:07,899
@@ -176,13 +176,13 @@ of an antioxidant.
 
 40
 00:02:13,329 --> 00:02:16,525
-- I got band practice. Lates.	|Vaughn Britta
+- I got band practice. Lates.	|Vaughn Britta	|05
 - Can't we still be friends?
 
 41
 00:02:16,650 --> 00:02:19,600
 And isn't the word "later"
-already short enough?	|Britta Vaughn
+already short enough?	|Britta Vaughn	|05
 
 42
 00:02:20,317 --> 00:02:22,167
@@ -195,29 +195,29 @@ Man-to-man is better.
 44
 00:02:23,776 --> 00:02:26,819
 We won't think about our chubby thighs
-or whether or not we can have babies.	|Pierce Britta
+or whether or not we can have babies.	|Pierce Britta	|06
 
 45
 00:02:26,944 --> 00:02:28,200
-Don't talk to Vaughn.	|Britta Pierce
+Don't talk to Vaughn.	|Britta Pierce	|06
 
 46
 00:02:29,314 --> 00:02:32,693
-- Your hormones are clouding your...	|Pierce Britta
-- Don't talk to Vaughn.	|Britta Pierce
+- Your hormones are clouding your...	|Pierce Britta	|06
+- Don't talk to Vaughn.	|Britta Pierce	|06
 
 47
 00:02:36,022 --> 00:02:38,074
-That is "girl" for "talk to Vaughn".	|Pierce
+That is "girl" for "talk to Vaughn".	|Pierce	|06
 
 48
 00:03:03,511 --> 00:03:06,061
 You sure you don't want
-a piece of that?	|Shirley Britta
+a piece of that?	|Shirley Britta	|07
 
 49
 00:03:08,981 --> 00:03:10,331
-What is he doing?	|Britta Shirley
+What is he doing?	|Britta Shirley	|07
 
 50
 00:03:10,528 --> 00:03:12,520
@@ -235,7 +235,7 @@ of calling me Valerie.
 
 53
 00:03:17,773 --> 00:03:19,723
-That boy's living in his car.	|Shirley Britta
+That boy's living in his car.	|Shirley Britta	|07
 
 54
 00:03:25,497 --> 00:03:28,343
@@ -262,11 +262,11 @@ No condoms.
 59
 00:03:40,847 --> 00:03:43,556
 I tell you, before aids,
-sex was like shaking hands.	|Pierce Group
+sex was like shaking hands.	|Pierce Group	|07
 
 60
 00:03:43,724 --> 00:03:44,585
-Hence aids.	|Abed Pierce
+Hence aids.	|Abed Pierce	|07
 
 61
 00:03:44,710 --> 00:03:47,059
@@ -285,12 +285,12 @@ You really did a number on him.
 64
 00:03:52,140 --> 00:03:54,610
 Good news is
-I'm the new keyboardist in his band.	|Pierce Britta
+I'm the new keyboardist in his band.	|Pierce Britta	|06
 
 65
 00:03:54,735 --> 00:03:57,706
 So I asked you not to talk to him
-and you completely ignored me.	|Britta Pierce
+and you completely ignored me.	|Britta Pierce	|06
 
 66
 00:03:57,831 --> 00:03:59,238
@@ -298,17 +298,17 @@ You're missing the headline.
 
 67
 00:03:59,770 --> 00:04:00,948
-I'm in a rock band!	|Pierce Britta
+I'm in a rock band!	|Pierce Britta	|06
 
 68
 00:04:01,116 --> 00:04:03,200
 I'd like to be there
-when the band finds out.	|Jeff Pierce
+when the band finds out.	|Jeff Pierce	|06
 
 69
 00:04:09,201 --> 00:04:11,250
 Hi Jeff. We were just talking
-about how in today's economy...	|Britta Jeff
+about how in today's economy...	|Britta Jeff	|07
 
 70
 00:04:11,418 --> 00:04:14,085
@@ -318,7 +318,7 @@ You are living in your car.
 71
 00:04:15,621 --> 00:04:17,370
 I'm sorry,
-I'm not good at being coy.	|Shirley Jeff
+I'm not good at being coy.	|Shirley Jeff	|07
 
 72
 00:04:17,748 --> 00:04:19,216
@@ -345,21 +345,21 @@ I've got to pay some meaningless fees
 77
 00:04:27,266 --> 00:04:29,935
 and then they'll put my locks
-back on the door and that'll be that.	|Jeff Shirley Britta
+back on the door and that'll be that.	|Jeff Shirley Britta	|07
 
 78
 00:04:30,103 --> 00:04:31,353
-How you'll get the money?	|Britta Jeff
+How you'll get the money?	|Britta Jeff	|07
 
 79
 00:04:32,081 --> 00:04:34,689
 Believe me, kitten,
-Winger's got moves.	|Jeff Britta
+Winger's got moves.	|Jeff Britta	|07
 
 80
 00:04:35,248 --> 00:04:39,252
-- Do you need a place to stay?	|Shirley Jeff
-- I'd offer but my dad's kind of racist.	|Jeff Troy
+- Do you need a place to stay?	|Shirley Jeff	|07
+- I'd offer but my dad's kind of racist.	|Jeff Troy	|07
 
 81
 00:04:39,572 --> 00:04:40,487
@@ -368,7 +368,7 @@ Stay with me.
 82
 00:04:40,656 --> 00:04:43,282
 My room has a bunk bed, which is
-a misnomer because it's the real deal.	|Abed Jeff
+a misnomer because it's the real deal.	|Abed Jeff	|07
 
 83
 00:04:43,450 --> 00:04:45,534
@@ -378,16 +378,16 @@ that offers me charity or pity
 84
 00:04:45,848 --> 00:04:48,454
 will be mentioned by name
-in my suicide note.	|Jeff Group
+in my suicide note.	|Jeff Group	|07
 
 85
 00:04:54,453 --> 00:04:56,656
 Annie. Annie. Thanks for your advice
-about "a night under the stars".	|Troy Annie
+about "a night under the stars".	|Troy Annie	|08
 
 86
 00:04:56,781 --> 00:04:58,860
-Of course. Anytime. Ever.	|Annie Troy
+Of course. Anytime. Ever.	|Annie Troy	|08
 
 87
 00:04:58,985 --> 00:05:00,966
@@ -402,25 +402,25 @@ so I really want to impress her.
 89
 00:05:04,721 --> 00:05:07,348
 Would you mind helping me
-shop for this stuff?	|Troy Annie
+shop for this stuff?	|Troy Annie	|08
 
 90
 00:05:07,516 --> 00:05:08,892
-- I'd love to.	|Annie Troy
+- I'd love to.	|Annie Troy	|08
 - Really?
 
 91
 00:05:10,706 --> 00:05:11,906
-Thanks. Later.	|Troy Annie
+Thanks. Later.	|Troy Annie	|08
 
 92
 00:05:17,007 --> 00:05:18,067
-Wanna see my place?	|Britta Jeff
+Wanna see my place?	|Jeff Britta	|09
 
 93
 00:05:18,235 --> 00:05:20,719
 I can see it.
-Two girls are making out on the hood.	|Jeff Britta
+Two girls are making out on the hood.	|Britta	Jeff	|09
 
 94
 00:05:20,844 --> 00:05:22,244
@@ -438,7 +438,7 @@ Look at those faucets.
 97
 00:05:29,871 --> 00:05:32,979
 Handcrafted in Italy.
-100% expensive.	|Jeff Britta
+100% expensive.	|Jeff Britta	|09
 
 98
 00:05:33,626 --> 00:05:35,070
@@ -455,7 +455,7 @@ which you no longer have.
 
 101
 00:05:38,954 --> 00:05:41,763
-- You need to move on with your life.	|Britta Jeff
+- You need to move on with your life.	|Britta Jeff	|09
 - Yeah. Move on with my life.
 
 102
@@ -469,16 +469,16 @@ This condo is all that's left of me.
 104
 00:05:46,514 --> 00:05:48,636
 Every part of it is a part
-of who I am.	|Jeff Britta
+of who I am.	|Jeff Britta	|09
 
 105
 00:05:48,761 --> 00:05:51,462
-- Is that a bidet?	|Britta Jeff
+- Is that a bidet?	|Britta Jeff	|09
 - That part's for resale value.
 
 106
 00:05:51,891 --> 00:05:53,591
-And Saturday afternoons.	|Jeff Britta
+And Saturday afternoons.	|Jeff Britta	|09
 
 107
 00:05:55,264 --> 00:05:59,099
@@ -492,7 +492,7 @@ Maybe even become one.
 109
 00:06:00,953 --> 00:06:03,862
 The less you have, the more you can be.
-You know what I'm saying?	|Britta Jeff
+You know what I'm saying?	|Britta Jeff	|09
 
 110
 00:06:04,517 --> 00:06:07,167
@@ -501,8 +501,8 @@ isn't there?
 
 111
 00:06:07,863 --> 00:06:09,764
-- You're attracted to bums.	|Jeff Britta
-- Good night.	|Britta Jeff
+- You're attracted to bums.	|Jeff Britta	|09
+- Good night.	|Britta Jeff	|09
 
 112
 00:06:09,889 --> 00:06:11,919
@@ -512,29 +512,29 @@ dinner at my place?
 113
 00:06:12,044 --> 00:06:14,163
 I got a hot plate
-that plugs into a cigarette lighter.	|Jeff Britta
+that plugs into a cigarette lighter.	|Jeff Britta	|09
 
 114
 00:06:14,333 --> 00:06:16,458
 Yeah, but your kitchen's
-being towed.	|Britta Jeff
+being towed.	|Britta Jeff	|09
 
 115
 00:06:18,371 --> 00:06:19,984
-Stop! That's my house!	|Jeff Britta
+Stop! That's my house!	|Jeff Britta	|09
 
 116
 00:06:25,075 --> 00:06:26,176
-Can I live with you?	|Jeff Abed
+Can I live with you?	|Jeff Abed	|10
 
 117
 00:06:26,345 --> 00:06:28,761
 Yeah. Cool.
-You want the top or the bottom bunk?	|Abed Jeff
+You want the top or the bottom bunk?	|Abed Jeff	|10
 
 118
 00:06:29,303 --> 00:06:30,306
-Top.	|Jeff Abed
+Top.	|Jeff Abed	|10
 
 119
 00:06:30,636 --> 00:06:31,636
@@ -542,7 +542,7 @@ Me too. Race you for it
 
 120
 00:06:34,686 --> 00:06:35,686
-I win.	|Abed Jeff
+I win.	|Abed Jeff	|10
 
 121
 00:06:41,496 --> 00:06:44,056
@@ -573,27 +573,27 @@ and strength of a spider.
 127
 00:06:57,043 --> 00:06:59,593
 No, your incredulity
-perplexes me, nerd.	|Jeff Extra
+perplexes me, nerd.	|Jeff Extra	|11
 
 128
 00:07:02,631 --> 00:07:05,424
 Jeff, did I say anything in my sleep
-about farm animals or Brian Williams?	|Abed Jeff
+about farm animals or Brian Williams?	|Abed Jeff	|12
 
 129
 00:07:05,915 --> 00:07:06,925
-I don't think so.	|Jeff Abed
+I don't think so.	|Jeff Abed	|12
 Cool. Cool cool cool.
 
 130
 00:07:10,963 --> 00:07:14,461
-- Lucky charms?	|Abed Jeff
+- Lucky charms?	|Abed Jeff	|12
 - How are you so satisfied all the time?
 
 131
 00:07:14,931 --> 00:07:17,895
 Don't you ever want
-anything more out of life than cereal?	|Jeff Abed
+anything more out of life than cereal?	|Jeff Abed	|12
 
 132
 00:07:18,901 --> 00:07:20,949
@@ -607,25 +607,25 @@ like a cold hot chocolate.
 
 134
 00:07:22,988 --> 00:07:24,234
-I call it "special drink".	|Abed Jeff
+I call it "special drink".	|Abed Jeff	|12
 
 135
 00:07:24,402 --> 00:07:26,987
 And some day you will know it
-by its true name, "diabetes. "	|Jeff Abed
+by its true name, "diabetes. "	|Jeff Abed	|12
 
 136
 00:07:30,450 --> 00:07:32,200
-You're Goldie Hawn, Jeff.	|Abed Jeff
+You're Goldie Hawn, Jeff.	|Abed Jeff	|12
 
 137
 00:07:32,366 --> 00:07:34,244
-- I'm sorry?	|Jeff Abed
-- You're Goldie Hawn.	|Abed Jeff
+- I'm sorry?	|Jeff Abed	|12
+- You're Goldie Hawn.	|Abed Jeff	|12
 
 138
 00:07:34,739 --> 00:07:35,989
-Is it the lips?	|Jeff Abed
+Is it the lips?	|Jeff Abed	|12
 
 139
 00:07:36,266 --> 00:07:38,308
@@ -644,11 +644,11 @@ good thing for her because,
 142
 00:07:43,546 --> 00:07:46,799
 she realized she was happier being poor
-and rising four boys with Kurt Russell.	|Abed Jeff
+and rising four boys with Kurt Russell.	|Abed Jeff	|12
 
 143
 00:07:47,306 --> 00:07:48,717
-Can I not be Kurt Russell?	|Jeff Abed
+Can I not be Kurt Russell?	|Jeff Abed	|12
 
 144
 00:07:48,885 --> 00:07:50,761
@@ -661,11 +661,11 @@ For me, it's Lucky Charms...
 
 146
 00:07:54,894 --> 00:07:55,894
-and tv.	|Abed Jeff
+and tv.	|Abed Jeff	|12
 
 147
 00:07:59,116 --> 00:08:00,616
-I could use a break.	|Jeff Abed
+I could use a break.	|Jeff Abed	|12
 
 148
 00:08:03,021 --> 00:08:04,371
@@ -677,12 +677,12 @@ Genius.
 
 150
 00:08:06,119 --> 00:08:07,652
-I was gonna lay down on newspaper.	|Troy Annie
+I was gonna lay down on newspaper.	|Troy Annie	|13
 
 151
 00:08:07,821 --> 00:08:10,364
 It's the blanket my grandmother used
-to court my grandfather.	|Annie Troy
+to court my grandfather.	|Annie Troy	|13
 
 152
 00:08:10,532 --> 00:08:12,449
@@ -690,11 +690,11 @@ Yeah? That's pretty hot.
 
 153
 00:08:13,930 --> 00:08:14,930
-Thanks.	|Troy Annie
+Thanks.	|Troy Annie	|13
 
 154
 00:08:17,817 --> 00:08:19,667
-Tell that boy how you feel!	|Shirley Annie
+Tell that boy how you feel!	|Shirley Annie	|14
 
 155
 00:08:20,592 --> 00:08:21,642
@@ -703,7 +703,7 @@ It's scary.
 156
 00:08:22,150 --> 00:08:24,585
 If he's not interested,
-I could lose the friendship too.	|Annie Shirley
+I could lose the friendship too.	|Annie Shirley	|14
 
 157
 00:08:24,755 --> 00:08:27,053
@@ -713,7 +713,7 @@ Love is a gamble always.
 158
 00:08:27,178 --> 00:08:30,456
 But waiting won't change the dice.
-You either roll them or lose your turn.	|Shirley Annie
+You either roll them or lose your turn.	|Shirley Annie	|14
 
 159
 00:08:30,581 --> 00:08:33,338
@@ -722,7 +722,7 @@ I am. I just...
 
 160
 00:08:33,622 --> 00:08:35,372
-I need a few more shakes.	|Annie Shirley
+I need a few more shakes.	|Annie Shirley	|14
 
 161
 00:08:35,765 --> 00:08:37,715
@@ -740,17 +740,17 @@ the train wreck.
 164
 00:08:43,024 --> 00:08:45,577
 Kind of hoping
-for a Michael Richards situation.	|Shirley Annie
+for a Michael Richards situation.	|Shirley Annie	|14
 
 165
 00:08:51,160 --> 00:08:53,758
 Oh! They're pretty good.
-This isn't weird for you?	|Shirley Britta
+This isn't weird for you?	|Shirley Britta	|15
 
 166
 00:08:55,131 --> 00:08:58,203
 No. Just want to show Vaughn some support
-to help smooth things over.	|Britta Shirley
+to help smooth things over.	|Britta Shirley	|15
 
 167
 00:08:58,372 --> 00:09:00,080
@@ -776,8 +776,8 @@ What am I doing?
 
 172
 00:09:12,954 --> 00:09:15,865
-- I'm getting rid of the b.	|Vaughn All
-- She's a no-good b.	|Pierce All
+- I'm getting rid of the b.	|Vaughn All	|16
+- She's a no-good b.	|Pierce All	|16
 
 173
 00:09:15,990 --> 00:09:18,307
@@ -785,8 +785,8 @@ I'm getting rid of Britta,
 
 174
 00:09:18,663 --> 00:09:21,852
-- I'm getting rid of the b.	|Vaughn All
-- She's a gdb.	|Pierce All
+- I'm getting rid of the b.	|Vaughn All	|16
+- She's a gdb.	|Pierce All	|16
 
 176
 00:09:31,456 --> 00:09:33,226
@@ -796,7 +796,7 @@ to watch stuff with.
 177
 00:09:33,351 --> 00:09:35,824
 My dad never wanted to watch anything
-so I was kind of raised by tv.	|Abed Jeff
+so I was kind of raised by tv.	|Abed Jeff	|17
 
 178
 00:09:36,769 --> 00:09:38,467
@@ -816,7 +816,7 @@ Tv never abused and insulted me,
 
 182
 00:09:44,987 --> 00:09:46,787
-unless you count Cop Rock.	|Jeff Abed
+unless you count Cop Rock.	|Jeff Abed	|17
 
 183
 00:09:47,259 --> 00:09:48,337
@@ -824,22 +824,22 @@ Cop Rock.
 
 184
 00:09:48,678 --> 00:09:50,380
-- That sounds cool.	|Abed Jeff
-- Doesn't it?	|Jeff Abed
+- That sounds cool.	|Abed Jeff	|17
+- Doesn't it?	|Jeff Abed	|17
 
 185
 00:09:54,642 --> 00:09:58,097
 Wow, you guys are really
-dorming it up in here, huh?	|Britta Jeff
+dorming it up in here, huh?	|Britta Jeff	|18
 
 186
 00:09:58,781 --> 00:10:00,758
 In the last two days,
-I spent a quarter.	|Jeff Britta
+I spent a quarter.	|Jeff Britta	|18
 
 187
 00:10:00,883 --> 00:10:03,194
-- We're having the time of our lives.	|Abed Britta
+- We're having the time of our lives.	|Abed Britta	|18
 - See?
 
 188
@@ -849,7 +849,7 @@ Who needs platinum faucets?
 189
 00:10:05,737 --> 00:10:07,612
 Do you guys even have
-faucets in here?	|Britta Jeff
+faucets in here?	|Britta Jeff	|18
 
 190
 00:10:07,737 --> 00:10:10,051
@@ -864,41 +864,41 @@ with losing my condo.
 192
 00:10:13,484 --> 00:10:16,657
 You don't sit on a toilet like that
-until you've left the material world.	|Jeff Britta
+until you've left the material world.	|Jeff Britta	|18
 
 193
 00:10:18,076 --> 00:10:19,844
-- Pavel!	|Abed Pavel
-- Hey, bros.	|Pavel Jeff Abed
+- Pavel!	|Abed Pavel	|18
+- Hey, bros.	|Pavel Jeff Abed	|18
 
 194
 00:10:19,969 --> 00:10:21,988
 This is Pavel. He lives next door.
-He's from Poland.	|Jeff Britta
+He's from Poland.	|Jeff Britta	|18
 
 194
 00:10:19,969 --> 00:10:21,988
-Britta	|Abed Pavel
+Britta	|Abed Pavel	|18
 Britta!
 
 195
 00:10:24,724 --> 00:10:27,417
 I'm getting rid of Britta,
-getting rid of the b.	|Pavel Jeff Abed
+getting rid of the b.	|Pavel Jeff Abed	|18
 
 196
 00:10:27,983 --> 00:10:30,712
 Excuse me,
-I have a future murder victim to visit.	|Britta Jeff Abed
+I have a future murder victim to visit.	|Britta Jeff Abed	|18
 
 197
 00:10:48,815 --> 00:10:50,857
-Cool.	|Jeff Abed
-Cool.	|Abed Jeff
+Cool.	|Jeff Abed	|18
+Cool.	|Abed Jeff	|18
 
 197
 00:10:48,815 --> 00:10:50,857
-Cool cool cool.	|Jeff Abed
+Cool cool cool.	|Jeff Abed	|18
 
 197
 00:10:48,815 --> 00:10:50,857
@@ -908,7 +908,7 @@ Guys, what the hell!
 198
 00:10:51,333 --> 00:10:55,337
 That song was disrespectful to me
-and to the definition of "rhyme scheme".	|Britta Vaughn Pierce
+and to the definition of "rhyme scheme".	|Britta Vaughn Pierce	|19
 
 199
 00:10:56,523 --> 00:10:59,232
@@ -922,7 +922,7 @@ and I write what I feel.
 
 201
 00:11:01,954 --> 00:11:03,704
-And I feel that you suck.	|Vaughn Britta
+And I feel that you suck.	|Vaughn Britta	|19
 
 202
 00:11:04,414 --> 00:11:05,872
@@ -939,12 +939,12 @@ for a second?
 
 205
 00:11:18,219 --> 00:11:19,312
-What'd you say?	|Pierce Vaughn
+What'd you say?	|Pierce Vaughn	|19
 
 206
 00:11:19,437 --> 00:11:21,908
 I know Britta's your friend,
-but my song is more important.	|Vaughn Pierce
+but my song is more important.	|Vaughn Pierce	|19
 
 207
 00:11:24,482 --> 00:11:26,637
@@ -953,7 +953,7 @@ We wrote it together.
 
 208
 00:11:27,104 --> 00:11:29,249
-- Are you trying to Garfunkel me?	|Pierce Vaughn
+- Are you trying to Garfunkel me?	|Pierce Vaughn	|19
 - Maybe.
 
 209
@@ -964,15 +964,15 @@ is to keep putting up with them
 210
 00:11:32,108 --> 00:11:35,902
 even though they're a fat, lazy cat
-who hogs the spotlight and eats lasagna.	|Vaughn Pierce
+who hogs the spotlight and eats lasagna.	|Vaughn Pierce	|19
 
 211
 00:11:36,070 --> 00:11:37,446
-I get it. You're jealous.	|Pierce Vaughn
+I get it. You're jealous.	|Pierce Vaughn	|19
 
 212
 00:11:38,030 --> 00:11:41,033
-- What? Why?	|Vaughn Pierce
+- What? Why?	|Vaughn Pierce	|19
 - I don't know.
 
 213
@@ -987,7 +987,7 @@ Or because I'm not a small-nippled,
 215
 00:11:46,498 --> 00:11:49,206
 credit-hogging jag
-who only knows three power cords.	|Pierce Vaughn
+who only knows three power cords.	|Pierce Vaughn	|19
 
 216
 00:11:49,805 --> 00:11:51,752
@@ -996,19 +996,19 @@ My band, my song!
 217
 00:11:54,047 --> 00:11:56,006
 You want that?
-How you like that?	|Vaughn Pierce
+How you like that?	|Vaughn Pierce	|19
 
 218
 00:11:59,544 --> 00:12:00,802
-You get on that horse.	|Pierce Vaughn
+You get on that horse.	|Pierce Vaughn	|19
 
 219
 00:12:07,023 --> 00:12:08,727
-Did you just defend my honor?	|Britta Pierce
+Did you just defend my honor?	|Britta Pierce	|20
 
 220
 00:12:11,543 --> 00:12:12,943
-Oh, yeah, totally.	|Pierce Britta
+Oh, yeah, totally.	|Pierce Britta	|20
 
 221
 00:12:13,793 --> 00:12:15,743
@@ -1036,7 +1036,7 @@ she shakes when she gets cold.
 226
 00:12:28,456 --> 00:12:32,292
 And she'll feel like
-the luckiest girl in the world.	|Annie Troy
+the luckiest girl in the world.	|Annie Troy	|21
 
 227
 00:12:32,656 --> 00:12:33,656
@@ -1054,12 +1054,12 @@ You're really nice.
 230
 00:12:39,727 --> 00:12:41,827
 We should've hung out more
-in high school.	|Troy Annie
+in high school.	|Troy Annie	|21
 
 231
 00:12:42,485 --> 00:12:44,805
 Remember when you pretended
-to be my backpack?	|Annie Troy
+to be my backpack?	|Annie Troy	|21
 
 232
 00:12:48,542 --> 00:12:49,542
@@ -1071,7 +1071,7 @@ All right.
 
 234
 00:12:54,202 --> 00:12:55,702
-I got to go get ready.	|Troy Annie
+I got to go get ready.	|Troy Annie	|21
 
 235
 00:12:55,900 --> 00:12:58,100
@@ -1080,12 +1080,12 @@ I have to tell you...
 
 236
 00:13:04,023 --> 00:13:06,215
-- My appendix is bursting.	|Annie Troy
-- What?	|Troy Annie
+- My appendix is bursting.	|Annie Troy	|21
+- What?	|Troy Annie	|21
 
 237
 00:13:08,726 --> 00:13:10,414
-My appendix is bursting.	|Annie Troy
+My appendix is bursting.	|Annie Troy	|21
 
 238
 00:13:15,221 --> 00:13:16,671
@@ -1098,7 +1098,7 @@ to this dance before.
 
 240
 00:13:19,455 --> 00:13:21,215
-You guys are sexual partners, right?	|Nurse Troy Annie
+You guys are sexual partners, right?	|Nurse Troy Annie	|22
 
 241
 00:13:22,713 --> 00:13:25,053
@@ -1107,7 +1107,7 @@ He's my very good friend.
 
 242
 00:13:25,586 --> 00:13:26,847
-And I have appendicitis.	|Annie Nurse
+And I have appendicitis.	|Annie Nurse	|22
 
 243
 00:13:31,221 --> 00:13:33,121
@@ -1115,44 +1115,44 @@ Thanks for bringing me here.
 
 244
 00:13:33,439 --> 00:13:35,313
-Guess I ruined your date, huh?	|Annie Troy
+Guess I ruined your date, huh?	|Annie Troy	|22
 
 245
 00:13:35,782 --> 00:13:37,566
 Doesn't seem to be
-anything wrong with you.	|Nurse Annie
+anything wrong with you.	|Nurse Annie	|22
 
 246
 00:13:38,383 --> 00:13:40,527
-Cool. I'll see you.	|Troy Annie
+Cool. I'll see you.	|Troy Annie	|22
 
 247
 00:13:43,588 --> 00:13:45,888
-- Where does it hurt?	|Nurse Annie
-- Everywhere.	|Annie Nurse
+- Where does it hurt?	|Nurse Annie	|22
+- Everywhere.	|Annie Nurse	|22
 
 248
 00:13:46,117 --> 00:13:49,161
 Okay, we have to quarantine you.
-We got to get you to a safe distance.	|Nurse Annie
+We got to get you to a safe distance.	|Nurse Annie	|22
 
 249
 00:13:49,662 --> 00:13:51,976
-- My date's on the east lawn.	|Troy Nurse
+- My date's on the east lawn.	|Troy Nurse	|22
 - East lawn. Perfect.
 
 250
 00:13:53,666 --> 00:13:55,792
 This a date?
-You'll need these.	|Nurse Troy
+You'll need these.	|Nurse Troy	|22
 
 251
 00:13:56,103 --> 00:13:58,103
-Nice. I'll be thinking of you.	|Troy Annie
+Nice. I'll be thinking of you.	|Troy Annie	|22
 
 252
 00:13:59,420 --> 00:14:00,714
-Okay, I need to go.	|Annie Troy
+Okay, I need to go.	|Annie Troy	|22
 
 253
 00:14:00,883 --> 00:14:03,278
@@ -1180,12 +1180,12 @@ around here so it's kind of a...
 
 258
 00:14:15,473 --> 00:14:16,729
-Are you seeing anybody?	|Nurse Annie
+Are you seeing anybody?	|Nurse Annie	|22
 
 259
 00:14:20,922 --> 00:14:24,111
-- You guys weren't in spanish class.	|Britta Abed Jeff
-- Knight Rider marathon.	|Jeff Britta
+- You guys weren't in spanish class.	|Britta Abed Jeff	|23
+- Knight Rider marathon.	|Jeff Britta	|23
 
 260
 00:14:24,280 --> 00:14:27,046
@@ -1194,12 +1194,12 @@ who does not exist.
 
 261
 00:14:32,998 --> 00:14:34,080
-Britta, may I have a word?	|Abed Britta
+Britta, may I have a word?	|Abed Britta	|23
 
 262
 00:14:38,818 --> 00:14:41,630
-- Has this always been here?	|Jeff Extra
-- You need to take Jeff back.	|Abed Britta
+- Has this always been here?	|Jeff Extra	|23
+- You need to take Jeff back.	|Abed Britta	|24
 
 263
 00:14:42,099 --> 00:14:43,683
@@ -1208,7 +1208,7 @@ Never had him. Don't want him.
 264
 00:14:43,808 --> 00:14:47,084
 Especially now.
-He's got a real Phil Spector vibe going.	|Britta Abed
+He's got a real Phil Spector vibe going.	|Britta Abed	|24
 
 265
 00:14:48,097 --> 00:14:49,813
@@ -1222,13 +1222,13 @@ it's great for me, but it's bad for him.
 
 267
 00:14:52,942 --> 00:14:55,811
-- He needs to get back.	|Abed Britta
-- What am I supposed to do about that?	|Britta Abed
+- He needs to get back.	|Abed Britta	|24
+- What am I supposed to do about that?	|Britta Abed	|24
 
 268
 00:14:56,344 --> 00:14:57,437
-Use your lady parts.	|Abed Britta
-Abed!	|Britta Abed
+Use your lady parts.	|Abed Britta	|24
+Abed!	|Britta Abed	|24
 
 269
 00:14:58,940 --> 00:15:01,274
@@ -1242,12 +1242,12 @@ if he takes a shower
 
 271
 00:15:04,177 --> 00:15:05,569
-and finds a nice place to live.	|Abed Britta
+and finds a nice place to live.	|Abed Britta	|24
 
 272
 00:15:05,782 --> 00:15:08,240
 I'm heading back.
-Pavel's making babka.	|Jeff Abed
+Pavel's making babka.	|Jeff Abed	|24
 
 273
 00:15:09,397 --> 00:15:10,598
@@ -1256,21 +1256,21 @@ Do it. Seduce him.
 274
 00:15:10,723 --> 00:15:14,079
 Draw the tapeworm of Jeff out of him
-with your sexuality.	|Abed Britta
+with your sexuality.	|Abed Britta	|24
 
 275
 00:15:16,266 --> 00:15:18,016
-No.	|Britta Abed
-Then say good-bye to E.T.	|Abed Britta
+No.	|Britta Abed	|23
+Then say good-bye to E.T.	|Abed Britta	|24
 
 276
 00:15:20,671 --> 00:15:21,971
-Abed, it's open!	|Jeff Abed
+Abed, it's open!	|Jeff Abed	|25
 
 277
 00:15:36,188 --> 00:15:38,487
 What are you doing?
-That was the Jeffersons, honky.	|Jeff Britta
+That was the Jeffersons, honky.	|Jeff Britta	|25
 
 278
 00:15:38,612 --> 00:15:41,862
@@ -1284,11 +1284,11 @@ the Jeffersons were
 
 280
 00:15:44,249 --> 00:15:45,652
-than that family on good times.	|Britta Jeff
+than that family on good times.	|Britta Jeff	|25
 
 281
 00:15:46,097 --> 00:15:49,035
-- But they had good times.	|Jeff Britta
+- But they had good times.	|Jeff Britta	|25
 - Well, do good times really matter?
 
 282
@@ -1306,12 +1306,12 @@ That sport where the British people
 285
 00:15:55,120 --> 00:15:57,516
 ride the horses
-with the really long hammers?	|Britta Jeff
+with the really long hammers?	|Britta Jeff	|25
 
 286
 00:15:57,641 --> 00:15:59,666
 Jeez, you are way out
-of your element here.	|Jeff Britta
+of your element here.	|Jeff Britta	|25
 
 287
 00:15:59,834 --> 00:16:02,686
@@ -1339,16 +1339,16 @@ you don't get a diamond.
 292
 00:16:11,339 --> 00:16:14,179
 You just get a turd
-with less direction in life.	|Britta Jeff
+with less direction in life.	|Britta Jeff	|25
 
 293
 00:16:14,606 --> 00:16:16,516
 Thanks, coach.
-Can you turn the tv back on?	|Jeff Britta
+Can you turn the tv back on?	|Jeff Britta	|25
 
 294
 00:16:23,310 --> 00:16:26,526
-- Faucets.	|Britta Jeff
+- Faucets.	|Britta Jeff	|25
 - Italian faucets, handcrafted.
 
 295
@@ -1370,7 +1370,7 @@ for combination skin.
 
 299
 00:16:37,534 --> 00:16:38,543
-These were mine?	|Jeff Britta
+These were mine?	|Jeff Britta	|25
 
 300
 00:16:38,668 --> 00:16:40,998
@@ -1394,12 +1394,12 @@ you can look down and think,
 304
 00:16:47,712 --> 00:16:50,934
 "I was a huge phony before.
-I can do it again!"	|Britta Jeff
+I can do it again!"	|Britta Jeff	|25
 
 305
 00:16:55,505 --> 00:16:58,350
-- You're into me.	|Jeff Britta
-- I beg your unbelievable pardon.	|Britta Jeff
+- You're into me.	|Jeff Britta	|25
+- I beg your unbelievable pardon.	|Britta Jeff	|25
 
 306
 00:16:58,518 --> 00:17:02,437
@@ -1409,16 +1409,16 @@ just to have me around again.
 307
 00:17:03,517 --> 00:17:06,107
 You were may more attracted to me
-than you were willing to admit.	|Jeff Britta
+than you were willing to admit.	|Jeff Britta	|25
 
 308
 00:17:06,275 --> 00:17:08,944
 I was doing this all for Abed.
-You are the worst.	|Britta Jeff
+You are the worst.	|Britta Jeff	|25
 
 309
 00:17:09,885 --> 00:17:11,085
-Yeah. Clearly.	|Jeff Britta
+Yeah. Clearly.	|Jeff Britta	|25
 
 310
 00:17:20,530 --> 00:17:23,115
@@ -1446,7 +1446,7 @@ all that clown makeup,
 
 315
 00:17:36,867 --> 00:17:38,511
-she's a good kid.	|Pierce Vaughn
+she's a good kid.	|Pierce Vaughn	|26
 
 316
 00:17:39,655 --> 00:17:40,955
@@ -1458,12 +1458,12 @@ I've moved on.
 
 318
 00:17:44,651 --> 00:17:46,578
-- Lates!	|Vaughn Pierce
+- Lates!	|Vaughn Pierce	|26
 - Lates. Okay.
 
 319
 00:17:47,342 --> 00:17:48,525
-Snakes. What?	|Pierce Vaughn
+Snakes. What?	|Pierce Vaughn	|26
 
 320
 00:17:57,774 --> 00:18:00,845
@@ -1488,16 +1488,16 @@ Yeah, you heard me say it.
 
 325
 00:18:13,125 --> 00:18:15,203
-Pierce, you're a b.	|Vaughn All
+Pierce, you're a b.	|Vaughn All	|26
 
 326
 00:18:22,500 --> 00:18:25,550
 No! Before you two proceed,
-I have one thing to say...	|Annie Troy Brandi
+I have one thing to say...	|Annie Troy Brandi	|27
 
 327
 00:18:29,960 --> 00:18:32,152
-Did you... say it already?	|Troy Annie
+Did you... say it already?	|Troy Annie	|27
 
 328
 00:18:32,840 --> 00:18:34,028
@@ -1522,17 +1522,17 @@ Thank you.
 
 333
 00:18:45,649 --> 00:18:46,708
-Have a nice date.	|Annie Troy Brandi
+Have a nice date.	|Annie Troy Brandi	|27
 
 334
 00:18:50,277 --> 00:18:53,377
 I don't care what you think.
-For me, that was huge.	|Annie Shirley
+For me, that was huge.	|Annie Shirley	|28
 
 335
 00:18:53,723 --> 00:18:56,573
 I know, sweetie.
-Let's go find you some pants.	|Shirley Annie
+Let's go find you some pants.	|Shirley Annie	|28
 
 336
 00:18:59,889 --> 00:19:01,976
@@ -1551,12 +1551,12 @@ he smell like a fart,
 339
 00:19:06,174 --> 00:19:08,146
 the poo-poo in his pants
-and poo-poo in my heart.	|Rapper All
+and poo-poo in my heart.	|Rapper All	|29
 
 340
 00:19:09,912 --> 00:19:12,275
 Hey, look who the cat
-dragged out and licked clean.	|Britta Jeff
+dragged out and licked clean.	|Britta Jeff	|30
 
 341
 00:19:12,756 --> 00:19:14,152
@@ -1582,11 +1582,11 @@ For, uh...
 
 346
 00:19:26,419 --> 00:19:27,419
-Caring.	|Jeff Britta
+Caring.	|Jeff Britta	|30
 
 347
 00:19:30,636 --> 00:19:32,238
-You look like you moved out.	|Abed Jeff
+You look like you moved out.	|Abed Jeff	|31
 
 348
 00:19:32,363 --> 00:19:35,263
@@ -1596,20 +1596,20 @@ and I'm looking for apartments.
 349
 00:19:37,629 --> 00:19:39,678
 You would've been fine with me
-staying there forever?	|Jeff Abed
+staying there forever?	|Jeff Abed	|31
 
 350
 00:19:39,803 --> 00:19:40,804
-Yep.	|Abed Jeff
+Yep.	|Abed Jeff	|31
 
 351
 00:19:41,389 --> 00:19:43,676
-- You're pretty cool, Abed.	|Jeff Abed
-- You're a huge nerd.	|Abed Jeff
+- You're pretty cool, Abed.	|Jeff Abed	|31
+- You're a huge nerd.	|Abed Jeff	|31
 
 352
 00:19:44,176 --> 00:19:45,176
-Thanks.	|Jeff Abed
+Thanks.	|Jeff Abed	|31
 
 353
 00:19:53,438 --> 00:19:54,488
@@ -1617,7 +1617,7 @@ I'm Pierce.
 
 354
 00:19:55,008 --> 00:19:56,608
-Yeah. Song's about me.	|Pierce All
+Yeah. Song's about me.	|Pierce All	|32
 
 355
 00:20:26,773 --> 00:20:29,018
@@ -1667,7 +1667,7 @@ Then the battle is on
 364
 00:20:50,371 --> 00:20:52,815
 So this rap goes out,
-To stupid Vaughn	|Rapper Pierce
+To stupid Vaughn	|Rapper Pierce	|33
 
 365
 00:20:55,867 --> 00:20:57,226
@@ -1675,4 +1675,4 @@ Well payed Pierce.
 
 366
 00:20:57,540 --> 00:20:58,840
-This isn't over.	|Vaughn Pierce
+This isn't over.	|Vaughn Pierce	|33

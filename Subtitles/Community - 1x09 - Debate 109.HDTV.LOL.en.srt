@@ -10,12 +10,12 @@ to the housekeeper,
 3
 00:00:03,467 --> 00:00:04,901
 Stop me if you heard
-this one before.	|Pierce Group
+this one before.	|Pierce Group	|01
 
 4
 00:00:04,968 --> 00:00:07,267
 - would have been nice to have
-that option 27 minutes ago.	|Jeff Britta
+that option 27 minutes ago.	|Jeff Britta	|01
 
 5
 00:00:07,334 --> 00:00:09,067
@@ -28,7 +28,7 @@ to the guy,
 
 8
 00:00:13,067 --> 00:00:14,334
-And the guy says...	|Pierce Group
+And the guy says...	|Pierce Group	|01
 
 9
 00:00:14,400 --> 00:00:15,467
@@ -49,7 +49,7 @@ versus city college.
 
 13
 00:00:19,201 --> 00:00:21,067
-Go, human beings!	|Dean All
+Go, human beings!	|Dean All	|02
 
 14
 00:00:21,134 --> 00:00:24,334
@@ -58,7 +58,7 @@ the whole joke over again.
 
 15
 00:00:24,401 --> 00:00:26,067
-Okay, so this guy--	|Pierce All
+Okay, so this guy--	|Pierce All	|03
 - no!
 
 16
@@ -77,16 +77,16 @@ tells a stupid joke,
 19
 00:00:31,800 --> 00:00:35,001
 And i crush his windpipe
-with my three-ring binder.	|Britta Pierce
+with my three-ring binder.	|Britta Pierce	|03
 
 20
 00:00:35,067 --> 00:00:37,267
-i don't get it.	|Shirley Britta
+i don't get it.	|Shirley Britta	|03
 
 21
 00:00:37,334 --> 00:00:38,267
 - britta's trying
-to give up cigarettes.	|Jeff Shirley
+to give up cigarettes.	|Jeff Shirley	|03
 
 22
 00:00:38,334 --> 00:00:39,500
@@ -99,7 +99,7 @@ that smug look
 
 24
 00:00:41,934 --> 00:00:43,533
-Right off your pointy face.	|Britta Jeff
+Right off your pointy face.	|Britta Jeff	|03
 
 25
 00:00:43,600 --> 00:00:45,567
@@ -116,12 +116,12 @@ And you're my friend.
 28
 00:00:48,834 --> 00:00:50,234
 You need
-to start smoking again.	|Jeff Britta
+to start smoking again.	|Jeff Britta	|03
 
 29
 00:00:50,301 --> 00:00:51,834
-- i really think you should.	|Shirley Britta
-- absolutely.	|Annie Britta
+- i really think you should.	|Shirley Britta	|03
+- absolutely.	|Annie Britta	|03
 
 30
 00:00:51,900 --> 00:00:52,934
@@ -131,7 +131,7 @@ weight, and your skin looks
 31
 00:00:53,001 --> 00:00:54,368
 Really great
-when you do smoke.	|Shirley Britta
+when you do smoke.	|Shirley Britta	|03
 
 32
 00:00:54,434 --> 00:00:56,267
@@ -140,7 +140,7 @@ your support,
 
 33
 00:00:56,334 --> 00:00:57,734
-But i've got to quit this time.	|Britta Group
+But i've got to quit this time.	|Britta Group	|03
 
 34
 00:00:57,800 --> 00:00:59,633
@@ -150,11 +150,11 @@ about hypnotherapy?
 35
 00:00:59,700 --> 00:01:01,167
 I know
-a dynamite hypnotherapist.	|Pierce Britta
+a dynamite hypnotherapist.	|Pierce Britta	|03
 
 36
 00:01:01,234 --> 00:01:02,234
-- ten-to-one says it's him.	|Jeff Britta
+- ten-to-one says it's him.	|Jeff Britta	|03
 
 37
 00:01:02,301 --> 00:01:03,700
@@ -162,7 +162,7 @@ a dynamite hypnotherapist.	|Pierce Britta
 
 38
 00:01:03,767 --> 00:01:05,767
-And i'm very effective.	|Pierce Britta
+And i'm very effective.	|Pierce Britta	|03
 
 39
 00:01:05,834 --> 00:01:07,533
@@ -171,21 +171,21 @@ block out people's voices
 
 40
 00:01:07,600 --> 00:01:08,667
-I find extremely annoying?	|Jeff Pierce
+I find extremely annoying?	|Jeff Pierce	|03
 
 42
 00:01:09,734 --> 00:01:11,468
-Jeff, she's right there.	|Pierce Jeff
+Jeff, she's right there.	|Pierce Jeff	|03
 
 43
 00:01:11,533 --> 00:01:15,301
 - pierce, i would be grateful
-for your help.	|Britta Pierce
+for your help.	|Britta Pierce	|03
 
 44
 00:01:15,368 --> 00:01:18,201
 - you would?
-super. i'll set it up.	|Pierce Britta
+super. i'll set it up.	|Pierce Britta	|03
 
 45
 00:01:18,267 --> 00:01:19,834
@@ -194,53 +194,53 @@ i feel bad for him.
 
 46
 00:01:19,900 --> 00:01:21,401
-Plus, i just yelled at him.	|Britta Jeff
+Plus, i just yelled at him.	|Britta Jeff	|03
 
 47
 00:01:21,468 --> 00:01:22,667
-- you yelled at me too.	|Jeff Britta
+- you yelled at me too.	|Jeff Britta	|03
 
 48
 00:01:22,734 --> 00:01:24,834
 - oh, did i hurt your feelings,
-pointy face?	|Britta Jeff
+pointy face?	|Britta Jeff	|03
 
 49
 00:01:24,900 --> 00:01:26,767
-- wow. wow.	|Jeff Britta
+- wow. wow.	|Jeff Britta	|03
 
 50
 00:01:26,834 --> 00:01:29,767
 - have you seen the film
-department's web site?	|Troy Jeff
+department's web site?	|Troy Jeff	|04
 
 51
 00:01:29,834 --> 00:01:32,234
-- what do you think?	|Jeff Troy
+- what do you think?	|Jeff Troy	|04
 
 52
 00:01:32,301 --> 00:01:34,468
 All of abed's films
-are about us.	|Troy Group
+are about us.	|Troy Group	|04
 
 53
 00:01:34,533 --> 00:01:36,301
-- what?	|Shirley Troy
-- check it out.	|Troy Group
+- what?	|Shirley Troy	|04
+- check it out.	|Troy Group	|04
 
 55
 00:01:38,034 --> 00:01:39,201
-- what else is new?	|JeffActor GroupActor
+- what else is new?	|JeffActor GroupActor	|05
 
 56
 00:01:39,267 --> 00:01:41,500
-- Jeff.	|GroupActor JeffActor
-- hola.	|JeffActor GroupActor
+- Jeff.	|GroupActor JeffActor	|05
+- hola.	|JeffActor GroupActor	|05
 
 57
 00:01:41,567 --> 00:01:44,600
 - jeff, stop being so relaxed.
-we need to talk to you about...	|BrittaActor JeffActor
+we need to talk to you about...	|BrittaActor JeffActor	|05
 
 58
 00:01:44,667 --> 00:01:46,134
@@ -254,7 +254,7 @@ Why, on lord's good earth,
 60
 00:01:47,334 --> 00:01:48,600
 Are you living
-out of your car, boy?	|ShirleyActor JeffActor
+out of your car, boy?	|ShirleyActor JeffActor	|05
 
 61
 00:01:48,667 --> 00:01:50,034
@@ -263,7 +263,7 @@ just like us.
 
 62
 00:01:50,101 --> 00:01:51,700
-That's eerie.	|Britta Group
+That's eerie.	|Britta Group	|05
 - fine, it's true.
 
 63
@@ -272,54 +272,54 @@ I'm living out of my car.
 
 64
 00:01:53,934 --> 00:01:56,934
-And i don't want anyone's help.	|JeffActor GroupActor
+And i don't want anyone's help.	|JeffActor GroupActor	|05
 
 65
 00:01:57,001 --> 00:01:59,067
 - we had almost that
-exact conversation last week.	|Britta Group
+exact conversation last week.	|Britta Group	|05
 
 66
 00:01:59,134 --> 00:02:02,734
 - yeah, but abed posted
-this video two weeks ago.	|Troy Britta
+this video two weeks ago.	|Troy Britta	|05
 
 67
 00:02:02,800 --> 00:02:07,368
-that boy's a soothsayer.	|Shirley Troy
+that boy's a soothsayer.	|Shirley Troy	|05
 
 68
 00:02:07,434 --> 00:02:08,800
-- this is wrinkling my brain.	|Troy Group
+- this is wrinkling my brain.	|Troy Group	|05
 
 69
 00:02:08,867 --> 00:02:10,533
-- this is wrinkling my brain.	|TroyActor PierceActor
+- this is wrinkling my brain.	|TroyActor PierceActor	|05
 
 70
 00:02:10,600 --> 00:02:12,301
-- that's wrinkling my brain.	|Troy Group
+- that's wrinkling my brain.	|Troy Group	|05
 
 71
 00:02:12,368 --> 00:02:14,101
 - get a load
-of these wrinkles.	|PierceActor TroyActor
+of these wrinkles.	|PierceActor TroyActor	|05
 
 72
 00:02:14,167 --> 00:02:15,401
-who's that old guy?	|Pierce Group
+who's that old guy?	|Pierce Group	|05
 
 73
 00:02:15,468 --> 00:02:17,334
-- hi, i'm pierce hawthorne.	|PierceActor JeffActor
+- hi, i'm pierce hawthorne.	|PierceActor JeffActor	|05
 
 74
 00:02:17,401 --> 00:02:18,700
-- oh, come on!	|Pierce Group
+- oh, come on!	|Pierce Group	|05
 
 76
 00:02:24,767 --> 00:02:26,134
-- there he is.	|Annie Dean Whitman
+- there he is.	|Annie Dean Whitman	|06
 
 77
 00:02:26,201 --> 00:02:28,034
@@ -332,27 +332,27 @@ to hear
 
 79
 00:02:29,533 --> 00:02:30,700
-My announcement this morning?	|Dean Jeff
-- i hang on every word.	|Jeff Dean
+My announcement this morning?	|Dean Jeff	|06
+- i hang on every word.	|Jeff Dean	|06
 
 80
 00:02:30,767 --> 00:02:32,001
 - i'm gonna assume
-that's sarcasm.	|Dean Jeff
+that's sarcasm.	|Dean Jeff	|06
 
 81
 00:02:32,067 --> 00:02:33,201
-- correct.	|Jeff Dean
+- correct.	|Jeff Dean	|06
 
 82
 00:02:33,267 --> 00:02:34,368
 - so you didn't hear
-my announcement?	|Dean Jeff
+my announcement?	|Dean Jeff	|06
 
 83
 00:02:34,434 --> 00:02:35,234
-- i'm barely listening now.	|Jeff Dean
-- oh.	|Dean Jeff
+- i'm barely listening now.	|Jeff Dean	|06
+- oh.	|Dean Jeff	|06
 
 84
 00:02:35,301 --> 00:02:37,368
@@ -361,7 +361,7 @@ my announcement?	|Dean Jeff
 85
 00:02:37,434 --> 00:02:39,201
 And we need you to fill in for
-him at the championship tonight.	|Annie Jeff
+him at the championship tonight.	|Annie Jeff	|06
 
 86
 00:02:39,267 --> 00:02:40,500
@@ -384,7 +384,7 @@ your nether regions
 
 90
 00:02:46,567 --> 00:02:47,500
-In front of the e! channel.	|Whitman Jeff
+In front of the e! channel.	|Whitman Jeff	|06
 
 91
 00:02:47,567 --> 00:02:48,900
@@ -403,11 +403,11 @@ to those city college snobs
 94
 00:02:53,134 --> 00:02:55,533
 And their star debater
-Simmons?	|Dean Jeff
+Simmons?	|Dean Jeff	|06
 
 95
 00:02:55,600 --> 00:02:57,134
-- mm, pass.	|Jeff Dean
+- mm, pass.	|Jeff Dean	|06
 
 96
 00:02:57,201 --> 00:02:59,101
@@ -457,7 +457,7 @@ Free meals,
 106
 00:03:16,900 --> 00:03:21,834
 A night of companionship
-if you know what i mean.	|Dean Jeff
+if you know what i mean.	|Dean Jeff	|06
 
 107
 00:03:21,900 --> 00:03:24,633
@@ -467,11 +467,11 @@ for the parking space.
 108
 00:03:24,700 --> 00:03:26,767
 And if you promise
-not to tell me what you mean.	|Jeff Dean
+not to tell me what you mean.	|Jeff Dean	|06
 
 109
 00:03:26,834 --> 00:03:29,134
-- okay.	|Dean Whitman Dean
+- okay.	|Dean Whitman Dean	|06
 
 110
 00:03:29,201 --> 00:03:31,201
@@ -480,7 +480,7 @@ not to tell me what you mean.	|Jeff Dean
 111
 00:03:31,267 --> 00:03:32,567
 I really appreciate
-you helping me out.	|Britta Pierce
+you helping me out.	|Britta Pierce	|07
 
 112
 00:03:32,633 --> 00:03:34,401
@@ -494,7 +494,7 @@ sometimes, i think
 
 114
 00:03:36,067 --> 00:03:37,034
-People don't take me seriously.	|Pierce Britta
+People don't take me seriously.	|Pierce Britta	|07
 
 115
 00:03:37,101 --> 00:03:38,500
@@ -508,7 +508,7 @@ in front of my face
 117
 00:03:40,867 --> 00:03:42,934
 And tell me i'm getting
-very sleepy?	|Britta Pierce
+very sleepy?	|Britta Pierce	|07
 
 119
 00:03:44,468 --> 00:03:45,600
@@ -582,11 +582,11 @@ And soon...
 136
 00:04:19,934 --> 00:04:22,700
 Oh, god, i think
-i really hurt myself!	|Pierce Britta
+i really hurt myself!	|Pierce Britta	|07
 
 137
 00:04:22,767 --> 00:04:24,368
-Somebody help me.	|Pierce All
+Somebody help me.	|Pierce All	|07
 
 138
 00:04:24,434 --> 00:04:26,401
@@ -599,7 +599,7 @@ so well?
 
 140
 00:04:28,201 --> 00:04:31,533
-Damn my talent.	|Pierce Britta
+Damn my talent.	|Pierce Britta	|07
 
 141
 00:04:31,600 --> 00:04:35,101
@@ -609,7 +609,7 @@ people inherently good or evil?"
 142
 00:04:35,167 --> 00:04:37,368
 So when do you want
-to get together to strategize?	|Annie Jeff
+to get together to strategize?	|Annie Jeff	|08
 
 143
 00:04:37,434 --> 00:04:38,934
@@ -621,11 +621,11 @@ I was a debater for money.
 
 145
 00:04:40,734 --> 00:04:43,834
-I think i can handle this.	|Jeff Annie
+I think i can handle this.	|Jeff Annie	|08
 
 146
 00:04:43,900 --> 00:04:45,900
-How was hypnotherapy?	|Jeff Britta
+How was hypnotherapy?	|Jeff Britta	|09
 
 147
 00:04:45,967 --> 00:04:47,967
@@ -640,12 +640,12 @@ with my eyes closed
 149
 00:04:49,468 --> 00:04:51,067
 To make him feel
-like a good hypnotherapist.	|Britta Jeff
+like a good hypnotherapist.	|Britta Jeff	|09
 
 150
 00:04:51,134 --> 00:04:51,967
 - you realize
-this will never end.	|Jeff Britta
+this will never end.	|Jeff Britta	|09
 
 151
 00:04:52,034 --> 00:04:53,667
@@ -653,17 +653,17 @@ this will never end.	|Jeff Britta
 
 152
 00:04:53,734 --> 00:04:55,500
-He just wants one more session.	|Britta Jeff
+He just wants one more session.	|Britta Jeff	|09
 
 153
 00:04:55,567 --> 00:04:58,167
-- * wa-wa *	|Jeff Britta
+- * wa-wa *	|Jeff Britta	|09
 - where's abed?
 
 154
 00:04:58,234 --> 00:04:59,101
 I need to talk to him
-about his films.	|Troy Group
+about his films.	|Troy Group	|10
 
 155
 00:04:59,167 --> 00:05:00,700
@@ -671,7 +671,7 @@ about his films.	|Troy Group
 
 156
 00:05:00,767 --> 00:05:03,334
-He can read our minds.	|Shirley Group
+He can read our minds.	|Shirley Group	|10
 
 158
 00:05:05,834 --> 00:05:06,934
@@ -681,12 +681,12 @@ what you're gonna say.
 159
 00:05:07,001 --> 00:05:07,900
 You watched my movies
-on the website.	|Abed Group
+on the website.	|Abed Group	|10
 
 160
 00:05:07,967 --> 00:05:08,700
-- he's a witch!	|Shirley Group
-- get him!	|Troy Group
+- he's a witch!	|Shirley Group	|10
+- get him!	|Troy Group	|10
 
 161
 00:05:08,767 --> 00:05:10,201
@@ -704,7 +704,7 @@ I know you guys all so well
 164
 00:05:12,667 --> 00:05:15,301
 I can predict your behavior.
-like shirley.	|Abed Group
+like shirley.	|Abed Group	|10
 
 165
 00:05:15,368 --> 00:05:18,834
@@ -713,29 +713,29 @@ christian, generous person.
 
 166
 00:05:18,900 --> 00:05:21,800
-oh, that's nice.	|Abed Shirley
-oh, that's nice.	|Shirley Abed
+oh, that's nice.	|Abed Shirley	|10
+oh, that's nice.	|Shirley Abed	|10
 
 167
 00:05:21,867 --> 00:05:23,567
 - i also know you have
-thinly veiled rage issues.	|Abed Shirley
+thinly veiled rage issues.	|Abed Shirley	|10
 
 168
 00:05:23,633 --> 00:05:25,334
-careful, boy.	|Shirley Abed
-careful, boy.	|Abed Shirley
+careful, boy.	|Shirley Abed	|10
+careful, boy.	|Abed Shirley	|10
 
 
 169
 00:05:25,401 --> 00:05:26,434
-- oh.	|Shirley Abed
+- oh.	|Shirley Abed	|10
 - here. check this out.
 
 170
 00:05:26,533 --> 00:05:29,667
-May i?	|Abed Group
-- yeah.	|Troy Abed
+May i?	|Abed Group	|10
+- yeah.	|Troy Abed	|10
 
 171
 00:05:29,734 --> 00:05:30,967
@@ -749,27 +749,27 @@ affects him.
 173
 00:05:32,368 --> 00:05:33,500
 But things bother him
-more than he lets on.	|Abed Group
+more than he lets on.	|Abed Group	|10
 
 174
 00:05:33,567 --> 00:05:35,368
-- hey, i'm top of the class.	|PierceActor All
+- hey, i'm top of the class.	|PierceActor All	|10
 
 175
 00:05:35,434 --> 00:05:37,533
-- gah!	|JeffActor
+- gah!	|JeffActor	|10
 
 176
 00:05:37,600 --> 00:05:39,867
-- he's also very vain.	|Abed Group
+- he's also very vain.	|Abed Group	|10
 
 177
 00:05:39,934 --> 00:05:41,867
-- ridiculous.	|Jeff Abed
+- ridiculous.	|Jeff Abed	|10
 
 178
 00:05:41,934 --> 00:05:44,368
-oh.	|All
+oh.	|All	|10
 
 179
 00:05:44,434 --> 00:05:46,167
@@ -778,7 +778,7 @@ oh.	|All
 180
 00:05:46,234 --> 00:05:48,934
 what, i accidentally listen
-to come sail away by styx again?	|Troy Abed
+to come sail away by styx again?	|Troy Abed	|10
 
 181
 00:05:49,001 --> 00:05:49,900
@@ -791,21 +791,21 @@ It's just a movie.
 
 183
 00:05:50,967 --> 00:05:52,533
-I can't predict the future.	|Abed Troy
+I can't predict the future.	|Abed Troy	|10
 
 184
 00:05:52,600 --> 00:05:55,934
 - my leg.
-i hurt my leg. aah!	|PierceActor
+i hurt my leg. aah!	|PierceActor	|10
 
 185
 00:05:56,001 --> 00:05:59,267
-- what up, happy people?	|Pierce All
+- what up, happy people?	|Pierce All	|10
 
 186
 00:05:59,334 --> 00:06:01,500
 - you tell me my future
-right now, you evil wizard!	|Shirley Abed
+right now, you evil wizard!	|Shirley Abed	|10
 
 187
 00:06:01,567 --> 00:06:02,867
@@ -814,7 +814,7 @@ i think your shirt's trying
 
 188
 00:06:02,934 --> 00:06:04,600
-To get out of your pants.	|Pierce Jeff
+To get out of your pants.	|Pierce Jeff	|10
 
 189
 00:06:06,401 --> 00:06:10,900
@@ -828,7 +828,7 @@ When left to his own devices,
 191
 00:06:12,567 --> 00:06:18,533
 Will descend into chaos
-and evil.	|Annie Debate
+and evil.	|Annie Debate	|11
 
 193
 00:06:22,267 --> 00:06:23,267
@@ -840,7 +840,7 @@ And now, from city college,
 
 195
 00:06:27,401 --> 00:06:28,867
-Jeremy simmons.	|Dean All
+Jeremy simmons.	|Dean All	|11
 
 197
 00:06:40,834 --> 00:06:45,001
@@ -883,12 +883,12 @@ held the door
 
 206
 00:07:08,334 --> 00:07:10,600
-For a man in a wheelchair.	|Simmons Debate
+For a man in a wheelchair.	|Simmons Debate	|11
 
 207
 00:07:10,667 --> 00:07:12,134
-- oh.	|Dean
-- man is good.	|Simmons Debate
+- oh.	|Dean	|11
+- man is good.	|Simmons Debate	|11
 
 209
 00:07:13,667 --> 00:07:14,867
@@ -896,7 +896,7 @@ For a man in a wheelchair.	|Simmons Debate
 
 210
 00:07:14,934 --> 00:07:16,401
-I hate this guy.	|Dean
+I hate this guy.	|Dean	|11
 
 211
 00:07:16,468 --> 00:07:18,500
@@ -910,7 +910,7 @@ I will prove with facts
 213
 00:07:21,533 --> 00:07:26,834
 And data
-that man is inherently good.	|Simmons Debate
+that man is inherently good.	|Simmons Debate	|11
 
 215
 00:07:29,468 --> 00:07:32,301
@@ -924,7 +924,7 @@ having aggressive sex
 
 217
 00:07:35,900 --> 00:07:36,867
-With my mother.	|Whitman Jeff
+With my mother.	|Whitman Jeff	|11
 
 220
 00:07:45,967 --> 00:07:48,067
@@ -940,16 +940,16 @@ People are evil.
 
 223
 00:07:52,468 --> 00:07:54,134
-They can't help it.	|Jeff Debate
+They can't help it.	|Jeff Debate	|11
 
 224
 00:07:54,201 --> 00:07:55,800
 I didn't catch
-your name.	|Jeff Jean
+your name.	|Jeff Jean	|11
 
 225
 00:07:55,867 --> 00:07:58,401
-- it's jean.	|Jean Jeff
+- it's jean.	|Jean Jeff	|11
 
 226
 00:07:58,468 --> 00:07:59,800
@@ -963,7 +963,7 @@ this morning
 228
 00:08:01,734 --> 00:08:04,700
 Making herself
-look so lovely.	|Jeff Debate
+look so lovely.	|Jeff Debate	|11
 
 229
 00:08:04,767 --> 00:08:06,067
@@ -976,20 +976,20 @@ to tell you
 
 231
 00:08:07,301 --> 00:08:08,368
-How great you look today?	|Jeff Jean
+How great you look today?	|Jeff Jean	|11
 
 232
 00:08:08,434 --> 00:08:09,468
-- none.	|Jean Jeff
+- none.	|Jean Jeff	|11
 
 233
 00:08:09,533 --> 00:08:11,267
-- man is evil.	|Jeff Debate
+- man is evil.	|Jeff Debate	|11
 
 234
 00:08:11,334 --> 00:08:13,034
 - but you just said
-how great i looked.	|Jean Jeff
+how great i looked.	|Jean Jeff	|11
 
 235
 00:08:13,101 --> 00:08:16,267
@@ -1006,7 +1006,7 @@ And it is quite hot,
 
 238
 00:08:21,600 --> 00:08:23,934
-I wouldn't have said anything.	|Jeff Jean
+I wouldn't have said anything.	|Jeff Jean	|11
 
 239
 00:08:24,001 --> 00:08:26,134
@@ -1060,7 +1060,7 @@ Thank you very much.
 
 250
 00:08:50,867 --> 00:08:53,734
-Yeah!	|Jeff Debate
+Yeah!	|Jeff Debate	|11
 
 251
 00:08:53,800 --> 00:08:56,767
@@ -1072,17 +1072,17 @@ City college: 50,
 
 253
 00:09:01,134 --> 00:09:03,934
-Greendale: 8.	|Jean Debate
+Greendale: 8.	|Jean Debate	|11
 
 255
 00:09:11,167 --> 00:09:13,800
-- i only got 8?	|Jeff Jean
+- i only got 8?	|Jeff Jean	|11
 - she got 8. you got 0.
 
 256
 00:09:13,867 --> 00:09:16,101
 it's a debate.
-not american idol.	|Jean Jeff
+not american idol.	|Jean Jeff	|11
 
 257
 00:09:19,167 --> 00:09:21,334
@@ -1090,7 +1090,7 @@ not american idol.	|Jean Jeff
 
 258
 00:09:21,401 --> 00:09:23,934
-All sizzle, no steak.	|Simmons Jeff
+All sizzle, no steak.	|Simmons Jeff	|12
 
 259
 00:09:24,001 --> 00:09:25,500
@@ -1099,7 +1099,7 @@ All sizzle, no steak.	|Simmons Jeff
 260
 00:09:25,567 --> 00:09:27,368
 I'm doing this
-for a parking space.	|Jeff Simmons
+for a parking space.	|Jeff Simmons	|12
 
 261
 00:09:27,434 --> 00:09:28,600
@@ -1113,7 +1113,7 @@ out here.
 
 263
 00:09:29,834 --> 00:09:31,067
-Let's go.	|BasketballCoach All
+Let's go.	|BasketballCoach All	|13
 
 264
 00:09:31,134 --> 00:09:34,001
@@ -1123,7 +1123,7 @@ of jackassery is this?
 265
 00:09:34,067 --> 00:09:35,967
 We're in the middle
-of a championship debate.	|Whitman BasketballCoach
+of a championship debate.	|Whitman BasketballCoach	|13
 
 266
 00:09:36,034 --> 00:09:37,500
@@ -1131,7 +1131,7 @@ of a championship debate.	|Whitman BasketballCoach
 
 267
 00:09:37,567 --> 00:09:39,067
-For practice.	|BasketballCoach Whitman
+For practice.	|BasketballCoach Whitman	|13
 
 268
 00:09:39,134 --> 00:09:40,767
@@ -1146,17 +1146,17 @@ by the short ones.
 270
 00:09:43,201 --> 00:09:45,734
 The debate is suspended
-until tomorrow.	|Dean All
+until tomorrow.	|Dean All	|13
 
 271
 00:09:45,800 --> 00:09:48,700
 Hopefully, by then,
-we can get our act together.	|Dean Jeff
+we can get our act together.	|Dean Jeff	|13
 
 272
 00:09:50,368 --> 00:09:52,867
 - oh, great try, bruce!
-great try.	|BasketballCoach Extra
+great try.	|BasketballCoach Extra	|13
 
 273
 00:09:54,501 --> 00:09:55,334
@@ -1165,16 +1165,16 @@ when are we getting together
 
 274
 00:09:55,401 --> 00:09:56,834
-To prepare for tomorrow?	|Annie Jeff
+To prepare for tomorrow?	|Annie Jeff	|14
 
 275
 00:09:56,900 --> 00:09:58,067
 - never, because it's stupid,
-and i don't care.	|Jeff Annie
+and i don't care.	|Jeff Annie	|14
 
 276
 00:09:58,134 --> 00:10:01,434
-Bite me.	|Jeff HumanBeing
+Bite me.	|Jeff HumanBeing	|14
 
 277
 00:10:02,201 --> 00:10:03,633
@@ -1188,7 +1188,7 @@ all sizzle and no steak.
 279
 00:10:06,000 --> 00:10:07,800
 You probably couldn't beat him
-if you tried.	|Annie Jeff
+if you tried.	|Annie Jeff	|14
 
 280
 00:10:07,867 --> 00:10:09,134
@@ -1208,12 +1208,12 @@ studied before
 283
 00:10:11,934 --> 00:10:13,367
 And beat city college
-tomorrow.	|Jeff Annie
+tomorrow.	|Jeff Annie	|14
 
 284
 00:10:13,434 --> 00:10:16,301
-- really?	|Annie Jeff
-- no, who am i, iCarly?	|Jeff Annie
+- really?	|Annie Jeff	|14
+- no, who am i, iCarly?	|Jeff Annie	|14
 
 285
 00:10:16,367 --> 00:10:17,967
@@ -1222,7 +1222,7 @@ tomorrow.	|Jeff Annie
 286
 00:10:18,034 --> 00:10:20,167
 You act like things
-don't bother you, but they do.	|Annie Jeff
+don't bother you, but they do.	|Annie Jeff	|14
 
 287
 00:10:20,234 --> 00:10:22,568
@@ -1245,7 +1245,7 @@ a community college debate
 
 291
 00:10:29,201 --> 00:10:31,134
-To Jeremy "Soul Patch" Simmons.	|Jeff Annie
+To Jeremy "Soul Patch" Simmons.	|Jeff Annie	|14
 
 292
 00:10:31,201 --> 00:10:33,967
@@ -1265,11 +1265,11 @@ I like to sing too.
 
 296
 00:10:40,201 --> 00:10:41,800
-* ba na na na na na *	|Simmons Jeff
+* ba na na na na na *	|Simmons Jeff	|14
 
 297
 00:10:41,867 --> 00:10:43,134
-Kick that.	|Simmons Extra
+Kick that.	|Simmons Extra	|14
 
 298
 00:10:43,201 --> 00:10:45,700
@@ -1282,7 +1282,7 @@ Kick that.	|Simmons Extra
 300
 00:10:47,534 --> 00:10:53,334
 * now he's
-a lo-ooooo-ser *	|Simmons Jeff
+a lo-ooooo-ser *	|Simmons Jeff	|14
 
 301
 00:10:53,401 --> 00:10:54,501
@@ -1291,7 +1291,7 @@ a lo-ooooo-ser *	|Simmons Jeff
 302
 00:10:54,568 --> 00:10:55,401
 Jeff didn't understand
-the rules.	|Annie Simmons
+the rules.	|Annie Simmons	|14
 
 303
 00:10:55,468 --> 00:10:58,034
@@ -1300,12 +1300,12 @@ the rules.	|Annie Simmons
 304
 00:10:58,101 --> 00:11:00,700
 What's your excuse,
-eight points?	|Simmons Annie
+eight points?	|Simmons Annie	|14
 
 305
 00:11:00,767 --> 00:11:01,767
 - dude, leave her
-out of this.	|Jeff Simmons
+out of this.	|Jeff Simmons	|14
 
 306
 00:11:01,834 --> 00:11:04,934
@@ -1314,7 +1314,7 @@ out of this.	|Jeff Simmons
 307
 00:11:05,000 --> 00:11:07,934
 * was an outcast
-in high school *	|Simmons Annie
+in high school *	|Simmons Annie	|14
 
 308
 00:11:08,000 --> 00:11:10,301
@@ -1323,21 +1323,21 @@ dude, we are gonna debate
 
 309
 00:11:10,367 --> 00:11:12,367
-The living crap out of you.	|Jeff Simmons
+The living crap out of you.	|Jeff Simmons	|14
 
 310
 00:11:12,434 --> 00:11:15,334
 We've got some preparing
-to do.	|Jeff Annie
+to do.	|Jeff Annie	|14
 
 311
 00:11:15,401 --> 00:11:17,167
 - i liked you better
-when you were smoking.	|Troy Britta
+when you were smoking.	|Troy Britta	|15
 
 312
 00:11:17,234 --> 00:11:19,700
-- i'm so sorry.	|Britta Troy
+- i'm so sorry.	|Britta Troy	|15
 - no, you're right.
 
 313
@@ -1347,15 +1347,15 @@ and stupid.
 
 314
 00:11:21,334 --> 00:11:23,201
-You can't unring that bell.	|Troy Britta
+You can't unring that bell.	|Troy Britta	|15
 
 315
 00:11:23,267 --> 00:11:26,167
-- oh, no.	|Shirley
+- oh, no.	|Shirley	|15
 
 316
 00:11:26,234 --> 00:11:28,101
-- that's my newspaper.	|Abed Shirley
+- that's my newspaper.	|Abed Shirley	|16
 
 317
 00:11:28,167 --> 00:11:29,468
@@ -1391,7 +1391,7 @@ in a car?
 
 324
 00:11:37,800 --> 00:11:39,101
-Is it gonna happen soon?	|Shirley Abed
+Is it gonna happen soon?	|Shirley Abed	|16
 
 325
 00:11:39,167 --> 00:11:40,134
@@ -1410,36 +1410,36 @@ any better,
 328
 00:11:43,967 --> 00:11:46,867
 Here, let me show you
-what i'm working on.	|Abed Shirley
+what i'm working on.	|Abed Shirley	|16
 
 330
 00:11:52,167 --> 00:11:54,767
 - i'm sorry. is that me being
-chased down by a werewolf?	|Shirley Abed
+chased down by a werewolf?	|Shirley Abed	|16
 
 331
 00:11:54,834 --> 00:11:57,301
 - yeah. and that's how you'd
-behave in that situation, no?	|Abed Shirley
+behave in that situation, no?	|Abed Shirley	|16
 
 332
 00:11:57,367 --> 00:11:59,867
 - the situation being me being
-chased down by a werewolf.	|Shirley Abed
+chased down by a werewolf.	|Shirley Abed	|16
 
 333
 00:11:59,934 --> 00:12:03,434
-- mm-hmm.	|Abed Shirley
+- mm-hmm.	|Abed Shirley	|16
 
 335
 00:12:05,700 --> 00:12:08,401
 - and that's jeff locking lips
-with annie.	|Shirley Abed
+with annie.	|Shirley Abed	|16
 
 336
 00:12:08,468 --> 00:12:12,468
-- mm-hmm. yeah.	|Abed Shirley
-- you're a fool.	|Shirley Abed
+- mm-hmm. yeah.	|Abed Shirley	|16
+- you're a fool.	|Shirley Abed	|16
 
 337
 00:12:12,534 --> 00:12:14,468
@@ -1452,17 +1452,17 @@ Into prisoners and guards.
 
 339
 00:12:15,800 --> 00:12:17,733
-The guards immediately started--	|Annie Jeff
-- uh!	|Jeff Annie
+The guards immediately started--	|Annie Jeff	|17
+- uh!	|Jeff Annie	|17
 
 340
 00:12:17,800 --> 00:12:19,101
-- what's wrong?	|Annie Jeff
+- what's wrong?	|Annie Jeff	|17
 
 341
 00:12:19,167 --> 00:12:21,967
 - i have this weird pain
-right above my eyebrow.	|Jeff Annie
+right above my eyebrow.	|Jeff Annie	|17
 
 342
 00:12:22,034 --> 00:12:23,234
@@ -1471,11 +1471,11 @@ right above my eyebrow.	|Jeff Annie
 343
 00:12:23,301 --> 00:12:24,600
 I got my first one
-when i was four.	|Annie Jeff
+when i was four.	|Annie Jeff	|17
 
 344
 00:12:24,667 --> 00:12:25,867
-- i hate it.	|Jeff Annie
+- i hate it.	|Jeff Annie	|17
 
 345
 00:12:25,934 --> 00:12:27,301
@@ -1496,7 +1496,7 @@ If you want to win,
 
 349
 00:12:31,034 --> 00:12:32,700
-You need to prepare.	|Annie Jeff
+You need to prepare.	|Annie Jeff	|17
 
 350
 00:12:32,767 --> 00:12:35,401
@@ -1509,7 +1509,7 @@ You need to loosen up.
 
 352
 00:12:37,633 --> 00:12:40,334
-Go off book, robot debater.	|Jeff Annie
+Go off book, robot debater.	|Jeff Annie	|17
 
 353
 00:12:40,401 --> 00:12:43,700
@@ -1532,20 +1532,20 @@ and here i am,
 357
 00:12:53,101 --> 00:12:55,334
 Like a spinster librarian
-with my hair pulled back.	|Annie Jeff
+with my hair pulled back.	|Annie Jeff	|17
 
 358
 00:12:55,401 --> 00:12:56,600
-- yeah.	|Jeff Annie
+- yeah.	|Jeff Annie	|17
 
 359
 00:13:06,267 --> 00:13:08,633
-What do you think?	|Annie Jeff
-- yeah.	|Jeff Annie
+What do you think?	|Annie Jeff	|17
+- yeah.	|Jeff Annie	|17
 
 360
 00:13:08,700 --> 00:13:11,834
-- thanks.	|Annie Jeff
+- thanks.	|Annie Jeff	|17
 
 361
 00:13:11,900 --> 00:13:16,067
@@ -1554,7 +1554,7 @@ you two are gonna kiss.
 
 362
 00:13:16,134 --> 00:13:17,767
-ridiculous.	|Shirley Jeff Annie
+ridiculous.	|Shirley Jeff Annie	|18
 
 363
 00:13:17,834 --> 00:13:19,367
@@ -1566,13 +1566,13 @@ Kissing.
 
 365
 00:13:20,667 --> 00:13:22,401
-That is ridiculous.	|Jeff Annie
+That is ridiculous.	|Jeff Annie	|18
 - totally.
 
 367
 00:13:28,234 --> 00:13:29,067
 We should get back
-to work.	|Annie Jeff
+to work.	|Annie Jeff	|19
 
 368
 00:13:29,134 --> 00:13:30,800
@@ -1580,7 +1580,7 @@ to work.	|Annie Jeff
 
 369
 00:13:30,867 --> 00:13:34,367
-The people are inherently evil.	|Jeff Annie
+The people are inherently evil.	|Jeff Annie	|19
 
 370
 00:13:34,434 --> 00:13:37,267
@@ -1611,18 +1611,18 @@ Than taking a breath."
 
 376
 00:13:49,800 --> 00:13:52,067
-That's poignant, right?	|Annie Jeff
+That's poignant, right?	|Annie Jeff	|19
 - yeah.
 
 377
 00:13:52,134 --> 00:13:54,334
 You know,
-maybe we should study alone.	|Jeff Annie
+maybe we should study alone.	|Jeff Annie	|19
 
 378
 00:13:54,401 --> 00:13:55,301
-- yeah.	|Annie Jeff
-- separately.	|Jeff Annie
+- yeah.	|Annie Jeff	|19
+- separately.	|Jeff Annie	|19
 
 379
 00:13:55,367 --> 00:13:56,667
@@ -1631,17 +1631,17 @@ maybe we should study alone.	|Jeff Annie
 380
 00:13:56,733 --> 00:14:00,800
 That way we can be more
-reproductive--productive!	|Annie Jeff
+reproductive--productive!	|Annie Jeff	|19
 
 381
 00:14:00,867 --> 00:14:03,700
-Bye!	|Jeff Annie
+Bye!	|Jeff Annie	|19
 Bye!
 
 382
 00:14:07,334 --> 00:14:11,101
-- oh, you forgot your phone.	|Annie Jeff
-- well, i can get another one.	|Jeff Annie
+- oh, you forgot your phone.	|Annie Jeff	|19
+- well, i can get another one.	|Jeff Annie	|19
 
 383
 00:14:11,167 --> 00:14:14,434
@@ -1698,16 +1698,16 @@ with low self-esteem
 
 395
 00:14:46,367 --> 00:14:48,934
-And slightly larger breasts.	|Pierce Britta
+And slightly larger breasts.	|Pierce Britta	|20
 
 396
 00:14:49,000 --> 00:14:51,167
 - go to hell,
-you disgusting pig.	|Britta Pierce
+you disgusting pig.	|Britta Pierce	|20
 
 397
 00:14:51,234 --> 00:14:52,501
-- a-ha!	|Pierce Britta
+- a-ha!	|Pierce Britta	|20
 
 398
 00:14:52,568 --> 00:14:54,134
@@ -1716,7 +1716,7 @@ the whole time.
 
 399
 00:14:54,201 --> 00:14:55,434
-I was faking it.	|Britta Pierce
+I was faking it.	|Britta Pierce	|20
 - i know.
 
 400
@@ -1726,7 +1726,7 @@ I saw you.
 401
 00:14:57,301 --> 00:14:58,534
 What do you think i am,
-some kind of a joke?	|Pierce Britta
+some kind of a joke?	|Pierce Britta	|20
 
 402
 00:14:58,600 --> 00:14:59,934
@@ -1739,7 +1739,7 @@ to make you
 
 404
 00:15:01,401 --> 00:15:02,568
-Feel better about yourself.	|Britta Pierce
+Feel better about yourself.	|Britta Pierce	|20
 
 405
 00:15:02,633 --> 00:15:05,834
@@ -1768,7 +1768,7 @@ And i will not be pitied.
 
 412
 00:15:25,468 --> 00:15:27,368
-Do not help me up.	|Pierce Britta
+Do not help me up.	|Pierce Britta	|20
 
 413
 00:15:29,134 --> 00:15:32,534
@@ -1791,17 +1791,17 @@ Soiled by the earth."
 
 418
 00:15:48,900 --> 00:15:50,933
-Man is good.	|Simmons Debate
+Man is good.	|Simmons Debate	|21
 
 421
 00:15:55,734 --> 00:15:57,467
 What?
-that dude gets it.	|Troy Abed
+that dude gets it.	|Troy Abed	|21
 
 422
 00:15:57,534 --> 00:16:00,334
 - jeff winger will now offer
-a two-minute rebuttal.	|Jean Debate
+a two-minute rebuttal.	|Jean Debate	|21
 
 423
 00:16:03,900 --> 00:16:05,434
@@ -1814,7 +1814,7 @@ What are you gonna sing tonight?
 425
 00:16:06,967 --> 00:16:08,601
 I'm in the mood
-for some sade.	|Simmons Jeff
+for some sade.	|Simmons Jeff	|21
 
 427
 00:16:13,867 --> 00:16:16,334
@@ -1861,11 +1861,11 @@ from a simple desert handyman
 
 436
 00:16:41,734 --> 00:16:42,833
-Named jesus.	|Jeff Debate
+Named jesus.	|Jeff Debate	|21
 
 438
 00:16:46,501 --> 00:16:49,200
-- oh, that's nice!	|Shirley Jeff
+- oh, that's nice!	|Shirley Jeff	|21
 
 439
 00:16:49,267 --> 00:16:51,867
@@ -1874,45 +1874,45 @@ an impulse to eliminate people
 
 440
 00:16:51,933 --> 00:16:53,401
-Into our hearts.	|Annie Debate
-- counterpoint.	|Whitman Debate
+Into our hearts.	|Annie Debate	|21
+- counterpoint.	|Whitman Debate	|21
 
 441
 00:16:53,467 --> 00:16:55,601
 - mother teresa.
-joan of arc.	|Simmons Debate
+joan of arc.	|Simmons Debate	|21
 
 442
 00:16:55,668 --> 00:16:57,401
-- rebuttal.	|Whitman Debate
-- nuclear bombs.	|Annie Debate
+- rebuttal.	|Whitman Debate	|21
+- nuclear bombs.	|Annie Debate	|21
 
 443
 00:16:57,467 --> 00:16:59,534
-- nuclear families.	|Simmons Debate
-- abu ghraib.	|Jeff Debate
+- nuclear families.	|Simmons Debate	|21
+- abu ghraib.	|Jeff Debate	|21
 
 444
 00:16:59,601 --> 00:17:00,668
-- apu from the simpsons.	|Simmons Debate
+- apu from the simpsons.	|Simmons Debate	|21
 
 445
 00:17:00,734 --> 00:17:01,900
-- double rejoinder.	|Whitman Debate
+- double rejoinder.	|Whitman Debate	|21
 
 446
 00:17:01,967 --> 00:17:03,734
-- telemarketers.	|Annie Debate
-- organ donors.	|Simmons Debate
+- telemarketers.	|Annie Debate	|21
+- organ donors.	|Simmons Debate	|21
 
 447
 00:17:03,800 --> 00:17:05,200
-- hate crimes.	|Jeff Debate
-- executions.	|Annie Debate
+- hate crimes.	|Jeff Debate	|21
+- executions.	|Annie Debate	|21
 
 448
 00:17:05,267 --> 00:17:06,800
-- ketchup is a vegetable.	|Jeff Debate
+- ketchup is a vegetable.	|Jeff Debate	|21
 
 449
 00:17:06,867 --> 00:17:09,668
@@ -1921,26 +1921,26 @@ This is a real barn-burner.
 450
 00:17:09,734 --> 00:17:11,534
 God, did i just say
-cross-burner?	|Pierce Shirley
+cross-burner?	|Pierce Shirley	|22
 
 451
 00:17:11,601 --> 00:17:13,267
-- no, you did not.	|Shirley Pierce
-- oh, good.	|Pierce Shirley
+- no, you did not.	|Shirley Pierce	|22
+- oh, good.	|Pierce Shirley	|22
 
 452
 00:17:13,334 --> 00:17:15,867
-- we make an amazing team.	|Annie Jeff
+- we make an amazing team.	|Annie Jeff	|23
 - i know. we're so in sync.
 
 453
 00:17:15,933 --> 00:17:18,000
 It's like a perfect duet
-or great s...	|Jeff Annie
+or great s...	|Jeff Annie	|23
 
 454
 00:17:18,067 --> 00:17:19,567
-Hey, professor whitman.	|Jeff Whitman
+Hey, professor whitman.	|Jeff Whitman	|23
 - jeffrey.
 
 455
@@ -1953,7 +1953,7 @@ You remind me of a young me
 
 457
 00:17:22,334 --> 00:17:24,467
-With slightly worse hair.	|Whitman Jeff
+With slightly worse hair.	|Whitman Jeff	|23
 
 458
 00:17:24,534 --> 00:17:26,301
@@ -1967,11 +1967,11 @@ to win in rebuttal.
 
 460
 00:17:29,200 --> 00:17:31,334
-Simmons is finished.	|Dean Jeff Annie
+Simmons is finished.	|Dean Jeff Annie	|23
 
 461
 00:17:31,401 --> 00:17:34,301
-- this is too much for me.	|Britta Group
+- this is too much for me.	|Britta Group	|24
 
 462
 00:17:35,534 --> 00:17:37,734
@@ -1979,7 +1979,7 @@ Simmons is finished.	|Dean Jeff Annie
 
 463
 00:17:37,800 --> 00:17:39,467
-He's going off book.	|Annie Dean Jeff
+He's going off book.	|Annie Dean Jeff	|25
 
 464
 00:17:40,867 --> 00:17:41,967
@@ -1988,11 +1988,11 @@ the cards?
 
 465
 00:17:42,034 --> 00:17:43,134
-Doesn't he need the cards?	|Shirley Group
+Doesn't he need the cards?	|Shirley Group	|25
 
 466
 00:17:43,200 --> 00:17:45,734
-- it's a gambit.	|Abed Group
+- it's a gambit.	|Abed Group	|25
 
 467
 00:18:23,701 --> 00:18:26,134
@@ -2000,19 +2000,19 @@ Doesn't he need the cards?	|Shirley Group
 
 468
 00:18:26,200 --> 00:18:28,634
-Yet he caught me.	|Simmons Debate
+Yet he caught me.	|Simmons Debate	|25
 
 469
 00:18:28,701 --> 00:18:29,867
-- ooh.	|Jeff
+- ooh.	|Jeff	|25
 
 470
 00:18:29,933 --> 00:18:32,334
-- man is good.	|Simmons Debate
+- man is good.	|Simmons Debate	|25
 
 472
 00:18:47,267 --> 00:18:50,867
-- abed, abed.	|Shirley Abed
+- abed, abed.	|Shirley Abed	|26
 
 473
 00:18:50,933 --> 00:18:53,367
@@ -2024,28 +2024,28 @@ So he dropped him.
 
 475
 00:18:58,601 --> 00:19:01,800
-Man is evil.	|Annie Debate
+Man is evil.	|Annie Debate	|25
 
 477
 00:19:06,800 --> 00:19:08,501
-- greendale wins.	|Jean Debate
+- greendale wins.	|Jean Debate	|25
 
 478
 00:19:08,567 --> 00:19:11,800
-- huzzah!	|Whitman
+- huzzah!	|Whitman	|25
 
 479
 00:19:14,367 --> 00:19:17,434
-- eat that, simmons.	|Dean Simmons
+- eat that, simmons.	|Dean Simmons	|25
 
 482
 00:19:21,034 --> 00:19:22,267
 - that off-book enough
-for ya?	|Annie Jeff
+for ya?	|Annie Jeff	|25
 
 486
 00:19:28,701 --> 00:19:30,034
-- simmons got robbed.	|Troy Abed Shirley
+- simmons got robbed.	|Troy Abed Shirley	|25
 
 487
 00:19:30,100 --> 00:19:31,134
@@ -2057,7 +2057,7 @@ You do have powers.
 
 489
 00:19:32,800 --> 00:19:34,134
-I'm gonna die by werewolf.	|Shirley Abed
+I'm gonna die by werewolf.	|Shirley Abed	|26
 
 490
 00:19:34,200 --> 00:19:36,234
@@ -2067,15 +2067,15 @@ trust me.
 491
 00:19:36,301 --> 00:19:39,034
 In my next film, we discover
-that pierce is an actual genius.	|Abed Shirley
+that pierce is an actual genius.	|Abed Shirley	|26
 
 492
 00:19:39,100 --> 00:19:40,467
-- well, that's not gonna happen.	|Shirley Abed
+- well, that's not gonna happen.	|Shirley Abed	|26
 
 493
 00:19:40,534 --> 00:19:41,501
-- no, it's not.	|Abed Shirley
+- no, it's not.	|Abed Shirley	|26
 
 494
 00:19:41,567 --> 00:19:42,701
@@ -2093,45 +2093,45 @@ in your hot tub.
 
 497
 00:19:46,534 --> 00:19:48,000
-You did it.	|Britta Pierce
+You did it.	|Britta Pierce	|27
 
 498
 00:19:48,067 --> 00:19:49,668
 - yes.
-i did?	|Pierce Britta
+i did?	|Pierce Britta	|27
 
 499
 00:19:49,734 --> 00:19:53,967
-- you're a genius.	|Britta Pierce
-- ah! who's the third?	|Pierce Britta
+- you're a genius.	|Britta Pierce	|27
+- ah! who's the third?	|Pierce Britta	|27
 
 500
 00:19:54,034 --> 00:19:56,534
-- you did great in there!	|Dean HumanBeing
+- you did great in there!	|Dean HumanBeing	|28
 
 501
 00:19:56,601 --> 00:19:58,833
 - let's take
-this bacchanalia outside.	|Whitman Dean
+this bacchanalia outside.	|Whitman Dean	|28
 
 502
 00:19:58,900 --> 00:20:03,401
-Full moon tonight.	|Whitman Abed
-- whoo!	|Dean
+Full moon tonight.	|Whitman Abed	|28
+- whoo!	|Dean	|28
 
 503
 00:20:03,467 --> 00:20:05,601
-- shirley.	|Abed
+- shirley.	|Abed	|29
 
 504
 00:20:05,668 --> 00:20:09,567
 - well, i'm going this way,
-so...	|Annie Jeff
+so...	|Annie Jeff	|30
 
 505
 00:20:09,634 --> 00:20:13,401
 - well, um, congratulations,
-buddy.	|Jeff Annie
+buddy.	|Jeff Annie	|30
 
 506
 00:20:13,467 --> 00:20:16,334
@@ -2139,7 +2139,7 @@ buddy.	|Jeff Annie
 
 507
 00:20:22,067 --> 00:20:26,034
-Just pat me.	|Annie Jeff
+Just pat me.	|Annie Jeff	|30
 
 509
 00:20:35,634 --> 00:20:37,933
@@ -2148,7 +2148,7 @@ Just pat me.	|Annie Jeff
 510
 00:20:38,000 --> 00:20:40,467
 me llamo t-bone,
-la arana discoteca.	|TroyActor
+la arana discoteca.	|TroyActor	|31
 
 511
 00:20:40,534 --> 00:20:42,034
@@ -2157,11 +2157,11 @@ la arana discoteca.	|TroyActor
 512
 00:20:42,100 --> 00:20:45,634
 la biblioteca es en bigote
-grande, perro, manteca.	|AbedActor
+grande, perro, manteca.	|AbedActor	|31
 
 513
 00:20:45,701 --> 00:20:47,967
-- manteca, bigote, gigante--	|TroyActor
+- manteca, bigote, gigante--	|TroyActor	|31
 - cut, cut.
 
 514
@@ -2175,17 +2175,17 @@ Do you hate doing this?
 
 516
 00:20:51,067 --> 00:20:52,434
-Do you?	|Troy TroyActor AbedActor
+Do you?	|Troy TroyActor AbedActor	|32
 
 517
 00:20:52,501 --> 00:20:54,367
 Let me talk to you.
-can i talk to you for a second?	|Troy Abed
+can i talk to you for a second?	|Troy Abed	|32
 
 518
 00:20:54,434 --> 00:20:56,167
-Just hold on.	|Troy TroyActor AbedActor
-what is this?	|Troy Abed
+Just hold on.	|Troy TroyActor AbedActor	|32
+what is this?	|Troy Abed	|32
 
 519
 00:20:56,234 --> 00:20:57,668
@@ -2194,7 +2194,7 @@ what is this?	|Troy Abed
 520
 00:20:57,734 --> 00:21:02,134
 They're just trying to do
-what they're gonna do.	|Abed Troy
+what they're gonna do.	|Abed Troy	|32
 
 521
 00:21:02,200 --> 00:21:03,467
@@ -2202,4 +2202,4 @@ Uh, just have fun with it.
 
 522
 00:21:05,601 --> 00:21:06,601
-Take 36.	|Abed TroyActor AbedActor
+Take 36.	|Abed TroyActor AbedActor	|32

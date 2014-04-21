@@ -49,11 +49,11 @@ non-denominational Mr. Winter
 
 12
 00:00:34,795 --> 00:00:37,230
-is on his way to the student lounge!	|Dean All
+is on his way to the student lounge!	|Dean All	|01
 
 13
 00:00:37,297 --> 00:00:38,597
-Unh!	|Dean
+Unh!	|Dean	|01
 
 14
 00:00:38,665 --> 00:00:40,765
@@ -61,7 +61,7 @@ I'm so sick of the Dean jamming his PC
 
 15
 00:00:40,833 --> 00:00:41,900
-down my throat.	|Shirley Group
+down my throat.	|Shirley Group	|02
 
 16
 00:00:41,968 --> 00:00:43,501
@@ -69,11 +69,11 @@ Pierce, I'd like to commend you
 
 17
 00:00:43,568 --> 00:00:45,269
-for letting that one go.	|Jeff Pierce
+for letting that one go.	|Jeff Pierce	|02
 
 18
 00:00:45,336 --> 00:00:47,003
-"PC-ness."	|Pierce
+"PC-ness."	|Pierce	|02
 
 19
 00:00:47,071 --> 00:00:48,204
@@ -82,7 +82,7 @@ Now I get it.
 20
 00:00:48,272 --> 00:00:50,472
 It sounds like "penis".
-I just got it too.	|Troy Pierce
+I just got it too.	|Troy Pierce	|02
 
 21
 00:00:50,540 --> 00:00:52,474
@@ -94,11 +94,11 @@ and I made you all a little gift,
 
 23
 00:00:54,576 --> 00:00:56,410
-because you're like my new family.	|Shirley Group
+because you're like my new family.	|Shirley Group	|02
 
 24
 00:00:56,478 --> 00:00:58,246
-"W-W-B-J-D"?	|Annie Shirley
+"W-W-B-J-D"?	|Annie Shirley	|02
 
 25
 00:00:58,314 --> 00:01:00,048
@@ -108,15 +108,15 @@ If this stands for
 26
 00:01:00,115 --> 00:01:02,950
 I'll tell you right now...
-he'd write another crappy song.	|Pierce Troy
+he'd write another crappy song.	|Pierce Troy	|02
 
 27
 00:01:03,018 --> 00:01:05,220
-Yeah, in your face, Billy Joel.	|Troy Pierce
+Yeah, in your face, Billy Joel.	|Troy Pierce	|02
 
 28
 00:01:05,288 --> 00:01:06,421
-Who is that?	|Troy Group
+Who is that?	|Troy Group	|02
 
 29
 00:01:06,489 --> 00:01:07,856
@@ -130,7 +130,7 @@ that the real meaning
 
 31
 00:01:09,893 --> 00:01:11,994
-of this season is Christmas.	|Shirley Group
+of this season is Christmas.	|Shirley Group	|02
 
 32
 00:01:12,062 --> 00:01:14,231
@@ -139,16 +139,16 @@ Oh, well, thank you, Shirley.
 33
 00:01:14,298 --> 00:01:17,634
 I'm gonna put that in the
-pocket closest to my heart.	|Britta Shirley
+pocket closest to my heart.	|Britta Shirley	|02
 
 34
 00:01:17,702 --> 00:01:20,204
 No, no, no, it's a bracelet.
-You put 'em on.	|Shirley Britta
+You put 'em on.	|Shirley Britta	|02
 
 35
 00:01:20,271 --> 00:01:22,539
-Everybody put 'em on.	|Shirley Group
+Everybody put 'em on.	|Shirley Group	|02
 
 36
 00:01:30,449 --> 00:01:33,818
@@ -160,7 +160,7 @@ You took all the winter-doodles.
 
 38
 00:01:36,689 --> 00:01:37,689
-What are you, a douche bag?	|Thug Abed
+What are you, a douche bag?	|Thug Abed	|03
 
 39
 00:01:37,757 --> 00:01:39,058
@@ -168,7 +168,7 @@ They're for my friends.
 
 40
 00:01:39,125 --> 00:01:40,392
-There's a lot of other cookies left.	|Abed Thug
+There's a lot of other cookies left.	|Abed Thug	|03
 
 41
 00:01:40,460 --> 00:01:42,260
@@ -177,7 +177,7 @@ nut cookies there, okay?
 
 42
 00:01:42,328 --> 00:01:43,395
-I have a tree-nut allergy.	|Thug Abed
+I have a tree-nut allergy.	|Thug Abed	|03
 
 43
 00:01:43,463 --> 00:01:44,430
@@ -185,7 +185,7 @@ You should probably stay away
 
 44
 00:01:44,497 --> 00:01:45,798
-from Christmas-tree-shaped cookies.	|Abed Thug
+from Christmas-tree-shaped cookies.	|Abed Thug	|03
 
 45
 00:01:45,866 --> 00:01:47,566
@@ -194,7 +194,7 @@ make allergic sense.
 
 46
 00:01:47,634 --> 00:01:49,602
-What are you, an idiot?	|Thug Abed
+What are you, an idiot?	|Thug Abed	|03
 
 47
 00:01:49,670 --> 00:01:52,805
@@ -203,7 +203,7 @@ You and the A-team are awesome.
 
 48
 00:01:52,872 --> 00:01:54,206
-Now beat it.	|Jeff Thug
+Now beat it.	|Jeff Thug	|03
 
 49
 00:01:54,274 --> 00:01:55,373
@@ -216,7 +216,7 @@ for bird face over here.
 
 51
 00:01:57,911 --> 00:01:59,044
-Give me a winter-doodle.	|Thug Jeff
+Give me a winter-doodle.	|Thug Jeff	|03
 
 52
 00:01:59,112 --> 00:02:01,046
@@ -224,7 +224,7 @@ If you're trying to be menacing,
 
 53
 00:02:01,114 --> 00:02:02,747
-maybe don't call the cookie by its name.	|Jeff Thug
+maybe don't call the cookie by its name.	|Jeff Thug	|03
 
 54
 00:02:02,815 --> 00:02:06,217
@@ -240,15 +240,15 @@ Knock, knock.
 
 57
 00:02:08,987 --> 00:02:10,854
-My fist up your balls!	|Thug Jeff
+My fist up your balls!	|Thug Jeff	|03
 
 58
 00:02:10,922 --> 00:02:12,856
-Who's there?	|Jeff Thug
+Who's there?	|Jeff Thug	|03
 
 59
 00:02:12,923 --> 00:02:18,228
-Ha ha ha! Merry happy!	|Dean All
+Ha ha ha! Merry happy!	|Dean All	|03
 
 60
 00:02:18,295 --> 00:02:20,096
@@ -260,11 +260,11 @@ There won't always be a Dean around.
 
 62
 00:02:24,769 --> 00:02:26,236
-All right?	|Thug Jeff
+All right?	|Thug Jeff	|03
 
 63
 00:02:26,304 --> 00:02:28,005
-Still waiting on those cookies, Abed.	|Pierce Abed
+Still waiting on those cookies, Abed.	|Pierce Abed	|04
 
 65
 00:02:55,197 --> 00:02:57,098
@@ -285,15 +285,15 @@ and the moustache guy was the brother
 
 69
 00:03:00,970 --> 00:03:02,303
-of the guy on entourage.	|Abed Group
+of the guy on entourage.	|Abed Group	|04
 
 70
 00:03:02,371 --> 00:03:04,039
-Thanks for dumbing that down for us.	|Jeff Abed
+Thanks for dumbing that down for us.	|Jeff Abed	|04
 
 71
 00:03:04,106 --> 00:03:05,473
-- You got it.	|Abed Jeff
+- You got it.	|Abed Jeff	|04
 - So what's the deal, Jeff?
 
 72
@@ -303,7 +303,7 @@ in your other suit?
 
 73
 00:03:08,544 --> 00:03:10,045
-Why didn't you rap that guy in the face?	|Pierce Jeff
+Why didn't you rap that guy in the face?	|Pierce Jeff	|04
 
 74
 00:03:10,113 --> 00:03:11,480
@@ -316,7 +316,7 @@ my guitar in its case...
 
 76
 00:03:13,249 --> 00:03:14,583
-I'm over 23.	|Jeff Pierce
+I'm over 23.	|Jeff Pierce	|04
 
 77
 00:03:14,651 --> 00:03:16,852
@@ -329,11 +329,11 @@ like a certain little birthday boy.
 
 79
 00:03:20,423 --> 00:03:23,727
-Real men turn the other cheek.	|Shirley Jeff
+Real men turn the other cheek.	|Shirley Jeff	|04
 
 80
 00:03:23,794 --> 00:03:25,595
-Let's see 'em.	|Shirley Group
+Let's see 'em.	|Shirley Group	|04
 Nonsense.
 
 81
@@ -343,7 +343,7 @@ Men were wired to fight each other
 82
 00:03:26,964 --> 00:03:28,966
 so that women could
-choose the right mate.	|Pierce Group
+choose the right mate.	|Pierce Group	|04
 
 83
 00:03:29,034 --> 00:03:30,835
@@ -351,12 +351,12 @@ No, the real reason men fight
 
 84
 00:03:30,902 --> 00:03:32,771
-is to release their pent-up gayness.	|Britta Pierce
+is to release their pent-up gayness.	|Britta Pierce	|04
 
 85
 00:03:32,838 --> 00:03:34,673
 That guy wasn't gay.
-He had a moustache.	|Pierce Britta
+He had a moustache.	|Pierce Britta	|04
 
 86
 00:03:34,740 --> 00:03:36,508
@@ -369,7 +369,7 @@ Are we cramming for Spanish or not?
 88
 00:03:38,310 --> 00:03:40,612
 I need a 65,
-or I'm gonna flunk the class.	|Jeff Group
+or I'm gonna flunk the class.	|Jeff Group	|04
 
 89
 00:03:40,679 --> 00:03:43,814
@@ -382,7 +382,7 @@ if you knew that you were...
 
 91
 00:03:45,050 --> 00:03:46,150
-failing?	|Annie Jeff
+failing?	|Annie Jeff	|04
 
 92
 00:03:46,218 --> 00:03:47,585
@@ -394,7 +394,7 @@ is my definition of...
 
 94
 00:03:49,688 --> 00:03:51,189
-failing.	|Jeff Abed
+failing.	|Jeff Abed	|04
 
 95
 00:03:51,256 --> 00:03:52,757
@@ -411,12 +411,12 @@ or are you stopping home to change
 
 98
 00:03:56,028 --> 00:03:57,528
-into your Christmas outfits?	|Shirley Group
+into your Christmas outfits?	|Shirley Group	|04
 
 99
 00:04:00,599 --> 00:04:03,768
 I guess I could wear one
-of my Hanukah sweaters.	|Annie Shirley
+of my Hanukah sweaters.	|Annie Shirley	|04
 
 100
 00:04:03,835 --> 00:04:06,003
@@ -425,7 +425,7 @@ Uh, Annie...
 101
 00:04:06,071 --> 00:04:08,705
 I... I didn't know you weren't,
-um, Christian.	|Shirley Annie
+um, Christian.	|Shirley Annie	|04
 
 102
 00:04:08,773 --> 00:04:09,939
@@ -433,7 +433,7 @@ Yep.
 
 103
 00:04:10,007 --> 00:04:12,541
-One might even say I'm Jewish.	|Annie Shirley
+One might even say I'm Jewish.	|Annie Shirley	|04
 
 104
 00:04:12,609 --> 00:04:15,144
@@ -442,17 +442,17 @@ T... that's wonderful.
 
 105
 00:04:15,211 --> 00:04:17,046
-I respect all religions of the world.	|Shirley Annie
+I respect all religions of the world.	|Shirley Annie	|04
 
 106
 00:04:17,114 --> 00:04:18,881
-- I'm Muslim.	|Abed Group
-- Jehovah's witness.	|Troy Group
+- I'm Muslim.	|Abed Group	|04
+- Jehovah's witness.	|Troy Group	|04
 
 107
 00:04:18,948 --> 00:04:21,150
-- Atheist.	|Britta Group
-- The Lord is testing me.	|Shirley
+- Atheist.	|Britta Group	|04
+- The Lord is testing me.	|Shirley	|04
 
 108
 00:04:21,218 --> 00:04:23,319
@@ -461,21 +461,21 @@ that breeds conflicts.
 
 109
 00:04:23,387 --> 00:04:25,622
-- Can we please do...	|Jeff Group
-- What religion are you, Jeff?	|Abed Jeff
+- Can we please do...	|Jeff Group	|04
+- What religion are you, Jeff?	|Abed Jeff	|04
 
 110
 00:04:25,689 --> 00:04:28,624
-I'm agnostic.	|Jeff Group
+I'm agnostic.	|Jeff Group	|04
 
 111
 00:04:28,692 --> 00:04:32,162
-Agnostic... lazy man's atheist.	|Pierce Jeff
+Agnostic... lazy man's atheist.	|Pierce Jeff	|04
 
 112
 00:04:32,229 --> 00:04:33,830
-- I'm born-again.	|Pierce Group
-- Oh.	|Shirley Pierce
+- I'm born-again.	|Pierce Group	|04
+- Oh.	|Shirley Pierce	|04
 
 113
 00:04:33,898 --> 00:04:35,131
@@ -488,7 +488,7 @@ in my friend's hot tub.
 115
 00:04:36,734 --> 00:04:40,636
 I'm now a level-five laser
-lotus in my Buddhist community.	|Pierce Group
+lotus in my Buddhist community.	|Pierce Group	|04
 
 116
 00:04:40,704 --> 00:04:42,538
@@ -496,7 +496,7 @@ Uh, that does not sound like Buddhism.
 
 117
 00:04:42,606 --> 00:04:43,840
-Are you sure you're not in a cult?	|Britta Pierce
+Are you sure you're not in a cult?	|Britta Pierce	|04
 
 118
 00:04:43,908 --> 00:04:46,209
@@ -508,7 +508,7 @@ you've put me back down to a level four.
 
 120
 00:04:48,412 --> 00:04:50,980
-You now owe me 2,000 Energon cubes.	|Pierce Britta
+You now owe me 2,000 Energon cubes.	|Pierce Britta	|04
 
 121
 00:04:51,048 --> 00:04:53,249
@@ -518,12 +518,12 @@ you sound right now?
 122
 00:04:53,317 --> 00:04:56,519
 What else do you believe in,
-blood transfusions?	|Troy Pierce
+blood transfusions?	|Troy Pierce	|04
 
 123
 00:04:56,587 --> 00:04:59,155
 Jehovah's witnesses are a
-type of Christian, right, Troy?	|Shirley Pierce
+type of Christian, right, Troy?	|Shirley Pierce	|04
 
 124
 00:04:59,224 --> 00:05:01,758
@@ -536,16 +536,16 @@ and we can't drink.
 
 126
 00:05:03,127 --> 00:05:04,428
-But it helps.	|Troy Group
+But it helps.	|Troy Group	|04
 
 127
 00:05:04,495 --> 00:05:05,763
 So you're like a Muslim.
-Salaam alaikum.	|Abed Troy
+Salaam alaikum.	|Abed Troy	|04
 
 128
 00:05:05,830 --> 00:05:07,664
-Shama-lama-ding-dong.	|Troy Abed
+Shama-lama-ding-dong.	|Troy Abed	|04
 
 129
 00:05:07,732 --> 00:05:10,100
@@ -577,7 +577,7 @@ from your philosophies.
 
 135
 00:05:21,979 --> 00:05:23,046
-Sounds good?	|Shirley Group
+Sounds good?	|Shirley Group	|04
 
 136
 00:05:23,114 --> 00:05:24,247
@@ -585,15 +585,15 @@ As an agnostic,
 
 137
 00:05:24,315 --> 00:05:26,215
-I'm gonna bring my winning smile.	|Jeff Group
+I'm gonna bring my winning smile.	|Jeff Group	|04
 
 138
 00:05:26,283 --> 00:05:27,650
-That's not enough.	|Jeff
+That's not enough.	|Jeff	|04
 
 139
 00:05:37,762 --> 00:05:41,432
-Ugh! So boring.	|Chang
+Ugh! So boring.	|Chang	|05
 
 140
 00:05:41,499 --> 00:05:44,468
@@ -605,7 +605,7 @@ Hee hee.
 
 142
 00:05:46,304 --> 00:05:49,840
-Hmm. Feliz Navidad.	|Shirley All
+Hmm. Feliz Navidad.	|Shirley All	|05
 
 143
 00:05:49,908 --> 00:05:53,778
@@ -613,7 +613,7 @@ Hmm. Feliz Navidad.	|Shirley All
 
 144
 00:05:53,846 --> 00:05:55,646
-That doesn't make any sense.	|Jeff Chang
+That doesn't make any sense.	|Jeff Chang	|05
 
 145
 00:05:59,851 --> 00:06:01,318
@@ -621,33 +621,33 @@ Hey, look at that.
 
 146
 00:06:01,386 --> 00:06:02,686
-Forehead's taking a test.	|Thug Jeff
+Forehead's taking a test.	|Thug Jeff	|06
 
 147
 00:06:02,754 --> 00:06:04,388
-Why don't you get going, Chuck Norris?	|Jeff Thug
+Why don't you get going, Chuck Norris?	|Jeff Thug	|06
 
 148
 00:06:04,456 --> 00:06:07,124
-Did you just shoo me?	|Thug Jeff
+Did you just shoo me?	|Thug Jeff	|06
 
 149
 00:06:07,192 --> 00:06:08,759
-Why don't you just kiss him already?	|Britta Jeff Thug
+Why don't you just kiss him already?	|Britta Jeff Thug	|06
 
 150
 00:06:08,827 --> 00:06:11,262
 Dude, I will shoo your
-nose down your throat!	|Thug Jeff
+nose down your throat!	|Thug Jeff	|06
 
 151
 00:06:11,329 --> 00:06:13,230
 Senor Chang,
-can you do something about this?	|Jeff Chang
+can you do something about this?	|Jeff Chang	|06
 
 152
 00:06:13,298 --> 00:06:16,433
-I'll allow it.	|Chang Jeff
+I'll allow it.	|Chang Jeff	|06
 
 153
 00:06:16,501 --> 00:06:18,936
@@ -655,7 +655,7 @@ Que pasa here, huh?
 
 154
 00:06:20,571 --> 00:06:23,006
-It's usted, dude. Even I know that.	|Thug Jeff
+It's usted, dude. Even I know that.	|Thug Jeff	|06
 
 155
 00:06:26,043 --> 00:06:28,745
@@ -664,17 +664,17 @@ correct my Spanish, no sleeves.
 
 156
 00:06:28,813 --> 00:06:30,146
-It's on!	|Jeff Thug
+It's on!	|Jeff Thug	|06
 
 157
 00:06:30,214 --> 00:06:32,114
 He's doing this for me.
-He's my bodyguard.	|Abed Thug
+He's my bodyguard.	|Abed Thug	|06
 
 158
 00:06:32,182 --> 00:06:34,083
-- You wanna dance?	|Thug Jeff
-- Maybe to some show tunes?	|Britta Thug Jeff
+- You wanna dance?	|Thug Jeff	|06
+- Maybe to some show tunes?	|Britta Thug Jeff	|06
 
 159
 00:06:34,151 --> 00:06:35,518
@@ -695,16 +695,16 @@ you're cramping my style,
 
 163
 00:06:39,856 --> 00:06:41,290
-and you smell like French-fry oil.	|Jeff Thug
+and you smell like French-fry oil.	|Jeff Thug	|06
 
 164
 00:06:41,358 --> 00:06:42,992
-I don't get it!	|Thug Jeff
+I don't get it!	|Thug Jeff	|06
 
 165
 00:06:44,795 --> 00:06:46,296
 Three O'clock, bike rack,
-But not the one by the parking lot!	|Jeff Thug
+But not the one by the parking lot!	|Jeff Thug	|06
 
 166
 00:06:46,363 --> 00:06:48,665
@@ -714,11 +714,11 @@ cans near the orange cones
 167
 00:06:48,733 --> 00:06:49,666
 where they're building
-the wheelchair ramp!	|Thug Jeff
+the wheelchair ramp!	|Thug Jeff	|06
 
 168
 00:06:49,733 --> 00:06:51,000
-Yeah.	|Jeff Thug
+Yeah.	|Jeff Thug	|06
 
 169
 00:06:51,068 --> 00:06:53,737
@@ -726,17 +726,17 @@ Best exam ever.
 
 170
 00:06:53,804 --> 00:06:56,005
-That guy's awesome, man.	|Chang All
+That guy's awesome, man.	|Chang All	|06
 
 171
 00:07:00,076 --> 00:07:01,477
 So help me if that
-jerk-weed made me fail.	|Jeff Piercec
+jerk-weed made me fail.	|Jeff Pierce	|07
 
 172
 00:07:01,544 --> 00:07:04,113
 Well, I aced it, amigo.
-That means "cousin".	|Pierce Jeff
+That means "cousin".	|Pierce Jeff	|07
 
 173
 00:07:04,181 --> 00:07:05,748
@@ -750,15 +750,15 @@ I finally stand up for myself
 
 175
 00:07:07,551 --> 00:07:08,585
-and take revenge on the villain?	|Abed Jeff
+and take revenge on the villain?	|Abed Jeff	|07
 
 176
 00:07:08,653 --> 00:07:10,888
-Uh, maybe you should just hang back.	|Jeff Abed
+Uh, maybe you should just hang back.	|Jeff Abed	|07
 
 177
 00:07:10,956 --> 00:07:12,990
-Yeah I will. In his face!	|Abed Jeff
+Yeah I will. In his face!	|Abed Jeff	|07
 
 178
 00:07:13,058 --> 00:07:14,024
@@ -775,13 +775,13 @@ guilt-inducing powers.
 
 181
 00:07:19,131 --> 00:07:20,564
-- You know what I mean?	|Jeff Abed Troy Pierce
+- You know what I mean?	|Jeff Abed Troy Pierce	|07
 - No.
 
 182
 00:07:20,632 --> 00:07:23,067
 I'm wearing this Jesus bracelet
-'cause it gets me chicks.	|Troy Jeff
+'cause it gets me chicks.	|Troy Jeff	|07
 
 183
 00:07:23,135 --> 00:07:24,635
@@ -798,20 +798,20 @@ Dangerous combo.
 
 186
 00:07:28,074 --> 00:07:31,343
-Tyson, Lou Ferrigno, Rosie O'Donnell.	|Pierce Jeff
+Tyson, Lou Ferrigno, Rosie O'Donnell.	|Pierce Jeff	|07
 
 187
 00:07:31,411 --> 00:07:33,813
 You're a pretty big dude.
-Probably got some moves.	|Troy Jeff
+Probably got some moves.	|Troy Jeff	|07
 
 188
 00:07:33,881 --> 00:07:36,549
-Yeah, I got some... theories.	|Jeff Troy
+Yeah, I got some... theories.	|Jeff Troy	|07
 
 189
 00:07:36,617 --> 00:07:38,451
-- You've never been in a fight?	|Abed Jeff
+- You've never been in a fight?	|Abed Jeff	|07
 - Technically, no.
 
 190
@@ -820,20 +820,20 @@ I guess I'm too charming and likable.
 
 191
 00:07:40,154 --> 00:07:41,154
-Call me a name.	|Jeff Abed Troy
+Call me a name.	|Jeff Abed Troy	|07
 
 192
 00:07:43,057 --> 00:07:44,458
-I can't.	|Troy Jeff
+I can't.	|Troy Jeff	|07
 
 193
 00:07:44,526 --> 00:07:46,928
 Are you telling me you've
-never been punched in the face?	|Pierce Jeff
+never been punched in the face?	|Pierce Jeff	|07
 
 194
 00:07:46,996 --> 00:07:49,497
-No, thank God. This is the moneymaker.	|Jeff Pierce
+No, thank God. This is the moneymaker.	|Jeff Pierce	|07
 
 195
 00:07:49,565 --> 00:07:50,999
@@ -845,15 +845,15 @@ I was like, "Oh, no!"
 
 197
 00:07:53,069 --> 00:07:56,271
-But then I was like, "This is a story".	|Troy Jeff
+But then I was like, "This is a story".	|Troy Jeff	|07
 
 198
 00:07:56,339 --> 00:07:57,739
-And a good one.	|Jeff Troy
+And a good one.	|Jeff Troy	|07
 
 199
 00:07:57,807 --> 00:07:58,907
-Yeah.	|Troy Jeff
+Yeah.	|Troy Jeff	|07
 
 200
 00:07:58,975 --> 00:08:00,141
@@ -874,7 +874,7 @@ smoke a doobie, feel up a gal,
 204
 00:08:04,947 --> 00:08:07,215
 and then get your teeth
-knocked out by a republican.	|Pierce Jeff
+knocked out by a republican.	|Pierce Jeff	|07
 
 205
 00:08:07,283 --> 00:08:09,184
@@ -883,7 +883,7 @@ isn't for me to get hit.
 
 206
 00:08:09,252 --> 00:08:10,451
-It's for me to hit him.	|Jeff Pierce
+It's for me to hit him.	|Jeff Pierce	|07
 
 207
 00:08:10,519 --> 00:08:11,819
@@ -895,12 +895,12 @@ We have to teach Jeffrey how to fight.
 
 209
 00:08:13,756 --> 00:08:15,289
-I know a few moves.	|Pierce Troy Abed
+I know a few moves.	|Pierce Troy Abed	|07
 
 210
 00:08:15,357 --> 00:08:17,524
 Troy, I assume you're
-handy with a switchblade.	|Pierce Troy
+handy with a switchblade.	|Pierce Troy	|07
 
 211
 00:08:17,592 --> 00:08:19,393
@@ -908,7 +908,7 @@ Abed, you get back to the family tent,
 
 212
 00:08:19,460 --> 00:08:21,528
-try to find a chicken for Jeff to Chase.	|Pierce Abed
+try to find a chicken for Jeff to Chase.	|Pierce Abed	|07
 
 213
 00:08:21,595 --> 00:08:24,530
@@ -916,7 +916,7 @@ Guys, I appreciate the enthusiasm,
 
 214
 00:08:24,598 --> 00:08:26,832
-but, uh, I think I got this.	|Jeff Troy Abed Pierce
+but, uh, I think I got this.	|Jeff Troy Abed Pierce	|07
 
 215
 00:08:26,900 --> 00:08:28,901
@@ -932,11 +932,11 @@ dumb head, and, uh... the other head.
 
 218
 00:08:34,240 --> 00:08:37,109
-See you at 3:00, forehead.	|Thug Jeff
+See you at 3:00, forehead.	|Thug Jeff	|08
 
 219
 00:08:37,176 --> 00:08:40,045
-Give me a snowman, dork!	|Thug Extra
+Give me a snowman, dork!	|Thug Extra	|08
 
 220
 00:08:40,113 --> 00:08:43,783
@@ -944,19 +944,19 @@ See this, funny guy? Huh?
 
 221
 00:08:45,819 --> 00:08:49,055
-Huh?	|Thug Jeff
+Huh?	|Thug Jeff	|08
 
 222
 00:08:49,123 --> 00:08:50,590
-Classic Rosie.	|Pierce All
+Classic Rosie.	|Pierce All	|09
 
 223
 00:08:50,658 --> 00:08:52,292
-Fight lessons in a half an hour?	|Troy Jeff
+Fight lessons in a half an hour?	|Troy Jeff	|09
 
 224
 00:08:52,359 --> 00:08:55,062
-Good plan.	|Jeff Troy
+Good plan.	|Jeff Troy	|09
 
 225
 00:09:04,874 --> 00:09:07,209
@@ -985,29 +985,29 @@ So I can't believe
 
 231
 00:09:19,490 --> 00:09:21,391
-I never knew you were a Jew.	|Shirley Annie
+I never knew you were a Jew.	|Shirley Annie	|10
 
 232
 00:09:21,459 --> 00:09:24,862
-I'd say the whole word next time.	|Annie Shirley
+I'd say the whole word next time.	|Annie Shirley	|10
 
 233
 00:09:27,199 --> 00:09:30,802
 So, uh, do you think everyone
-will start arriving soon?	|Shirley Annie
+will start arriving soon?	|Shirley Annie	|10
 
 234
 00:09:30,870 --> 00:09:32,670
 I think they're gonna
-come after Jeff's fight.	|Annie Shirley
+come after Jeff's fight.	|Annie Shirley	|10
 
 235
 00:09:32,738 --> 00:09:34,638
-After Jeff's what now?	|Shirley Annie
+After Jeff's what now?	|Shirley Annie	|10
 
 236
 00:09:34,706 --> 00:09:37,275
-Jeff wants to fight that bully.	|Annie Shirley
+Jeff wants to fight that bully.	|Annie Shirley	|10
 
 237
 00:09:37,343 --> 00:09:39,177
@@ -1019,19 +1019,19 @@ Um, will you excuse me for a moment?
 
 239
 00:09:41,914 --> 00:09:45,183
-And can you finish the manger scene?	|Shirley Annie
+And can you finish the manger scene?	|Shirley Annie	|10
 
 240
 00:09:46,986 --> 00:09:50,087
-We know you were one of us.	|Annie BabyJesus
+We know you were one of us.	|Annie BabyJesus	|10
 
 241
 00:09:55,060 --> 00:09:56,460
-'Sup? 'Sup?	|Troy Jeff
+'Sup? 'Sup?	|Troy Jeff	|11
 
 242
 00:09:56,528 --> 00:09:57,795
-'Sup!	|Jeff Troy
+'Sup!	|Jeff Troy	|11
 
 243
 00:09:57,863 --> 00:09:59,163
@@ -1039,8 +1039,8 @@ No, it's a question.
 
 244
 00:09:59,231 --> 00:10:01,266
-'Sup?	|Troy Jeff
-'Sup?	|Jeff Troy
+'Sup?	|Troy Jeff	|11
+'Sup?	|Jeff Troy	|11
 
 245
 00:10:01,333 --> 00:10:02,901
@@ -1053,11 +1053,11 @@ You have the answer. He does not.
 247
 00:10:05,238 --> 00:10:07,907
 Okay, then you give him
-the forest Whitaker eye.	|Troy Jeff
+the forest Whitaker eye.	|Troy Jeff	|11
 
 248
 00:10:07,975 --> 00:10:09,308
-- That's pretty good.	|Jeff Troy
+- That's pretty good.	|Jeff Troy	|11
 - Mm-hmm.
 
 249
@@ -1074,11 +1074,11 @@ Then you look straight through his eyes
 
 252
 00:10:14,214 --> 00:10:15,347
-and deep into his soul.	|Troy Jeff
+and deep into his soul.	|Troy Jeff	|11
 
 253
 00:10:15,415 --> 00:10:16,315
-And then you move to Vermont.	|Britta Jeff Troy
+And then you move to Vermont.	|Britta Jeff Troy	|11
 
 254
 00:10:16,383 --> 00:10:17,816
@@ -1086,7 +1086,7 @@ I am sick and tired
 
 255
 00:10:17,884 --> 00:10:19,418
-of you saying that fighting is gay!	|Troy Britta
+of you saying that fighting is gay!	|Troy Britta	|11
 
 256
 00:10:19,486 --> 00:10:20,853
@@ -1095,11 +1095,11 @@ She's got a point.
 257
 00:10:20,920 --> 00:10:22,087
 You know, in boxing,
-you fight for the purse and the belt.	|Abed Troy Britta
+you fight for the purse and the belt.	|Abed Troy Britta	|11
 
 258
 00:10:22,155 --> 00:10:23,588
-I've gotta write a paper about that.	|Britta Abed
+I've gotta write a paper about that.	|Britta Abed	|11
 
 259
 00:10:23,656 --> 00:10:24,756
@@ -1116,11 +1116,11 @@ Go ahead, throw a few at the old paws.
 262
 00:10:30,562 --> 00:10:32,263
 What are you,
-a North Korean seamstress?	|Pierce Jeff
+a North Korean seamstress?	|Pierce Jeff	|11
 
 263
 00:10:32,331 --> 00:10:33,297
-Not if that's bad.	|Jeff Pierce
+Not if that's bad.	|Jeff Pierce	|11
 
 264
 00:10:33,365 --> 00:10:35,166
@@ -1133,15 +1133,15 @@ as somebody who annoys you.
 
 266
 00:10:39,038 --> 00:10:40,539
-Ooh, that's it! That's... that's good.	|Pierce Jeff
+Ooh, that's it! That's... that's good.	|Pierce Jeff	|11
 
 267
 00:10:40,607 --> 00:10:42,441
-Britta, put your blouse back on.	|Pierce Britta
+Britta, put your blouse back on.	|Pierce Britta	|11
 
 268
 00:10:42,509 --> 00:10:44,977
-Oh! Ow!	|Jeff
+Oh! Ow!	|Jeff	|11
 
 269
 00:10:45,045 --> 00:10:46,012
@@ -1149,41 +1149,41 @@ Boys, this is not a game.
 
 270
 00:10:46,080 --> 00:10:47,147
-You gotta be ready for anything.	|Pierce Jeff
+You gotta be ready for anything.	|Pierce Jeff	|11
 
 271
 00:10:47,215 --> 00:10:49,216
-Dude, that is not cool!	|Troy Pierce
+Dude, that is not cool!	|Troy Pierce	|11
 
 272
 00:10:49,283 --> 00:10:50,951
-Well, that foxy Black girl thinks it is.	|Pierce Troy
+Well, that foxy Black girl thinks it is.	|Pierce Troy	|11
 
 273
 00:10:51,018 --> 00:10:52,786
-Hmm? Ow!	|Troy
+Hmm? Ow!	|Troy	|11
 
 274
 00:10:52,854 --> 00:10:55,122
-- What are you doing?	|Jeff Pierce
-- Why does she have to be black?	|Troy Pierce
+- What are you doing?	|Jeff Pierce	|11
+- Why does she have to be black?	|Troy Pierce	|11
 
 275
 00:10:55,190 --> 00:10:56,824
-What is going on?	|Shirley Group
+What is going on?	|Shirley Group	|12
 
 276
 00:10:56,891 --> 00:11:03,830
 We're trying to get Jeff
-ready for the fiiiii...iiight.	|Troy Shirley
+ready for the fiiiii...iiight.	|Troy Shirley	|12
 
 277
 00:11:03,898 --> 00:11:06,166
-I couldn't think of another word.	|Troy Jeff
+I couldn't think of another word.	|Troy Jeff	|12
 
 278
 00:11:06,234 --> 00:11:07,368
-Idiot.	|Jeff Troy
+Idiot.	|Jeff Troy	|12
 
 279
 00:11:07,435 --> 00:11:10,370
@@ -1191,11 +1191,11 @@ He meant we were figh...
 
 280
 00:11:10,438 --> 00:11:12,005
-...ting.	|Jeff Shirley
+...ting.	|Jeff Shirley	|12
 
 281
 00:11:12,073 --> 00:11:13,474
-It is hard to think of another word.	|Jeff Troy
+It is hard to think of another word.	|Jeff Troy	|12
 
 282
 00:11:13,542 --> 00:11:15,075
@@ -1208,11 +1208,11 @@ than as a giant middle finger
 
 284
 00:11:16,277 --> 00:11:17,544
-to the most important day of the year.	|Shirley Jeff
+to the most important day of the year.	|Shirley Jeff	|12
 
 285
 00:11:17,612 --> 00:11:19,046
-December 10th?	|Jeff Shirley
+December 10th?	|Jeff Shirley	|12
 
 286
 00:11:19,114 --> 00:11:22,116
@@ -1239,7 +1239,7 @@ will I have another family
 
 291
 00:11:31,058 --> 00:11:32,425
-letting me down?	|Shirley Group
+letting me down?	|Shirley Group	|12
 
 292
 00:11:32,493 --> 00:11:36,663
@@ -1248,7 +1248,7 @@ He wouldn't listen.
 
 293
 00:11:36,731 --> 00:11:40,133
-I don't know what that is.	|Pierce Shirley
+I don't know what that is.	|Pierce Shirley	|12
 
 294
 00:11:41,969 --> 00:11:43,902
@@ -1269,11 +1269,11 @@ helps them to relax.
 
 298
 00:11:51,810 --> 00:11:54,845
-So why do you hate me and Jesus?	|Shirley Jeff
+So why do you hate me and Jesus?	|Shirley Jeff	|12
 
 299
 00:11:54,913 --> 00:11:57,248
-I don't think my brownie's working.	|Jeff Shirley
+I don't think my brownie's working.	|Jeff Shirley	|12
 
 300
 00:11:57,315 --> 00:11:59,050
@@ -1281,15 +1281,15 @@ Please don't do something so ugly
 
 301
 00:11:59,117 --> 00:12:00,751
-on a day so important to me.	|Shirley Jeff
+on a day so important to me.	|Shirley Jeff	|12
 
 302
 00:12:00,819 --> 00:12:02,720
-Again, it's December 10th.	|Jeff Shirley
+Again, it's December 10th.	|Jeff Shirley	|12
 
 303
 00:12:02,787 --> 00:12:05,223
-You think religion is stupid?	|Shirley Jeff
+You think religion is stupid?	|Shirley Jeff	|12
 
 304
 00:12:05,290 --> 00:12:06,323
@@ -1326,16 +1326,16 @@ and he corrected my Spanish.
 311
 00:12:19,338 --> 00:12:22,208
 So you go to your party,
-and I'll see you soon.	|Jeff Shirley
+and I'll see you soon.	|Jeff Shirley	|12
 
 312
 00:12:22,275 --> 00:12:25,378
-Jeffrey, I forbid you from fighting.	|Shirley Jeff
+Jeffrey, I forbid you from fighting.	|Shirley Jeff	|12
 
 313
 00:12:25,446 --> 00:12:28,715
 Well, you don't get to.
-You're not my mom.	|Jeff Shirley
+You're not my mom.	|Jeff Shirley	|12
 
 314
 00:12:28,782 --> 00:12:29,950
@@ -1347,32 +1347,32 @@ But if you show up for the fight,
 
 316
 00:12:31,720 --> 00:12:33,454
-don't show up for my party.	|Shirley Jeff
+don't show up for my party.	|Shirley Jeff	|12
 
 317
 00:12:33,521 --> 00:12:34,655
-Oh, come on, Shirley, don't be mad.	|Jeff Shirley
+Oh, come on, Shirley, don't be mad.	|Jeff Shirley	|12
 
 318
 00:12:34,723 --> 00:12:36,823
-I'm not mad. I'm disappointed.	|Shirley Jeff
+I'm not mad. I'm disappointed.	|Shirley Jeff	|12
 
 319
 00:12:36,891 --> 00:12:39,660
-That's "mom" for mad.	|Jeff Shirley
+That's "mom" for mad.	|Jeff Shirley	|12
 
 320
 00:12:44,258 --> 00:12:47,794
 Oh, hash browns and applesauce...
-That's nice.	|Shirley Annie
+That's nice.	|Shirley Annie	|13
 
 321
 00:12:47,862 --> 00:12:50,296
-Oh, what is that interesting smell?	|Shirley Abed
+Oh, what is that interesting smell?	|Shirley Abed	|13
 
 322
 00:12:50,364 --> 00:12:52,599
-It's a traditional Muslim dish.	|Abed Shirley
+It's a traditional Muslim dish.	|Abed Shirley	|13
 
 323
 00:12:52,666 --> 00:12:54,400
@@ -1385,7 +1385,7 @@ I won't be allowed to eat that.
 
 325
 00:12:56,837 --> 00:12:59,839
-That's too bad.	|Shirley Abed
+That's too bad.	|Shirley Abed	|13
 
 326
 00:12:59,907 --> 00:13:02,108
@@ -1394,28 +1394,28 @@ what she believes in...
 
 327
 00:13:02,176 --> 00:13:03,710
-nothing.	|Shirley Britta
+nothing.	|Shirley Britta	|13
 
 328
 00:13:03,777 --> 00:13:05,612
 Where should I put my
-Buddha incense holder?	|Pierce Britta
+Buddha incense holder?	|Pierce Britta	|13
 
 329
 00:13:05,679 --> 00:13:08,815
-I'm pretty sure that's a bong.	|Britta Pierce
+I'm pretty sure that's a bong.	|Britta Pierce	|13
 
 330
 00:13:08,883 --> 00:13:09,916
-Where's Jeff?	|Annie Group
+Where's Jeff?	|Annie Group	|14
 
 331
 00:13:12,119 --> 00:13:14,787
-I guess he made his choice.	|Shirley Group
+I guess he made his choice.	|Shirley Group	|14
 
 332
 00:13:14,855 --> 00:13:16,623
-I want to go to Jeff's fight.	|Troy Group
+I want to go to Jeff's fight.	|Troy Group	|14
 
 333
 00:13:16,690 --> 00:13:18,285
@@ -1457,7 +1457,7 @@ everybody!
 342
 00:13:34,035 --> 00:13:36,336
 Come on, everybody.
-You don't know it?	|Shirley Group
+You don't know it?	|Shirley Group	|14
 
 343
 00:13:36,404 --> 00:13:38,505
@@ -1465,7 +1465,7 @@ You're banning Jeff from the party?
 
 344
 00:13:38,573 --> 00:13:39,906
-That doesn't seem very Christian.	|Britta Shirley
+That doesn't seem very Christian.	|Britta Shirley	|14
 
 345
 00:13:39,974 --> 00:13:42,909
@@ -1474,7 +1474,7 @@ interesting point of view
 
 346
 00:13:42,977 --> 00:13:44,811
-coming from an atheist.	|Shirley Britta
+coming from an atheist.	|Shirley Britta	|14
 
 347
 00:13:44,879 --> 00:13:48,548
@@ -1487,11 +1487,11 @@ for my one intact family, and...
 
 349
 00:13:51,352 --> 00:13:54,254
-this is the thanks I get.	|Shirley Group
+this is the thanks I get.	|Shirley Group	|14
 
 350
 00:13:54,322 --> 00:13:57,390
-Shirley, you are a guilt machine.	|Annie Shirley
+Shirley, you are a guilt machine.	|Annie Shirley	|14
 
 351
 00:13:57,458 --> 00:13:58,859
@@ -1500,15 +1500,15 @@ or two about guilt.
 
 352
 00:13:58,926 --> 00:14:00,126
-Am I right, Jew?	|Pierce Annie
+Am I right, Jew?	|Pierce Annie	|14
 
 353
 00:14:00,194 --> 00:14:02,162
-Say the whole word!	|Annie Pierce
+Say the whole word!	|Annie Pierce	|14
 
 354
 00:14:02,230 --> 00:14:04,931
-Jewie?	|Pierce Annie
+Jewie?	|Pierce Annie	|14
 
 355
 00:14:04,999 --> 00:14:06,867
@@ -1517,12 +1517,12 @@ a Jehovah's witness
 
 356
 00:14:06,934 --> 00:14:08,168
-saying "Jewie".	|Troy Pierce
+saying "Jewie".	|Troy Pierce	|14
 
 357
 00:14:08,236 --> 00:14:10,170
 Tell it to the birthday
-cake you never got.	|Pierce
+cake you never got.	|Pierce	|14
 
 358
 00:14:10,238 --> 00:14:12,005
@@ -1530,16 +1530,16 @@ You know, there's an old Buddhist saying
 
 359
 00:14:12,073 --> 00:14:13,240
-in my vision group...	|Pierce Troy
+in my vision group...	|Pierce Troy	|14
 
 360
 00:14:13,307 --> 00:14:15,008
 You are not a Buddhist.
-You are in a cult.	|Britta Pierce
+You are in a cult.	|Britta Pierce	|14
 
 361
 00:14:15,076 --> 00:14:17,954
-Suck it, Nietzsche!	|Pierce Britta
+Suck it, Nietzsche!	|Pierce Britta	|14
 
 362
 00:14:18,022 --> 00:14:20,290
@@ -1547,12 +1547,12 @@ Guys, everyone's faith is weird.
 
 363
 00:14:20,357 --> 00:14:21,524
-Let's just not talk about it.	|Annie Group
+Let's just not talk about it.	|Annie Group	|14
 
 364
 00:14:21,592 --> 00:14:23,026
 There's nothing weird
-about Christianity.	|Shirley Group
+about Christianity.	|Shirley Group	|14
 
 365
 00:14:28,566 --> 00:14:31,167
@@ -1566,27 +1566,27 @@ religion divide us like this?
 367
 00:14:34,538 --> 00:14:36,639
 I think there's one
-thing we can all agree on.	|Britta Group
+thing we can all agree on.	|Britta Group	|14
 
 368
 00:14:36,707 --> 00:14:38,808
-- I get 72 virgins in heaven.	|Abed Britta
-- No.	|Britta Abed
+- I get 72 virgins in heaven.	|Abed Britta	|14
+- No.	|Britta Abed	|14
 
 369
 00:14:38,876 --> 00:14:41,978
 That we would all like to
-have Jeff at this party.	|Britta Group
+have Jeff at this party.	|Britta Group	|14
 
 370
 00:14:42,046 --> 00:14:43,680
-- Mm-mm.	|Annie
-- He can't come.	|Shirley Britta
+- Mm-mm.	|Annie	|14
+- He can't come.	|Shirley Britta	|14
 
 371
 00:14:43,747 --> 00:14:45,448
-- Shirley.	|Britta Shirley
-- Mm-mm.	|Shirley
+- Shirley.	|Britta Shirley	|14
+- Mm-mm.	|Shirley	|14
 
 372
 00:14:45,516 --> 00:14:46,549
@@ -1649,12 +1649,12 @@ groping another man.
 
 385
 00:15:17,147 --> 00:15:19,883
-That's what I'm gonna do.	|Britta Shirley
+That's what I'm gonna do.	|Britta Shirley	|14
 
 386
 00:15:30,199 --> 00:15:33,019
 The cranberry sauce
-has real cranberries.	|Shirley Group
+has real cranberries.	|Shirley Group	|14
 
 387
 00:15:34,020 --> 00:15:35,020
@@ -1663,11 +1663,11 @@ Look, if he doesn't show up,
 388
 00:15:35,677 --> 00:15:37,044
 We're definitely going
-to Applebee's, right?	|Thug Extra
+to Applebee's, right?	|Thug Extra	|15
 
 389
 00:15:37,112 --> 00:15:38,479
-Yeah.	|Extra Thug
+Yeah.	|Extra Thug	|15
 
 390
 00:15:38,547 --> 00:15:40,214
@@ -1684,7 +1684,7 @@ Look who showed.
 
 393
 00:15:43,852 --> 00:15:47,688
-Oh, check him out. Ahh...ahh!	|Thug Extra
+Oh, check him out. Ahh...ahh!	|Thug Extra	|15
 
 394
 00:15:47,756 --> 00:15:50,525
@@ -1697,7 +1697,7 @@ Huh? Looks like grandpa and weirdo
 396
 00:15:52,594 --> 00:15:54,228
 couldn't show up to get
-their teeth knocked out, huh?	|Thug Jeff
+their teeth knocked out, huh?	|Thug Jeff	|16
 
 397
 00:15:54,296 --> 00:15:55,830
@@ -1706,35 +1706,35 @@ Can I ask you a question?
 398
 00:15:55,898 --> 00:15:57,932
 Are you perpetually
-on your way to the gym?	|Jeff Thug
+on your way to the gym?	|Jeff Thug	|16
 
 399
 00:15:58,000 --> 00:15:59,600
-Dude, my life is a gym!	|Thug Jeff
+Dude, my life is a gym!	|Thug Jeff	|16
 
 400
 00:15:59,668 --> 00:16:01,469
-- Well, 'sup?	|Jeff Thug
-- 'Sup, man?	|Thug Jeff
+- Well, 'sup?	|Jeff Thug	|16
+- 'Sup, man?	|Thug Jeff	|16
 
 401
 00:16:01,537 --> 00:16:02,770
-- 'Sup?	|Jeff Thug
-- 'Sup?	|Thug Jeff
+- 'Sup?	|Jeff Thug	|16
+- 'Sup?	|Thug Jeff	|16
 
 402
 00:16:02,838 --> 00:16:04,172
-- 'Sup? 'Sup?	|Jeff Thug
-- 'Sup? 'Sup?	|Thug Jeff
+- 'Sup? 'Sup?	|Jeff Thug	|16
+- 'Sup? 'Sup?	|Thug Jeff	|16
 
 403
 00:16:04,239 --> 00:16:06,007
-- 'Sup? 'Sup?	|Jeff Thug
-- 'Sup? 'Sup?	|Thug Jeff
+- 'Sup? 'Sup?	|Jeff Thug	|16
+- 'Sup? 'Sup?	|Thug Jeff	|16
 
 404
 00:16:06,074 --> 00:16:08,075
-'Sup? 'Sup?	|Jeff Thug
+'Sup? 'Sup?	|Jeff Thug	|16
 
 405
 00:16:08,143 --> 00:16:09,911
@@ -1742,7 +1742,7 @@ Whoa.
 
 406
 00:16:09,978 --> 00:16:11,746
-Dude, what is that?	|Thug Jeff
+Dude, what is that?	|Thug Jeff	|16
 
 407
 00:16:11,814 --> 00:16:14,415
@@ -1751,19 +1751,19 @@ These are very expensive.
 
 408
 00:16:18,420 --> 00:16:20,688
-All right...	|Jeff Thug
+All right...	|Jeff Thug	|16
 
 409
 00:16:20,756 --> 00:16:21,689
-Dude, you wear a bracelet?	|Thug Jeff
+Dude, you wear a bracelet?	|Thug Jeff	|16
 
 410
 00:16:25,794 --> 00:16:28,563
-Your name's Mike, right?	|Jeff Thug
+Your name's Mike, right?	|Jeff Thug	|16
 
 411
 00:16:28,630 --> 00:16:30,364
-So?	|Thyg Jeff
+So?	|Thyg Jeff	|16
 
 412
 00:16:30,432 --> 00:16:32,266
@@ -1801,17 +1801,17 @@ I have to ask myself,
 
 420
 00:16:46,238 --> 00:16:48,038
-what would Shirley do?	|Jeff Thug
+what would Shirley do?	|Jeff Thug	|16
 
 421
 00:16:49,474 --> 00:16:50,841
-- Oh!	|Shirley
-- What would Shirley do?	|Thug Jeff
+- Oh!	|Shirley	|16
+- What would Shirley do?	|Thug Jeff	|16
 
 422
 00:16:50,909 --> 00:16:52,476
-- I think...	|Jeff Thug
-- What would Shirley do?	|Thug Jeff
+- I think...	|Jeff Thug	|16
+- What would Shirley do?	|Thug Jeff	|16
 
 423
 00:16:52,544 --> 00:16:55,246
@@ -1819,7 +1819,7 @@ That she would shake your hand
 
 424
 00:16:55,313 --> 00:16:57,014
-and wish you a Merry Christmas.	|Jeff Thug
+and wish you a Merry Christmas.	|Jeff Thug	|16
 
 426
 00:16:58,717 --> 00:17:01,752
@@ -1827,45 +1827,45 @@ Jeffrey...
 
 427
 00:17:01,820 --> 00:17:03,854
-Kick his ass!	|Shirley Jeff
+Kick his ass!	|Shirley Jeff	|16
 
 428
 00:17:03,922 --> 00:17:05,456
-Cavalry's here. Shirts off, boys!	|Thug Extra
+Cavalry's here. Shirts off, boys!	|Thug Extra	|16
 
 429
 00:17:05,524 --> 00:17:07,792
-Come on, I'm being punked, right?	|Britta All
+Come on, I'm being punked, right?	|Britta All	|16
 
 430
 00:17:07,859 --> 00:17:09,059
-Come here. Come here.	|Thug Extra
+Come here. Come here.	|Thug Extra	|16
 
 431
 00:17:36,555 --> 00:17:38,455
-Please, it's Christmas.	|Extra Shirley
+Please, it's Christmas.	|Extra Shirley	|17
 
 432
 00:17:38,523 --> 00:17:41,292
-It's December 10th!	|Shirley Extra
+It's December 10th!	|Shirley Extra	|17
 
 433
 00:17:41,359 --> 00:17:44,028
 Not the moneymaker.
-Not the moneymaker!	|Jeff Thug
+Not the moneymaker!	|Jeff Thug	|17
 
 436
 00:17:49,968 --> 00:17:51,902
-You're welcome!	|Pierce Jeff
+You're welcome!	|Pierce Jeff	|17
 
 437
 00:18:41,407 --> 00:18:43,742
-Yeah! That was really good.	|Annie Shirley
+Yeah! That was really good.	|Annie Shirley	|18
 
 438
 00:18:43,810 --> 00:18:45,911
-- Yeah!	|Jeff Shirley
-- That was nice.	|Britta Shirley
+- Yeah!	|Jeff Shirley	|18
+- That was nice.	|Britta Shirley	|18
 
 439
 00:18:45,978 --> 00:18:47,213
@@ -1873,11 +1873,11 @@ Thank you, thank you. I get it, yes.
 
 440
 00:18:47,281 --> 00:18:48,848
-It is I, Senior Chang.	|Chang Group
+It is I, Senior Chang.	|Chang Group	|19
 
 441
 00:18:48,916 --> 00:18:50,783
-Shakira, hold this.	|Chang Shirley
+Shakira, hold this.	|Chang Shirley	|19
 
 442
 00:18:50,851 --> 00:18:55,555
@@ -1890,7 +1890,7 @@ and all of you are moving on.
 
 445
 00:19:02,763 --> 00:19:05,698
-Heh heh heh, except... for Jeff.	|Chang Group
+Heh heh heh, except... for Jeff.	|Chang Group	|19
 
 446
 00:19:05,766 --> 00:19:07,900
@@ -1902,11 +1902,11 @@ pause for dramatic effect...
 
 448
 00:19:11,338 --> 00:19:14,373
-will be seeing me next semester.	|Chang Jeff
+will be seeing me next semester.	|Chang Jeff	|19
 
 449
 00:19:14,441 --> 00:19:16,409
-Noooooooo!	|Annie
+Noooooooo!	|Annie	|19
 
 450
 00:19:16,476 --> 00:19:19,301
@@ -1918,7 +1918,7 @@ Because he passed, you know.
 
 452
 00:19:21,171 --> 00:19:22,505
-And I'm the only Spanish teacher.	|Chang Group
+And I'm the only Spanish teacher.	|Chang Group	|19
 
 454
 00:19:23,940 --> 00:19:26,075
@@ -1926,7 +1926,7 @@ Yay! I meant about Jeff passing.
 
 455
 00:19:26,143 --> 00:19:27,877
-You being our Spanish teacher, eh.	|Annie Chang
+You being our Spanish teacher, eh.	|Annie Chang	|19
 
 457
 00:19:29,179 --> 00:19:31,647
@@ -1934,17 +1934,17 @@ Whoa.
 
 458
 00:19:31,715 --> 00:19:33,516
-Man, Mike got you good.	|Chang Jeff
+Man, Mike got you good.	|Chang Jeff	|19
 
 459
 00:19:33,583 --> 00:19:35,584
 Actually, uh,
-that was my present to Jeff.	|Pierce Chang
+that was my present to Jeff.	|Pierce Chang	|19
 
 460
 00:19:35,652 --> 00:19:39,188
 I don't care.
-I got a Mountain to shred.	|Chang Pierce
+I got a Mountain to shred.	|Chang Pierce	|19
 
 461
 00:19:39,256 --> 00:19:42,792
@@ -1952,7 +1952,7 @@ Jeffrey, you're a man now.
 
 462
 00:19:42,859 --> 00:19:43,926
-How's it feel?	|Pierce Jeff
+How's it feel?	|Pierce Jeff	|19
 
 463
 00:19:43,994 --> 00:19:45,561
@@ -1960,16 +1960,16 @@ I got hit in the face, like, four times
 
 464
 00:19:45,629 --> 00:19:46,962
-before you punched me.	|Jeff Pierce
+before you punched me.	|Jeff Pierce	|19
 
 465
 00:19:47,030 --> 00:19:49,665
 Some people just don't know
-how to say thank you.	|Pierce Jeff
+how to say thank you.	|Pierce Jeff	|19
 
 466
 00:19:49,733 --> 00:19:52,168
-Pierce, thank you.	|Jeff Pierce
+Pierce, thank you.	|Jeff Pierce	|19
 
 467
 00:19:53,737 --> 00:19:56,438
@@ -1989,12 +1989,12 @@ So, uh...
 
 471
 00:20:06,750 --> 00:20:08,350
-- Merry...	|Jeff Group
+- Merry...	|Jeff Group	|19
 - No, no, no, no, no.
 
 472
 00:20:08,418 --> 00:20:10,286
-Holiday.	|Shirley Group
+Holiday.	|Shirley Group	|19
 
 473
 00:20:10,353 --> 00:20:12,922
@@ -2002,21 +2002,21 @@ Actually, I was gonna say merry semester
 
 474
 00:20:12,989 --> 00:20:15,825
-and happy new one.	|Jeff Shirley
+and happy new one.	|Jeff Shirley	|19
 
 474
 00:20:12,989 --> 00:20:15,825
-Oh Christmas Troy, oh Christmas Troy, thy candles shine so brightly. Oh Christmas Troy, oh Christmas Troy, much pleasure thou canst give me.	|Abed Troy
-Why do you guys do stuff like this?	|Jeff Troy Abed
+Oh Christmas Troy, oh Christmas Troy, thy candles shine so brightly. Oh Christmas Troy, oh Christmas Troy, much pleasure thou canst give me.	|Abed Troy	|20
+Why do you guys do stuff like this?	|Jeff Troy Abed	|20
 
 474
 00:20:12,989 --> 00:20:15,825
-'cause it's fun?	|Troy Jeff
+'cause it's fun?	|Troy Jeff	|20
 
 474
 00:20:12,989 --> 00:20:15,825
-Don't move	|Abed Troy
+Don't move	|Abed Troy	|20
 
 474
 00:20:12,989 --> 00:20:15,825
-This nose smells like the special drink	|Troy Abed
+This nose smells like the special drink	|Troy Abed	|20
