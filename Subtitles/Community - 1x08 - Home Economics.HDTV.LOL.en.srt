@@ -143,12 +143,12 @@ so will Gwen Stefani.
 
 33
 00:01:52,621 --> 00:01:54,238
-Here comes Vaughn. Bye.	|Jeff Britta	|04
+Here comes vaughan. Bye.	|Jeff Britta	|04
 
 34
 00:01:55,726 --> 00:01:57,074
 - Crap.	|Britta Jeff	|04
-- Vaughn?
+- vaughan?
 
 35
 00:01:58,132 --> 00:02:00,213
@@ -157,12 +157,12 @@ you did it with.	|Pierce Britta	|04
 
 36
 00:02:00,747 --> 00:02:02,580
-Hi, Vaughn.
+Hi, vaughan.
 Can we talk sometime?
 
 37
 00:02:02,748 --> 00:02:04,337
-I'm sorry about how things ended.	|Britta Vaughn	|05
+I'm sorry about how things ended.	|Britta vaughan	|05
 
 38
 00:02:04,462 --> 00:02:07,899
@@ -176,13 +176,13 @@ of an antioxidant.
 
 40
 00:02:13,329 --> 00:02:16,525
-- I got band practice. Lates.	|Vaughn Britta	|05
+- I got band practice. Lates.	|vaughan Britta	|05
 - Can't we still be friends?
 
 41
 00:02:16,650 --> 00:02:19,600
 And isn't the word "later"
-already short enough?	|Britta Vaughn	|05
+already short enough?	|Britta vaughan	|05
 
 42
 00:02:20,317 --> 00:02:22,167
@@ -199,16 +199,16 @@ or whether or not we can have babies.	|Pierce Britta	|06
 
 45
 00:02:26,944 --> 00:02:28,200
-Don't talk to Vaughn.	|Britta Pierce	|06
+Don't talk to vaughan.	|Britta Pierce	|06
 
 46
 00:02:29,314 --> 00:02:32,693
 - Your hormones are clouding your...	|Pierce Britta	|06
-- Don't talk to Vaughn.	|Britta Pierce	|06
+- Don't talk to vaughan.	|Britta Pierce	|06
 
 47
 00:02:36,022 --> 00:02:38,074
-That is "girl" for "talk to Vaughn".	|Pierce	|06
+That is "girl" for "talk to vaughan".	|Pierce	|06
 
 48
 00:03:03,511 --> 00:03:06,061
@@ -271,7 +271,7 @@ Hence aids.	|Abed Pierce	|07
 61
 00:03:44,710 --> 00:03:47,059
 Brittles, I forgot to tell you,
-I went and talked to Vaughn.
+I went and talked to vaughan.
 
 62
 00:03:47,786 --> 00:03:50,207
@@ -420,7 +420,7 @@ Wanna see my place?	|Jeff Britta	|09
 93
 00:05:18,235 --> 00:05:20,719
 I can see it.
-Two girls are making out on the hood.	|Britta	Jeff	|09
+Two girls are making out on the hood.	|Britta Jeff	|09
 
 94
 00:05:20,844 --> 00:05:22,244
@@ -749,7 +749,7 @@ This isn't weird for you?	|Shirley Britta	|15
 
 166
 00:08:55,131 --> 00:08:58,203
-No. Just want to show Vaughn some support
+No. Just want to show vaughan some support
 to help smooth things over.	|Britta Shirley	|15
 
 167
@@ -776,7 +776,7 @@ What am I doing?
 
 172
 00:09:12,954 --> 00:09:15,865
-- I'm getting rid of the b.	|Vaughn All	|16
+- I'm getting rid of the b.	|vaughan All	|16
 - She's a no-good b.	|Pierce All	|16
 
 173
@@ -785,7 +785,7 @@ I'm getting rid of Britta,
 
 174
 00:09:18,663 --> 00:09:21,852
-- I'm getting rid of the b.	|Vaughn All	|16
+- I'm getting rid of the b.	|vaughan All	|16
 - She's a gdb.	|Pierce All	|16
 
 176
@@ -908,7 +908,7 @@ Guys, what the hell!
 198
 00:10:51,333 --> 00:10:55,337
 That song was disrespectful to me
-and to the definition of "rhyme scheme".	|Britta Vaughn Pierce	|19
+and to the definition of "rhyme scheme".	|Britta vaughan Pierce	|19
 
 199
 00:10:56,523 --> 00:10:59,232
@@ -922,7 +922,7 @@ and I write what I feel.
 
 201
 00:11:01,954 --> 00:11:03,704
-And I feel that you suck.	|Vaughn Britta	|19
+And I feel that you suck.	|vaughan Britta	|19
 
 202
 00:11:04,414 --> 00:11:05,872
@@ -939,12 +939,12 @@ for a second?
 
 205
 00:11:18,219 --> 00:11:19,312
-What'd you say?	|Pierce Vaughn	|19
+What'd you say?	|Pierce vaughan	|19
 
 206
 00:11:19,437 --> 00:11:21,908
 I know Britta's your friend,
-but my song is more important.	|Vaughn Pierce	|19
+but my song is more important.	|vaughan Pierce	|19
 
 207
 00:11:24,482 --> 00:11:26,637
@@ -953,7 +953,7 @@ We wrote it together.
 
 208
 00:11:27,104 --> 00:11:29,249
-- Are you trying to Garfunkel me?	|Pierce Vaughn	|19
+- Are you trying to Garfunkel me?	|Pierce vaughan	|19
 - Maybe.
 
 209
@@ -964,15 +964,15 @@ is to keep putting up with them
 210
 00:11:32,108 --> 00:11:35,902
 even though they're a fat, lazy cat
-who hogs the spotlight and eats lasagna.	|Vaughn Pierce	|19
+who hogs the spotlight and eats lasagna.	|vaughan Pierce	|19
 
 211
 00:11:36,070 --> 00:11:37,446
-I get it. You're jealous.	|Pierce Vaughn	|19
+I get it. You're jealous.	|Pierce vaughan	|19
 
 212
 00:11:38,030 --> 00:11:41,033
-- What? Why?	|Vaughn Pierce	|19
+- What? Why?	|vaughan Pierce	|19
 - I don't know.
 
 213
@@ -987,7 +987,7 @@ Or because I'm not a small-nippled,
 215
 00:11:46,498 --> 00:11:49,206
 credit-hogging jag
-who only knows three power cords.	|Pierce Vaughn	|19
+who only knows three power cords.	|Pierce vaughan	|19
 
 216
 00:11:49,805 --> 00:11:51,752
@@ -996,11 +996,11 @@ My band, my song!
 217
 00:11:54,047 --> 00:11:56,006
 You want that?
-How you like that?	|Vaughn Pierce	|19
+How you like that?	|vaughan Pierce	|19
 
 218
 00:11:59,544 --> 00:12:00,802
-You get on that horse.	|Pierce Vaughn	|19
+You get on that horse.	|Pierce vaughan	|19
 
 219
 00:12:07,023 --> 00:12:08,727
@@ -1422,7 +1422,7 @@ Yeah. Clearly.	|Jeff Britta	|25
 
 310
 00:17:20,530 --> 00:17:23,115
-Vaughn, I just want you to know,
+vaughan, I just want you to know,
 I haven't changed my mind.
 
 311
@@ -1446,7 +1446,7 @@ all that clown makeup,
 
 315
 00:17:36,867 --> 00:17:38,511
-she's a good kid.	|Pierce Vaughn	|26
+she's a good kid.	|Pierce vaughan	|26
 
 316
 00:17:39,655 --> 00:17:40,955
@@ -1458,12 +1458,12 @@ I've moved on.
 
 318
 00:17:44,651 --> 00:17:46,578
-- Lates!	|Vaughn Pierce	|26
+- Lates!	|vaughan Pierce	|26
 - Lates. Okay.
 
 319
 00:17:47,342 --> 00:17:48,525
-Snakes. What?	|Pierce Vaughn	|26
+Snakes. What?	|Pierce vaughan	|26
 
 320
 00:17:57,774 --> 00:18:00,845
@@ -1488,7 +1488,7 @@ Yeah, you heard me say it.
 
 325
 00:18:13,125 --> 00:18:15,203
-Pierce, you're a b.	|Vaughn All	|26
+Pierce, you're a b.	|vaughan All	|26
 
 326
 00:18:22,500 --> 00:18:25,550
@@ -1626,13 +1626,13 @@ North side, south
 
 356
 00:20:29,186 --> 00:20:31,765
-Vaughn's breath is so bad,
+vaughan's breath is so bad,
 His butts mad at his mouth
 
 357
 00:20:31,890 --> 00:20:34,297
 This rap is by Pierce,
-Vaughn is dumb
+vaughan is dumb
 
 358
 00:20:34,422 --> 00:20:37,091
@@ -1667,7 +1667,7 @@ Then the battle is on
 364
 00:20:50,371 --> 00:20:52,815
 So this rap goes out,
-To stupid Vaughn	|Rapper Pierce	|33
+To stupid vaughan	|Rapper Pierce	|33
 
 365
 00:20:55,867 --> 00:20:57,226
@@ -1675,4 +1675,4 @@ Well payed Pierce.
 
 366
 00:20:57,540 --> 00:20:58,840
-This isn't over.	|Vaughn Pierce	|33
+This isn't over.	|vaughan Pierce	|33

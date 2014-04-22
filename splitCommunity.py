@@ -64,14 +64,21 @@ class CharacterGraphMaker:
 		print episode + "\n"
 		self.episodeName = episode
 		self.convoInEpisode = {}
+		self.convoArr = []
 		for line in episodeLines:
 			self.getConversationSpeakers(line)
+		'''
 		for convo in sorted(self.convoInEpisode):
 			for line in self.convoInEpisode[convo]:
-				print line
+				print "Speaker : " + line["Speaker"]
+				print "Listener : " + line["Listeners"]
+				print line["Line"]
+			self.convoArr.append(self.convoInEpisode[convo])
 			print "\n"
 		print "\n"
-		#self.convoInEpisode = {}
+		'''
+		self.convoList.append(self.convoArr)
+
 
 	def getConversationSpeakers(self, line):
 
@@ -80,9 +87,17 @@ class CharacterGraphMaker:
 		if speaker not in self.characterList:
 			self.characterList[speaker] = Character(speaker)
 		if convoMarker not in self.convoInEpisode:
-			self.convoInEpisode[convoMarker] = ["\tSpeaker: " + speaker + "\tListeners: " + " ".join(listeners) + "\n" + spoken]
+			self.convoInEpisode[convoMarker] = [{
+				"Speaker" : speaker,
+				"Listeners" : " ".join(listeners),
+				"Line" : spoken
+			}]
 		else:
-			self.convoInEpisode[convoMarker].append("\tSpeaker: " + speaker + "\tListeners: " + " ".join(listeners) + "\n" + spoken)
+			self.convoInEpisode[convoMarker].append( {
+				"Speaker" : speaker,
+				"Listeners" : " ".join(listeners),
+				"Line" : spoken
+			})
 		for listener in listeners:
 			self.characterList[speaker].spokenTo(listener, spoken)
 		
@@ -131,5 +146,26 @@ for episode in sorted(glob.glob("*.srt")):
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 graph, convoGraph = characterGraph.getGraph()
+
+importantChar = ["all", "jeff", "annie", "shirley", "pierce", "troy", "abed", "britta", "slater", "chang", "duncan", "dean", "group"]
+# speaker
 for character in graph:
-	graph[character].printChar()
+	if character not in importantChar:
+		continue
+	total = 0
+	# listener
+	for interaction in graph[character].interactions.values():
+		total += len(interaction)
+	print character + ": " + str(total)
+
+	for listener in graph[character].interactions.keys():
+		if listener not in importantChar:
+			continue
+
+		lineNum = 0
+		wordNum = 0
+		for line in graph[character].interactions[listener]:
+			lineNum += 1
+			wordNum += len(line.split())
+		print "\tto " + listener + ", " + character + " spoke " + str(wordNum / lineNum) + " words per each line" 
+		print "\t\t Data:\n\t\t\tTotal Words = " + str(wordNum) + "\n\t\t\tTotal Lines = " + str(lineNum)
