@@ -61,23 +61,14 @@ class CharacterGraphMaker:
 		self.convoList = []
 
 	def addEpisode(self, episode, episodeLines):
-		print episode + "\n"
 		self.episodeName = episode
 		self.convoInEpisode = {}
 		self.convoArr = []
 		for line in episodeLines:
 			self.getConversationSpeakers(line)
-		'''
+		
 		for convo in sorted(self.convoInEpisode):
-			for line in self.convoInEpisode[convo]:
-				print "Speaker : " + line["Speaker"]
-				print "Listener : " + line["Listeners"]
-				print line["Line"]
-			self.convoArr.append(self.convoInEpisode[convo])
-			print "\n"
-		print "\n"
-		'''
-		self.convoList.append(self.convoArr)
+			self.convoList.append(self.convoInEpisode[convo])
 
 
 	def getConversationSpeakers(self, line):
@@ -147,6 +138,27 @@ for episode in sorted(glob.glob("*.srt")):
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
 graph, convoGraph = characterGraph.getGraph()
 
+def getConvoSpeakerListener(speaker, listener):
+	conversationList = []
+	for conversation in convoGraph:
+		for line in conversation:
+			if line["Speaker"] == speaker and (listener in line["Listeners"].split()):
+				conversationList.append(conversation)
+				break
+
+	return conversationList
+
+def printConvo(convoList):
+	for convo in convoList:
+		for line in convo:
+			print "Speaker: " + line["Speaker"] + " | Listeners: " + line["Listeners"]
+			print "\t" + line["Line"]
+		print "\n"
+
+printConvo(getConvoSpeakerListener("pierce", "shirley"))
+
+
+
 importantChar = ["all", "jeff", "annie", "shirley", "pierce", "troy", "abed", "britta", "slater", "chang", "duncan", "dean", "group"]
 # speaker
 for character in graph:
@@ -156,7 +168,7 @@ for character in graph:
 	# listener
 	for interaction in graph[character].interactions.values():
 		total += len(interaction)
-	print character + ": " + str(total)
+	print character + ": " + str(total) + " lines"
 
 	for listener in graph[character].interactions.keys():
 		if listener not in importantChar:
