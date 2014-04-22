@@ -12,15 +12,15 @@ or prelimi-wow, about what I'm calling
 
 4
 00:00:08,830 --> 00:00:10,991
-our library's backdoor conundrum.
+our library's backdoor conundrum.	|Annie Group	|01
 
 5
 00:00:11,059 --> 00:00:12,746
-Sounds like a porno with Kate Winslet.
+Sounds like a porno with Kate Winslet.	|Abed Annie	|01
 
 6
 00:00:12,813 --> 00:00:13,948
-Abed, ew.
+Abed, ew.	|Annie Abed	|01
 
 7
 00:00:14,015 --> 00:00:16,790
@@ -35,12 +35,12 @@ have to walk all the way around.
 9
 00:00:19,600 --> 00:00:21,237
 Now, if we were to move
-our meetings to 4:30...
+our meetings to 4:30...	|Annie Group	|01
 
 10
 00:00:21,304 --> 00:00:22,976
-- No.
-- No.
+- No.	|Britta Annie	|01
+- No.	|Troy Annie	|01
 
 11
 00:00:23,044 --> 00:00:27,052
@@ -49,12 +49,12 @@ I have a regular class at that time.
 12
 00:00:27,120 --> 00:00:29,525
 It's like math or
-other regular classes.
+other regular classes.	|Troy Annie	|01
 
 13
 00:00:29,593 --> 00:00:32,130
 I have something unimportant
-that can't ever move.
+that can't ever move.	|Britta Annie	|01
 
 14
 00:00:32,198 --> 00:00:34,135
@@ -63,65 +63,65 @@ could stand by the back door
 
 15
 00:00:34,202 --> 00:00:35,470
-and let the rest in?
+and let the rest in?	|Annie Group	|01
 
 16
 00:00:35,537 --> 00:00:37,573
-- I nominate Pierce.
-- Where is he?
+- I nominate Pierce.	|Shirley Group	|01
+- Where is he?	|Annie Group	|02
 
 17
 00:00:37,641 --> 00:00:39,410
-I have not seen him around all day.
+I have not seen him around all day.	|Britta Annie	|02
 
 18
 00:00:39,478 --> 00:00:42,214
-I haven't either.
+I haven't either.	|Annie Britta	|02
 
 19
 00:00:42,282 --> 00:00:43,583
-- Well, has anyone called him?
+- Well, has anyone called him?	|Jeff Group	|02
 - I did.
 
 20
 00:00:43,651 --> 00:00:45,587
 Several times, actually,
-but he never returned my calls.
+but he never returned my calls.	|Abed Jeff	|02
 
 21
 00:00:45,654 --> 00:00:47,923
-Oh, no!
+Oh, no!	|Shirley Group	|02
 
 22
 00:00:47,991 --> 00:00:50,394
 Oh, the last thing
-I said to him was "suck it".
+I said to him was "suck it".	|Troy Group	|02
 
 23
 00:00:50,461 --> 00:00:52,096
-- Me too.
-- Good morning.
+- Me too.	|Britta Troy	|02
+- Good morning.	|Pierce Group	|02
 
 24
 00:00:52,164 --> 00:00:53,833
-- Oh!
-- Yes!
+- Oh!	|Shirley	|02
+- Yes!	|Abed	|02
 
 25
 00:00:53,900 --> 00:00:55,604
-Thank God.
+Thank God.	|Britta	|02
 
 26
 00:00:55,672 --> 00:00:57,039
-You thought I was dead, didn't you?
+You thought I was dead, didn't you?	|Pierce Group	|02
 
 27
 00:00:57,107 --> 00:00:58,368
-<i>No...</i>
+No...	|Group Pierce	|02
 
 28
 00:00:58,369 --> 00:00:59,208
-I did.
+I did.	|Abed Pierce	|02
 
 29
 00:00:59,276 --> 00:01:01,544
@@ -148,34 +148,34 @@ I was dead to my face!
 
 34
 00:01:09,455 --> 00:01:12,391
-That's called respect.
+That's called respect.	|Pierce Group	|02
 
 35
 00:01:12,459 --> 00:01:14,293
-Who is the lucky brunette?
+Who is the lucky brunette?	|Britta Jeff	|03
 
 36
 00:01:14,361 --> 00:01:16,629
 Last name Beeswax,
-first name none-a-ya.
+first name none-a-ya.	|Jeff Britta	|03
 
 37
 00:01:16,697 --> 00:01:18,432
-Oh, my third wife was biracial.
+Oh, my third wife was biracial.	|Pierce Jeff	|03
 
 38
 00:01:18,499 --> 00:01:21,302
-- Stop it!
+- Stop it!	|Jeff Britta	|03
 - I am just trying to help
 
 39
 00:01:21,370 --> 00:01:23,605
 keep you out of trouble.
-What if the next girl saw these?
+What if the next girl saw these?	|Britta Jeff	|03
 
 40
 00:01:23,672 --> 00:01:25,440
-Well, then she would know it was hers.
+Well, then she would know it was hers.	|Jeff Britta	|03
 
 41
 00:01:25,508 --> 00:01:27,676
@@ -184,7 +184,7 @@ Jeff!
 42
 00:01:27,744 --> 00:01:30,045
 You're sleeping with a woman
-you already slept with?
+you already slept with?	|Shirley Jeff	|03
 
 43
 00:01:30,113 --> 00:01:31,547
@@ -201,7 +201,7 @@ like privacy smurf, discreet bear or...
 
 46
 00:01:36,287 --> 00:01:37,487
-confidentiality spice?
+confidentiality spice?	|Jeff Group	|03
 
 47
 00:01:37,555 --> 00:01:38,622
@@ -214,17 +214,17 @@ keep her a secret?
 
 49
 00:01:40,225 --> 00:01:41,325
-Don't you want us to meet her?
+Don't you want us to meet her?	|Annie Jeff	|03
 
 50
 00:01:41,393 --> 00:01:43,594
 We have an agreement
-to keep it low-key.
+to keep it low-key.	|Jeff Annie	|03
 
 51
 00:01:43,662 --> 00:01:45,396
 That's ridiculous.
-Obviously, it's a guy.
+Obviously, it's a guy.	|Pierce Jeff	|03
 
 52
 00:01:45,464 --> 00:01:47,765
@@ -233,71 +233,43 @@ It's two guys.
 
 53
 00:01:47,833 --> 00:01:49,935
-Sometimes I do wish you were dead.
+Sometimes I do wish you were dead.	|Jeff Pierce	|03
 
 54
 00:01:50,002 --> 00:01:51,937
-[Chuckles]
-Thank you.
-
-55
-00:01:52,005 --> 00:01:58,639
-Sync by honeybunny - Corrected by 4be1
-www.addic7ed.com
-
-56
-00:01:58,879 --> 00:02:00,680
-[rap music]
+Thank you.	|Pierce Jeff	|03
 
 57
 00:02:00,748 --> 00:02:02,249
-What's up, bro?
+What's up, bro?	|Troy Extra	|04
 
 58
 00:02:02,317 --> 00:02:03,317
-[Snaps] [Shrilly]
-Boo!
+Boo!	|Troy Extra	|04
 
 59
 00:02:03,385 --> 00:02:05,153
-Hey, what's up, J-Dog?
+Hey, what's up, J-Dog?	|Troy Extra	|04
 
 60
 00:02:05,221 --> 00:02:06,255
-Woof, woof, woof, woof!
+Woof, woof, woof, woof!	|Troy Extra	|04
 
 61
 00:02:06,323 --> 00:02:07,823
-Yeah!
-[Laughs]
+Yeah!	|Troy Extra	|04
 
 62
 00:02:07,891 --> 00:02:08,925
-How you doing?
-
-63
-00:02:08,993 --> 00:02:10,560
-* We're too gangsta for TV *
-
-64
-00:02:10,628 --> 00:02:12,296
-* That's why you don't see us *
-
-65
-00:02:12,363 --> 00:02:13,998
-* But they still wanna be us *
-
-66
-00:02:14,066 --> 00:02:17,000
-[rap music fades, on Broadway plays]
+How you doing?	|Troy Extra	|04
 
 67
 00:02:20,171 --> 00:02:22,305
-Sorry I'm late.
+Sorry I'm late.	|Troy DanceClass	|05
 
 68
 00:02:33,685 --> 00:02:35,219
-Professor Slater, quick question.
+Professor Slater, quick question.	|Jeff Slater	|06
 
 69
 00:02:35,287 --> 00:02:36,688
@@ -310,7 +282,7 @@ I don't date students,
 71
 00:02:37,990 --> 00:02:39,924
 even if you are no longer
-in my statistics class.
+in my statistics class.	|Slater Jeff	|06
 
 72
 00:02:39,992 --> 00:02:41,860
@@ -319,8 +291,8 @@ seeing someone right now,
 
 73
 00:02:41,927 --> 00:02:43,661
-- thank you very much.
-- Really? How's that going?
+- thank you very much.	|Jeff Slater	|06
+- Really? How's that going?	|Slater Jeff	|06
 
 74
 00:02:43,729 --> 00:02:45,597
@@ -333,20 +305,16 @@ she's just waiting for me
 
 76
 00:02:47,333 --> 00:02:49,301
-to stop talking and take off my pants.
-
-77
-00:02:49,368 --> 00:02:50,301
-[Door thuds]
+to stop talking and take off my pants.	|Jeff Slater	|06
 
 78
 00:02:50,369 --> 00:02:53,004
-She is.
+She is.	|Slater Jeff	|06
 
 79
 00:02:55,208 --> 00:02:57,175
 I've never been someone's
-dirty little secret.
+dirty little secret.	|Jeff Slater	|06
 
 80
 00:02:57,243 --> 00:02:59,310
@@ -359,29 +327,25 @@ It's so unprofessional.
 82
 00:03:00,846 --> 00:03:02,881
 But the sneaking does
-make the sex 38% hotter.
+make the sex 38% hotter.	|Slater Jeff	|06
 
 83
 00:03:02,948 --> 00:03:05,216
 Wow, you do like statistics,
-don't you?
-
-84
-00:03:05,284 --> 00:03:07,318
-[Knocking on door]
+don't you?	|Jeff Slater	|06
 
 85
 00:03:07,386 --> 00:03:09,554
-Hey, midterms and whatever.
+Hey, midterms and whatever.	|Jeff Slater	|07
 
 86
 00:03:09,622 --> 00:03:11,022
-Chalk.
+Chalk.	|Slater Jeff	|07
 
 87
 00:03:11,090 --> 00:03:12,991
 Professor Slater,
-there's that transcript you wanted.
+there's that transcript you wanted.	|Dean Slater	|07
 
 88
 00:03:13,059 --> 00:03:14,626
@@ -389,11 +353,7 @@ Jeff, I didn't expect to see you here.
 
 89
 00:03:14,694 --> 00:03:17,095
-Hopefully, I'm not... interrupting.
-
-90
-00:03:17,163 --> 00:03:19,097
-[Laughter]
+Hopefully, I'm not... interrupting.	|Dean Jeff	|07
 
 91
 00:03:19,165 --> 00:03:21,966
@@ -427,29 +387,29 @@ and are ranked by their potential
 
 98
 00:03:33,679 --> 00:03:35,079
-to incite fraternization.
+to incite fraternization.	|Dean Slater Jeff	|07
 
 99
 00:03:35,147 --> 00:03:36,747
-You rank people by how hot they are?
+You rank people by how hot they are?	|Jeff Dean	|07
 
 100
 00:03:36,815 --> 00:03:39,016
-You got it... number two.
+You got it... number two.	|Dean Jeff	|07
 
 101
 00:03:39,084 --> 00:03:41,118
-- Dean Pelton.
+- Dean Pelton.	|Slater Dean	|07
 - Yes, Professor Seven...
 
 102
 00:03:41,186 --> 00:03:43,587
-- Uh, Slater.
-- I'll return this tomorrow.
+- Uh, Slater.	|Dean Slater	|07
+- I'll return this tomorrow.	|Slater Dean	|07
 
 103
 00:03:43,655 --> 00:03:44,588
-Okay, then.
+Okay, then.	|Dean Slater	|07
 
 104
 00:03:44,656 --> 00:03:46,357
@@ -478,28 +438,12 @@ quite a few favors from God...
 109
 00:03:58,169 --> 00:04:01,104
 it's all the more important
-to keep it tasteful.
-
-110
-00:04:01,172 --> 00:04:02,739
-[Laughs]
-
-111
-00:04:02,807 --> 00:04:04,541
-[Door closes]
+to keep it tasteful.	|Dean Slater Jeff	|07
 
 112
 00:04:10,080 --> 00:04:12,381
-- I think he might have ruined...
-- It's dead.
-
-113
-00:04:12,449 --> 00:04:16,051
-[Jazzy music plays]
-
-114
-00:04:18,020 --> 00:04:19,487
-[music stops]
+- I think he might have ruined...	|Slater Jeff	|08
+- It's dead.	|Jeff Slater	|08
 
 115
 00:04:19,554 --> 00:04:20,721
@@ -507,12 +451,12 @@ Oh, I can't wait for the recital.
 
 116
 00:04:20,789 --> 00:04:23,790
-You are all wonderful,
-especially you, Troy.
+You are all wonderful,	|LeClair All	|09
+especially you, Troy.	|LeClair Troy	|09
 
 117
 00:04:23,858 --> 00:04:26,492
-Thank you, madame leclair.
+Thank you, madame leclair.	|Troy LeClair	|09
 
 118
 00:04:26,560 --> 00:04:30,396
@@ -526,25 +470,22 @@ I will break off your legs
 120
 00:04:32,098 --> 00:04:37,268
 and use them to smash
-in your friends' cars.
+in your friends' cars.	|Troy All	|09
 
 121
 00:04:37,336 --> 00:04:38,836
-- Oh!
-- Huh!
-
-122
-00:04:38,904 --> 00:04:41,172
-[Both laughing]
+- Oh!	|Troy	|10
+- Huh!	|Britta	|10
 
 123
 00:04:41,239 --> 00:04:44,041
-<i>Oh, my God!</i>
+Oh, my God!	|Britta	|10
+Oh, my God!	|Troy	|10
 
 124
 00:04:46,177 --> 00:04:49,078
 Troy, since when have you
-taken modern dance?
+taken modern dance?	|Britta Troy	|10
 
 125
 00:04:49,146 --> 00:04:50,379
@@ -567,7 +508,7 @@ I know it's tempting to sneak a peek,
 129
 00:04:57,252 --> 00:04:59,353
 but I'm gonna need for you
-to keep your eyes up here!
+to keep your eyes up here!	|Troy Britta	|10
 
 130
 00:04:59,421 --> 00:05:02,256
@@ -577,7 +518,7 @@ dismissed you as a shallow jock.
 131
 00:05:02,323 --> 00:05:04,658
 Then again, we haven't really
-spent that much time together.
+spent that much time together.	|Britta Troy	|10
 
 132
 00:05:04,725 --> 00:05:06,526
@@ -585,7 +526,7 @@ That's because you don't play football
 
 133
 00:05:06,594 --> 00:05:07,527
-or have fun.
+or have fun.	|Troy Britta	|10
 
 134
 00:05:07,595 --> 00:05:08,861
@@ -603,7 +544,7 @@ that I wanted to do,
 137
 00:05:12,699 --> 00:05:15,467
 but it was too embarrassing,
-so I never told anyone.
+so I never told anyone.	|Britta Troy	|10
 
 138
 00:05:15,535 --> 00:05:18,269
@@ -611,7 +552,7 @@ Same here. Britta...
 
 139
 00:05:18,337 --> 00:05:21,205
-- Nobody can know about this.
+- Nobody can know about this.	|Troy Britta	|10
 - Troy, who are we kidding?
 
 140
@@ -626,31 +567,30 @@ we're passionate about.
 
 142
 00:05:25,576 --> 00:05:26,943
-We are leading a double life.
+We are leading a double life.	|Britta Troy	|10
 
 143
 00:05:27,011 --> 00:05:29,278
 I am spending a lot of
-money on breakaway clothing.
+money on breakaway clothing.	|Troy Britta	|10
 
 144
 00:05:29,346 --> 00:05:32,548
 We should look at this as
-an opportunity to come clean.
+an opportunity to come clean.	|Britta Troy	|10
 
 145
 00:05:32,616 --> 00:05:35,217
 Are you saying we tell
-the group, together?
+the group, together?	|Troy Britta	|10
 
 146
 00:05:35,284 --> 00:05:39,353
 We could invite them to
-the dance recital on Friday.
+the dance recital on Friday.	|Britta Troy	|10
 
 147
 00:05:39,421 --> 00:05:41,355
-[Scoffs]
 Man, I don't know.
 
 148
@@ -659,12 +599,12 @@ Let me think about it.
 
 149
 00:05:47,995 --> 00:05:49,962
-Okay, let's do this.
+Okay, let's do this.	|Troy Britta	|10
 
 150
 00:05:50,030 --> 00:05:51,764
-- Ahem!
-- Sorry.
+- Ahem!	|Troy Britta	|10
+- Sorry.	|Britta Troy	|10
 
 151
 00:05:53,499 --> 00:05:55,500
@@ -673,7 +613,7 @@ Would you come to my office?
 
 152
 00:05:55,568 --> 00:05:58,502
-We never finished our intercourse.
+We never finished our intercourse.	|Slater Jeff	|11
 
 153
 00:05:58,570 --> 00:06:00,470
@@ -682,20 +622,19 @@ I have study group right now,
 154
 00:06:00,538 --> 00:06:03,306
 and nobody uses intercourse to
-mean anything other than sex.
+mean anything other than sex.	|Jeff Slater	|11
 
 155
 00:06:03,373 --> 00:06:05,507
-[chuckles]
 This is a wall of windows.
 
 156
 00:06:05,575 --> 00:06:07,275
-My study group's behind it.
+My study group's behind it.	|Jeff Slater	|11
 
 157
 00:06:07,343 --> 00:06:08,476
-I know.
+I know.	|Slater jeff	|11
 
 158
 00:06:08,543 --> 00:06:10,644
@@ -708,30 +647,28 @@ and six annoying but loveable misfits
 
 160
 00:06:12,479 --> 00:06:13,913
-will be staring at us.
+will be staring at us.	|Jeff Slater	|11
 
 161
 00:06:13,981 --> 00:06:16,715
-[Whispering]
-Come on, what are the odds?
+Come on, what are the odds?	|Slater Jeff	|11
 
 162
 00:06:16,783 --> 00:06:18,150
-Fine.
+Fine.	|Jeff Slater	|11
 
 163
 00:06:26,091 --> 00:06:28,158
-- Now, was that so bad?
-- Mm-mm.
+- Now, was that so bad?	|Slater Jeff	|11
+- Mm-mm.	|Jeff Slater	|11
 
 164
 00:06:28,226 --> 00:06:29,226
-[Shouting]
 Hey!
 
 165
 00:06:29,294 --> 00:06:33,063
-Could you open the back door?
+Could you open the back door?	|Pierce Jeff	|12
 
 166
 00:06:39,977 --> 00:06:41,543
@@ -748,12 +685,12 @@ As most of you may realize by now,
 169
 00:06:45,981 --> 00:06:49,083
 she's the woman
-I've been seeing lately.
+I've been seeing lately.	|Jeff Group	|13
 
 170
 00:06:49,151 --> 00:06:52,085
 Why are they looking at me
-like I'm a zoo animal?
+like I'm a zoo animal?	|Slater Jeff	|13
 
 171
 00:06:52,153 --> 00:06:53,920
@@ -767,21 +704,21 @@ kind of like being told
 
 173
 00:06:55,956 --> 00:06:57,223
-that you're our new mom.
+that you're our new mom.	|Abed Slater	|13
 
 174
 00:06:57,291 --> 00:06:59,125
 But you know it's
-nothing like that, right?
+nothing like that, right?	|Slater Abed	|13
 
 175
 00:06:59,193 --> 00:07:00,659
-Absolutely. Do you cook macaroni?
+Absolutely. Do you cook macaroni?	|Abed Slater	|13
 
 176
 00:07:00,727 --> 00:07:02,161
-- I have.
-- Macaroni's my favorite.
+- I have.	|Slater Abed	|13
+- Macaroni's my favorite.	|Abed Slater	|13
 
 177
 00:07:02,228 --> 00:07:05,197
@@ -795,44 +732,34 @@ I need this to be our little secret.
 
 179
 00:07:09,501 --> 00:07:10,668
-Everyone understand that?
+Everyone understand that?	|Jeff Group	|13
 
 180
 00:07:10,735 --> 00:07:12,069
-- Yeah.
-- Yes. I do like macaroni.
+- Yeah.	|Group Jeff	|13
+- Yes. I do like macaroni.	|Abed Jeff	|13
 
 181
 00:07:12,137 --> 00:07:15,271
-[overlapping agreement]
-Sure.
-
-182
-00:07:15,339 --> 00:07:16,572
-[Overlapping chatter]
+Sure.	|Group	|13
 
 183
 00:07:16,640 --> 00:07:17,907
-See? All good.
+See? All good.	|Jeff Slater	|13
 
 184
 00:07:17,974 --> 00:07:20,843
 Well, thank you, everyone.
-I appreciate it.
+I appreciate it.	|Slater Group	|13
 
 185
 00:07:20,911 --> 00:07:22,411
-I should get going.
-
-186
-00:07:22,479 --> 00:07:24,880
-- Ooh!
-- Ooh...
+I should get going.	|Slater Jeff	|13
 
 187
 00:07:28,384 --> 00:07:30,818
-- Bye.
-- Bye.
+- Bye.	|Slater Group	|13
+- Bye.	|Group Slater	|13
 
 188
 00:07:30,886 --> 00:07:32,920
@@ -849,12 +776,12 @@ between students and teachers...
 
 191
 00:07:38,326 --> 00:07:40,693
-- Just like Rosa Parks.
-- I don't think it's like that.
+- Just like Rosa Parks.	|Pierce Jeff	|14
+- I don't think it's like that.	|Jeff Pierce	|14
 
 192
 00:07:40,761 --> 00:07:41,761
-No, it's just like that.
+No, it's just like that.	|Pierce Jeff	|14
 
 193
 00:07:41,828 --> 00:07:43,262
@@ -862,20 +789,20 @@ I feel if you need to explain it,
 
 194
 00:07:43,330 --> 00:07:45,796
-it's not just like that.
+it's not just like that.	|Jeff Pierce	|14
 
 195
 00:07:45,864 --> 00:07:48,098
-Is your heart gonna be okay with this?
+Is your heart gonna be okay with this?	|Shirley Britta	|15
 
 196
 00:07:48,166 --> 00:07:50,633
 I will try to find
-the tools to survive.
+the tools to survive.	|Britta Shirley	|15
 
 197
 00:07:50,701 --> 00:07:52,669
-Okay.
+Okay.	|Shirley Britta	|15
 
 198
 00:07:52,736 --> 00:07:54,670
@@ -884,12 +811,12 @@ Hey, everybody, speaking of secrets,
 199
 00:07:54,738 --> 00:07:57,006
 Troy and I have something that
-we would like to announce.
+we would like to announce.	|Britta Group	|16
 
 200
 00:07:57,074 --> 00:07:58,941
-[shrilly] - Oh!
-- No. No.
+- Oh!	|Annie	|16
+- No. No.	|Britta Annie	|16
 
 201
 00:07:59,009 --> 00:08:00,776
@@ -906,19 +833,15 @@ because since last semester, I...
 
 204
 00:08:06,114 --> 00:08:08,448
-have been taking a tap class.
-
-205
-00:08:08,516 --> 00:08:10,717
-[Laughter]
+have been taking a tap class.	|Britta Group	|16
 
 206
 00:08:10,784 --> 00:08:12,651
-That's... f... funny.
+That's... f... funny.	|Shirley Britta	|16
 
 207
 00:08:12,719 --> 00:08:15,019
-Well, I don't know how funny it is.
+Well, I don't know how funny it is.	|Britta Shirley	|16
 
 208
 00:08:15,087 --> 00:08:17,821
@@ -930,8 +853,8 @@ But obviously, you kept it a secret
 
 210
 00:08:19,657 --> 00:08:21,791
-- because you saw the irony too.
-- Irony?
+- because you saw the irony too.	|Jeff Britta	|16
+- Irony?	|Britta Jeff	|16
 
 211
 00:08:21,858 --> 00:08:23,992
@@ -944,17 +867,17 @@ and the act of dancing is considered
 
 213
 00:08:25,494 --> 00:08:28,729
-- both vulnerable and feminine.
+- both vulnerable and feminine.	|Abed Britta	|16
 - I disagree.
 
 214
 00:08:28,797 --> 00:08:30,497
 What about fred Astaire?
-What about Baryshnikov?
+What about Baryshnikov?	|Britta Group	|16
 
 215
 00:08:30,565 --> 00:08:32,299
-Yeah, I guess.
+Yeah, I guess.	|Annie Britta	|16
 
 216
 00:08:32,367 --> 00:08:33,700
@@ -963,7 +886,7 @@ There are exceptions to the rule,
 217
 00:08:33,768 --> 00:08:36,069
 but even when Jerry Rice went on
-dancing with the stars...
+dancing with the stars...	|Jeff Britta	|16
 
 218
 00:08:36,136 --> 00:08:37,603
@@ -971,7 +894,7 @@ Jerry Rice?
 
 219
 00:08:37,671 --> 00:08:41,407
-Oh, God. I liked him.
+Oh, God. I liked him.	|Pierce Jeff	|16
 
 220
 00:08:41,474 --> 00:08:43,541
@@ -979,7 +902,7 @@ Troy?
 
 221
 00:08:43,609 --> 00:08:45,843
-What... what's your secret?
+What... what's your secret?	|Shirley Troy	|16
 
 222
 00:08:45,910 --> 00:08:48,645
@@ -995,11 +918,10 @@ is that...
 
 225
 00:08:52,750 --> 00:08:54,349
-I knew Britta's secret.
+I knew Britta's secret.	|Troy Group	|16
 
 226
 00:08:54,417 --> 00:08:55,351
-[gasps]
 Yeah.
 
 227
@@ -1016,12 +938,12 @@ So I helped her protect her shame.
 
 230
 00:09:00,922 --> 00:09:02,890
-You know, I'm just glad she's out now.
+You know, I'm just glad she's out now.	|Troy Group	|16
 
 231
 00:09:02,957 --> 00:09:04,391
-- Bravo, Britta.
-- Thanks.
+- Bravo, Britta.	|Troy Britta	|16
+- Thanks.	|Britta Troy	|16
 
 232
 00:09:04,459 --> 00:09:06,526
@@ -1038,7 +960,7 @@ with Professor Slater.
 235
 00:09:11,199 --> 00:09:13,700
 I'd like to see both of you
-in my office in half an hour.
+in my office in half an hour.	|Dean Jeff	|17
 
 236
 00:09:13,768 --> 00:09:15,001
@@ -1046,16 +968,16 @@ What the... none of you left the room.
 
 237
 00:09:15,069 --> 00:09:16,302
-How is that even possible?
+How is that even possible?	|Jeff Group Dean	|17
 
 238
 00:09:16,370 --> 00:09:20,005
 Well, for one thing,
-it's all over Twitter.
+it's all over Twitter.	|Dean Jeff	|17
 
 239
 00:09:23,309 --> 00:09:25,175
-Britta in a tutu... Can you imagine?
+Britta in a tutu... Can you imagine?	|Shirley Annie	|18
 
 240
 00:09:25,243 --> 00:09:27,910
@@ -1064,16 +986,16 @@ Hey. What the hell?
 241
 00:09:27,978 --> 00:09:30,278
 I thought we were supposed to
-come out to the group together.
+come out to the group together.	|Britta Troy	|19
 
 242
 00:09:30,346 --> 00:09:33,246
-Yeah. I changed my mind.
+Yeah. I changed my mind.	|Troy Britta	|19
 
 243
 00:09:33,314 --> 00:09:35,346
 Well, they're gonna find out
-that you dance at the recital.
+that you dance at the recital.	|Britta Troy	|19
 
 244
 00:09:35,414 --> 00:09:37,486
@@ -1081,13 +1003,13 @@ I'm not gonna be in the recital.
 
 245
 00:09:37,554 --> 00:09:39,188
-- I'm dropping the class.
+- I'm dropping the class.	|Troy Britta	|19
 - Oh, my God.
 
 246
 00:09:39,255 --> 00:09:41,823
 How can you do this?
-I'm so disappointed in you.
+I'm so disappointed in you.	|Britta Troy	|19
 
 247
 00:09:41,891 --> 00:09:43,491
@@ -1100,7 +1022,7 @@ You are not Shirley!
 
 249
 00:09:45,294 --> 00:09:46,893
-And Shirley's not my mom.
+And Shirley's not my mom.	|Troy Britta	|19
 
 250
 00:09:46,961 --> 00:09:49,796
@@ -1132,7 +1054,7 @@ getting up on that stage
 
 256
 00:10:00,372 --> 00:10:01,372
-because I'm a man.
+because I'm a man.	|Troy Britta	|19
 
 257
 00:10:01,440 --> 00:10:02,673
@@ -1152,19 +1074,19 @@ You're a dancer, Troy.
 
 261
 00:10:08,980 --> 00:10:11,815
-It's who you are.
+It's who you are.	|Britta Troy	|19
 
 262
 00:10:11,883 --> 00:10:14,017
-Not anymore.
+Not anymore.	|Troy Britta	|19
 
 263
 00:10:15,787 --> 00:10:17,287
-Excuse me.
+Excuse me.	|Troy Extra	|19
 
 264
 00:10:21,490 --> 00:10:22,890
-Upset about Jeff?
+Upset about Jeff?	|Shirley Britta	|20
 
 265
 00:10:22,958 --> 00:10:26,125
@@ -1172,7 +1094,7 @@ No. I am upset about...
 
 266
 00:10:26,193 --> 00:10:28,124
-something I can't talk about.
+something I can't talk about.	|Britta Shirley	|20
 
 267
 00:10:28,192 --> 00:10:29,558
@@ -1180,20 +1102,20 @@ We can talk about anything...
 
 268
 00:10:29,626 --> 00:10:31,994
-politics, medicine, Jeff.
+politics, medicine, Jeff.	|Shirley Britta	|20
 
 269
 00:10:32,061 --> 00:10:35,097
 Okay. Uh, did you hear
-that the shroud of turin...
+that the shroud of turin...	|Britta Shirley	|20
 
 270
 00:10:35,164 --> 00:10:36,965
-Here's the thing about Jeff.
+Here's the thing about Jeff.	|Shirley Britta	|20
 
 271
 00:10:37,033 --> 00:10:38,166
-Wow.
+Wow.	|Britta Shirley	|20
 
 272
 00:10:38,234 --> 00:10:40,135
@@ -1231,7 +1153,7 @@ to snatch him off the counter
 279
 00:10:50,911 --> 00:10:52,478
 and guzzle him down
-right in front of you.
+right in front of you.	|Shirley Britta	|20
 
 280
 00:10:52,546 --> 00:10:54,146
@@ -1266,7 +1188,7 @@ was the thrill of the secrecy,
 287
 00:11:07,358 --> 00:11:11,127
 and now that it is out,
-it is over, believe me.
+it is over, believe me.	|Britta Shirley	|20
 
 288
 00:11:11,194 --> 00:11:12,861
@@ -1283,7 +1205,7 @@ single white slacker
 
 291
 00:11:17,400 --> 00:11:18,933
-makes you people so jaded?
+makes you people so jaded?	|Shirley Britta	|20
 
 292
 00:11:19,001 --> 00:11:20,634
@@ -1295,11 +1217,11 @@ What do you mean, you people?
 
 294
 00:11:23,037 --> 00:11:24,804
-I cannot believe I got to say that.
+I cannot believe I got to say that.	|Britta Shirley	|20
 
 295
 00:11:24,872 --> 00:11:27,873
-It's the little things, isn't it?
+It's the little things, isn't it?	|Shirley Britta	|20
 
 296
 00:11:27,941 --> 00:11:29,841
@@ -1318,7 +1240,7 @@ relationship form,
 299
 00:11:33,245 --> 00:11:36,113
 and then we can get you two
-on your very attractive way.
+on your very attractive way.	|Dean Jeff Slater	|21
 
 300
 00:11:36,181 --> 00:11:38,148
@@ -1340,8 +1262,7 @@ in which he says he's 47
 
 304
 00:11:43,887 --> 00:11:46,122
-and teaches a women'
-s-only pilates class.
+and teaches a women's-only pilates class.	|Jeff Dean	|21
 
 305
 00:11:46,189 --> 00:11:48,190
@@ -1354,15 +1275,15 @@ It doesn't bother me.
 
 307
 00:11:50,193 --> 00:11:51,359
-I'm happy.
+I'm happy.	|Slater Jeff	|21
 
 308
 00:11:51,427 --> 00:11:53,628
-Sweet.
+Sweet.	|Jeff Slater	|21
 
 309
 00:11:53,696 --> 00:11:55,630
-Well... [chuckles]
+Well... 
 First question.
 
 310
@@ -1371,25 +1292,25 @@ First question.
 
 311
 00:11:57,365 --> 00:11:59,466
-Oh! [Laughs]
+Oh! 
 Not it.
 
 312
 00:11:59,534 --> 00:12:01,468
-I mean this... dating.
+I mean this... dating.	|Dean Slater Jeff	|21
 
 313
 00:12:01,535 --> 00:12:03,669
-- A few weeks.
+- A few weeks.	|Slater Dean	|21
 - Mm-hmm.
 
 314
 00:12:03,737 --> 00:12:06,839
-And... how long have you been doing it?
+And... how long have you been doing it?	|Dean Slater Jeff	|21
 
 315
 00:12:06,906 --> 00:12:08,373
-We don't have to answer that.
+We don't have to answer that.	|Jeff Dean	|21
 
 316
 00:12:08,441 --> 00:12:09,975
@@ -1405,16 +1326,16 @@ Might you ever consider
 
 319
 00:12:14,947 --> 00:12:16,814
-spending the night with a third person?
+spending the night with a third person?	|Dean Jeff Slater	|21
 
 320
 00:12:16,882 --> 00:12:20,250
-- That's not on there!
-- Well...
+- That's not on there!	|Jeff Dean	|21
+- Well...	|Dean Jeff	|21
 
 321
 00:12:20,318 --> 00:12:21,751
-Wow, it's on there.
+Wow, it's on there.	|Jeff Slater	|21
 
 322
 00:12:21,819 --> 00:12:23,587
@@ -1422,7 +1343,6 @@ Just exploring your options, obviously.
 
 323
 00:12:23,654 --> 00:12:26,322
-[Laughs]
 No agenda.
 
 324
@@ -1432,25 +1352,24 @@ I'll put "TBD".
 325
 00:12:28,692 --> 00:12:30,926
 Would you describe yourself
-as boyfriend and girlfriend?
+as boyfriend and girlfriend?	|Dean Slater Jeff	|21
 
 326
 00:12:30,994 --> 00:12:33,095
-- Yes.
-- Eh...
+- Yes.	|Slater Dean	|21
+- Eh...	|Jeff Dean	|21
 
 327
 00:12:33,162 --> 00:12:34,562
-- What?
-- Oh, boy.
+- What?	|Jeff Slater	|21
+- Oh, boy.	|Dean	|21
 
 328
 00:12:34,630 --> 00:12:36,897
-It's semantics, really, isn't it?
+It's semantics, really, isn't it?	|Jeff Slater	|21
 
 329
 00:12:36,965 --> 00:12:38,766
-[Laughs]
 We've slept together
 
 330
@@ -1459,15 +1378,15 @@ every night for the last three weeks.
 
 331
 00:12:40,735 --> 00:12:42,035
-How would you describe me?
+How would you describe me?	|Slater Jeff	|21
 
 332
 00:12:42,103 --> 00:12:44,070
-The best friend ever.
+The best friend ever.	|Jeff Slater	|21
 
 333
 00:12:44,138 --> 00:12:45,671
-Ooh.
+Ooh.	|Dean	|21
 
 334
 00:12:45,739 --> 00:12:47,573
@@ -1485,20 +1404,20 @@ But you know what? This is good.
 337
 00:12:51,310 --> 00:12:54,612
 I'd be better off dating,
-um... an adult.
+um... an adult.	|Slater Jeff	|21
 
 338
 00:12:54,680 --> 00:12:56,113
-See you around.
+See you around.	|Slater Dean	|21
 
 339
 00:12:56,181 --> 00:12:59,950
-- Michelle.
-- Mm. Rarr!
+- Michelle.	|Jeff Slater	|21
+- Mm. Rarr!	|Dean Slater	|21
 
 340
 00:13:02,153 --> 00:13:03,586
-I'll get the break-up form.
+I'll get the break-up form.	|Dean Jeff	|21
 
 341
 00:13:09,824 --> 00:13:12,892
@@ -1511,11 +1430,11 @@ I'm...
 
 343
 00:13:14,562 --> 00:13:15,828
-afraid of commitment.
+afraid of commitment.	|Jeff Slater	|22
 
 344
 00:13:15,896 --> 00:13:17,030
-How original.
+How original.	|Slater Jeff	|22
 
 345
 00:13:17,097 --> 00:13:18,864
@@ -1541,7 +1460,7 @@ so the truth is...
 350
 00:13:27,005 --> 00:13:28,873
 I get claustrophobic
-when things get official.
+when things get official.	|Jeff Slater	|22
 
 351
 00:13:28,940 --> 00:13:31,075
@@ -1550,12 +1469,12 @@ You're acting like I'm a Venus flytrap.
 352
 00:13:31,142 --> 00:13:33,343
 I didn't want or need more
-than what we were doing.
+than what we were doing.	|Slater Jeff	|22
 
 353
 00:13:33,411 --> 00:13:35,378
 Let's get back to it.
-Should I get the door?
+Should I get the door?	|Jeff Slater	|22
 
 354
 00:13:35,446 --> 00:13:37,580
@@ -1593,7 +1512,7 @@ statistically speaking,
 361
 00:13:49,556 --> 00:13:51,324
 most people would call
-us more than pals.
+us more than pals.	|Slater Jeff	|22
 
 362
 00:13:51,392 --> 00:13:53,259
@@ -1601,16 +1520,16 @@ Yeah, but soon as you say it,
 
 363
 00:13:53,327 --> 00:13:54,727
-it can get complicated and messy.
+it can get complicated and messy.	|Jeff Slater	|22
 
 364
 00:13:54,794 --> 00:13:56,695
-- How?
+- How?	|Slater Jeff	|22
 - Because when you say it,
 
 365
 00:13:56,762 --> 00:13:59,030
-later on, you might have to un-say it.
+later on, you might have to un-say it.	|Jeff Slater	|22
 
 366
 00:13:59,098 --> 00:14:00,532
@@ -1631,7 +1550,7 @@ It barely means anything,
 
 370
 00:14:05,969 --> 00:14:07,603
-and it grows on what's there over time.
+and it grows on what's there over time.	|Slater Jeff	|22
 
 371
 00:14:07,671 --> 00:14:09,272
@@ -1640,15 +1559,11 @@ really taking a pounding
 
 372
 00:14:09,339 --> 00:14:11,574
-in this conversation.
+in this conversation.	|Jeff Slater	|22
 
 373
 00:14:11,641 --> 00:14:13,108
-I'll see you around, Jeff.
-
-374
-00:14:13,176 --> 00:14:15,810
-[Papers rustling]
+I'll see you around, Jeff.	|Slater Jeff	|22
 
 375
 00:14:21,248 --> 00:14:23,384
@@ -1668,19 +1583,19 @@ I don't care what it's called.
 
 379
 00:14:29,423 --> 00:14:33,125
-I'll do it. Let's do it.
+I'll do it. Let's do it.	|Jeff Slater	|22
 
 380
 00:14:39,699 --> 00:14:41,866
-Okay.
+Okay.	|Jeff Slater	|22
 
 381
 00:14:45,370 --> 00:14:46,837
-Okay.
+Okay.	|Jeff Slater	|22
 
 382
 00:14:55,879 --> 00:14:57,713
-Oh, that's a big crowd out there.
+Oh, that's a big crowd out there.	|Britta Annie	|23
 
 383
 00:14:57,780 --> 00:15:00,214
@@ -1692,7 +1607,7 @@ We're all here to support you.
 
 385
 00:15:01,950 --> 00:15:03,284
-Jeff even brought his girlfriend.
+Jeff even brought his girlfriend.	|Annie Britta	|23
 
 386
 00:15:03,351 --> 00:15:05,185
@@ -1700,7 +1615,7 @@ Oh. She's his girlfriend now?
 
 387
 00:15:05,253 --> 00:15:06,986
-Can't wait till he hears about it.
+Can't wait till he hears about it.	|Britta Annie	|23
 
 388
 00:15:07,054 --> 00:15:08,221
@@ -1714,11 +1629,7 @@ paperwork with the Dean.
 390
 00:15:10,257 --> 00:15:12,791
 It's pretty serious.
-Our little Jeff's growing up!
-
-391
-00:15:12,858 --> 00:15:15,593
-[Giggling]
+Our little Jeff's growing up!	|Annie Britta	|23
 
 392
 00:15:15,661 --> 00:15:17,060
@@ -1735,11 +1646,7 @@ I have no idea
 395
 00:15:20,564 --> 00:15:24,331
 how someone could do
-what you're about to do.
-
-396
-00:15:24,399 --> 00:15:26,766
-[Background chatter]
+what you're about to do.	|Annie Britta	|23
 
 397
 00:15:26,834 --> 00:15:29,067
@@ -1748,32 +1655,24 @@ Anybody want a goober?
 
 398
 00:15:29,135 --> 00:15:30,668
-Get them while they're gooby!
-
-399
-00:15:30,736 --> 00:15:34,003
-[Applause]
-
-400
-00:15:34,071 --> 00:15:37,139
-[Tea for two plays on piano]
+Get them while they're gooby!	|Shirley Group	|24
 
 401
 00:15:37,207 --> 00:15:39,177
-Well, this is already ridiculous.
+Well, this is already ridiculous.	|Pierce Group	|25
 
-402
-00:15:39,245 --> 00:15:40,779
-Shh!
+404
+00:15:46,151 --> 00:15:47,818
+Shh!	|Group Pierce	|25
 
 403
 00:15:43,682 --> 00:15:46,083
 Tea for two?
-There... there're five people.
+There... there're five people.	|Pierce	|25
 
 404
 00:15:46,151 --> 00:15:47,818
-Shh!
+Shh!	|Group Pierce	|25
 
 405
 00:15:53,258 --> 00:15:55,092
@@ -1781,67 +1680,49 @@ Good Lord.
 
 406
 00:15:59,063 --> 00:16:00,829
-Is she a water pot or a tea kettle?
+Is she a water pot or a tea kettle?	|Pierce Group	|25
 
 407
 00:16:00,897 --> 00:16:03,331
-Shh!
+Shh!	|Group Pierce	|25
 
 408
 00:16:08,072 --> 00:16:09,973
 Don't you think the flowers
-are dying from the tea?
+are dying from the tea?	|Pierce Group	|25
 
 409
 00:16:10,040 --> 00:16:11,674
-- Shh!
-- Shh, shh!
+- Shh!	|Group Pierce	|25
+- Shh, shh!	|Pierce Group	|25
 
 410
 00:16:11,742 --> 00:16:13,009
-Everyone can hear you.
+Everyone can hear you.	|Jeff Pierce	|25
 
 411
 00:16:13,076 --> 00:16:15,678
-Shh, shh, shh, shh, shh!
+Shh, shh, shh, shh, shh!	|Pierce Jeff	|25
 
 412
 00:16:15,746 --> 00:16:18,648
-[Music continues]
-
-413
-00:16:32,428 --> 00:16:34,629
-[whispering]
-Britta.
-
-414
-00:16:34,697 --> 00:16:37,632
-[Piano repeating]
+Britta.	|LeClair Britta	|26
 
 415
 00:16:40,934 --> 00:16:42,300
-[whispering]
-Water it!
+Water it!	|Troy	|26
 
 416
 00:16:42,368 --> 00:16:44,001
-What's going on?
+What's going on?	|Annie Abed	|27
 
 417
 00:16:44,069 --> 00:16:45,802
-So embarrassing.
-
-418
-00:16:45,870 --> 00:16:49,735
-[Piano repeating, audience murmuring]
-
-419
-00:16:52,604 --> 00:16:53,536
-Oh!
+So embarrassing.	|Pierce Group	|27
 
 420
 00:16:53,604 --> 00:16:56,137
-Ooh! Plot twist.
+Ooh! Plot twist.	|Pierce Group	|27
 
 421
 00:16:56,205 --> 00:16:58,305
@@ -1849,27 +1730,23 @@ Easy, girl.
 
 422
 00:16:58,373 --> 00:17:00,840
-There we go.
+There we go.	|Troy Britta	|27
 
 423
 00:17:05,478 --> 00:17:07,045
-Play something modern.
+Play something modern.	|LeClair Pianist	|27
 
 424
 00:17:07,113 --> 00:17:09,147
-What are you doing here?
+What are you doing here?	|Britta Troy	|27
 
 425
 00:17:09,215 --> 00:17:11,549
-Being a friend and a man.
+Being a friend and a man.	|Troy Britta	|27
 
 426
 00:17:11,617 --> 00:17:13,751
-Oh!
-
-427
-00:17:13,818 --> 00:17:16,720
-[Jazzy music plays]
+Oh!	|Britta	|27
 
 428
 00:17:37,270 --> 00:17:39,204
@@ -1877,28 +1754,11 @@ Culturally, it's unacceptable,
 
 429
 00:17:39,271 --> 00:17:41,172
-but it's theatrical dynamite!
-
-430
-00:17:41,240 --> 00:17:44,174
-[Jazzy music continues]
-
-431
-00:17:44,242 --> 00:17:45,742
-[End chords]
-
-432
-00:17:45,810 --> 00:17:48,811
-[Cheers and applause]
+but it's theatrical dynamite!	|Pierce Group	|27
 
 433
 00:17:52,082 --> 00:17:53,583
-- Whoo!
-- Bravo!
-
-434
-00:17:53,651 --> 00:17:55,951
-[Cheering]
+- Bravo!	|Shirley Britta Troy	|27
 
 435
 00:17:56,019 --> 00:17:57,619
@@ -1910,7 +1770,7 @@ Bring it! Woof, woof, woof, woof!
 
 437
 00:18:00,222 --> 00:18:01,255
-Greendale!
+Greendale!	|Troy All	|27
 
 438
 00:18:05,326 --> 00:18:06,693
@@ -1918,7 +1778,7 @@ Hi, guys. That was really cool.
 
 439
 00:18:06,760 --> 00:18:08,260
-I wish I knew how to tap-dance.
+I wish I knew how to tap-dance.	|Abed Troy Britta	|28
 
 440
 00:18:08,328 --> 00:18:09,495
@@ -1930,11 +1790,11 @@ It takes a lot of hard work,
 
 442
 00:18:10,897 --> 00:18:12,430
-but you could always take a class.
+but you could always take a class.	|Britta Abed	|28
 
 443
 00:18:12,498 --> 00:18:14,565
-Mm, pass.
+Mm, pass.	|Abed Britta	|28
 
 444
 00:18:14,633 --> 00:18:16,901
@@ -1942,11 +1802,10 @@ Hey, Troy.
 
 445
 00:18:16,968 --> 00:18:18,269
-Thank you.
+Thank you.	|Britta Troy	|29
 
 446
 00:18:18,336 --> 00:18:19,736
-[Laughs]
 No, thank you.
 
 447
@@ -1956,12 +1815,11 @@ I mean, you looked so pathetic,
 448
 00:18:21,372 --> 00:18:23,639
 you made going up there
-the most masculine option.
+the most masculine option.	|Troy Britta	|29
 
 449
 00:18:29,278 --> 00:18:31,313
 Troy!
-[Chuckles]
 
 450
 00:18:31,380 --> 00:18:33,281
@@ -1969,21 +1827,21 @@ What you did up there really took guts.
 
 451
 00:18:33,349 --> 00:18:34,582
-I'm impressed.
+I'm impressed.	|Pierce Troy	|30
 
 452
 00:18:34,650 --> 00:18:36,050
-- Thanks, Pierce.
+- Thanks, Pierce.	|Troy Pierce	|30
 - Yeah.
 
 453
 00:18:36,117 --> 00:18:39,286
 And such a creative way to
-tell the world you're gay.
+tell the world you're gay.	|Pierce Troy	|30
 
 454
 00:18:40,554 --> 00:18:42,055
-- Good job up there.
+- Good job up there.	|Jeff Britta	|31
 - Thank you.
 
 455
@@ -1992,7 +1850,7 @@ Where's your date?
 
 456
 00:18:43,357 --> 00:18:45,057
-Didn't she want to get my autograph?
+Didn't she want to get my autograph?	|Britta Jeff	|31
 
 457
 00:18:45,125 --> 00:18:46,892
@@ -2001,11 +1859,11 @@ permission slip from the Dean
 
 458
 00:18:46,960 --> 00:18:48,293
-to allow us to drive home together.
+to allow us to drive home together.	|Jeff Britta	|31
 
 459
 00:18:48,361 --> 00:18:49,794
-I heard you guys are official now.
+I heard you guys are official now.	|Britta Jeff	|31
 
 460
 00:18:49,862 --> 00:18:51,629
@@ -2023,15 +1881,15 @@ having a girl for a friend,
 463
 00:18:56,601 --> 00:18:59,202
 who's to say I'm not
-ready for a girlfriend?
+ready for a girlfriend?	|Jeff Britta	|31
 
 464
 00:18:59,270 --> 00:19:01,504
-Makes perfect sense. Break a leg.
+Makes perfect sense. Break a leg.	|Britta Jeff	|31
 
 465
 00:19:05,575 --> 00:19:07,042
-- Flowers.
+- Flowers.	|Britta Jeff	|31
 - Yeah.
 
 466
@@ -2045,7 +1903,7 @@ I was gonna throw them up on stage,
 
 468
 00:19:10,279 --> 00:19:11,646
-but I thought they might catch fire.
+but I thought they might catch fire.	|Jeff Britta	|31
 
 469
 00:19:11,714 --> 00:19:13,348
@@ -2053,78 +1911,35 @@ No, this is... this is good.
 
 470
 00:19:13,416 --> 00:19:16,484
-You can hand them to me. Thank you.
+You can hand them to me. Thank you.	|Britta Jeff	|31
 
 471
 00:19:16,552 --> 00:19:18,119
-See you Monday.
+See you Monday.	|Jeff Britta	|31
 
-472
-00:19:18,187 --> 00:19:21,122
-[Kate nash's merry happy plays]
-
-473
-00:19:28,563 --> 00:19:30,963
-* Dancin' at discos,
-eatin' cheese on toast *
-
-474
-00:19:31,031 --> 00:19:33,333
-* Yeah, you make me merry,
-make me very, very happy *
-
-475
-00:19:33,400 --> 00:19:35,033
-* But you obviously *
-
-476
-00:19:35,101 --> 00:19:37,502
-* You didn't want to stick around *
-
-477
-00:19:37,570 --> 00:19:39,070
-* So I learnt from you *
-
-478
-00:19:39,137 --> 00:19:41,571
-* Do do do *
-
-479
-00:19:41,638 --> 00:19:44,238
-* Dah-do do-do-do-do *
-
-480
-00:19:44,306 --> 00:19:46,772
-* Dah-do do-do-do-do *
-
-481
-00:19:46,840 --> 00:19:47,807
-* Dah-do do *
-
-482
 00:19:47,874 --> 00:19:49,775
-Good night, everybody.
+Good night, everybody.	|Abed	|32
 
 483
 00:19:51,053 --> 00:19:52,285
-Five letters... Broadway musical.
+Five letters... Broadway musical.	|Troy Abed	|33
 
 484
 00:19:52,353 --> 00:19:54,220
-- Annie.
-- Uh, six letters... to puncture.
+- Annie.	|Abed Troy	|33
+- Uh, six letters... to puncture.	|Troy Abed	|33
 
 485
 00:19:55,088 --> 00:19:56,521
-Pierce.
+Pierce.	|Abed Troy	|33
 
 486
 00:19:56,589 --> 00:19:58,456
-A water filter that starts with "B".
+A water filter that starts with "B".	|Troy Abed	|33
 
 487
 00:19:58,524 --> 00:19:59,457
-- Brita.
+- Brita.	|Abed Troy	|33
 - Okay.
 
 488
@@ -2133,34 +1948,34 @@ Here's a tough one, though.
 
 489
 00:20:01,126 --> 00:20:03,094
-- Uh, Helen of...
-- Troy.
+- Uh, Helen of...	|Troy Abed	|33
+- Troy.	|Abed Troy	|33
 
 490
 00:20:03,161 --> 00:20:04,962
-- Oh, damn, you're good.
-- Thank you.
+- Oh, damn, you're good.	|Troy Abed	|33
+- Thank you.	|Abed Troy	|33
 
 491
 00:20:05,030 --> 00:20:06,463
-I never even heard of that last one.
+I never even heard of that last one.	|Troy Abed	|33
 
 492
 00:20:06,531 --> 00:20:10,700
 One of the two brother actors.
-Bridges. Four letters.
+Bridges. Four letters.	|Troy Abed	|33
 
 493
 00:20:10,934 --> 00:20:11,901
-Hmm.
+Hmm.	|Abed	|33
 
 494
 00:20:11,968 --> 00:20:13,469
-I know. Bridges.
+I know. Bridges.	|Troy Abed	|33
 
 495
 00:20:13,537 --> 00:20:14,703
-- I don't know.
+- I don't know.	|Abed Troy	|33
 - Come on, guys.
 
 496
@@ -2178,23 +1993,14 @@ you can see on TV...
 
 499
 00:20:22,279 --> 00:20:23,746
-Except for Pierce... That's a misdirect.
+Except for Pierce... That's a misdirect.	|Jeff Abed Troy	|33
 
 500
 00:20:23,814 --> 00:20:25,448
-- Oh.
-- Hmm.
+- Oh.	|Troy	|33
+- Hmm.	|Abed	|33
 
 501
 00:20:25,515 --> 00:20:28,113
-- I love misdirects.
-- I love The Big Lebowski.
-
-502
-00:20:28,114 --> 00:20:30,114
-Sync by honeybunny - Corrected by 4be1
-www.addic7ed.com
-
-9999
-00:00:0,500 --> 00:00:2,00
-<font color="#ffff00" size=14>www.tvsubtitles.net</font>
+- I love misdirects.	|Troy Abed	|33
+- I love The Big Lebowski.	|Abed Troy	|33

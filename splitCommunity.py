@@ -74,8 +74,6 @@ class CharacterGraphMaker:
 		#self.convoInEpisode = {}
 
 	def getConversationSpeakers(self, line):
-		# debug line
-		#print line
 
 		spoken, characters, convoMarker = line.split("\t|")
 		speaker, listeners = self.getSpeakerListeners(characters.lower().split(" "))	
@@ -132,8 +130,6 @@ characterGraph = CharacterGraphMaker()
 for episode in sorted(glob.glob("*.srt")):
 	episodeSplitter = SubtitleSplitter(episode)
 	characterGraph.addEpisode(episode, episodeSplitter.returnLines())
-#episodeSplitter = SubtitleSplitter("Community - 1x13 - Investigative Journalism.HDTV.LOL.en.srt")
-#characterGraph.addEpisode("ep 3", episodeSplitter.returnLines())
 graph, convoGraph = characterGraph.getGraph()
 for character in graph:
 	graph[character].printChar()
