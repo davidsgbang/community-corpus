@@ -154,13 +154,15 @@ def printConvo(convoList):
 			print "Speaker: " + line["Speaker"] + " | Listeners: " + line["Listeners"]
 			print "\t" + line["Line"]
 		print "\n"
-
+'''
 printConvo(getConvoSpeakerListener("pierce", "shirley"))
+'''
 
-
-
+men = ["jeff", "pierce", "troy", "abed", "dean", "chang", "duncan"]
+women = ["annie", "shirley", "britta", "slater"]
 importantChar = ["all", "jeff", "annie", "shirley", "pierce", "troy", "abed", "britta", "slater", "chang", "duncan", "dean", "group"]
 # speaker
+m2mW = []
 for character in graph:
 	if character not in importantChar:
 		continue
@@ -171,16 +173,26 @@ for character in graph:
 		for line in interaction:
 			totalWord += len(line.split())
 		total += len(interaction)
-	print character + ": " + str(total) + " lines | " + str(totalWord) + " words"
-
+	#print character + ": " + str(total) + " lines | " + str(totalWord) + " words"
 	for listener in graph[character].interactions.keys():
 		if listener not in importantChar:
 			continue
-
 		lineNum = 0
 		wordNum = 0
 		for line in graph[character].interactions[listener]:
 			lineNum += 1
 			wordNum += len(line.split())
-		print "\tto " + listener + ", " + character + " spoke " + str(wordNum / lineNum) + " words per each line" 
-		print "\t\t Data:\n\t\t\tTotal Words = " + str(wordNum) + "\n\t\t\tTotal Lines = " + str(lineNum)
+			if character in men and listener in men:
+				if len(line.split()) <= 3:
+					continue
+				m2mW.append(len(line.split()))
+		#print "\tto " + listener + ", " + character + " spoke " + str(wordNum / lineNum) + " words per each line" 
+		#print "\t\t Data:\n\t\t\tTotal Words = " + str(wordNum) + "\n\t\t\tTotal Lines = " + str(lineNum)
+
+
+meanW = reduce(lambda x, y: x + y, m2mW) / float(len(m2mW))
+print meanW
+variance = 0
+for i in m2mW:
+	variance += (i - meanW) ** 2
+print (variance/len(m2mW)) ** .5
