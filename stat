@@ -506,7 +506,7 @@ Speaker: annie | Listeners: group
 	Vaughan told me he would take things as slowly as I wanted. He likes me for who I am, and I like him.
 
 
-all: 6 lines
+all: 6 lines | 17 words
 	to chang, all spoke 3 words per each line
 		 Data:
 			Total Words = 3
@@ -519,7 +519,7 @@ all: 6 lines
 		 Data:
 			Total Words = 1
 			Total Lines = 1
-dean: 157 lines
+dean: 157 lines | 2843 words
 	to all, dean spoke 31 words per each line
 		 Data:
 			Total Words = 780
@@ -572,7 +572,7 @@ dean: 157 lines
 		 Data:
 			Total Words = 27
 			Total Lines = 2
-jeff: 941 lines
+jeff: 941 lines | 11046 words
 	to all, jeff spoke 28 words per each line
 		 Data:
 			Total Words = 255
@@ -621,7 +621,7 @@ jeff: 941 lines
 		 Data:
 			Total Words = 674
 			Total Lines = 62
-troy: 367 lines
+troy: 367 lines | 3335 words
 	to all, troy spoke 13 words per each line
 		 Data:
 			Total Words = 65
@@ -662,7 +662,7 @@ troy: 367 lines
 		 Data:
 			Total Words = 18
 			Total Lines = 4
-britta: 463 lines
+britta: 463 lines | 4951 words
 	to all, britta spoke 4 words per each line
 		 Data:
 			Total Words = 20
@@ -711,7 +711,7 @@ britta: 463 lines
 		 Data:
 			Total Words = 37
 			Total Lines = 4
-group: 15 lines
+group: 15 lines | 16 words
 	to slater, group spoke 1 words per each line
 		 Data:
 			Total Words = 1
@@ -728,7 +728,7 @@ group: 15 lines
 		 Data:
 			Total Words = 2
 			Total Lines = 2
-duncan: 81 lines
+duncan: 81 lines | 1146 words
 	to all, duncan spoke 31 words per each line
 		 Data:
 			Total Words = 311
@@ -757,7 +757,7 @@ duncan: 81 lines
 		 Data:
 			Total Words = 95
 			Total Lines = 10
-slater: 49 lines
+slater: 49 lines | 512 words
 	to all, slater spoke 15 words per each line
 		 Data:
 			Total Words = 31
@@ -782,7 +782,7 @@ slater: 49 lines
 		 Data:
 			Total Words = 13
 			Total Lines = 5
-shirley: 321 lines
+shirley: 321 lines | 3316 words
 	to pierce, shirley spoke 5 words per each line
 		 Data:
 			Total Words = 149
@@ -827,7 +827,7 @@ shirley: 321 lines
 		 Data:
 			Total Words = 30
 			Total Lines = 5
-pierce: 397 lines
+pierce: 397 lines | 4995 words
 	to all, pierce spoke 12 words per each line
 		 Data:
 			Total Words = 328
@@ -868,7 +868,7 @@ pierce: 397 lines
 		 Data:
 			Total Words = 24
 			Total Lines = 4
-abed: 392 lines
+abed: 392 lines | 3526 words
 	to all, abed spoke 6 words per each line
 		 Data:
 			Total Words = 25
@@ -917,7 +917,7 @@ abed: 392 lines
 		 Data:
 			Total Words = 13
 			Total Lines = 5
-annie: 334 lines
+annie: 334 lines | 3893 words
 	to all, annie spoke 21 words per each line
 		 Data:
 			Total Words = 214
@@ -962,7 +962,7 @@ annie: 334 lines
 		 Data:
 			Total Words = 35
 			Total Lines = 6
-chang: 144 lines
+chang: 144 lines | 1748 words
 	to all, chang spoke 23 words per each line
 		 Data:
 			Total Words = 797

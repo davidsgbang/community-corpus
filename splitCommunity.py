@@ -165,10 +165,13 @@ for character in graph:
 	if character not in importantChar:
 		continue
 	total = 0
+	totalWord = 0
 	# listener
 	for interaction in graph[character].interactions.values():
+		for line in interaction:
+			totalWord += len(line.split())
 		total += len(interaction)
-	print character + ": " + str(total) + " lines"
+	print character + ": " + str(total) + " lines | " + str(totalWord) + " words"
 
 	for listener in graph[character].interactions.keys():
 		if listener not in importantChar:
